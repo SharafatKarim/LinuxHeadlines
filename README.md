@@ -1,7 +1,7 @@
 # About
 
 A repository containing webpage which aims to deliver you the latest open source and Linux related news, articles, tips and other interesting threads, by automated services (RSS feed).
-<a href="https://SharafatKarim.github.io/LinuxHeadlines" class="button pill">Linux Headlines</a>
+<a href="https://SharafatKarim.github.io/LinuxHeadlines" class="button pill"><img src="LinuxHeadlinesButton.png"></a>
 
 ## Links and references
 
