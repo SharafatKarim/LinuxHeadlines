@@ -1,6 +1,7 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+A repository containing webpage which aims to deliver you the latest open source and Linux related news, articles, tips and other interesting threads, by automated services (RSS feed).
+<a href="https://SharafatKarim.github.io/LinuxHeadlines" class="button pill">Linux Headlines</a>
 
 ## Links and references
 
