@@ -1,5 +1,9 @@
 # About
 
+
+<a href="https://SharafatKarim.github.io/LinuxHeadlines" class="button pill"><img src="linux-headlines-temp-output.png"></a>
+
+
 A repository containing webpage which aims to deliver you the latest open source and Linux related news, articles, tips and other interesting threads, by automated services (RSS feed).
 
 
