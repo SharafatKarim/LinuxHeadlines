@@ -82,6 +82,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://linuxhint.com/?p=239197",
+          "author": "John Otieno",
+          "description": "A guide on how to configure or change a custom data recovery for the MongoDB server using the --dbpath parameter and the configuration file.",
+          "link": "https://linuxhint.com/mongodb-change-data-directory/",
+          "publishedOn": "2022-10-19T11:05:25.000Z",
+          "wordCount": 3697,
+          "title": "MongoDB Change Data Directory",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=19303",
           "author": "Dave Sumaylo",
           "description": "WordPress supports multiple platforms and easy ways to create a website with various plugins and themes. This article explains Ubuntu wordpress installation.",
@@ -92,6 +102,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://linuxhint.com/?p=239156",
+          "author": "John Otieno",
+          "description": "Elasticsearch utilizes restful API extensively. Therefore, it's no surprise that it provides an API endpoint for fetching cluster state information.",
+          "link": "https://linuxhint.com/elasticsearch-show-cluster-state/",
+          "publishedOn": "2022-10-19T10:49:38.000Z",
+          "wordCount": 3744,
+          "title": "Elasticsearch Show Cluster State",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=35433",
           "author": "Dave Sumaylo",
           "description": "A guide on the best 14 Git GUI clients for Ubuntu in 2022 that can be installed in Ubuntu, managed, and used through the command line as a version control tool.",
@@ -99,6 +119,136 @@
           "publishedOn": "2022-10-19T10:10:06.000Z",
           "wordCount": 4943,
           "title": "Best 14 Git GUI Clients for Ubuntu in 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239145",
+          "author": "John Otieno",
+          "description": "The time data type is a 64-bit encoded signed integer used to represent the number of nanoseconds since midnight. Cassandra Datetime Operators is discussed.",
+          "link": "https://linuxhint.com/cassandra-datetime-operators/",
+          "publishedOn": "2022-10-19T09:59:38.000Z",
+          "wordCount": 3856,
+          "title": "Cassandra Datetime Operators",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239137",
+          "author": "John Otieno",
+          "description": "Cassandra allows us to define custom types to hold related information in a table. This article contains defining a user type using the CREATE TYPE command.",
+          "link": "https://linuxhint.com/cassandra-create-type/",
+          "publishedOn": "2022-10-19T09:39:12.000Z",
+          "wordCount": 3698,
+          "title": "Cassandra Create Type",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239131",
+          "author": "John Otieno",
+          "description": "Creating an index in Cassandra databases helps in providing a feature for fast and efficient data lookups using data attributes other than the partition key.",
+          "link": "https://linuxhint.com/cassandra-create-index/",
+          "publishedOn": "2022-10-19T09:06:00.000Z",
+          "wordCount": 3630,
+          "title": "Cassandra Create Index",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239124",
+          "author": "John Otieno",
+          "description": "It is beneficial to include comments in your code for later use. This article explains adding commands in your CQL scripts and CQL Shell.",
+          "link": "https://linuxhint.com/cassandra-code-comments/",
+          "publishedOn": "2022-10-19T08:49:38.000Z",
+          "wordCount": 3627,
+          "title": "Cassandra Code Comments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239104",
+          "author": "John Otieno",
+          "description": "Cleaning up old database files is crucial to write new files without overwriting. This article explains how to clear snapshots from Apache Cassandra cluster.",
+          "link": "https://linuxhint.com/cassandra-clear-snapshots/",
+          "publishedOn": "2022-10-19T08:40:01.000Z",
+          "wordCount": 3724,
+          "title": "Cassandra Clear Snapshots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238848",
+          "author": "John Otieno",
+          "description": "Practical tutorial on how you can download the MongoDB logs from MongoDB atlas to get the server logs into your local machine where you can pass them to tools.",
+          "link": "https://linuxhint.com/atlas-download-logs/",
+          "publishedOn": "2022-10-18T16:54:26.000Z",
+          "wordCount": 3769,
+          "title": "Atlas Download Logs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238905",
+          "author": "John Otieno",
+          "description": "Practical guide on how to use the verify snapshot API in Elasticsearch to verify if a given snapshot is functional by requesting the path and query parameters.",
+          "link": "https://linuxhint.com/elasticsearch-verify-snapshot-repository/",
+          "publishedOn": "2022-10-18T02:23:19.000Z",
+          "wordCount": 3720,
+          "title": "Elasticsearch Verify the Snapshot Repository",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238901",
+          "author": "John Otieno",
+          "description": "Practical tutorial on how to fetch the detailed description of each shard participating in a given snapshot using the Get snapshot status API endpoint.",
+          "link": "https://linuxhint.com/elasticsearch-get-snapshot-status/",
+          "publishedOn": "2022-10-18T02:17:06.000Z",
+          "wordCount": 3929,
+          "title": "Elasticsearch Get Snapshot Status",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238894",
+          "author": "John Otieno",
+          "description": "Elasticsearch snapshot repository API is used to backup specific indices, data streams, global states, features, or the entire cluster by using snapshots.",
+          "link": "https://linuxhint.com/elasticsearch-cleanup-snapshot-repository/",
+          "publishedOn": "2022-10-18T02:09:32.000Z",
+          "wordCount": 3778,
+          "title": "Elasticsearch Cleanup Snapshot Repository",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238891",
+          "author": "John Otieno",
+          "description": "In Elasticsearch, authentication is a powerful feature that allows the Elastic Stack to verify that a user making a specific request is who they claim to be.",
+          "link": "https://linuxhint.com/elasticsearch-authenticate/",
+          "publishedOn": "2022-10-18T02:02:20.000Z",
+          "wordCount": 3590,
+          "title": "Elasticsearch Authenticate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238882",
+          "author": "John Otieno",
+          "description": "Cassandra's CQLSH consistency level governs the number of replica nodes needed to reply for the proxy node to process a non-lightweight transaction.",
+          "link": "https://linuxhint.com/cqlsh-consistency/",
+          "publishedOn": "2022-10-18T01:59:19.000Z",
+          "wordCount": 3576,
+          "title": "CQLSH Consistency",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238879",
+          "author": "John Otieno",
+          "description": "Elasticsearch exposes almost every part of its functionality via REST APIs. Common Elasticsearch REST API options are discussed in this article.",
+          "link": "https://linuxhint.com/common-elasticsearch-rest-api-options/",
+          "publishedOn": "2022-10-18T01:52:02.000Z",
+          "wordCount": 3525,
+          "title": "Common Elasticsearch REST API options",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=238876",
+          "author": "John Otieno",
+          "description": "This article explains system_schema table holds useful information stored in the cluster, such as UDF, views, data types, keyspaces, etc.",
+          "link": "https://linuxhint.com/cassandra-user-defined-functions-aggregates-user-types/",
+          "publishedOn": "2022-10-18T01:48:37.000Z",
+          "wordCount": 3574,
+          "title": "Cassandra Show User-Defined Functions, Aggregates and User Types",
           "imageUrl": null
         },
         {
@@ -1459,6 +1609,106 @@
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179699",
+          "author": "Web Webster",
+          "description": "In this article, we discuss five awesome GUI apps for visual disk space usage in Ubuntu and other Linux systems. Learn more here.\nThe post 5 Great GUI Apps for Visual Disk Usage in Linux, Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/5-great-gui-apps-for-visual-disk-usage-in-linux-ubuntu/",
+          "publishedOn": "2022-10-22T02:00:48.000Z",
+          "wordCount": 16534,
+          "title": "5 Great GUI Apps for Visual Disk Usage in Linux, Ubuntu",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179794",
+          "author": "Web Webster",
+          "description": "DNF stands for Dandified YUM, a completely updated version of YUM Package Manager. Learn more in this DNF guide for beginners.\nThe post DNF Guide for Beginners with 20 Examples appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/dnf-guide-for-beginners-with-20-examples-2/",
+          "publishedOn": "2022-10-22T00:00:35.000Z",
+          "wordCount": 16511,
+          "title": "DNF Guide for Beginners with 20 Examples",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179843",
+          "author": "Web Webster",
+          "description": "ONLYOFFICE Docs is not an ordinary office suite in the traditional sense. Learn how to create your own plugin for ONLYOFFICE Docs here.\nThe post How to Create Your Own Plugin for ONLYOFFICE Docs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-create-your-own-plugin-for-onlyoffice-docs/",
+          "publishedOn": "2022-10-21T23:00:42.000Z",
+          "wordCount": 16538,
+          "title": "How to Create Your Own Plugin for ONLYOFFICE Docs",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179783",
+          "author": "Web Webster",
+          "description": "This brief tutorial describes Zeit, a graphical front-end to Crontab. Zeit can be used to schedule jobs in Linux. Learn more here.\nThe post Zeit – A GUI Front-End to Crontab to Schedule Jobs in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/zeit-a-gui-front-end-to-crontab-to-schedule-jobs-in-linux/",
+          "publishedOn": "2022-10-21T22:00:33.000Z",
+          "wordCount": 16541,
+          "title": "Zeit – A GUI Front-End to Crontab to Schedule Jobs in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179826",
+          "author": "Web Webster",
+          "description": "In this tutorial, we are going to install the LOMP stack on Ubuntu 22.04 OS. The LOMP stack stands for Linux, Openlitespeed, MySQL, and PHP.\nThe post How to Install LOMP Stack on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-lomp-stack-on-ubuntu-22-04/",
+          "publishedOn": "2022-10-21T21:00:29.000Z",
+          "wordCount": 16538,
+          "title": "How to Install LOMP Stack on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179781",
+          "author": "Web Webster",
+          "description": "Graphite is an open-source tool used to track and graph the performance of computer systems. Learn how to install and configure Graphite on Ubuntu 22.04 here.\nThe post How to Install and Configure Graphite Monitoring System on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-and-configure-graphite-monitoring-system-on-ubuntu-22-04/",
+          "publishedOn": "2022-10-21T20:00:55.000Z",
+          "wordCount": 16545,
+          "title": "How to Install and Configure Graphite Monitoring System on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179818",
+          "author": "Web Webster",
+          "description": "This review puts Spotube under the spotlight. It’s billed as a “fast, modern, lightweight & efficient Spotify music client”. Learn more here.\nThe post Spotube – Flutter-Based Lightweight Spotify Client appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/spotube-flutter-based-lightweight-spotify-client/",
+          "publishedOn": "2022-10-21T19:00:14.000Z",
+          "wordCount": 16522,
+          "title": "Spotube – Flutter-Based Lightweight Spotify Client",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179929",
+          "author": "Web Webster",
+          "description": "MySQL is a popular open-source database management software solution. In this tutorial, learn how to install MySQL on AlmaLinux.\nThe post How to Install MySQL on AlmaLinux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-mysql-on-almalinux/",
+          "publishedOn": "2022-10-21T18:00:06.000Z",
+          "wordCount": 16541,
+          "title": "How to Install MySQL on AlmaLinux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179923",
+          "author": "Web Webster",
+          "description": "System76 has moved Thelio to the latest Intel and AMD chips in the midst of its Halloween sale. Learn more here.\nThe post System76 Moves Thelio to Latest Intel and AMD Chips appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/system76-moves-thelio-to-latest-intel-and-amd-chips/",
+          "publishedOn": "2022-10-21T17:00:09.000Z",
+          "wordCount": 16529,
+          "title": "System76 Moves Thelio to Latest Intel and AMD Chips",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179927",
+          "author": "Web Webster",
+          "description": "Not all features that were initially in development for Ubuntu 22.10 made it into the final release, such as Azure AD support. Learn more here.\nThe post Ubuntu 22.10 Fails to Include Azure AD Support: Rescheduled to 23.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/ubuntu-22-10-fails-to-include-azure-ad-support-rescheduled-to-23-04/",
+          "publishedOn": "2022-10-21T16:17:59.000Z",
+          "wordCount": 16542,
+          "title": "Ubuntu 22.10 Fails to Include Azure AD Support: Rescheduled to 23.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=179841",
           "author": "Web Webster",
           "description": "In this tutorial, we will learn how to debug a bash shell script line-by-line in Linux. This will be accomplished with bash command line options.\nThe post How to Debug a Bash Shell Script in Linux appeared first on Linux Today.",
@@ -2466,6 +2716,136 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiSGh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyMi8xMC8yMi9yZWQtaGF0LWVudGVycHJpc2UtbGludXgtYXdzL9IBAA",
+          "author": null,
+          "description": "Red Hat releases Red Hat Enterprise Linux for Workstations on AWS  Help Net Security",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyMi8xMC8yMi9yZWQtaGF0LWVudGVycHJpc2UtbGludXgtYXdzL9IBAA?oc=5",
+          "publishedOn": "2022-10-22T02:25:53.000Z",
+          "wordCount": 2098,
+          "title": "Red Hat releases Red Hat Enterprise Linux for Workstations on AWS - Help Net Security",
+          "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2021/10/20092552/security_platforma_1200.jpg"
+        },
+        {
+          "id": "CAIiEJOMUkALpoALQ9U_iZp8RPgqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "The 10 Best Color Picker and Color Management Apps for Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVzdC1jb2xvci1waWNrZXJzLWFuZC1jb2xvci1tYW5hZ2VtZW50LWFwcHMtbGludXgv0gEA?oc=5",
+          "publishedOn": "2022-10-21T20:00:00.000Z",
+          "wordCount": 2843,
+          "title": "The 10 Best Color Picker and Color Management Apps for Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Colors-Person-Red-Hat.jpg"
+        },
+        {
+          "id": "CBMiQWh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9oZWFsdGgtd2VsbG5lc3MvYXJ0aWNsZTI2NzYxOTA0Ny5odG1s0gFBaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL2hlYWx0aC13ZWxsbmVzcy9hcnRpY2xlMjY3NjE5MDQ3Lmh0bWw",
+          "author": null,
+          "description": "DreamHost Review: Best Linux Hosting On the Market?  Miami Herald",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9oZWFsdGgtd2VsbG5lc3MvYXJ0aWNsZTI2NzYxOTA0Ny5odG1s0gFBaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL2hlYWx0aC13ZWxsbmVzcy9hcnRpY2xlMjY3NjE5MDQ3Lmh0bWw?oc=5",
+          "publishedOn": "2022-10-21T20:00:00.000Z",
+          "wordCount": 6571,
+          "title": "DreamHost Review: Best Linux Hosting On the Market? - Miami Herald",
+          "imageUrl": "https://www.mcclatchy-partners.com/paradise-media/health-wellness/njvoft/picture267620582/alternates/LANDSCAPE_1140/DreamHost%20Review%20-%20MiamiHerald.jpg"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vdGVjaGdhZ2UuY29tL25ld3MvaW50ZWwtcmVsZWFzZXMtZmlyc3QtYXJjLWdwdS1kcml2ZXItZm9yLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "Intel Releases First Arc GPU Driver For Linux, Tinkering Prowess...  Techgage",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vdGVjaGdhZ2UuY29tL25ld3MvaW50ZWwtcmVsZWFzZXMtZmlyc3QtYXJjLWdwdS1kcml2ZXItZm9yLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2022-10-21T19:25:40.000Z",
+          "wordCount": 3624,
+          "title": "Intel Releases First Arc GPU Driver For Linux, Tinkering Prowess... - Techgage",
+          "imageUrl": "https://techgage.com/wp-content/uploads/2022/10/Intel-Arc-GPU-Driver-Operational-Under-Ubuntu-1200x630-cropped.jpg"
+        },
+        {
+          "id": "CAIiEAKokBK3qoPaWvdH73FetKkqMwgEKioIACIQ26jY7dFzBTXW8DTb0RJBZyoUCAoiENuo2O3RcwU11vA029ESQWcwwJb2Bw",
+          "author": null,
+          "description": "How I use Linux on my Chromebook  About Chromebooks",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL25ld3MvaG93LWktdXNlLWxpbnV4LW9uLW15LWNocm9tZWJvb2sv0gEA?oc=5",
+          "publishedOn": "2022-10-21T18:15:53.000Z",
+          "wordCount": 2863,
+          "title": "How I use Linux on my Chromebook - About Chromebooks",
+          "imageUrl": "https://www.aboutchromebooks.com/wp-content/uploads/2022/08/Acer-Chromebook-Spin-513-running-Linux-apps-e1613743396149-1.jpg"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtbWFuYWdlLW11bHRpcGxlLXZlcnNpb25zLW9mLW5vZGUtanMtd2l0aC10aGUtbnZtLW1hbmFnZXIv0gEA",
+          "author": null,
+          "description": "Linux: Manage Multiple Versions of Node.js with the NVM Manager  thenewstack.io",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbGludXgtbWFuYWdlLW11bHRpcGxlLXZlcnNpb25zLW9mLW5vZGUtanMtd2l0aC10aGUtbnZtLW1hbmFnZXIv0gEA?oc=5",
+          "publishedOn": "2022-10-21T18:01:36.000Z",
+          "wordCount": null,
+          "title": "Linux: Manage Multiple Versions of Node.js with the NVM Manager - thenewstack.io",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9zdGVhbS1mb3ItbGludXgtc25hcC1wYWNrYWdlLWdldHMtYmxlZWRpbmctZWRnZS1tZXNhLWxpYnJhcmllcy1iYWtlZC1pbi_SAXZodHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMTAvc3RlYW0tZm9yLWxpbnV4LXNuYXAtcGFja2FnZS1nZXRzLWJsZWVkaW5nLWVkZ2UtbWVzYS1saWJyYXJpZXMtYmFrZWQtaW4vP2FtcD0x",
+          "author": null,
+          "description": "The easier way to install Steam on Linux gets bleeding-edge graphics support  Ars Technica",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9zdGVhbS1mb3ItbGludXgtc25hcC1wYWNrYWdlLWdldHMtYmxlZWRpbmctZWRnZS1tZXNhLWxpYnJhcmllcy1iYWtlZC1pbi_SAXZodHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMTAvc3RlYW0tZm9yLWxpbnV4LXNuYXAtcGFja2FnZS1nZXRzLWJsZWVkaW5nLWVkZ2UtbWVzYS1saWJyYXJpZXMtYmFrZWQtaW4vP2FtcD0x?oc=5",
+          "publishedOn": "2022-10-21T17:35:46.000Z",
+          "wordCount": 1559,
+          "title": "The easier way to install Steam on Linux gets bleeding-edge graphics support - Ars Technica",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/steam_screenshot_snap-760x380.png"
+        },
+        {
+          "id": "CAIiEK3zaFKZTiHN_D8HtRWz3RUqGQgEKhAIACoHCAowwsi0CzDP48sDMJDs0wc",
+          "author": null,
+          "description": "Learn Linux with these Pluralsight courses  TechRepublic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9saW51eC1wbHVyYWxzaWdodC1jb3Vyc2VzL9IBAA?oc=5",
+          "publishedOn": "2022-10-21T17:23:00.000Z",
+          "wordCount": 6482,
+          "title": "Learn Linux with these Pluralsight courses - TechRepublic",
+          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/09/TR-linux-security-wolfi.jpeg?x85972"
+        },
+        {
+          "id": "CAIiENY-oV29zzycNeUk2u_W2y4qFggEKg4IACoGCAowuvtAMIbACDCmkw8",
+          "author": null,
+          "description": "How to Install Metasploit Framework on Ubuntu Linux  Make Tech Easier",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9pbnN0YWxsLW1ldGFzcGxvaXQtZnJhbWV3b3JrLXVidW50dS1saW51eC_SAQA?oc=5",
+          "publishedOn": "2022-10-21T15:25:00.000Z",
+          "wordCount": 3088,
+          "title": "How to Install Metasploit Framework on Ubuntu Linux - Make Tech Easier",
+          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/10/metasploit-framework-featured.jpg"
+        },
+        {
+          "id": "CAIiEKDKqfcneqpFbyHIRg0c5-cqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "RimWorld - Biotech and the free 1.4 update out now  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvcmltd29ybGQtYmlvdGVjaC1hbmQtdGhlLWZyZWUtMTQtdXBkYXRlLW91dC1ub3cv0gEA?oc=5",
+          "publishedOn": "2022-10-21T15:24:24.000Z",
+          "wordCount": 1934,
+          "title": "RimWorld - Biotech and the free 1.4 update out now - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/578902818id21772gol.jpg"
+        },
+        {
+          "id": "CAIiEO65eSRKQ6KiugwsWaohl18qGQgEKhAIACoHCAow-vmECzDCg4IDMMWChQY",
+          "author": null,
+          "description": "This Week In Security: Linux WiFi, Fortinet, Text4Shell, And Predictable GUIDs  Hackaday",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vaGFja2FkYXkuY29tLzIwMjIvMTAvMjEvdGhpcy13ZWVrLWluLXNlY3VyaXR5LWxpbnV4LXdpZmktZm9ydGluZXQtdGV4dDRzaGVsbC1hbmQtcHJlZGljdGFibGUtZ3VpZHMv0gEA?oc=5",
+          "publishedOn": "2022-10-21T14:00:00.000Z",
+          "wordCount": 3639,
+          "title": "This Week In Security: Linux WiFi, Fortinet, Text4Shell, And Predictable GUIDs - Hackaday",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVRVTi1Ecml2ZXItMTAwMHjSAQA",
+          "author": null,
+          "description": "Linux TUN Network Driver May See A \"1000x Speedup\" With New, One-Line Patch  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVRVTi1Ecml2ZXItMTAwMHjSAQA?oc=5",
+          "publishedOn": "2022-10-21T12:30:00.000Z",
+          "wordCount": 1450,
+          "title": "Linux TUN Network Driver May See A \"1000x Speedup\" With New, One-Line Patch - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUxhdGVzdC1YYm94LVJ1bWJsZS1Ecml2ZXLSAQA",
+          "author": null,
+          "description": "Linux Getting Rumble Support For Latest Microsoft Xbox Controllers  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUxhdGVzdC1YYm94LVJ1bWJsZS1Ecml2ZXLSAQA?oc=5",
+          "publishedOn": "2022-10-21T09:25:00.000Z",
+          "wordCount": 1341,
+          "title": "Linux Getting Rumble Support For Latest Microsoft Xbox Controllers - Phoronix",
+          "imageUrl": null
+        },
+        {
           "id": "CAIiEE1QRiS9tQi6l-O1q9BiFHMqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
           "author": null,
           "description": "Red Hat releases a virtual Red Hat Enterprise Linux desktop on AWS  ZDNet",
@@ -2739,6 +3119,16 @@
           "id": "CAIiEH0xZfF1wJQRJopb-CdMm3QqFggEKg4IACoGCAowuvtAMIbACDCmkw8",
           "author": null,
           "description": "How to Fix an MTD Device Error in Linux  Make Tech Easier",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9maXgtbXRkLWRldmljZS1lcnJvci1saW51eC_SAQA?oc=5",
+          "publishedOn": "2022-10-19T15:25:00.000Z",
+          "wordCount": 1700,
+          "title": "How to Fix an MTD Device Error in Linux - Make Tech Easier",
+          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/10/MTD-Device-Error-Featured-Image-min-min.png"
+        },
+        {
+          "id": "CAIiEH0xZfF1wJQRJopb-CdMm3QqFggEKg4IACoGCAowuvtAMIbACDCmkw8",
+          "author": null,
+          "description": "How to Fix an MTD Device Error in Linux  Make Tech Easier",
           "link": "https://www.maketecheasier.com/fix-mtd-device-error-linux/",
           "publishedOn": "2022-10-19T15:25:00.000Z",
           "wordCount": 1701,
@@ -2839,6 +3229,16 @@
           "id": "CBMilQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW4tY29tcHV0ZS1wcm9qZWN0LWZvdW5kYXRpb24tYW5ub3VuY2VzLWFuLWV4cGFuZGVkLWNvbGxhYm9yYXRpb24td2l0aC10aGUtbGludXgtZm91bmRhdGlvbi0zMDE2NTI1MjkuaHRtbNIBAA",
           "author": null,
           "description": "Open Compute Project Foundation Announces an Expanded Collaboration with the Linux Foundation. USA - English - USA - English  PR Newswire",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW4tY29tcHV0ZS1wcm9qZWN0LWZvdW5kYXRpb24tYW5ub3VuY2VzLWFuLWV4cGFuZGVkLWNvbGxhYm9yYXRpb24td2l0aC10aGUtbGludXgtZm91bmRhdGlvbi0zMDE2NTI1MjkuaHRtbNIBAA?oc=5",
+          "publishedOn": "2022-10-18T17:25:00.000Z",
+          "wordCount": 2066,
+          "title": "Open Compute Project Foundation Announces an Expanded Collaboration with the Linux Foundation. USA - English - USA - English - PR Newswire",
+          "imageUrl": "https://mma.prnewswire.com/media/1924146/LF_Logo.jpg?p=facebook"
+        },
+        {
+          "id": "CBMilQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW4tY29tcHV0ZS1wcm9qZWN0LWZvdW5kYXRpb24tYW5ub3VuY2VzLWFuLWV4cGFuZGVkLWNvbGxhYm9yYXRpb24td2l0aC10aGUtbGludXgtZm91bmRhdGlvbi0zMDE2NTI1MjkuaHRtbNIBAA",
+          "author": null,
+          "description": "Open Compute Project Foundation Announces an Expanded Collaboration with the Linux Foundation. USA - English - USA - English  PR Newswire",
           "link": "https://www.prnewswire.com/news-releases/open-compute-project-foundation-announces-an-expanded-collaboration-with-the-linux-foundation-301652529.html",
           "publishedOn": "2022-10-18T17:25:00.000Z",
           "wordCount": 2054,
@@ -2849,11 +3249,31 @@
           "id": "CAIiEMvBFZ0w_kUJGcypNOYlEvkqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
           "author": null,
           "description": "How to easily install fonts in Linux on a per-user basis  ZDNet",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1lYXNpbHktaW5zdGFsbC1mb250cy1pbi1saW51eC1vbi1hLXBlci11c2VyLWJhc2lzL9IBAA?oc=5",
+          "publishedOn": "2022-10-18T16:14:57.000Z",
+          "wordCount": 10885,
+          "title": "How to easily install fonts in Linux on a per-user basis - ZDNet",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/37405a665191d8b8a2a946b79b820b406f3f6c0d/2020/10/06/4e45ffb8-b7c1-4bfc-a271-a718bc577c93/woman-on-tablet.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CAIiEMvBFZ0w_kUJGcypNOYlEvkqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
+          "author": null,
+          "description": "How to easily install fonts in Linux on a per-user basis  ZDNet",
           "link": "https://www.zdnet.com/article/how-to-easily-install-fonts-in-linux-on-a-per-user-basis/",
           "publishedOn": "2022-10-18T16:14:57.000Z",
           "wordCount": 11002,
           "title": "How to easily install fonts in Linux on a per-user basis - ZDNet",
           "imageUrl": "https://www.zdnet.com/a/img/resize/37405a665191d8b8a2a946b79b820b406f3f6c0d/2020/10/06/4e45ffb8-b7c1-4bfc-a271-a718bc577c93/woman-on-tablet.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CAIiEFzPUwjW2MezUaNTtJkgVAwqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg",
+          "author": null,
+          "description": "How to List Linux Services With systemctl  How-To Geek",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODM5Mjg1L2hvdy10by1saXN0LWxpbnV4LXNlcnZpY2VzLXdpdGgtc3lzdGVtY3RsL9IBAA?oc=5",
+          "publishedOn": "2022-10-18T16:00:28.000Z",
+          "wordCount": 16762,
+          "title": "How to List Linux Services With systemctl - How-To Geek",
+          "imageUrl": "https://www.howtogeek.com/wp-content/uploads/2022/03/shutterstock_321627716.png?height=200p&trim=2,2,2,2"
         },
         {
           "id": "CAIiEFzPUwjW2MezUaNTtJkgVAwqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg",
@@ -3624,6 +4044,16 @@
           "wordCount": 1418,
           "title": "AMD Ryzen 9 7950X \"Zen 4\" Rocks On Intel's Clear Linux - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CAIiEKSSgczEPnq1pN4yXdIPlMoqGQgEKhAIACoHCAowwpeZCzDiobEDMO-H2QY",
+          "author": null,
+          "description": "‘We don’t teach developers how to write secure software’ – Linux Foundation’s David A Wheeler on reversing the CVE surge  The Daily Swig",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3BvcnRzd2lnZ2VyLm5ldC9kYWlseS1zd2lnL3dlLWRvbnQtdGVhY2gtZGV2ZWxvcGVycy1ob3ctdG8td3JpdGUtc2VjdXJlLXNvZnR3YXJlLWxpbnV4LWZvdW5kYXRpb25zLWRhdmlkLWEtd2hlZWxlci1vbi1yZXZlcnNpbmctdGhlLWN2ZS1zdXJnZdIBAA?oc=5",
+          "publishedOn": "2022-10-14T14:15:00.000Z",
+          "wordCount": 2200,
+          "title": "‘We don’t teach developers how to write secure software’ – Linux Foundation’s David A Wheeler on reversing the CVE surge - The Daily Swig",
+          "imageUrl": "https://portswigger.net/cms/images/65/36/dacd-twittercard-coding_school.jpg"
         },
         {
           "id": "CAIiEKSSgczEPnq1pN4yXdIPlMoqGQgEKhAIACoHCAowwpeZCzDiobEDMO-H2QY",
@@ -4906,6 +5336,16 @@
           "imageUrl": null
         },
         {
+          "id": "CAIiENhWZrpQ_kM8-Q9UcvT_tSQqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Start X11 on Linux Without a Display Manager  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXN0YXJ0LXgxMS1vbi1saW51eC13aXRob3V0LWRpc3BsYXktbWFuYWdlci_SAQA?oc=5",
+          "publishedOn": "2022-10-07T07:00:00.000Z",
+          "wordCount": 2334,
+          "title": "How to Start X11 on Linux Without a Display Manager - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/laptop-monitor-tablet.jpg"
+        },
+        {
           "id": "CAIiEED-ZnD3Xe4Zxpr74NwNahwqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
           "author": null,
           "description": "Ubuntu Linux tries for the office desktop  ZDNet",
@@ -4954,6 +5394,16 @@
           "wordCount": 3839,
           "title": "PIA VPN Linux App: Unlimited Power | PIA Blog - Privacy News Online",
           "imageUrl": "https://www.privateinternetaccess.com/blog/wp-content/uploads/2022/10/linux@2x.png"
+        },
+        {
+          "id": "CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA",
+          "author": null,
+          "description": "What is Btrfs in Linux? What are its Advantages Over Ext4?  It's FOSS",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA?oc=5",
+          "publishedOn": "2022-10-07T03:38:02.000Z",
+          "wordCount": 8677,
+          "title": "What is Btrfs in Linux? What are its Advantages Over Ext4? - It's FOSS",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/btrfs-filesystem.png"
         },
         {
           "id": "CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA",
@@ -5293,6 +5743,26 @@
           "publishedOn": "2022-10-05T10:11:00.000Z",
           "wordCount": 1392,
           "title": "SELinux Continues Path Of Deprecating Run-Time Disabling - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEN8gimxdoHvNbq4jikwp-QIqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "TUXEDO Computers Releases Live ISO of Its Ubuntu-Based TUXEDO OS Linux Distro  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tY29tcHV0ZXJzLXJlbGVhc2VzLWxpdmUtaXNvLW9mLWl0cy11YnVudHUtYmFzZWQtdHV4ZWRvLW9zLWxpbnV4LWRpc3Ryb9IBAA?oc=5",
+          "publishedOn": "2022-10-05T07:00:00.000Z",
+          "wordCount": 11388,
+          "title": "TUXEDO Computers Releases Live ISO of Its Ubuntu-Based TUXEDO OS Linux Distro - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/txos.webp"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtYTc1MC1hNzcwLWFyYy1saW51eNIBAA",
+          "author": null,
+          "description": "Intel Arc Graphics A750 + A770 Linux Gaming Performance Review  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtYTc1MC1hNzcwLWFyYy1saW51eNIBAA?oc=5",
+          "publishedOn": "2022-10-05T07:00:00.000Z",
+          "wordCount": 1521,
+          "title": "Intel Arc Graphics A750 + A770 Linux Gaming Performance Review - Phoronix",
           "imageUrl": null
         },
         {
@@ -5676,6 +6146,26 @@
           "imageUrl": "https://www.zdnet.com/a/img/resize/2df1af61dadea48778392a9ee09108f0136da38b/2022/06/13/4af6e544-8d79-4715-9f2e-85bf4db989a1/developers-security.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
+          "id": "CAIiEHokrglXXE_1--q9EV2iBFUqGQgEKhAIACoHCAowwsi0CzDP48sDMMv2ywc",
+          "author": null,
+          "description": "The top Linux courses on LinkedIn Learning  TechRepublic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9saW51eC1jb3Vyc2VzLWxpbmtlZGluLXByZW1pdW0v0gEA?oc=5",
+          "publishedOn": "2022-10-03T07:00:00.000Z",
+          "wordCount": 6592,
+          "title": "The top Linux courses on LinkedIn Learning - TechRepublic",
+          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/07/arch-linuxinstall-flatpaksnap.jpeg?x95853"
+        },
+        {
+          "id": "CAIiEEJiWB3PTTToVeB_S9zZQ7IqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "SteamOS and Steam Deck on top for Linux in the Steam Hardware Survey  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvc3RlYW1vcy1hbmQtc3RlYW0tZGVjay1vbi10b3AtZm9yLWxpbnV4LWluLXRoZS1zdGVhbS1oYXJkd2FyZS1zdXJ2ZXkv0gEA?oc=5",
+          "publishedOn": "2022-10-03T07:00:00.000Z",
+          "wordCount": 1968,
+          "title": "SteamOS and Steam Deck on top for Linux in the Steam Hardware Survey - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
+        },
+        {
           "id": "CAIiEK-Zjfps5E8erHGD6V3EigAqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
           "author": null,
           "description": "Linux 6.0 arrives as Linus Torvalds promises 'core new things' ahead  ZDNet",
@@ -5704,6 +6194,16 @@
           "wordCount": 2227,
           "title": "Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers - The Hacker News",
           "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEg66xkbqDpEu643-FccBO5p6kqvIZVDHW2YrqSRTJ66rLnezWG6ttnZkKrsl7VPdMU1Sh9NUGJscfyM1dCWOlVwrT-h6kJeUlcYmf1lFtGll68MWHtmPJwVKKtAMnveiDeLd4JH17W0OfXxFHanOfX0mdmszoMZn80OwhG7v62cQ7FLQDj5x7g3Be--/s728-e1000/ransomware-linux.jpg"
+        },
+        {
+          "id": "CAIiECbqpRQ5Vh73yy-PfWF-OX4qMwgEKioIACIQ0eiH5PzI_1DxDLCivZ3AaSoUCAoiENHoh-T8yP9Q8Qywor2dwGkwsozGBg",
+          "author": null,
+          "description": "CPU-X an Alternative to CPU-Z for Linux  It's FOSS",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vaXRzZm9zcy5jb20vY3B1LXgtYWx0ZXJuYXRpdmUtY3B1LXotbGludXgv0gEA?oc=5",
+          "publishedOn": "2022-10-03T05:30:46.000Z",
+          "wordCount": 7644,
+          "title": "CPU-X an Alternative to CPU-Z for Linux - It's FOSS",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/cpu-z-linux.png"
         },
         {
           "id": "CAIiECbqpRQ5Vh73yy-PfWF-OX4qMwgEKioIACIQ0eiH5PzI_1DxDLCivZ3AaSoUCAoiENHoh-T8yP9Q8Qywor2dwGkwsozGBg",
@@ -6106,6 +6606,16 @@
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1029339603id21653gol.jpg"
         },
         {
+          "id": "CAIiEMnrTB85pR6Wfyeh9zWyjBgqGQgEKhAIACoHCAowiemgCzCh87gDMPi-9gY",
+          "author": null,
+          "description": "System76 Won't Release Pop!_OS 22.10 Linux Distro: Here's Why!  It's FOSS News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9uby1wb3Atb3MtMjEtMTAv0gEA?oc=5",
+          "publishedOn": "2022-09-27T07:00:00.000Z",
+          "wordCount": 1099,
+          "title": "System76 Won't Release Pop!_OS 22.10 Linux Distro: Here's Why! - It's FOSS News",
+          "imageUrl": "https://news.itsfoss.com/content/images/2022/09/no-pop-os-22-10-release.png"
+        },
+        {
           "id": "CAIiEAdxw-uVMWYFxMCmZJKvXhwqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
           "author": null,
           "description": "XeroLinux could be the most beautiful Linux desktop on the market  ZDNet",
@@ -6144,6 +6654,16 @@
           "wordCount": 2799,
           "title": "Linux Fu: Atomic Power - Hackaday",
           "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tNzkwMC1zZXJpZXMtZ2FtaW5n0gEA",
+          "author": null,
+          "description": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tNzkwMC1zZXJpZXMtZ2FtaW5n0gEA?oc=5",
+          "publishedOn": "2022-09-26T07:00:00.000Z",
+          "wordCount": 1628,
+          "title": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review - Phoronix",
+          "imageUrl": null
         },
         {
           "id": "CAIiEEzJpRIkKtqg6YDXD43dl7MqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
@@ -6254,6 +6774,16 @@
           "wordCount": 2493,
           "title": "10 Linux Command-Line Operators and What They Do - MUO - MakeUseOf",
           "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/featured-image.jpg"
+        },
+        {
+          "id": "CAIiEPXQvhZmNpl7Wr31KGCrGbsqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
+          "author": null,
+          "description": "A match made in heaven: systemd comes to Windows Subsystem for Linux  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzA5LzI0L3N5c3RlbWRfd2luZG93c19saW51eF9taWNyb3NvZnQv0gEA?oc=5",
+          "publishedOn": "2022-09-24T07:00:00.000Z",
+          "wordCount": 1312,
+          "title": "A match made in heaven: systemd comes to Windows Subsystem for Linux - The Register",
+          "imageUrl": "https://regmedia.co.uk/2015/05/07/lennart_poettering.jpg"
         },
         {
           "id": "CAIiEHeHZczmxPvKgwV7KjFI1nEqMwgEKioIACIQ4eZVCfUvh0fQ2m7Cn7ChFyoUCAoiEOHmVQn1L4dH0Npuwp-woRcws_fLBg",
@@ -6394,106 +6924,6 @@
           "wordCount": 8695,
           "title": "11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful - It's FOSS",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/best-kde-themes.png"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC1hZGRzLXN5c3RlbWQtdG8tdGhlLXdpbmRvd3Mtc3Vic3lzdGVtLWZvci1saW51eC_SAW5odHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL21pY3Jvc29mdC9taWNyb3NvZnQtYWRkcy1zeXN0ZW1kLXRvLXRoZS13aW5kb3dzLXN1YnN5c3RlbS1mb3ItbGludXgvYW1wLw",
-          "author": null,
-          "description": "Microsoft adds 'systemd' to the Windows Subsystem for Linux  BleepingComputer",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC1hZGRzLXN5c3RlbWQtdG8tdGhlLXdpbmRvd3Mtc3Vic3lzdGVtLWZvci1saW51eC_SAW5odHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL21pY3Jvc29mdC9taWNyb3NvZnQtYWRkcy1zeXN0ZW1kLXRvLXRoZS13aW5kb3dzLXN1YnN5c3RlbS1mb3ItbGludXgvYW1wLw?oc=5",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 2272,
-          "title": "Microsoft adds 'systemd' to the Windows Subsystem for Linux - BleepingComputer",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/13/Linux_tux.jpg"
-        },
-        {
-          "id": "CAIiENUGH7qUuXomwZ3-bbRZ0vgqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
-          "author": null,
-          "description": "Chainguard releases Wolfi, a Linux 'undistribution'  ZDNet",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2NoYWluZ3VhcmQtcmVsZWFzZXMtd29sZmktYS1saW51eC11bmRpc3RyaWJ1dGlvbi_SAQA?oc=5",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 8197,
-          "title": "Chainguard releases Wolfi, a Linux 'undistribution' - ZDNet",
-          "imageUrl": "https://www.zdnet.com/a/img/resize/1022b3ff9b5f6a5834d12a31a5c72b241dbb1bba/2022/01/18/b0256ff2-881d-45cf-ba36-63708db9a6b1/open-source.jpg?auto=webp&fit=crop&height=675&width=1200"
-        },
-        {
-          "id": "CAIiEHIZc5xrnsrhSbmit3vuw0EqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "What Is Crystal Linux? Everything You Need to Know  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vY3J5c3RhbC1saW51eC1leHBsYWluZWQv0gEA?oc=5",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 2612,
-          "title": "What Is Crystal Linux? Everything You Need to Know - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/what-is-crystal-linux.jpg"
-        },
-        {
-          "id": "CAIiEN5N7mj7EAXmdtzZC9eF42YqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
-          "author": null,
-          "description": "Debian GNU/Linux 12 “Bookworm” Installer Adds Windows 11 Detection, New ARM Devices  9to5Linux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tZ251LWxpbnV4LTEyLWJvb2t3b3JtLWluc3RhbGxlci1hZGRzLXdpbmRvd3MtMTEtZGV0ZWN0aW9uLW5ldy1hcm0tZGV2aWNlc9IBAA?oc=5",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 11265,
-          "title": "Debian GNU/Linux 12 “Bookworm” Installer Adds Windows 11 Detection, New ARM Devices - 9to5Linux",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/09/deb12ia.webp"
-        },
-        {
-          "id": "CAIiEHIZc5xrnsrhSbmit3vuw0EqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "What Is Crystal Linux? Everything You Need to Know  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/crystal-linux-explained/",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 2599,
-          "title": "What Is Crystal Linux? Everything You Need to Know - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/what-is-crystal-linux.jpg"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1iYWNrdXAtZGlyZWN0bHktdG8tbWVnYS1vbi1saW51eC_SAVxodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8tYmFja3VwLWRpcmVjdGx5LXRvLW1lZ2Etb24tbGludXgvYW1wLw",
-          "author": null,
-          "description": "How to backup directly to Mega on Linux  AddictiveTips",
-          "link": "https://www.addictivetips.com/ubuntu-linux-tips/how-to-backup-directly-to-mega-on-linux/",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How to backup directly to Mega on Linux - AddictiveTips",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEN5N7mj7EAXmdtzZC9eF42YqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
-          "author": null,
-          "description": "Debian GNU/Linux 12 “Bookworm” Installer Adds Windows 11 Detection, New ARM Devices  9to5Linux",
-          "link": "https://9to5linux.com/debian-gnu-linux-12-bookworm-installer-adds-windows-11-detection-new-arm-devices",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 11276,
-          "title": "Debian GNU/Linux 12 “Bookworm” Installer Adds Windows 11 Detection, New ARM Devices - 9to5Linux",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/09/deb12ia.webp"
-        },
-        {
-          "id": "CAIiEN8GOcut1_j6vO5sguME-eYqGAgEKg8IACoHCAow-KLyCTDo8XIw2a_pBQ",
-          "author": null,
-          "description": "A New Linux Tool Aims to Guard Against Supply Chain Attacks  WIRED",
-          "link": "https://www.wired.com/story/chainguard-wolfi-linux-distribution/",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 20072,
-          "title": "A New Linux Tool Aims to Guard Against Supply Chain Attacks - WIRED",
-          "imageUrl": "https://media.wired.com/photos/632bbd9cd884b4dcc941656d/191:100/w_1280,c_limit/Security-Open-Source-Linux-1403599186.jpg"
-        },
-        {
-          "id": "CAIiENUGH7qUuXomwZ3-bbRZ0vgqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
-          "author": null,
-          "description": "Chainguard releases Wolfi, a Linux 'undistribution'  ZDNet",
-          "link": "https://www.zdnet.com/article/chainguard-releases-wolfi-a-linux-undistribution/",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 8150,
-          "title": "Chainguard releases Wolfi, a Linux 'undistribution' - ZDNet",
-          "imageUrl": "https://www.zdnet.com/a/img/resize/1022b3ff9b5f6a5834d12a31a5c72b241dbb1bba/2022/01/18/b0256ff2-881d-45cf-ba36-63708db9a6b1/open-source.jpg?auto=webp&fit=crop&height=675&width=1200"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC1hZGRzLXN5c3RlbWQtdG8tdGhlLXdpbmRvd3Mtc3Vic3lzdGVtLWZvci1saW51eC_SAW5odHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL21pY3Jvc29mdC9taWNyb3NvZnQtYWRkcy1zeXN0ZW1kLXRvLXRoZS13aW5kb3dzLXN1YnN5c3RlbS1mb3ItbGludXgvYW1wLw",
-          "author": null,
-          "description": "Microsoft adds 'systemd' to the Windows Subsystem for Linux  BleepingComputer",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-systemd-to-the-windows-subsystem-for-linux/",
-          "publishedOn": "2022-09-22T07:00:00.000Z",
-          "wordCount": 2273,
-          "title": "Microsoft adds 'systemd' to the Windows Subsystem for Linux - BleepingComputer",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/13/Linux_tux.jpg"
         }
       ]
     },
@@ -6502,6 +6932,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374194",
+          "author": "Temani Afif",
+          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
+          "publishedOn": "2022-10-21T12:46:27.000Z",
+          "wordCount": 2860,
+          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
+        },
         {
           "id": "https://css-tricks.com/?p=374470",
           "author": "Geoff Graham",
@@ -6731,16 +7171,6 @@
           "wordCount": 2331,
           "title": "How I Made an Icon System Out of CSS Custom Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373639",
-          "author": "Geoff Graham",
-          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
-          "publishedOn": "2022-09-21T21:53:44.000Z",
-          "wordCount": 837,
-          "title": "CSS Rules vs. CSS Rulesets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
         }
       ]
     },
@@ -6749,6 +7179,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "author": "hello@smashingmagazine.com (Sacha Greif)",
+          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
+          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "publishedOn": "2022-10-21T12:00:00.000Z",
+          "wordCount": 4505,
+          "title": "Futuristic CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
@@ -7003,21 +7448,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/angular-guide/",
-          "author": "hello@smashingmagazine.com (William Juan)",
-          "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
-          "link": "https://smashingmagazine.com/2022/09/angular-guide/",
-          "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5664,
-          "title": "Things I Wish I Had Known About Angular When I Started",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg"
         }
       ]
     },
@@ -7026,6 +7456,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "author": "Destiny Erhabor",
+          "description": "Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of",
+          "link": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "publishedOn": "2022-10-21T23:13:08.000Z",
+          "wordCount": 3173,
+          "title": "How to Upload Files to Azure using NestJS and typeORM with MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-panumas-nikhomkhai-1148820.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "author": "Ophy Boamah",
+          "description": "Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important",
+          "link": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "publishedOn": "2022-10-21T23:12:52.000Z",
+          "wordCount": 3971,
+          "title": "Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/WebLayouts-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Object Relational Mapping (ORM) is a technique used in creating a \"bridge\" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using",
+          "link": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "publishedOn": "2022-10-21T18:18:25.000Z",
+          "wordCount": 1465,
+          "title": "What is an ORM – The Meaning of Object Relational Mapping Database Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/markus-winkler-gLdJnQFcIXE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "author": "Omer Rosenbaum",
+          "description": "Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "publishedOn": "2022-10-21T17:12:40.000Z",
+          "wordCount": 4888,
+          "title": "How the Ethernet Protocol Works – A Complete Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
           "author": "Lane Wagner",
