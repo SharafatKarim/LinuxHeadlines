@@ -82,6 +82,76 @@
           "imageUrl": null
         },
         {
+          "id": "https://linuxhint.com/?p=239334",
+          "author": "John Otieno",
+          "description": "A guide on how to use the SQL FETCH statement in the Standard SQL, which allows the user to limit the number of records returned by a specific query.",
+          "link": "https://linuxhint.com/sql-fetch-statement/",
+          "publishedOn": "2022-10-19T13:52:53.000Z",
+          "wordCount": 3589,
+          "title": "SQL Fetch Statement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239328",
+          "author": "John Otieno",
+          "description": "If you insert or update a row that does not include a value for that column, MySQL will use the defined default value instead of a NULL type.",
+          "link": "https://linuxhint.com/mysql-default/",
+          "publishedOn": "2022-10-19T13:27:51.000Z",
+          "wordCount": 3883,
+          "title": "MySQL Default",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239296",
+          "author": "John Otieno",
+          "description": "ELK Stack, known as ELK, is a suite of free and open-source projects: Elasticsearch, Logstash, and Kibana. How to set up Elasticsearch and Kibana is discussed.",
+          "link": "https://linuxhint.com/setup-elasticsearch-kibana-linux/",
+          "publishedOn": "2022-10-19T13:07:02.000Z",
+          "wordCount": 3985,
+          "title": "How to Setup Elasticsearch and Kibana on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239277",
+          "author": "John Otieno",
+          "description": "Timezones are complex concepts that developers have to deal with. The convert_tz() function in MySQL enables us to convert from one timezone to another.",
+          "link": "https://linuxhint.com/mysql-convert-one-time-zone-another/",
+          "publishedOn": "2022-10-19T12:39:02.000Z",
+          "wordCount": 3666,
+          "title": "MySQL Converts From One Time Zone to Another",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239234",
+          "author": "Sidratul Muntaha",
+          "description": "A guide on how to restart Apache HTTPD on Ubuntu 22.04 with the systemctl and service tools and showcase reloading, enabling, and disabling the Apache service.",
+          "link": "https://linuxhint.com/restart-apache-httpd-ubuntu-22-04/",
+          "publishedOn": "2022-10-19T12:19:10.000Z",
+          "wordCount": 4080,
+          "title": "How To Restart Apache HTTPD on Ubuntu 22.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239224",
+          "author": "John Otieno",
+          "description": "In macOS, we can use the Homebrew package manager to install and set up Elasticsearch on our local system. Elasticsearch formula is published by Elastic.co.",
+          "link": "https://linuxhint.com/install-elasticsearch-kibana-macos/",
+          "publishedOn": "2022-10-19T11:40:36.000Z",
+          "wordCount": 3741,
+          "title": "How to Install Elasticsearch and Kibana on MacOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=239210",
+          "author": "John Otieno",
+          "description": "CSV data stores data in a tabular format where each column is separated by a comma, and a new record is allocated to a new line.",
+          "link": "https://linuxhint.com/import-csv-file-kibana/",
+          "publishedOn": "2022-10-19T11:23:53.000Z",
+          "wordCount": 3997,
+          "title": "How to Import CSV File in Kibana",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=239197",
           "author": "John Otieno",
           "description": "A guide on how to configure or change a custom data recovery for the MongoDB server using the --dbpath parameter and the configuration file.",
@@ -1609,6 +1679,26 @@
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179925",
+          "author": "Web Webster",
+          "description": "Here are 10 things you should do after installing the latest Ubuntu 22.10 (Kinetic Kudu). Learn more here.\nThe post 10 Things to Do After Installing Ubuntu 22.10 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/10-things-to-do-after-installing-ubuntu-22-10/",
+          "publishedOn": "2022-10-22T19:00:33.000Z",
+          "wordCount": 16514,
+          "title": "10 Things to Do After Installing Ubuntu 22.10",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179933",
+          "author": "Web Webster",
+          "description": "Apple System Information provides detailed Mac system reports. Learn about free and open source alternatives to Apple System Information here.\nThe post Best Free and Open Source Alternatives to Apple System Information appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-apple-system-information/",
+          "publishedOn": "2022-10-22T14:00:19.000Z",
+          "wordCount": 16544,
+          "title": "Best Free and Open Source Alternatives to Apple System Information",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=179699",
           "author": "Web Webster",
           "description": "In this article, we discuss five awesome GUI apps for visual disk space usage in Ubuntu and other Linux systems. Learn more here.\nThe post 5 Great GUI Apps for Visual Disk Usage in Linux, Ubuntu appeared first on Linux Today.",
@@ -2716,6 +2806,46 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CAIiECA1X_EzsDONdkKjYqZ1UMwqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Use the wc Command in Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2MtY29tbWFuZC1pbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2022-10-22T17:00:00.000Z",
+          "wordCount": 2497,
+          "title": "How to Use the wc Command in Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/gabriel-heinzer-xbEVM6oJ1Fs-unsp.jpg"
+        },
+        {
+          "id": "CAIiEJztKttl9Kh3KDcvbUZnCOAqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Valve put up a few more fixes in the new Steam Deck Beta  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvdmFsdmUtcHV0LXVwLWEtZmV3LW1vcmUtZml4ZXMtaW4tdGhlLW5ldy1zdGVhbS1kZWNrLWJldGEv0gEA?oc=5",
+          "publishedOn": "2022-10-22T10:16:17.000Z",
+          "wordCount": 1188,
+          "title": "Valve put up a few more fixes in the new Steam Deck Beta - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
+        },
+        {
+          "id": "CAIiEELrGd15J8nihXFN-RtmNG8qMwgEKioIACIQ0eiH5PzI_1DxDLCivZ3AaSoUCAoiENHoh-T8yP9Q8Qywor2dwGkws4zGBg",
+          "author": null,
+          "description": "How to Create Custom Linux Mint or Ubuntu ISO  It's FOSS",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vaXRzZm9zcy5jb20vY3JlYXRlLWN1c3RvbS1saW51eC1taW50LWlzby_SAQA?oc=5",
+          "publishedOn": "2022-10-22T07:57:18.000Z",
+          "wordCount": 8661,
+          "title": "How to Create Custom Linux Mint or Ubuntu ISO - It's FOSS",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/custom-iso-ubuntu-linux.png"
+        },
+        {
+          "id": "CAIiEFWx3a3v_EX9ZAimAZpwzzoqGQgEKhAIACoHCAowiemgCzCh87gDMPi-9gY",
+          "author": null,
+          "description": "PaperDE is a Touch-Friendly Linux Desktop Environment  It's FOSS News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiIWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wYXBlcmRlL9IBAA?oc=5",
+          "publishedOn": "2022-10-22T05:21:37.000Z",
+          "wordCount": 853,
+          "title": "PaperDE is a Touch-Friendly Linux Desktop Environment - It's FOSS News",
+          "imageUrl": "https://news.itsfoss.com/content/images/2022/10/paper-de.png"
+        },
+        {
           "id": "CBMiSGh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyMi8xMC8yMi9yZWQtaGF0LWVudGVycHJpc2UtbGludXgtYXdzL9IBAA",
           "author": null,
           "description": "Red Hat releases Red Hat Enterprise Linux for Workstations on AWS  Help Net Security",
@@ -2834,6 +2964,16 @@
           "wordCount": 1450,
           "title": "Linux TUN Network Driver May See A \"1000x Speedup\" With New, One-Line Patch - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CAIiEOlRYGtT2LsP562ps4WTgCIqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Valve doing quick hotfixes in Proton for big game releases on Steam Deck / Linux  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvdmFsdmUtZG9pbmctcXVpY2staG90Zml4ZXMtaW4tcHJvdG9uLWZvci1iaWctZ2FtZS1yZWxlYXNlcy1vbi1zdGVhbS1kZWNrLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2022-10-21T11:18:16.000Z",
+          "wordCount": 1608,
+          "title": "Valve doing quick hotfixes in Proton for big game releases on Steam Deck / Linux - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1401323179id21769gol.jpg"
         },
         {
           "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUxhdGVzdC1YYm94LVJ1bWJsZS1Ecml2ZXLSAQA",
@@ -3134,6 +3274,16 @@
           "wordCount": 1701,
           "title": "How to Fix an MTD Device Error in Linux - Make Tech Easier",
           "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/10/MTD-Device-Error-Featured-Image-min-min.png"
+        },
+        {
+          "id": "CAIiEN5392XzQGVy5cvfsNq93ZIqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Use the tr and fmt Commands for Text Manipulation on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGludXgtdGV4dC1tYW5pcHVsYXRpb24tdHItYW5kLWZtdC1jb21tYW5kcy_SAQA?oc=5",
+          "publishedOn": "2022-10-19T15:00:00.000Z",
+          "wordCount": 2550,
+          "title": "How to Use the tr and fmt Commands for Text Manipulation on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/gabriel-heinzer-xbEVM6oJ1Fs-unsp.jpg"
         },
         {
           "id": "CAIiEN5392XzQGVy5cvfsNq93ZIqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
@@ -3749,6 +3899,16 @@
           "id": "CAIiELUY38MxqthwWWNAif9AoHcqMwgEKioIACIQ5dnoeENmQJKYfUl9H0BxcyoUCAoiEOXZ6HhDZkCSmH1JfR9AcXMw6ojnBg",
           "author": null,
           "description": "$858 Linux mini PC features NVIDIA Jetson Xavier NX 8GB module, 128GB NVMe SSD  CNX Software",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMi8xMC8xNy84NTgtbGludXgtbWluaS1wYy1mZWF0dXJlcy1udmlkaWEtamV0c29uLXhhdmllci1ueC04Z2ItbW9kdWxlLTEyOGdiLW52bWUtc3NkL9IBAA?oc=5",
+          "publishedOn": "2022-10-17T08:09:34.000Z",
+          "wordCount": 3816,
+          "title": "$858 Linux mini PC features NVIDIA Jetson Xavier NX 8GB module, 128GB NVMe SSD - CNX Software",
+          "imageUrl": "https://www.cnx-software.com/wp-content/uploads/2022/10/NVIDIA-Jetson-Xavier-NX-mini-PC.jpg"
+        },
+        {
+          "id": "CAIiELUY38MxqthwWWNAif9AoHcqMwgEKioIACIQ5dnoeENmQJKYfUl9H0BxcyoUCAoiEOXZ6HhDZkCSmH1JfR9AcXMw6ojnBg",
+          "author": null,
+          "description": "$858 Linux mini PC features NVIDIA Jetson Xavier NX 8GB module, 128GB NVMe SSD  CNX Software",
           "link": "https://www.cnx-software.com/2022/10/17/858-linux-mini-pc-features-nvidia-jetson-xavier-nx-8gb-module-128gb-nvme-ssd/",
           "publishedOn": "2022-10-17T08:09:34.000Z",
           "wordCount": 3779,
@@ -3834,6 +3994,16 @@
           "wordCount": 5160,
           "title": "Lilbits: Linux on the Star64 RISC-V single-board computer, Game Boy cartridges on the Steam Deck, and fitness tracking on the Pixel Watch (is not optional) - Liliputing",
           "imageUrl": "https://liliputing.com/wp-content/uploads/2022/10/gb-operator.jpg"
+        },
+        {
+          "id": "CAIiEMNBE4oLUAOQAFp_vmXKcEoqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Play real Game Boy cartridges on Steam Deck / Linux with GB Operator  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvcGxheS1yZWFsLWdhbWUtYm95LWNhcnRyaWRnZXMtb24tc3RlYW0tZGVjay1saW51eC13aXRoLWdiLW9wZXJhdG9yL9IBAA?oc=5",
+          "publishedOn": "2022-10-16T09:33:10.000Z",
+          "wordCount": 1422,
+          "title": "Play real Game Boy cartridges on Steam Deck / Linux with GB Operator - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/459848137id21741gol.jpg"
         },
         {
           "id": "CAIiEMNBE4oLUAOQAFp_vmXKcEoqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
@@ -4019,6 +4189,16 @@
           "id": "CAIiEIrs-hIG60lOCXlY5wxhoXsqMwgEKioIACIQLeM1mDcB1IrrM9THmhhEESoUCAoiEC3jNZg3AdSK6zPUx5oYRBEwn5H_Bg",
           "author": null,
           "description": "Ubuntu and Linux Keep Outperforming Windows 11 on AMD Ryzen 9 7950X  WinBuzzer",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd2luYnV6emVyLmNvbS8yMDIyLzEwLzE0L3VidW50dS1hbmQtbGludXgta2VlcC1vdXRwZXJmb3JtaW5nLXdpbmRvd3MtMTEtb24tYW1kLXJ5emVuLTktNzk1MHgteGN4d2JuL9IBAA?oc=5",
+          "publishedOn": "2022-10-14T16:23:04.000Z",
+          "wordCount": 5333,
+          "title": "Ubuntu and Linux Keep Outperforming Windows 11 on AMD Ryzen 9 7950X - WinBuzzer",
+          "imageUrl": "https://winbuzzer.com/wp-content/uploads/2017/03/Ryzen-Official-AMD.jpg"
+        },
+        {
+          "id": "CAIiEIrs-hIG60lOCXlY5wxhoXsqMwgEKioIACIQLeM1mDcB1IrrM9THmhhEESoUCAoiEC3jNZg3AdSK6zPUx5oYRBEwn5H_Bg",
+          "author": null,
+          "description": "Ubuntu and Linux Keep Outperforming Windows 11 on AMD Ryzen 9 7950X  WinBuzzer",
           "link": "https://winbuzzer.com/2022/10/14/ubuntu-and-linux-keep-outperforming-windows-11-on-amd-ryzen-9-7950x-xcxwbn/",
           "publishedOn": "2022-10-14T16:23:04.000Z",
           "wordCount": 5333,
@@ -4194,6 +4374,16 @@
           "wordCount": 1294,
           "title": "NVIDIA-VAAPI-Driver 0.0.7 Released For Enjoying VA-API With NVIDIA's Proprietary Driver - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc2NTcyL3VzaW5nLXdpa2lwZWRpYS1mcm9tLXRoZS1saW51eC1jb21tYW5kLWxpbmUuaHRtbNIBYWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc2NTcyL3VzaW5nLXdpa2lwZWRpYS1mcm9tLXRoZS1saW51eC1jb21tYW5kLWxpbmUuYW1wLmh0bWw",
+          "author": null,
+          "description": "Using Wikipedia from the Linux command line  Network World",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc2NTcyL3VzaW5nLXdpa2lwZWRpYS1mcm9tLXRoZS1saW51eC1jb21tYW5kLWxpbmUuaHRtbNIBYWh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc2NTcyL3VzaW5nLXdpa2lwZWRpYS1mcm9tLXRoZS1saW51eC1jb21tYW5kLWxpbmUuYW1wLmh0bWw?oc=5",
+          "publishedOn": "2022-10-14T07:00:00.000Z",
+          "wordCount": 12187,
+          "title": "Using Wikipedia from the Linux command line - Network World",
+          "imageUrl": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/14/19/4-tips-100921884-large.jpg?auto=webp&quality=85,70"
         },
         {
           "id": "CBMiLmh0dHBzOi8vaXRzZm9zcy5jb20vaW5kZXBlbmRlbnQtbGludXgtZGlzdHJvcy_SAQA",
@@ -4394,6 +4584,16 @@
           "wordCount": 1248,
           "title": "LoongArch Picks Up New CPU Capabilities With Linux 6.1 - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CAIiEBvz3QhYlsk08f3AZFwoNncqGAgEKg8IACoHCAow3oGRAjCUny4wjYvvBQ",
+          "author": null,
+          "description": "New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems  The Hacker News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMi8xMC9uZXctY2hpbmVzZS1tYWx3YXJlLWF0dGFjay1mcmFtZXdvcmsuaHRtbNIBAA?oc=5",
+          "publishedOn": "2022-10-13T07:00:00.000Z",
+          "wordCount": 2367,
+          "title": "New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems - The Hacker News",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEgKK_JwhiQm63efD8cobYRg_285FgyyJmxzXn8cCcPSjPoiUIiAEMqeX6aqUSeS32xjZ5s2OHqfkq1HSnfadVtRIgpL7SQvV-s70jiS74R-Ta-0aLRwT9tGug7dO13IXuS4215u1ZUI4IfiWxJBANxnhASc8TdwAEJSO1kVdZxn18n0CerVCwyZKP9U/s728-e100/code.jpg"
         },
         {
           "id": "CAIiEMovyFEagfyN6xt14JT747wqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
@@ -4786,6 +4986,16 @@
           "imageUrl": null
         },
         {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01HTFJVLUluLUxpbnV4LTYuMdIBAA",
+          "author": null,
+          "description": "MGLRU Merged For Linux 6.1  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01HTFJVLUluLUxpbnV4LTYuMdIBAA?oc=5",
+          "publishedOn": "2022-10-11T07:00:00.000Z",
+          "wordCount": 1368,
+          "title": "MGLRU Merged For Linux 6.1 - Phoronix",
+          "imageUrl": null
+        },
+        {
           "id": "CAIiEEK0UluYIaYEMxDmmoB6H74qGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
           "author": null,
           "description": "VirtualBox 7.0 Boasts Linux Secure Boot Support, New Interface  MUO - MakeUseOf",
@@ -5014,6 +5224,16 @@
           "wordCount": 7174,
           "title": "How to Update Google Chrome on Ubuntu Linux - It's FOSS",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/update-google-chrome-in-ubuntu.png"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS01MjAuNjEuMDUtTGludXjSAQA",
+          "author": null,
+          "description": "NVIDIA R520 Linux Driver Being Prepped For Release With New GPU Support  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS01MjAuNjEuMDUtTGludXjSAQA?oc=5",
+          "publishedOn": "2022-10-10T07:00:00.000Z",
+          "wordCount": 1354,
+          "title": "NVIDIA R520 Linux Driver Being Prepped For Release With New GPU Support - Phoronix",
+          "imageUrl": null
         },
         {
           "id": "CAIiEJVyIhmpLzHUvZRCAAyFNLgqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
@@ -5746,6 +5966,16 @@
           "imageUrl": null
         },
         {
+          "id": "CAIiELpV3J32Gfcf8fqyv4cBi_4qMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
+          "author": null,
+          "description": "SUSE wheels out first public prototype of its server Linux distro, asks for feedback  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEwLzA1L3N1c2VfYWxwX3YwMDEv0gEA?oc=5",
+          "publishedOn": "2022-10-05T07:00:00.000Z",
+          "wordCount": 1687,
+          "title": "SUSE wheels out first public prototype of its server Linux distro, asks for feedback - The Register",
+          "imageUrl": "https://regmedia.co.uk/2019/05/02/chameleon.jpg"
+        },
+        {
           "id": "CAIiEN8gimxdoHvNbq4jikwp-QIqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
           "author": null,
           "description": "TUXEDO Computers Releases Live ISO of Its Ubuntu-Based TUXEDO OS Linux Distro  9to5Linux",
@@ -5934,6 +6164,16 @@
           "wordCount": 19676,
           "title": "Can I run Ubuntu Linux on the Lenovo ThinkPad X1 Extreme Gen 5? - XDA Developers",
           "imageUrl": "https://www.xda-developers.com/files/2022/09/Lenovo-ThinkPad-X1-Extreme-Gen-5-Linux.jpg"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9jYW4taS1ydW4tdWJ1bnR1LWxpbnV4LWxlbm92by10aGlua3BhZC14MS1leHRyZW1lLWdlbi01L9IBW2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9jYW4taS1ydW4tdWJ1bnR1LWxpbnV4LWxlbm92by10aGlua3BhZC14MS1leHRyZW1lLWdlbi01L2FtcC8",
+          "author": null,
+          "description": "Can I run Ubuntu Linux on the Lenovo ThinkPad X1 Extreme Gen 5?  XDA Developers",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9jYW4taS1ydW4tdWJ1bnR1LWxpbnV4LWxlbm92by10aGlua3BhZC14MS1leHRyZW1lLWdlbi01L9IBW2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9jYW4taS1ydW4tdWJ1bnR1LWxpbnV4LWxlbm92by10aGlua3BhZC14MS1leHRyZW1lLWdlbi01L2FtcC8?oc=5",
+          "publishedOn": "2022-10-04T07:00:00.000Z",
+          "wordCount": 2475,
+          "title": "Can I run Ubuntu Linux on the Lenovo ThinkPad X1 Extreme Gen 5? - XDA Developers",
+          "imageUrl": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/09/Lenovo-ThinkPad-X1-Extreme-Gen-5-Linux.jpg"
         },
         {
           "id": "CAIiEHelTgJbW2hFOyvyN58A58UqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
@@ -6144,6 +6384,26 @@
           "wordCount": 9755,
           "title": "Linux 6.0 arrives as Linus Torvalds promises 'core new things' ahead - ZDNet",
           "imageUrl": "https://www.zdnet.com/a/img/resize/2df1af61dadea48778392a9ee09108f0136da38b/2022/06/13/4af6e544-8d79-4715-9f2e-85bf4db989a1/developers-security.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CAIiEC_r8fWgaE1n7YR750s5bXYqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Check Shutdown and Restart History on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWNoZWNrLXNodXRkb3duLWFuZC1yZXN0YXJ0LWhpc3RvcnktbGludXgv0gEA?oc=5",
+          "publishedOn": "2022-10-03T07:00:00.000Z",
+          "wordCount": 2122,
+          "title": "How to Check Shutdown and Restart History on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Check-Your-Linux-Systems-Shutdown-and-Restart-History.jpg"
+        },
+        {
+          "id": "CAIiEA7sVn2Dx7iTlIpg-ojSLDUqMwgEKioIACIQ4eZVCfUvh0fQ2m7Cn7ChFyoUCAoiEOHmVQn1L4dH0Npuwp-woRcw7L3KBg",
+          "author": null,
+          "description": "Ryzen 7000 Runs Faster With Security Mitigations Enabled on Linux  Tom's Hardware",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9yeXplbi03MDAwLXNlY3VyaXR5LW1pdGlnYXRpb25zLWZhc3Rlci1vbi1saW51eNIBAA?oc=5",
+          "publishedOn": "2022-10-03T07:00:00.000Z",
+          "wordCount": 21981,
+          "title": "Ryzen 7000 Runs Faster With Security Mitigations Enabled on Linux - Tom's Hardware",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/GVT52uUKHhmaHY2MhWeA9Y-1200-80.jpg"
         },
         {
           "id": "CAIiEHokrglXXE_1--q9EV2iBFUqGQgEKhAIACoHCAowwsi0CzDP48sDMMv2ywc",
@@ -6452,6 +6712,16 @@
           "link": "https://www.phoronix.com/news/Apple-DRM-GNOME-And-Apps",
           "publishedOn": "2022-09-29T12:50:00.000Z",
           "wordCount": 1441,
+          "title": "Apple M1 Linux GPU DRM Driver Now Running GNOME, Various Apps - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLURSTS1HTk9NRS1BbmQtQXBwc9IBAA",
+          "author": null,
+          "description": "Apple M1 Linux GPU DRM Driver Now Running GNOME, Various Apps  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLURSTS1HTk9NRS1BbmQtQXBwc9IBAA?oc=5",
+          "publishedOn": "2022-09-29T07:00:00.000Z",
+          "wordCount": 1357,
           "title": "Apple M1 Linux GPU DRM Driver Now Running GNOME, Various Apps - Phoronix",
           "imageUrl": null
         },
@@ -6854,76 +7124,6 @@
           "wordCount": 23435,
           "title": "How To Dual Boot Linux and Windows 11 - Tom's Hardware",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/JNy9Zzxtf7WedV3cT6YzrE-1200-80.jpg"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LnRoZXJvYm90cmVwb3J0LmNvbS9saW51eC1lbWJyYWNpbmctcnVzdC13aWxsLWJvb3N0LXJvYm90aWNzLWNvbW11bml0eS_SAQA",
-          "author": null,
-          "description": "Linux embracing Rust will boost robotics community  Robot Report",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXJvYm90cmVwb3J0LmNvbS9saW51eC1lbWJyYWNpbmctcnVzdC13aWxsLWJvb3N0LXJvYm90aWNzLWNvbW11bml0eS_SAQA?oc=5",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 2352,
-          "title": "Linux embracing Rust will boost robotics community - Robot Report",
-          "imageUrl": "https://www.therobotreport.com/wp-content/uploads/2022/09/featured-web-rust-linix.jpg"
-        },
-        {
-          "id": "CAIiEOmqjnuz8qBBlIOgNgPfuLsqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg",
-          "author": null,
-          "description": "What’s the Difference Between .bashrc and .profile on Linux?  How-To Geek",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODMwNTQ5L3doYXRzLXRoZS1kaWZmZXJlbmNlLWJldHdlZW4tYmFzaHJjLWFuZC1wcm9maWxlLW9uLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 16917,
-          "title": "What’s the Difference Between .bashrc and .profile on Linux? - How-To Geek",
-          "imageUrl": "https://www.howtogeek.com/wp-content/uploads/2022/03/shutterstock_321627716.png?height=200p&trim=2,2,2,2"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LnRoZXJvYm90cmVwb3J0LmNvbS9saW51eC1lbWJyYWNpbmctcnVzdC13aWxsLWJvb3N0LXJvYm90aWNzLWNvbW11bml0eS_SAQA",
-          "author": null,
-          "description": "Linux embracing Rust will boost robotics community  Robot Report",
-          "link": "https://www.therobotreport.com/linux-embracing-rust-will-boost-robotics-community/",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 2352,
-          "title": "Linux embracing Rust will boost robotics community - Robot Report",
-          "imageUrl": "https://www.therobotreport.com/wp-content/uploads/2022/09/featured-web-rust-linix.jpg"
-        },
-        {
-          "id": "CAIiEOmqjnuz8qBBlIOgNgPfuLsqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg",
-          "author": null,
-          "description": "What’s the Difference Between .bashrc and .profile on Linux?  How-To Geek",
-          "link": "https://www.howtogeek.com/830549/whats-the-difference-between-bashrc-and-profile-on-linux/",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 16804,
-          "title": "What’s the Difference Between .bashrc and .profile on Linux? - How-To Geek",
-          "imageUrl": "https://www.howtogeek.com/wp-content/uploads/2022/03/shutterstock_321627716.png?height=200p&trim=2,2,2,2"
-        },
-        {
-          "id": "CAIiEIicX8VjEOJP4R0sXu4CvV0qGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "How to Read and Execute From a File With the Linux source Command  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/how-to-read-execute-from-file-linux-source-command/",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 2251,
-          "title": "How to Read and Execute From a File With the Linux source Command - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Linux-neofetch-command.jpg"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC1rZGUtcGxhc21hLXRoZW1lcy_SAQA",
-          "author": null,
-          "description": "11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful  It's FOSS",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC1rZGUtcGxhc21hLXRoZW1lcy_SAQA?oc=5",
-          "publishedOn": "2022-09-23T04:48:28.000Z",
-          "wordCount": 8717,
-          "title": "11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/best-kde-themes.png"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vaXRzZm9zcy5jb20vYmVzdC1rZGUtcGxhc21hLXRoZW1lcy_SAQA",
-          "author": null,
-          "description": "11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful  It's FOSS",
-          "link": "https://itsfoss.com/best-kde-plasma-themes/",
-          "publishedOn": "2022-09-23T04:48:28.000Z",
-          "wordCount": 8695,
-          "title": "11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/best-kde-themes.png"
         }
       ]
     },
@@ -7151,26 +7351,6 @@
           "wordCount": 3277,
           "title": "How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373057"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373652",
-          "author": "Geoff Graham",
-          "description": "The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …\nThe Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-web-is-good-now/",
-          "publishedOn": "2022-09-22T22:07:22.000Z",
-          "wordCount": 893,
-          "title": "The Web is Good Now",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373652"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373111",
-          "author": "Louis Hoebregts",
-          "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
-          "publishedOn": "2022-09-22T15:17:21.000Z",
-          "wordCount": 2331,
-          "title": "How I Made an Icon System Out of CSS Custom Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
         }
       ]
     },
@@ -7433,21 +7613,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
-          "author": "hello@smashingmagazine.com (Dave Feldman)",
-          "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
-          "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
-          "publishedOn": "2022-09-23T11:30:00.000Z",
-          "wordCount": 5539,
-          "title": "Lessons Learned As A Designer-Founder",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg"
         }
       ]
     },
