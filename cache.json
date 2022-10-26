@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=68059",
+          "author": "Dave Sumaylo",
+          "description": "KVM is a virtualization solution that helps create Virtual Machines just like VMware or VirtualBox. This article explains KVM installation on Linux Mint.",
+          "link": "https://linuxhint.com/install_kvm_virtualization_ubuntu/",
+          "publishedOn": "2022-10-25T06:16:28.000Z",
+          "wordCount": 4079,
+          "title": "How to Install KVM on Linux Mint 21?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=39688",
+          "author": "Dave Sumaylo",
+          "description": "This explains how to use the scp (Secure Copy) command to transfer files between computers.The scp command is available on all Linux, Unix, and Windows systems.",
+          "link": "https://linuxhint.com/scp_command_linux/",
+          "publishedOn": "2022-10-24T12:40:11.000Z",
+          "wordCount": 5130,
+          "title": "How to Use the scp (Secure Copy) Command to Transfer Files",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=40376",
+          "author": "Dave Sumaylo",
+          "description": "This tutorial explains how to connect and transfer files through the sftp protocol in Linux, as well as securing by implementing security measures.",
+          "link": "https://linuxhint.com/sftp_linux_command_line/",
+          "publishedOn": "2022-10-24T12:17:35.000Z",
+          "wordCount": 5634,
+          "title": "How to Use the sftp Command in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=45867",
+          "author": "Dave Sumaylo",
+          "description": "This tutorial explains all Nmap techniques to define IP ranges to scan. Nmap is the most popular network scan among Linux users and network administrators.",
+          "link": "https://linuxhint.com/nmap_scan_ip_ranges/",
+          "publishedOn": "2022-10-24T08:53:52.000Z",
+          "wordCount": 4950,
+          "title": "Nmap: Scan IP Ranges",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=240808",
           "author": "John Otieno",
           "description": "In this post, you learned how to use the Elasticsearch Flush API to flush the transaction log from an index or data stream to the Lucene index.",
@@ -2019,6 +2059,106 @@
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179840",
+          "author": "Web Webster",
+          "description": "Unique and independent Linux distros that are totally built from scratch. Sounds interesting? Check out the list here.\nThe post 13 Independent Linux Distros that Are Built from Scratch appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/13-independent-linux-distros-that-are-built-from-scratch/",
+          "publishedOn": "2022-10-26T02:00:58.000Z",
+          "wordCount": 16519,
+          "title": "13 Independent Linux Distros that Are Built from Scratch",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179845",
+          "author": "Web Webster",
+          "description": "Discourse is a free and open-source discussion platform. In this tutorial, we will show you how to install Discourse Forum on Ubuntu 22.04.\nThe post How to Install Discourse with Docker on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-discourse-with-docker-on-ubuntu-22-04/",
+          "publishedOn": "2022-10-26T00:00:19.000Z",
+          "wordCount": 16556,
+          "title": "How to Install Discourse with Docker on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179860",
+          "author": "Web Webster",
+          "description": "This tutorial explains how to create persistent Live USB using the Mkusb tool on Ubuntu and its variants. Learn more here.\nThe post How to Create Persistent Live USB Using Mkusb on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-create-persistent-live-usb-using-mkusb-on-ubuntu-2/",
+          "publishedOn": "2022-10-25T22:00:02.000Z",
+          "wordCount": 16540,
+          "title": "How to Create Persistent Live USB Using Mkusb on Ubuntu",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179821",
+          "author": "Web Webster",
+          "description": "In this article, you will learn what Linux kernel live patching is. You’ll also learn about some top kernel live patching tools that are available.\nThe post 5 Kernel Live Patching Tools to Run Linux Servers Without Reboots appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/5-kernel-live-patching-tools-to-run-linux-servers-without-reboots/",
+          "publishedOn": "2022-10-25T20:00:44.000Z",
+          "wordCount": 16543,
+          "title": "5 Kernel Live Patching Tools to Run Linux Servers Without Reboots",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179798",
+          "author": "Web Webster",
+          "description": "A simple guide to demonstrate how easily you can open files and directories as root in GNOME Files (aka Nautilus) with examples.\nThe post Easiest Way to Open Files as Root in GNOME Files appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/easiest-way-to-open-files-as-root-in-gnome-files/",
+          "publishedOn": "2022-10-25T18:00:51.000Z",
+          "wordCount": 16542,
+          "title": "Easiest Way to Open Files as Root in GNOME Files",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179810",
+          "author": "Web Webster",
+          "description": "The SeaMonkey project intends to deliver a seamless integration of internet applications. Learn how to install SeaMonkey on Ubuntu 22.04 LTS.\nThe post How to Install SeaMonkey Internet Suite on Ubuntu 22.04 LTS appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-seamonkey-internet-suite-on-ubuntu-22-04-lts/",
+          "publishedOn": "2022-10-25T17:00:35.000Z",
+          "wordCount": 16524,
+          "title": "How to Install SeaMonkey Internet Suite on Ubuntu 22.04 LTS",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179801",
+          "author": "Web Webster",
+          "description": "This video offers an introduction to what Kali Linux is, how and when it was made, and where you can download it. Learn more here.\nThe post An Introduction to Kali Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/an-introduction-to-kali-linux/",
+          "publishedOn": "2022-10-25T16:00:04.000Z",
+          "wordCount": 16520,
+          "title": "An Introduction to Kali Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179962",
+          "author": "Web Webster",
+          "description": "CMake is a handy cross-platform tool that compiles and builds C++ applications. Learn how to install CMake in Linux here.\nThe post How to Install CMake in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-cmake-in-linux/",
+          "publishedOn": "2022-10-25T15:00:29.000Z",
+          "wordCount": 16533,
+          "title": "How to Install CMake in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179961",
+          "author": "Web Webster",
+          "description": "The i486 microprocessor was created by Intel in 1989, 33 years ago, as a successor to the i386. And, believe it or not, these CPUs continue to have full Linux kernel support. But it looks like that may soon change.\nThe post Torvalds Sees No Reason to Keep i486 Support in the Linux Kernel appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/torvalds-sees-no-reason-to-keep-i486-support-in-the-linux-kernel/",
+          "publishedOn": "2022-10-25T14:00:37.000Z",
+          "wordCount": 16577,
+          "title": "Torvalds Sees No Reason to Keep i486 Support in the Linux Kernel",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179963",
+          "author": "Web Webster",
+          "description": "The new InfinityBook Pro 16 Linux laptop is also in two visually identical-looking versions. Learn more about the new release here.\nThe post TUXEDO InfinityBook Pro 16 Gen7 Linux Laptop Launches appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/tuxedo-infinitybook-pro-16-gen7-linux-laptop-launches/",
+          "publishedOn": "2022-10-25T13:45:00.000Z",
+          "wordCount": 16530,
+          "title": "TUXEDO InfinityBook Pro 16 Gen7 Linux Laptop Launches",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=179960",
           "author": "Shelby Hiter",
           "description": "Open source technology is disrupting video and making it more conducive to developer wants and goals. Here’s how.\nThe post How Open Source Is Disrupting Video, Making It Friendlier for Developers appeared first on Linux Today.",
@@ -3255,6 +3395,216 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LmhwY3dpcmUuY29tL29mZi10aGUtd2lyZS9saW51eC1mb3VuZGF0aW9uLWFubm91bmNlcy1yZWxlYXNlLW9mLW5ldy10cmFpbmluZy1jb3Vyc2Utb24tZWR4LWlzdGlvL9IBAA",
+          "author": null,
+          "description": "Linux Foundation Announces Release of New Training Course on edX, Istio  HPCwire",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LmhwY3dpcmUuY29tL29mZi10aGUtd2lyZS9saW51eC1mb3VuZGF0aW9uLWFubm91bmNlcy1yZWxlYXNlLW9mLW5ldy10cmFpbmluZy1jb3Vyc2Utb24tZWR4LWlzdGlvL9IBAA?oc=5",
+          "publishedOn": "2022-10-25T21:05:32.000Z",
+          "wordCount": null,
+          "title": "Linux Foundation Announces Release of New Training Course on edX, Istio - HPCwire",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEKLpKlH2PmKvE9QZUp7gFVcqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "6 Desktop Environments You Can Install on Raspberry Pi OS  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZGVza3RvcC1lbnZpcm9ubWVudHMteW91LWNhbi1ydW4tb24tYS1yYXNwYmVycnktcGkv0gEA?oc=5",
+          "publishedOn": "2022-10-25T20:30:00.000Z",
+          "wordCount": 2641,
+          "title": "6 Desktop Environments You Can Install on Raspberry Pi OS - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/muo-diy-raspberrypi-desktops-featured.jpg"
+        },
+        {
+          "id": "CAIiEIG-bvOtIQJ26GSZvY7d6GQqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Return to Monkey Island gets an official Native Linux version  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTAvcmV0dXJuLXRvLW1vbmtleS1pc2xhbmQtZ2V0cy1hbi1vZmZpY2lhbC1uYXRpdmUtbGludXgtdmVyc2lvbi_SAQA?oc=5",
+          "publishedOn": "2022-10-25T19:20:34.000Z",
+          "wordCount": 1469,
+          "title": "Return to Monkey Island gets an official Native Linux version - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1503421227id21784gol.jpg"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm5hcnQtVHJ1c3RlZC1Cb290LVdvcmxk0gEA",
+          "author": null,
+          "description": "Lennart Poettering Talks Up A \"Brave New Trusted Boot World\" For Linux  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm5hcnQtVHJ1c3RlZC1Cb290LVdvcmxk0gEA?oc=5",
+          "publishedOn": "2022-10-25T19:00:00.000Z",
+          "wordCount": 1348,
+          "title": "Lennart Poettering Talks Up A \"Brave New Trusted Boot World\" For Linux - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMigQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMTAyNTAwNjAwNy9lbi9DbG91ZExpbnV4LUFubm91bmNlcy1SZWxlYXNlLW9mLVByb2R1Y3Rpb24tUmVhZHktVmVyc2lvbi1vZi1BY2NlbGVyYXRlV1DSAQA",
+          "author": null,
+          "description": "CloudLinux Announces Release of Production Ready Version of AccelerateWP  Business Wire",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIyMTAyNTAwNjAwNy9lbi9DbG91ZExpbnV4LUFubm91bmNlcy1SZWxlYXNlLW9mLVByb2R1Y3Rpb24tUmVhZHktVmVyc2lvbi1vZi1BY2NlbGVyYXRlV1DSAQA?oc=5",
+          "publishedOn": "2022-10-25T18:53:00.000Z",
+          "wordCount": 2028,
+          "title": "CloudLinux Announces Release of Production Ready Version of AccelerateWP - Business Wire",
+          "imageUrl": "https://mms.businesswire.com/media/20221025006007/en/1613605/23/AWP_FREE_V1b_copy.jpg"
+        },
+        {
+          "id": "CAIiEPj8vQ5-MHn-dhwcIguBvf4qGQgEKhAIACoHCAowwsi0CzDP48sDMJDs0wc",
+          "author": null,
+          "description": "How to gain persistent SSH connections with the help of Mosh  TechRepublic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUGh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9nYWluLXBlcnNpc3RlbnQtc3NoLWNvbm5lY3Rpb25zLXVzaW5nLW1vc2gv0gEA?oc=5",
+          "publishedOn": "2022-10-25T18:11:00.000Z",
+          "wordCount": 6269,
+          "title": "How to gain persistent SSH connections with the help of Mosh - TechRepublic",
+          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/07/tips-securing-ssh-linux-servers.jpeg?x85972"
+        },
+        {
+          "id": "CAIiECu2dxqglAaBs0DCN6R4ceUqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
+          "author": null,
+          "description": "Ubuntu Studio is the Linux distribution for audio and video creators  ZDNet",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS1zdHVkaW8taXMtdGhlLWxpbnV4LWRpc3RyaWJ1dGlvbi1mb3ItYXVkaW8tYW5kLXZpZGVvLWNyZWF0b3JzL9IBAA?oc=5",
+          "publishedOn": "2022-10-25T17:23:43.000Z",
+          "wordCount": 10508,
+          "title": "Ubuntu Studio is the Linux distribution for audio and video creators - ZDNet",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/4501d11f49c66393eca3b69f7e0e6f85a2697f39/2020/12/09/0bca8d42-a19b-4183-be43-dedea3b2b9e7/istock-1218017051.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CAIiEOn4sE1CPacrxvhqyFUzPlMqGQgEKhAIACoHCAowwsi0CzDP48sDMMv2ywc",
+          "author": null,
+          "description": "How to create files from your clipboard in Linux  TechRepublic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9jcmVhdGUtZmlsZXMtY2xpcGJvYXJkLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2022-10-25T15:52:14.000Z",
+          "wordCount": 6100,
+          "title": "How to create files from your clipboard in Linux - TechRepublic",
+          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/10/create-files-clipboard-linux.jpeg?x85972"
+        },
+        {
+          "id": "CAIiELXjzJyDhUkNqtmMqmFndAMqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "Nobara Linux: A Bleeding-Edge Gaming Distro for Linux Beginners  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbm9iYXJhLWxpbnV4LWdhbWluZy1saW51eC1kaXN0cm8v0gEA?oc=5",
+          "publishedOn": "2022-10-25T15:45:00.000Z",
+          "wordCount": 2633,
+          "title": "Nobara Linux: A Bleeding-Edge Gaming Distro for Linux Beginners - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Nobara-Linux-gaming-controller.jpg"
+        },
+        {
+          "id": "CAIiEMERQbN9xFIMqYEs8_Azg0QqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
+          "author": null,
+          "description": "Update time for Ubuntu: last version of Linux kernel 5.19.17 hits  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEwLzI1L2xpbnV4X2tlcm5lbF81MTkxN191YnVudHUv0gEA?oc=5",
+          "publishedOn": "2022-10-25T15:31:43.000Z",
+          "wordCount": 1562,
+          "title": "Update time for Ubuntu: last version of Linux kernel 5.19.17 hits - The Register",
+          "imageUrl": "https://regmedia.co.uk/2021/07/14/shutterstock_software_update.jpg"
+        },
+        {
+          "id": "CAIiEEZFd0o9_GyPJWHGK8eAc88qFggEKg4IACoGCAowuvtAMIbACDCmkw8",
+          "author": null,
+          "description": "How to Use the dig Command in Linux  Make Tech Easier",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS91c2UtZGlnLWNvbW1hbmQtbGludXgv0gEA?oc=5",
+          "publishedOn": "2022-10-25T15:25:00.000Z",
+          "wordCount": 3074,
+          "title": "How to Use the dig Command in Linux - Make Tech Easier",
+          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/10/dig-command-featured.jpg"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtdmlydHVhbC1wcml2YXRlLXNlcnZlcnMtbWFya2V0LTE0MzcwMDE2MS5odG1s0gFbaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZ2xvYmFsLXZpcnR1YWwtcHJpdmF0ZS1zZXJ2ZXJzLW1hcmtldC0xNDM3MDAxNjEuaHRtbA",
+          "author": null,
+          "description": "Global Virtual Private Servers Market to Reach $10.9 Billion by 2027  Yahoo Finance",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtdmlydHVhbC1wcml2YXRlLXNlcnZlcnMtbWFya2V0LTE0MzcwMDE2MS5odG1s0gFbaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvZ2xvYmFsLXZpcnR1YWwtcHJpdmF0ZS1zZXJ2ZXJzLW1hcmtldC0xNDM3MDAxNjEuaHRtbA?oc=5",
+          "publishedOn": "2022-10-25T14:37:00.000Z",
+          "wordCount": 18034,
+          "title": "Global Virtual Private Servers Market to Reach $10.9 Billion by 2027 - Yahoo Finance",
+          "imageUrl": "https://s.yimg.com/uu/api/res/1.2/IN3_pUboxxFTZlP4bjcjcQ--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/4ce8962afb8a41766b626a7e61c8413f"
+        },
+        {
+          "id": "CAIiEKrD2o1lCBT3XIqsiiM1uLcqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "Ubuntu 22.10 Now Runs on Sipeed’s LicheeRV D1 RISC-V Linux Single-Board Computer  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjItMTAtbm93LXJ1bnMtb24tc2lwZWVkcy1saWNoZWVydi1kMS1yaXNjLXYtbGludXgtc2luZ2xlLWJvYXJkLWNvbXB1dGVy0gEA?oc=5",
+          "publishedOn": "2022-10-25T14:12:02.000Z",
+          "wordCount": 11237,
+          "title": "Ubuntu 22.10 Now Runs on Sipeed’s LicheeRV D1 RISC-V Linux Single-Board Computer - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/uslrvd.webp"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc3NTUxL2ZpbmRpbmctYW5kLWZpeGluZy10eXBvcy1vbi1saW51eC5odG1s0gFXaHR0cHM6Ly93d3cubmV0d29ya3dvcmxkLmNvbS9hcnRpY2xlLzM2Nzc1NTEvZmluZGluZy1hbmQtZml4aW5nLXR5cG9zLW9uLWxpbnV4LmFtcC5odG1s",
+          "author": null,
+          "description": "Finding and fixing typos on Linux  Network World",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjc3NTUxL2ZpbmRpbmctYW5kLWZpeGluZy10eXBvcy1vbi1saW51eC5odG1s0gFXaHR0cHM6Ly93d3cubmV0d29ya3dvcmxkLmNvbS9hcnRpY2xlLzM2Nzc1NTEvZmluZGluZy1hbmQtZml4aW5nLXR5cG9zLW9uLWxpbnV4LmFtcC5odG1s?oc=5",
+          "publishedOn": "2022-10-25T13:28:00.000Z",
+          "wordCount": 12233,
+          "title": "Finding and fixing typos on Linux - Network World",
+          "imageUrl": "https://images.idgesg.net/images/article/2019/06/linux-spelling-100798596-large.jpg?auto=webp&quality=85,70"
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1OZXdlci1ac3Rk0gEA",
+          "author": null,
+          "description": "Linux 6.2 Aims To Ship Updated Zstd Implementation  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1OZXdlci1ac3Rk0gEA?oc=5",
+          "publishedOn": "2022-10-25T10:24:00.000Z",
+          "wordCount": 1450,
+          "title": "Linux 6.2 Aims To Ship Updated Zstd Implementation - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL3NkbDEyLWNvbXBhdC0xLjIuNjDSAQA",
+          "author": null,
+          "description": "sdl12-compat 1.2.60 Gets More Old Games Running Atop SDL2 For Modern Linux Gaming  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL3NkbDEyLWNvbXBhdC0xLjIuNjDSAQA?oc=5",
+          "publishedOn": "2022-10-25T09:57:00.000Z",
+          "wordCount": 1392,
+          "title": "sdl12-compat 1.2.60 Gets More Old Games Running Atop SDL2 For Modern Linux Gaming - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEPJvHyj-r_n_ucZLpDeQ4IQqGQgEKhAIACoHCAowiemgCzCh87gDMPi-9gY",
+          "author": null,
+          "description": "Sony Adds Initial Linux Support for PS5's New DualSense Edge Controller  It's FOSS News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9zb255LWR1YWxzZW5zZS1lZGdlLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2022-10-25T09:56:29.000Z",
+          "wordCount": 871,
+          "title": "Sony Adds Initial Linux Support for PS5's New DualSense Edge Controller - It's FOSS News",
+          "imageUrl": "https://news.itsfoss.com/content/images/2022/10/linux-support-sony-new-ps5-controller.jpg"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9saW51eC1vcGVyYXRpbmctc3lzdGVtLW1hcmtldC12YWx1ZS10by1lc3RpbWF0ZS11cy0xOC03OC1iaWxsaW9uLWJ5LTIwMjjSAQA",
+          "author": null,
+          "description": "Linux Operating System Market Value to Estimate US $ 18.78 Billion by 2028  Digital Journal",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9saW51eC1vcGVyYXRpbmctc3lzdGVtLW1hcmtldC12YWx1ZS10by1lc3RpbWF0ZS11cy0xOC03OC1iaWxsaW9uLWJ5LTIwMjjSAQA?oc=5",
+          "publishedOn": "2022-10-25T09:56:04.000Z",
+          "wordCount": 4053,
+          "title": "Linux Operating System Market Value to Estimate US $ 18.78 Billion by 2028 - Digital Journal",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEEgtpaNolvOeZzI2tsKWyocqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
+          "author": null,
+          "description": "Lash#Cat9: A radical new Linux UI for keyboard warriors  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEwLzI1L2xhc2hjYXQ5X2xpbnV4X3VpL9IBAA?oc=5",
+          "publishedOn": "2022-10-25T09:37:00.000Z",
+          "wordCount": 1829,
+          "title": "Lash#Cat9: A radical new Linux UI for keyboard warriors - The Register",
+          "imageUrl": "https://regmedia.co.uk/2016/08/08/command_line_shutterstock.jpg"
+        },
+        {
+          "id": "CAIiEPJo1jCnWhJnAXXFFl24NMcqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "TUXEDO InfinityBook Pro 16 Gen7 Linux Laptop Launches with 240Hz Display, DDR5 RAM  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8taW5maW5pdHlib29rLXByby0xNi1nZW43LWxpbnV4LWxhcHRvcC1sYXVuY2hlcy13aXRoLTI0MGh6LWRpc3BsYXktZGRyNS1yYW3SAQA?oc=5",
+          "publishedOn": "2022-10-25T07:53:53.000Z",
+          "wordCount": 11432,
+          "title": "TUXEDO InfinityBook Pro 16 Gen7 Linux Laptop Launches with 240Hz Display, DDR5 RAM - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/tibp167.webp"
+        },
+        {
+          "id": "CAIiEA9soC1nDci4SVl5-TGHWFMqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRwwmrfrBg",
+          "author": null,
+          "description": "Linus Torvalds suggests the 80486 architecture belongs in a museum, not the Linux kernel  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEwLzI1LzQ4Nl9zdXBwb3J0X2xpbnV4X2tlcm5lbF9lbmRpbmcv0gEA?oc=5",
+          "publishedOn": "2022-10-25T06:56:00.000Z",
+          "wordCount": 1457,
+          "title": "Linus Torvalds suggests the 80486 architecture belongs in a museum, not the Linux kernel - The Register",
+          "imageUrl": "https://regmedia.co.uk/2018/09/25/shutterstock_dusty_old_computer.jpg"
+        },
         {
           "id": "CAIiEOi3DyKvoWM5F92yC3Egm3UqGQgEKhAIACoHCAowlsOhCzCuzbkDMPPJ-QY",
           "author": null,
@@ -4666,6 +5016,16 @@
           "imageUrl": "https://www.cnx-software.com/wp-content/uploads/2022/10/NVIDIA-Jetson-Xavier-NX-mini-PC.jpg"
         },
         {
+          "id": "CAIiEHxG-d0aAj3Z1Pdee0kPhrcqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
+          "author": null,
+          "description": "Linus Torvalds to kernel devs: Grow up and stop pulling all-nighters just before deadline  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEwLzE3L2xpbnV4XzZfMV9yYzEv0gEA?oc=5",
+          "publishedOn": "2022-10-17T07:00:00.000Z",
+          "wordCount": 1615,
+          "title": "Linus Torvalds to kernel devs: Grow up and stop pulling all-nighters just before deadline - The Register",
+          "imageUrl": "https://regmedia.co.uk/2021/04/21/shutterstock_1060422422.jpg"
+        },
+        {
           "id": "CBMi0QFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvZ2xvYmFsLWxpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXByb2R1Y3Rpb24tY2FwYWNpdHktZXN0aW1hdGVzLWFuZC1mb3JlY2FzdHMtdG8tMjAyOS1pbmR1c3RyeS1zaXplLWN1cnJlbnQtdHJlbmQtY29tcGV0aXRpb24tZ3Jvd3RoLXByb2R1Y3QtcHJpY2UtcHJvZml0LWFuZC1mdXR1cmUtZGVtYW5kc9IBAA",
           "author": null,
           "description": "Global Linux Operating System Market Production Capacity Estimates and Forecasts to 2029 | Industry Size, Current Trend, Competition, Growth, Product Price, Profit, and Future Demands  Digital Journal",
@@ -4794,6 +5154,16 @@
           "wordCount": 3964,
           "title": "Juno tablet runs Manjaro Linux or Mobian on a Celeron N5100 Jasper Lake CPU - CNX Software",
           "imageUrl": "https://www.cnx-software.com/wp-content/uploads/2022/10/Juno-Tablet.jpg"
+        },
+        {
+          "id": "CAIiEM5pWT324Am9d397c6u476UqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "Linus Torvalds Announces First Linux Kernel 6.1 Release Candidate  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51cy10b3J2YWxkcy1hbm5vdW5jZXMtZmlyc3QtbGludXgta2VybmVsLTYtMS1yZWxlYXNlLWNhbmRpZGF0ZdIBAA?oc=5",
+          "publishedOn": "2022-10-16T07:00:00.000Z",
+          "wordCount": 11321,
+          "title": "Linus Torvalds Announces First Linux Kernel 6.1 Release Candidate - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/lk61rc.webp"
         },
         {
           "id": "CAIiEEJGNo1VOEA9NSVQEGRjjmoqMwgEKioIACIQ0eiH5PzI_1DxDLCivZ3AaSoUCAoiENHoh-T8yP9Q8Qywor2dwGkws4zGBg",
@@ -7586,6 +7956,16 @@
           "imageUrl": null
         },
         {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1zaGFyZS1maWxlcy1mYXN0LWFuZC1lYXN5LW9uLWxpbnV4LXdpdGgtdnNlcnZlci_SAWtodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8tc2hhcmUtZmlsZXMtZmFzdC1hbmQtZWFzeS1vbi1saW51eC13aXRoLXZzZXJ2ZXIvYW1wLw",
+          "author": null,
+          "description": "Share files fast and easy on Linux with VServer  AddictiveTips",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1zaGFyZS1maWxlcy1mYXN0LWFuZC1lYXN5LW9uLWxpbnV4LXdpdGgtdnNlcnZlci_SAWtodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8tc2hhcmUtZmlsZXMtZmFzdC1hbmQtZWFzeS1vbi1saW51eC13aXRoLXZzZXJ2ZXIvYW1wLw?oc=5",
+          "publishedOn": "2022-09-29T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Share files fast and easy on Linux with VServer - AddictiveTips",
+          "imageUrl": null
+        },
+        {
           "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuNy03NzAweNIBAA",
           "author": null,
           "description": "AMD Ryzen 7 7700X Linux Performance Review  Phoronix",
@@ -7804,106 +8184,6 @@
           "wordCount": 2799,
           "title": "Linux Fu: Atomic Power - Hackaday",
           "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tNzkwMC1zZXJpZXMtZ2FtaW5n0gEA",
-          "author": null,
-          "description": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tNzkwMC1zZXJpZXMtZ2FtaW5n0gEA?oc=5",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1628,
-          "title": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEEzJpRIkKtqg6YDXD43dl7MqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
-          "author": null,
-          "description": "Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays  The Register",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzA5LzI2L2xpbnV4XzZfcmM3L9IBAA?oc=5",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1420,
-          "title": "Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays - The Register",
-          "imageUrl": "https://regmedia.co.uk/2022/02/14/shutterstock_penguin_and_young.jpg"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8wOS8yMC15ZWFyLW9sZC1saW51eC13b3JrYXJvdW5kLWlzLXN0aWxsLXNsb3dpbmctZG93bi1hbWQtc3lzdGVtcy_SAW1odHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMDkvMjAteWVhci1vbGQtbGludXgtd29ya2Fyb3VuZC1pcy1zdGlsbC1zbG93aW5nLWRvd24tYW1kLXN5c3RlbXMvP2FtcD0x",
-          "author": null,
-          "description": "20-year-old Linux workaround is still slowing down AMD systems  Ars Technica",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8wOS8yMC15ZWFyLW9sZC1saW51eC13b3JrYXJvdW5kLWlzLXN0aWxsLXNsb3dpbmctZG93bi1hbWQtc3lzdGVtcy_SAW1odHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMDkvMjAteWVhci1vbGQtbGludXgtd29ya2Fyb3VuZC1pcy1zdGlsbC1zbG93aW5nLWRvd24tYW1kLXN5c3RlbXMvP2FtcD0x?oc=5",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1522,
-          "title": "20-year-old Linux workaround is still slowing down AMD systems - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1160287370-760x380.jpg"
-        },
-        {
-          "id": "CAIiEGzohYDNgChE2w41CjRjOP4qGQgEKhAIACoHCAow-vmECzDCg4IDMMWChQY",
-          "author": null,
-          "description": "Linux Fu: Atomic Power  Hackaday",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjIvMDkvMjYvbGludXgtZnUtYXRvbWljLXBvd2VyL9IBAA?oc=5",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 2776,
-          "title": "Linux Fu: Atomic Power - Hackaday",
-          "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuLTc5MDB4LTc5NTB4LWxpbnV40gEA",
-          "author": null,
-          "description": "AMD Ryzen 9 7900X / Ryzen 9 7950X Benchmarks Show Impressive Zen 4 Linux Performance Review  Phoronix",
-          "link": "https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1814,
-          "title": "AMD Ryzen 9 7900X / Ryzen 9 7950X Benchmarks Show Impressive Zen 4 Linux Performance Review - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEBiYY3Dstgwwh9NTdRHGO5AqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "How to Install and Use Thunderbird on Linux  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/how-to-install-thunderbird-on-linux/",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 2673,
-          "title": "How to Install and Use Thunderbird on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/how-to-install-and-use-thunderbird-on-linux.jpeg"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8wOS8yMC15ZWFyLW9sZC1saW51eC13b3JrYXJvdW5kLWlzLXN0aWxsLXNsb3dpbmctZG93bi1hbWQtc3lzdGVtcy_SAW1odHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMDkvMjAteWVhci1vbGQtbGludXgtd29ya2Fyb3VuZC1pcy1zdGlsbC1zbG93aW5nLWRvd24tYW1kLXN5c3RlbXMvP2FtcD0x",
-          "author": null,
-          "description": "20-year-old Linux workaround is still slowing down AMD systems  Ars Technica",
-          "link": "https://arstechnica.com/gadgets/2022/09/20-year-old-linux-workaround-is-still-slowing-down-amd-systems/",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1521,
-          "title": "20-year-old Linux workaround is still slowing down AMD systems - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1160287370-760x380.jpg"
-        },
-        {
-          "id": "CAIiEEzJpRIkKtqg6YDXD43dl7MqMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
-          "author": null,
-          "description": "Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays  The Register",
-          "link": "https://www.theregister.com/2022/09/26/linux_6_rc7/",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1313,
-          "title": "Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays - The Register",
-          "imageUrl": "https://regmedia.co.uk/2022/02/14/shutterstock_penguin_and_young.jpg"
-        },
-        {
-          "id": "CAIiEETUhqXaU_Zo3ZBK5x351EsqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
-          "author": null,
-          "description": "Blizzard don't officially support Steam Deck / Linux but they still fix issues for it  GamingOnLinux",
-          "link": "https://www.gamingonlinux.com/2022/09/blizzard-may-not-support-steam-deck-linux-but-they-still-fix-issues-for-it/",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1734,
-          "title": "Blizzard don't officially support Steam Deck / Linux but they still fix issues for it - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2132720876id21648gol.jpg"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tNzkwMC1zZXJpZXMtZ2FtaW5n0gEA",
-          "author": null,
-          "description": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review  Phoronix",
-          "link": "https://www.phoronix.com/review/ryzen-7900-series-gaming",
-          "publishedOn": "2022-09-26T07:00:00.000Z",
-          "wordCount": 1613,
-          "title": "AMD Ryzen 9 7900X / 7950X Linux Gaming Performance Review - Phoronix",
-          "imageUrl": null
         }
       ]
     },
@@ -7912,6 +8192,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374690",
+          "author": "Brecht De Ruyte",
+          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
+          "publishedOn": "2022-10-25T14:15:17.000Z",
+          "wordCount": 2320,
+          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
+        },
         {
           "id": "https://css-tricks.com/?p=374364",
           "author": "Sacha Greif",
@@ -8121,16 +8411,6 @@
           "wordCount": 2639,
           "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373403",
-          "author": "Temani Afif",
-          "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/",
-          "publishedOn": "2022-09-26T13:13:30.000Z",
-          "wordCount": 4032,
-          "title": "How to Create Wavy Shapes & Patterns in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
         }
       ]
     },
@@ -8393,21 +8673,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
-          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "publishedOn": "2022-09-26T10:30:00.000Z",
-          "wordCount": 3158,
-          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
         }
       ]
     },
@@ -8416,6 +8681,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
+          "link": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "publishedOn": "2022-10-25T20:37:45.000Z",
+          "wordCount": 1725,
+          "title": "How the Python Lambda Function Works – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-45246--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "author": "Sharvin Shah",
+          "description": "Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "publishedOn": "2022-10-25T16:30:14.000Z",
+          "wordCount": 6999,
+          "title": "How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Add-a-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "author": "Quincy Larson",
+          "description": "Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "publishedOn": "2022-10-25T13:52:49.000Z",
+          "wordCount": 2035,
+          "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
           "author": "Atta ✨",
