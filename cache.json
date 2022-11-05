@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=17508",
+          "author": "Linux Explorer",
+          "description": "Lutris is designed as a game manager for Linux systems, and with it, you get an easy time installing and enjoying games on Ubuntu.",
+          "link": "https://linuxhint.com/install-lutris-an-open-gaming-platform-for-linux/",
+          "publishedOn": "2022-11-04T18:23:22.000Z",
+          "wordCount": 15922,
+          "title": "How to Install Lutris Gaming on Ubuntu 22.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=19860",
+          "author": "Linux Explorer",
+          "description": "Practical tutorial on how to use the various utilities of OProfile package to monitor the user’s system performance and how to use the utility for profiling.",
+          "link": "https://linuxhint.com/oprofile-tutorial/",
+          "publishedOn": "2022-11-04T13:56:02.000Z",
+          "wordCount": 15866,
+          "title": "OProfile Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=18176",
+          "author": "Dave Sumaylo",
+          "description": "KDE Plasma refers to the KDE desktop environment; it is an intuitive and easy-to-use desktop environment. How to install KDE Plasma on Ubuntu is discussed.",
+          "link": "https://linuxhint.com/install-kde-plasma-ubuntu/",
+          "publishedOn": "2022-11-04T03:35:58.000Z",
+          "wordCount": 16071,
+          "title": "How to Install KDE Plasma on Ubuntu 22.04",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=20316",
+          "author": "Dave Sumaylo",
+          "description": "Syslog is a protocol that communicates using port 514 via UDP and allows hosts to transmit logs to Syslog servers over the IP networks.",
+          "link": "https://linuxhint.com/syslog-tutorial/",
+          "publishedOn": "2022-11-03T19:43:34.000Z",
+          "wordCount": 16239,
+          "title": "Syslog Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=245722",
           "author": "Sam U",
           "description": "PIP is a Python package manager which can be installed using multiple methods on a Mac. This article mentions 4 different methods to install PIP on Mac.",
@@ -2180,26 +2220,6 @@
           "wordCount": 4571,
           "title": "Posix Mutex in C",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=42523",
-          "author": "Jerika Parungao",
-          "description": "The Bash sort command is used to sort a file's content and give output in the stdout. With sort, you can sort a file's contents alphabetically.",
-          "link": "https://linuxhint.com/bash_sort_command/",
-          "publishedOn": "2022-10-06T10:24:44.000Z",
-          "wordCount": 4194,
-          "title": "How to Use the Bash Sort Command",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=93723",
-          "author": "Cherry Mae Barolo",
-          "description": "In Linux, the \"apt-add-repository\" command is used to add a new repository to a system for installing any or all the packages belonging to that repository.",
-          "link": "https://linuxhint.com/apt-add-repository-command-not-found-debian/",
-          "publishedOn": "2022-10-06T09:20:34.000Z",
-          "wordCount": 3671,
-          "title": "“apt-add-repository” Command Not Found on Debian 11",
-          "imageUrl": null
         }
       ]
     },
@@ -2208,6 +2228,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180007",
+          "author": "Web Webster",
+          "description": "The Apache module mod_wsgi provides an interface for hosting Python-based web applications. In this tutorial, we will show you how to install and configure of mod_wsgi using Apache web server on Ubuntu 22.04 LTS.\nThe post How to Run Python Scripts With Apache and mod_wsgi on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/run-python-scripts-apache-mod-wsgi-ubuntu-22-04/",
+          "publishedOn": "2022-11-05T02:00:33.000Z",
+          "wordCount": 16536,
+          "title": "How to Run Python Scripts With Apache and mod_wsgi on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180006",
+          "author": "Web Webster",
+          "description": "In this tutorial, we’ll show you how to install the open-source forum phpBB on AlmaLinux 9 using the LAMP stack.\nThe post How to Install phpBB on AlmaLinux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-phpbb-almalinux-9/",
+          "publishedOn": "2022-11-05T00:00:50.000Z",
+          "wordCount": 16502,
+          "title": "How to Install phpBB on AlmaLinux 9",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180005",
+          "author": "Web Webster",
+          "description": "With the upcoming release, WirePlumber’s configuration system will be moving to a JSON syntax to define settings. Learn more about how this will bring a more unified configuration approach across the PipeWire ecosystem.\nThe post From Lua to JSON: Refactoring WirePlumber’s Configuration System appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/refactoring-wireplumbers-configuration-system/",
+          "publishedOn": "2022-11-04T22:00:43.000Z",
+          "wordCount": 16522,
+          "title": "From Lua to JSON: Refactoring WirePlumber’s Configuration System",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180003",
+          "author": "Web Webster",
+          "description": "In this tutorial, you’ll learn how to implement Perfect Forward Secrecy with the Nginx web-server on Debian and Ubuntu systems.\nThe post Implementing SSL Perfect Forward Secrecy in NGINX Web-Server appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/implement-ssl-perfect-forward-secrecy-nginx/",
+          "publishedOn": "2022-11-04T20:00:41.000Z",
+          "wordCount": 16515,
+          "title": "Implementing SSL Perfect Forward Secrecy in NGINX Web-Server",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180002",
+          "author": "Web Webster",
+          "description": "A proxy server is an intermediate server that sits between the client computer and the internet. In this tutorial, we will show you how to set up proxy settings and apt-proxy in Ubuntu 22.04 Server and Desktop system.\nThe post How to Set Up APT Proxy on Ubuntu 22.04 LTS appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/set-up-apt-proxy-ubuntu-22-04-lts/",
+          "publishedOn": "2022-11-04T18:00:39.000Z",
+          "wordCount": 16539,
+          "title": "How to Set Up APT Proxy on Ubuntu 22.04 LTS",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179997",
+          "author": "Web Webster",
+          "description": "Learn more about Ghostwriter, an open-source project management platform for managing clients, projects, reports, and infrastructure in one application.\nThe post Ghostwriter: Open-Source Project Management Platform for Pentesters appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/ghostwriter-open-source-project-management-platform-pentesters/",
+          "publishedOn": "2022-11-04T17:00:40.000Z",
+          "wordCount": 16518,
+          "title": "Ghostwriter: Open-Source Project Management Platform for Pentesters",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179996",
+          "author": "Web Webster",
+          "description": "Learn how to install and configure Tomcat 10.1 with Nginx for reverse proxy and Let’s Encrypt SSL certificate on AlmaLinux and Rocky Linux 9.\nThe post Set Up Tomcat, Nginx, and SSL on AlmaLinux and Rocky Linux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/set-up-tomcat-nginx-ssl-almalinux-rocky-linux-9/",
+          "publishedOn": "2022-11-04T16:00:53.000Z",
+          "wordCount": 16541,
+          "title": "Set Up Tomcat, Nginx, and SSL on AlmaLinux and Rocky Linux 9",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179985",
+          "author": "Web Webster",
+          "description": "Check out this review of Ubuntu Unity 22.10 Kinetic Kudu, which debuts as the official flavour, brings Unity7, and gives the best lightweight performance.\nThe post Ubuntu Unity 22.10 Review: A Promising ‘Official’ Start appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/ubuntu-unity-22-10-review/",
+          "publishedOn": "2022-11-04T15:00:48.000Z",
+          "wordCount": 16521,
+          "title": "Ubuntu Unity 22.10 Review: A Promising ‘Official’ Start",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179983",
+          "author": "Web Webster",
+          "description": "kmon is a text-based tool for managing Linux kernel modules and monitoring kernel activities. Learn more about how you can load, unload, and blacklist modules as well as show a module’s information with kmon.\nThe post Essential System Tools: Manage Linux Kernel Modules With kmon appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/kmon-manage-linux-kernel-modules/",
+          "publishedOn": "2022-11-04T14:00:42.000Z",
+          "wordCount": 16526,
+          "title": "Essential System Tools: Manage Linux Kernel Modules With kmon",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180104",
+          "author": "Lizz Edelstein",
+          "description": "Computer viruses and malware have been around since the early 1970’s. Explore the full history of viruses from then to now.\nThe post The History of Computer Viruses & Malware appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/history-computer-viruses-malware/",
+          "publishedOn": "2022-11-04T12:56:29.000Z",
+          "wordCount": 16504,
+          "title": "The History of Computer Viruses & Malware",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=179971",
           "author": "Web Webster",
@@ -4087,96 +4207,6 @@
           "wordCount": 16526,
           "title": "Wireshark 4.0 Released: World’s Most Popular Network Protocol Analyzer",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179631",
-          "author": "Web Webster",
-          "description": "The Linux “tar” command stands for tape archive, which is used by a large number of Linux/Unix system administrators to deal with tape drive backup in Linux. Use this guide for tar command examples in Linux.\nThe post [Updated] 21 Tar Command Examples in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/updated-21-tar-command-examples-in-linux/",
-          "publishedOn": "2022-10-06T02:00:19.000Z",
-          "wordCount": 16522,
-          "title": "[Updated] 21 Tar Command Examples in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179661",
-          "author": "Web Webster",
-          "description": "Redis is a shortcut for a remote dictionary server and an in-memory data structure store. Learn how to install Redis on Ubuntu 22.04 here.\nThe post How to Install and Secure Redis on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-and-secure-redis-on-ubuntu-22-04/",
-          "publishedOn": "2022-10-06T01:00:56.000Z",
-          "wordCount": 16525,
-          "title": "How to Install and Secure Redis on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179615",
-          "author": "Web Webster",
-          "description": "Debian is one of the most reliable, secure, and stable Linux distributions. Learn how to install Nginx, MariaDB, and PHP on Debian 11 here.\nThe post Install Nginx, MariaDB, and PHP (LEMP) on Debian 11 (Bullseye) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-nginx-mariadb-and-php-lemp-on-debian-11-bullseye/",
-          "publishedOn": "2022-10-06T00:00:59.000Z",
-          "wordCount": 16529,
-          "title": "Install Nginx, MariaDB, and PHP (LEMP) on Debian 11 (Bullseye)",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179724",
-          "author": "Web Webster",
-          "description": "WonderCMS is a content management system written in PHP that uses javascript, jQuery, and CSS. Learn how to install WonderCMS on Ubuntu 22.04 here.\nThe post How to Install WonderCMS on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-wondercms-on-ubuntu-22-04/",
-          "publishedOn": "2022-10-05T22:00:55.000Z",
-          "wordCount": 16532,
-          "title": "How to Install WonderCMS on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179635",
-          "author": "Web Webster",
-          "description": "This brief tutorial explains what JSLinux is and how to run Linux and other operating systems in your browser using JSLinux.\nThe post How to Run Linux in Your Browser Using JSLinux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-run-linux-in-your-browser-using-jslinux/",
-          "publishedOn": "2022-10-05T19:00:37.000Z",
-          "wordCount": 16524,
-          "title": "How to Run Linux in Your Browser Using JSLinux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179727",
-          "author": "Web Webster",
-          "description": "The Dissect framework enables data acquisition on thousands of systems within hours. Learn more about this open-source framework here.\nThe post Dissect: Open-Source Framework for Collecting, Analyzing Forensic Data appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/dissect-open-source-framework-for-collecting-analyzing-forensic-data/",
-          "publishedOn": "2022-10-05T18:00:43.000Z",
-          "wordCount": 16519,
-          "title": "Dissect: Open-Source Framework for Collecting, Analyzing Forensic Data",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179721",
-          "author": "Web Webster",
-          "description": "The next release of Debian Linux, Bookworm, will include proprietary drivers and firmware. Learn more here.\nThe post Debian Linux Accepts Proprietary Firmware in Major Policy Change appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/debian-linux-accepts-proprietary-firmware-in-major-policy-change/",
-          "publishedOn": "2022-10-05T17:00:25.000Z",
-          "wordCount": 16510,
-          "title": "Debian Linux Accepts Proprietary Firmware in Major Policy Change",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179719",
-          "author": "Web Webster",
-          "description": "Say hello to NVK, a brand new, open-source Vulkan driver for NVIDIA hardware in Mesa, written almost entirely from scratch using the new official headers from NVIDIA. Learn more here.\nThe post Introducing NVK, a New Open-Source Vulkan Driver for NVIDIA Hardware appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/introducing-nvk-a-new-open-source-vulkan-driver-for-nvidia-hardware/",
-          "publishedOn": "2022-10-05T16:00:43.000Z",
-          "wordCount": 16541,
-          "title": "Introducing NVK, a New Open-Source Vulkan Driver for NVIDIA Hardware",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179729",
-          "author": "Web Webster",
-          "description": "Announced by Canonical last year, Ubuntu Pro is an expanded security maintenance and compliance subscription as part of Ubuntu Advantage. Learn more about the new release here.\nThe post Canonical Launches Free Ubuntu Pro Subscriptions for Everyone appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/canonical-launches-free-ubuntu-pro-subscriptions-for-everyone/",
-          "publishedOn": "2022-10-05T15:07:13.000Z",
-          "wordCount": 16528,
-          "title": "Canonical Launches Free Ubuntu Pro Subscriptions for Everyone",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4185,6 +4215,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1aZW40LUF1dG9tYXRpYy1JQlJT0gEA",
+          "author": null,
+          "description": "AMD Posts Linux Patches For \"Automatic IBRS\" Feature New To Zen 4  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1aZW40LUF1dG9tYXRpYy1JQlJT0gEA?oc=5",
+          "publishedOn": "2022-11-04T22:34:00.000Z",
+          "wordCount": 1561,
+          "title": "AMD Posts Linux Patches For \"Automatic IBRS\" Feature New To Zen 4 - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vZ3Jhbml0ZWdlZWsuY29uY29yZG1vbml0b3IuY29tLzIwMjIvMTEvMDQvdm90aW5nLW1hY2hpbmVzLXVzaW5nLWxpbnV4LXRvLWJlLXRlc3RlZC1pbi1uaC_SAQA",
+          "author": null,
+          "description": "Voting machines using Linux to be tested in NH - Granite Geek  Concord Monitor",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vZ3Jhbml0ZWdlZWsuY29uY29yZG1vbml0b3IuY29tLzIwMjIvMTEvMDQvdm90aW5nLW1hY2hpbmVzLXVzaW5nLWxpbnV4LXRvLWJlLXRlc3RlZC1pbi1uaC_SAQA?oc=5",
+          "publishedOn": "2022-11-04T20:22:50.000Z",
+          "wordCount": 2454,
+          "title": "Voting machines using Linux to be tested in NH - Granite Geek - Concord Monitor",
+          "imageUrl": "https://granitegeek.concordmonitor.com/wp-content/uploads/2022/11/VotingWorks-machine-web.jpeg"
+        },
+        {
+          "id": "CAIiEASJNr6FgmF_buMykd3yqpQqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Dota 2 set to remove OpenGL support, new hero announced and more  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTEvZG90YS0yLXNldC10by1yZW1vdmUtb3BlbmdsLXN1cHBvcnQtbmV3LWhlcm8tYW5ub3VuY2VkLWFuZC1tb3JlL9IBAA?oc=5",
+          "publishedOn": "2022-11-04T19:37:13.000Z",
+          "wordCount": 1137,
+          "title": "Dota 2 set to remove OpenGL support, new hero announced and more - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/992185920id21846gol.jpg"
+        },
+        {
+          "id": "CAIiEE4GIwcl1Q2ibMyresrBuQ8qGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Install VirtualBox Guest Additions on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW5zdGFsbC12aXJ0dWFsYm94LWd1ZXN0LWFkZGl0aW9ucy1vbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2022-11-04T16:00:00.000Z",
+          "wordCount": 2705,
+          "title": "How to Install VirtualBox Guest Additions on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-guest-additions-on-Linux.jpg"
+        },
+        {
+          "id": "CAIiEICUTlttGa6ZS51GApsfwnMqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Create Better Linux Terminal GIFs With VHS  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vY3JlYXRlLWxpbnV4LXRlcm1pbmFsLWdpZnMtd2l0aC12aHMv0gEA?oc=5",
+          "publishedOn": "2022-11-04T13:45:00.000Z",
+          "wordCount": 2665,
+          "title": "How to Create Better Linux Terminal GIFs With VHS - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Laptop-Terminal-Code-1.jpg"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUFETC1OLVJQTC1QLUVQQi1UdW5pbmfSAQA",
+          "author": null,
+          "description": "Linux Patch Pending To Help Lower Alder Lake N & Raptor Lake P Power Consumption  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUFETC1OLVJQTC1QLUVQQi1UdW5pbmfSAQA?oc=5",
+          "publishedOn": "2022-11-04T13:00:00.000Z",
+          "wordCount": 1347,
+          "title": "Linux Patch Pending To Help Lower Alder Lake N & Raptor Lake P Power Consumption - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEE-MVDiTJvQGThkgSiOtfEgqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Star Labs new StarFighter sounds like a great Linux laptop  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTEvc3Rhci1sYWJzLW5ldy1zdGFyZmlnaHRlci1zb3VuZHMtbGlrZS1hLWdyZWF0LWxpbnV4LWxhcHRvcC_SAQA?oc=5",
+          "publishedOn": "2022-11-04T12:10:56.000Z",
+          "wordCount": 1587,
+          "title": "Star Labs new StarFighter sounds like a great Linux laptop - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2054198442id21844gol.jpg"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xMVk0tQk9MVC1EZWZhdWx0LVRlc3QtUmVsZWFzZXPSAQA",
+          "author": null,
+          "description": "LLVM's BOLT Flipped On By Default For Linux x86/AArch64 Test Releases  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xMVk0tQk9MVC1EZWZhdWx0LVRlc3QtUmVsZWFzZXPSAQA?oc=5",
+          "publishedOn": "2022-11-04T09:43:00.000Z",
+          "wordCount": 1304,
+          "title": "LLVM's BOLT Flipped On By Default For Linux x86/AArch64 Test Releases - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NCTC1NYXJpbmVyLTIuMC4yMDIyMTAyOdIBAA",
+          "author": null,
+          "description": "Microsoft Issues Big CBL-Mariner 2.0 Linux Distribution Update  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NCTC1NYXJpbmVyLTIuMC4yMDIyMTAyOdIBAA?oc=5",
+          "publishedOn": "2022-11-04T09:25:00.000Z",
+          "wordCount": 1254,
+          "title": "Microsoft Issues Big CBL-Mariner 2.0 Linux Distribution Update - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3Lm5leHRwaXQuY29tL2ZvcnVtLzgyMzM2MC9saW51eC1mb3VuZGF0aW9uLWNrYWQtZHVtcHMta25vdy10aGUtdmFsdWUtb2YtcmVhbC1ja2FkLWV4YW0tcXVlc3Rpb25z0gEA",
+          "author": null,
+          "description": "Linux Foundation CKAD Dumps - Know The Value Of Real CKAD Exam Questions  NextPit International",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3Lm5leHRwaXQuY29tL2ZvcnVtLzgyMzM2MC9saW51eC1mb3VuZGF0aW9uLWNrYWQtZHVtcHMta25vdy10aGUtdmFsdWUtb2YtcmVhbC1ja2FkLWV4YW0tcXVlc3Rpb25z0gEA?oc=5",
+          "publishedOn": "2022-11-04T06:53:49.000Z",
+          "wordCount": 4156,
+          "title": "Linux Foundation CKAD Dumps - Know The Value Of Real CKAD Exam Questions - NextPit International",
+          "imageUrl": null
+        },
         {
           "id": "CAIiEAAH823TYYI28Ls7AAHMYaYqFQgEKg0IACoGCAown-MCMNF3MLC_Aw",
           "author": null,
@@ -4344,6 +4474,16 @@
           "wordCount": 2025,
           "title": "Microsoft upgraded Xbox Cloud Gaming for Linux and ChromeOS (so Steam Deck too!) - GamingOnLinux",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/730560628id21834gol.jpg"
+        },
+        {
+          "id": "CAIiECvQUohuReRIkOMeBScFz3IqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Loading bigger libraries should be faster in the new Steam Deck Beta  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTEvbG9hZGluZy1iaWdnZXItbGlicmFyaWVzLXNob3VsZC1iZS1mYXN0ZXItaW4tdGhlLW5ldy1zdGVhbS1kZWNrLWJldGEv0gEA?oc=5",
+          "publishedOn": "2022-11-03T10:33:28.000Z",
+          "wordCount": 1377,
+          "title": "Loading bigger libraries should be faster in the new Steam Deck Beta - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
         },
         {
           "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05lc3RlZC1NUy1IeXBlcnZpc29yLUxpbnV40gEA",
@@ -4516,6 +4656,16 @@
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1283748542id21825gol.jpg"
         },
         {
+          "id": "CAIiEPyhEksg2KcXpETCQmYbZAAqGQgEKhAIACoHCAowiemgCzCh87gDMPi-9gY",
+          "author": null,
+          "description": "Linux Mint's Update Manager Now Supports Flatpak  It's FOSS News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9saW51eC1taW50LXVwZGF0ZS1tYW5hZ2VyL9IBAA?oc=5",
+          "publishedOn": "2022-11-02T01:49:15.000Z",
+          "wordCount": 1070,
+          "title": "Linux Mint's Update Manager Now Supports Flatpak - It's FOSS News",
+          "imageUrl": "https://news.itsfoss.com/content/images/2022/11/mint-updater-tool-flatpak-support.png"
+        },
+        {
           "id": "CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8yNzg3NTQ0L2dsb2JhbC1saW51eC1zb2Z0d2FyZS1tYXJrZXQtd2lsbC1yZWFjaC1hLXJldmlzZWQtc2l6ZS1vZi11c9IBX2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzI3ODc1NDQvZ2xvYmFsLWxpbnV4LXNvZnR3YXJlLW1hcmtldC13aWxsLXJlYWNoLWEtcmV2aXNlZC1zaXplLW9mLXVz",
           "author": null,
           "description": "Global Linux Software Market Will Reach A Revised Size Of Us$ 13840 Million By 2028, Growing At A Cagr Of 15.3  openPR",
@@ -4564,6 +4714,16 @@
           "wordCount": 1615,
           "title": "Intel Software Defined Silicon Linux Driver Sees Latest \"Intel On Demand\" Updates - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CAIiEMHnnnzY_8QEkLUUfiaOQyMqFQgEKg0IACoGCAown-MCMNF3MLC_Aw",
+          "author": null,
+          "description": "Linux Lite 6.2 Released, Based on Ubuntu 22.04.1 LTS  OMG! Ubuntu!",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIyLzExL2xpbnV4LWxpdGUtNi0yLXJlbGVhc2Vk0gEA?oc=5",
+          "publishedOn": "2022-11-01T18:27:26.000Z",
+          "wordCount": 1318,
+          "title": "Linux Lite 6.2 Released, Based on Ubuntu 22.04.1 LTS - OMG! Ubuntu!",
+          "imageUrl": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2022/11/Linux-Lite-Released.jpg"
         },
         {
           "id": "CBMifWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMi8xMS9vcGVuc3NsLTMtcGF0Y2gtb25jZS1jcml0aWNhbC1idXQtbm93LWp1c3QtaGlnaC1maXhlcy1idWZmZXItb3ZlcmZsb3cv0gGBAWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMi8xMS9vcGVuc3NsLTMtcGF0Y2gtb25jZS1jcml0aWNhbC1idXQtbm93LWp1c3QtaGlnaC1maXhlcy1idWZmZXItb3ZlcmZsb3cvYW1wLw",
@@ -9394,196 +9554,6 @@
           "wordCount": 1316,
           "title": "AMD Continues Working Toward HDR Display Support For The Linux Desktop - Phoronix",
           "imageUrl": null
-        },
-        {
-          "id": "CAIiEGSRCvuI-Xn7sKgPbd_6s0gqGQgEKhAIACoHCAow_uOmCzDm7r4DMOSDwQM",
-          "author": null,
-          "description": "How to install Deepin Terminal on Ubuntu 22.04 LTS  Linux Shout",
-          "link": "https://www.how2shout.com/linux/how-to-install-deepin-terminal-on-ubuntu-22-04-lts/",
-          "publishedOn": "2022-10-06T11:09:06.000Z",
-          "wordCount": 2262,
-          "title": "How to install Deepin Terminal on Ubuntu 22.04 LTS - Linux Shout",
-          "imageUrl": "https://www.how2shout.com/linux/wp-content/uploads/2022/10/Install-Deepin-terminal-on-Ubuntu-22.04-Linux.png"
-        },
-        {
-          "id": "CAIiECJcFeju5m7xuvKkGQhi5jsqMwgEKioIACIQTxXQSdKZdl0oVFWm9eMlYCoUCAoiEE8V0EnSmXZdKFRVpvXjJWAwyZP5Bg",
-          "author": null,
-          "description": "Best Trivia Games For Linux in 2022  BollyInside",
-          "link": "https://www.bollyinside.com/articles/best-trivia-game-for-linux/",
-          "publishedOn": "2022-10-06T10:50:32.000Z",
-          "wordCount": 20829,
-          "title": "Best Trivia Games For Linux in 2022 - BollyInside",
-          "imageUrl": "https://www.bollyinside.com/articles/wp-content/uploads/sites/4/2022/10/0-149.jpg"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLW9uZVZQTC0yMDIyLjLSAQA",
-          "author": null,
-          "description": "Intel Releases oneVPL 2022.2 With GPU Copy Improvements, Linux System Analyzer  Phoronix",
-          "link": "https://www.phoronix.com/news/Intel-oneVPL-2022.2",
-          "publishedOn": "2022-10-06T09:16:00.000Z",
-          "wordCount": 1350,
-          "title": "Intel Releases oneVPL 2022.2 With GPU Copy Improvements, Linux System Analyzer - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEN8gimxdoHvNbq4jikwp-QIqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
-          "author": null,
-          "description": "TUXEDO Computers Releases Live ISO of Its Ubuntu-Based TUXEDO OS Linux Distro  9to5Linux",
-          "link": "https://9to5linux.com/tuxedo-computers-releases-live-iso-of-its-ubuntu-based-tuxedo-os-linux-distro",
-          "publishedOn": "2022-10-06T07:09:49.000Z",
-          "wordCount": 11388,
-          "title": "TUXEDO Computers Releases Live ISO of Its Ubuntu-Based TUXEDO OS Linux Distro - 9to5Linux",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/txos.webp"
-        },
-        {
-          "id": "CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL9IBeWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL2FtcC8",
-          "author": null,
-          "description": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays  Ars Technica",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL9IBeWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL2FtcC8?oc=5",
-          "publishedOn": "2022-10-06T07:00:00.000Z",
-          "wordCount": 1531,
-          "title": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0281-760x380.jpeg"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy15b3UtY2FuLWJlbmNobWFyay15b3VyLWxpbnV4LW1pbnQtcGMv0gFdaHR0cHM6Ly93d3cuYWRkaWN0aXZldGlwcy5jb20vdWJ1bnR1LWxpbnV4LXRpcHMvaG93LXlvdS1jYW4tYmVuY2htYXJrLXlvdXItbGludXgtbWludC1wYy9hbXAv",
-          "author": null,
-          "description": "How you can benchmark your Linux Mint PC  AddictiveTips",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy15b3UtY2FuLWJlbmNobWFyay15b3VyLWxpbnV4LW1pbnQtcGMv0gFdaHR0cHM6Ly93d3cuYWRkaWN0aXZldGlwcy5jb20vdWJ1bnR1LWxpbnV4LXRpcHMvaG93LXlvdS1jYW4tYmVuY2htYXJrLXlvdXItbGludXgtbWludC1wYy9hbXAv?oc=5",
-          "publishedOn": "2022-10-06T07:00:00.000Z",
-          "wordCount": null,
-          "title": "How you can benchmark your Linux Mint PC - AddictiveTips",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL9IBe2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzLz9hbXA9MQ",
-          "author": null,
-          "description": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays  Ars Technica",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzL9IBe2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMC9saW51eC01LTE5LTIta2VybmVsLWNhbi1mbGlja2VyLWFuZC1kYW1hZ2Utc2NyZWVucy1vbi1zb21lLWludGVsLWdwdS1sYXB0b3BzLz9hbXA9MQ?oc=5",
-          "publishedOn": "2022-10-06T07:00:00.000Z",
-          "wordCount": 1521,
-          "title": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0281-760x380.jpeg"
-        },
-        {
-          "id": "CBMiJ2h0dHBzOi8vdGVjaHJlcG9ydC5jb20vYmVzdC1saW51eC12cG5zL9IBAA",
-          "author": null,
-          "description": "The Best Linux VPN in 2022 | Paid and Free Linux VPNs  The Tech Report",
-          "link": "https://techreport.com/best-linux-vpns/",
-          "publishedOn": "2022-10-06T07:00:00.000Z",
-          "wordCount": 7618,
-          "title": "The Best Linux VPN in 2022 | Paid and Free Linux VPNs - The Tech Report",
-          "imageUrl": "https://techreport.com/wp-content/uploads/2022/10/Best-Linux-VPN-TR.jpg"
-        },
-        {
-          "id": "CAIiECnHWSKWfD0PCesiKFkGkwQqMwgEKioIACIQTxXQSdKZdl0oVFWm9eMlYCoUCAoiEE8V0EnSmXZdKFRVpvXjJWAws9n0Bw",
-          "author": null,
-          "description": "How to Edit Linux Hosts File  BollyInside",
-          "link": "https://www.bollyinside.com/articles/how-to-edit-linux-hosts-file/",
-          "publishedOn": "2022-10-06T06:36:45.000Z",
-          "wordCount": 20464,
-          "title": "How to Edit Linux Hosts File - BollyInside",
-          "imageUrl": "https://www.bollyinside.com/articles/wp-content/uploads/sites/4/2022/10/How-to-Edit-Linux-Hosts-File.jpg"
-        },
-        {
-          "id": "CBMiHWh0dHBzOi8vaXRzZm9zcy5jb20vdG9wZ3JhZGUv0gEA",
-          "author": null,
-          "description": "Upgrade Various Kinds of Packages in Linux at Once With Topgrade  It's FOSS",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiHWh0dHBzOi8vaXRzZm9zcy5jb20vdG9wZ3JhZGUv0gEA?oc=5",
-          "publishedOn": "2022-10-06T05:00:31.000Z",
-          "wordCount": 7822,
-          "title": "Upgrade Various Kinds of Packages in Linux at Once With Topgrade - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/topgrade-cli-tool-ubuntu.png"
-        },
-        {
-          "id": "CBMiHWh0dHBzOi8vaXRzZm9zcy5jb20vdG9wZ3JhZGUv0gEA",
-          "author": null,
-          "description": "Upgrade Various Kinds of Packages in Linux at Once With Topgrade  It's FOSS",
-          "link": "https://itsfoss.com/topgrade/",
-          "publishedOn": "2022-10-06T05:00:31.000Z",
-          "wordCount": 7218,
-          "title": "Upgrade Various Kinds of Packages in Linux at Once With Topgrade - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/topgrade-cli-tool-ubuntu.png"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vcmVkbW9uZG1hZy5jb20vYXJ0aWNsZXMvMjAyMi8xMC8wNS9saW51eC1jbGllbnQtZGV2aWNlLW1hbmFnZW1lbnQtY29taW5nLXRvLW1pY3Jvc29mdC1pbnR1bmUuYXNweNIBAA",
-          "author": null,
-          "description": "Linux Client Device Management Coming to Microsoft Intune  Redmondmag.com",
-          "link": "https://redmondmag.com/articles/2022/10/05/linux-client-device-management-coming-to-microsoft-intune.aspx",
-          "publishedOn": "2022-10-05T23:32:34.000Z",
-          "wordCount": 2708,
-          "title": "Linux Client Device Management Coming to Microsoft Intune - Redmondmag.com",
-          "imageUrl": "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/REDMackie0613PeopleIT.jpg"
-        },
-        {
-          "id": "CAIiEDeuwsmyy-KgVWB4jRcNLMcqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "How to Manage Flatpak App Permissions on Linux With Flatseal  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/manage-flatpak-permissions-with-flatseal-linux/",
-          "publishedOn": "2022-10-05T21:00:00.000Z",
-          "wordCount": 2470,
-          "title": "How to Manage Flatpak App Permissions on Linux With Flatseal - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/smartmockups_kxyrp2h3_ccexpress.jpeg"
-        },
-        {
-          "id": "CAIiELpV3J32Gfcf8fqyv4cBi_4qMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
-          "author": null,
-          "description": "SUSE wheels out first public prototype of its server Linux distro, asks for feedback  The Register",
-          "link": "https://www.theregister.com/2022/10/05/suse_alp_v001/",
-          "publishedOn": "2022-10-05T18:45:00.000Z",
-          "wordCount": 1586,
-          "title": "SUSE wheels out first public prototype of its server Linux distro, asks for feedback - The Register",
-          "imageUrl": "https://regmedia.co.uk/2019/05/02/chameleon.jpg"
-        },
-        {
-          "id": "CAIiEGrbp19vshiPhH6gveDj5m0qGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
-          "author": null,
-          "description": "Humble have a nice list of classics in the RPG Legends bundle  GamingOnLinux",
-          "link": "https://www.gamingonlinux.com/2022/10/humble-have-a-nice-list-of-classics-in-the-rpg-legends-bundle/",
-          "publishedOn": "2022-10-05T18:29:15.000Z",
-          "wordCount": 1425,
-          "title": "Humble have a nice list of classics in the RPG Legends bundle - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/185065792id21700gol.jpg"
-        },
-        {
-          "id": "CBMihgFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMi8xMC8wNS8xNDEyNDgvaW50ZWwtbGFwdG9wLXVzZXJzLXNob3VsZC1hdm9pZC1saW51eC01MTkxMi10by1hdm9pZC1wb3RlbnRpYWxseS1kYW1hZ2luZy10aGUtZGlzcGxhedIBAA",
-          "author": null,
-          "description": "Intel Laptop Users Should Avoid Linux 5.19.12 To Avoid Potentially Damaging The Display - Slashdot  Slashdot",
-          "link": "https://linux.slashdot.org/story/22/10/05/141248/intel-laptop-users-should-avoid-linux-51912-to-avoid-potentially-damaging-the-display",
-          "publishedOn": "2022-10-05T18:11:15.000Z",
-          "wordCount": 7772,
-          "title": "Intel Laptop Users Should Avoid Linux 5.19.12 To Avoid Potentially Damaging The Display - Slashdot - Slashdot",
-          "imageUrl": "https://a.fsdn.com/sd/topics/intel_64.png"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vdGVjaGdlbml4LmNvbS9taWNyb3NvZnQtcG93ZXJzaGVsbC1jb3JlLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "How to Use Microsoft PowerShell Core on Linux Virtual Machines  TechGenix",
-          "link": "https://techgenix.com/microsoft-powershell-core-linux/",
-          "publishedOn": "2022-10-05T18:09:35.000Z",
-          "wordCount": 5704,
-          "title": "How to Use Microsoft PowerShell Core on Linux Virtual Machines - TechGenix",
-          "imageUrl": "https://techgenix.com/tgwordpress/wp-content/uploads/2022/10/How-to-Use-Microsoft-PowerShell-Core-on-Linux-Virtual-Machines.jpg"
-        },
-        {
-          "id": "CAIiEAtoB_S-dygvuahCVFG3qhoqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
-          "author": null,
-          "description": "Go tell Bungie you want Destiny 2 on Steam Deck / Linux  GamingOnLinux",
-          "link": "https://www.gamingonlinux.com/2022/10/go-tell-bungie-you-want-destiny-2-on-steam-deck-linux/",
-          "publishedOn": "2022-10-05T16:55:50.000Z",
-          "wordCount": 1818,
-          "title": "Go tell Bungie you want Destiny 2 on Steam Deck / Linux - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2109954156id21699gol.jpg"
-        },
-        {
-          "id": "CBMiigFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tZW5lcmd5LWdhaW5zLW1vcmUtaW5kdXN0cnktc3VwcG9ydC10by1kcml2ZS10aGUtZW5lcmd5LXRyYW5zaXRpb24tMzAxNjQxNjQwLmh0bWzSAQA",
-          "author": null,
-          "description": "Linux Foundation Energy Gains More Industry Support to Drive the Energy Transition  PR Newswire",
-          "link": "https://www.prnewswire.com/news-releases/linux-foundation-energy-gains-more-industry-support-to-drive-the-energy-transition-301641640.html",
-          "publishedOn": "2022-10-05T14:22:00.000Z",
-          "wordCount": 2215,
-          "title": "Linux Foundation Energy Gains More Industry Support to Drive the Energy Transition - PR Newswire",
-          "imageUrl": "https://mma.prnewswire.com/media/1783781/logo_lfe_clr_Logo.jpg?p=facebook"
         }
       ]
     },
@@ -9592,6 +9562,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374894",
+          "author": "Geoff Graham",
+          "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-couple-changes-coming-in-chrome-108/",
+          "publishedOn": "2022-11-04T13:13:08.000Z",
+          "wordCount": 1282,
+          "title": "A Couple Changes Coming in Chrome 108",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
+        },
         {
           "id": "https://css-tricks.com/?p=374731",
           "author": "Aisha Bukar",
@@ -9801,16 +9781,6 @@
           "wordCount": 3088,
           "title": "Adding Fluid Typography Support to WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373905"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373798",
-          "author": "Lorenzo Bonannella",
-          "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
-          "publishedOn": "2022-10-06T12:54:53.000Z",
-          "wordCount": 2194,
-          "title": "How to Safely Share Your Email Address on a Website",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
         }
       ]
     },
@@ -9819,6 +9789,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "author": "hello@smashingmagazine.com (Siobhan McKeown)",
+          "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
+          "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "publishedOn": "2022-11-04T09:00:00.000Z",
+          "wordCount": 6373,
+          "title": "Practical Steps To Build Transparency In Your Remote Business",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -9878,6 +9863,21 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "author": "hello@smashingmagazine.com (Yosra Emad)",
+          "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
+          "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "publishedOn": "2022-10-29T12:00:00.000Z",
+          "wordCount": 4628,
+          "title": "How To Create Advanced Animations With CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
@@ -10066,6 +10066,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about the \"TypeError: 'module' object is not callable\" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.",
+          "link": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
+          "publishedOn": "2022-11-04T22:17:35.000Z",
+          "wordCount": 1477,
+          "title": "TypeError: module object is not callable [Python Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
+          "author": "Edan Ben-Atar",
+          "description": "Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious",
+          "link": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
+          "publishedOn": "2022-11-04T21:44:34.000Z",
+          "wordCount": 2120,
+          "title": "Tailwind CSS Landing Page Themes for Busy Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-gdtography-911758.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-case-statement/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.",
+          "link": "https://www.freecodecamp.org/news/sql-case-statement/",
+          "publishedOn": "2022-11-04T14:28:57.000Z",
+          "wordCount": 2097,
+          "title": "How to Use the SQL CASE Statement – with Example Challenge",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Sql-case-banner.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/",
           "author": "Ihechikara Vincent Abba",
@@ -11075,56 +11105,6 @@
           "wordCount": 1730,
           "title": "Learn PyTorch for Deep Learning – Free 26-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pytorch24.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-helmet-examples/",
-          "author": "Scott Gary",
-          "description": "Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO",
-          "link": "https://www.freecodecamp.org/news/react-helmet-examples/",
-          "publishedOn": "2022-10-05T16:36:10.000Z",
-          "wordCount": 1799,
-          "title": "How to Use React Helmet – With Example Use Case",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/react-head-examples.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
-          "author": "Kolade Chris",
-          "description": "In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure",
-          "link": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
-          "publishedOn": "2022-10-05T16:26:42.000Z",
-          "wordCount": 1424,
-          "title": "VLOOKUP in Excel – Formula and Example Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/vlookup.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
-          "author": "Oluwatobi Sofela",
-          "description": "Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.",
-          "link": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
-          "publishedOn": "2022-10-05T16:06:29.000Z",
-          "wordCount": 3208,
-          "title": "JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/programming-image-by-mohamed-hassan-from-pixabay-javascript-function-iffe-parameters-blocks-explained-codesweetly.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
-          "author": "Joel Olawanle",
-          "description": "An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various",
-          "link": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
-          "publishedOn": "2022-10-05T15:00:53.000Z",
-          "wordCount": 2737,
-          "title": "Big O Cheat Sheet – Time Complexity Chart",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--12-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
-          "author": "Salim Oyinlola",
-          "description": "My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model",
-          "link": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
-          "publishedOn": "2022-10-05T14:37:09.000Z",
-          "wordCount": 2604,
-          "title": "How to Validate your Machine Learning Models Using TensorFlow Model Analysis",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159275.jpg"
         }
       ]
     }
