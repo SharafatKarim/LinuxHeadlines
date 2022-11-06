@@ -2200,26 +2200,6 @@
           "wordCount": 5090,
           "title": "VirtualBox: Beginners Guide and How to Setup Ubuntu Virtual Machine",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=100026",
-          "author": "Cherry Mae Barolo",
-          "description": "This article explains the Fsync() system call or function flushes (passes) all the updates to the disk to reflect the changes made to a file.",
-          "link": "https://linuxhint.com/use-fsync-system-call-c/",
-          "publishedOn": "2022-10-06T15:54:34.000Z",
-          "wordCount": 4399,
-          "title": "Fsync System Call in C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=87999",
-          "author": "Jerika Parungao",
-          "description": "Mutex, which refers to mutual exclusion, gives us a deadbolt lock that stops several users from simultaneously accessing and modifying the crucial data.",
-          "link": "https://linuxhint.com/posix-mutex-with-c-programming/",
-          "publishedOn": "2022-10-06T14:38:42.000Z",
-          "wordCount": 4571,
-          "title": "Posix Mutex in C",
-          "imageUrl": null
         }
       ]
     },
@@ -2228,6 +2208,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180019",
+          "author": "Web Webster",
+          "description": "Virtualization can be one of your greatest friends, whether you’re an IT expert, a programmer, or an IT novice. In this tutorial, you’ll learn how to intall QEMU/KVM on Ubuntu, so you can begin your virtualization journey.\nThe post How to Install QEMU/KVM on Ubuntu to Create Virtual Machines appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-qemu-kvm-ubuntu-create-virtual-machines/",
+          "publishedOn": "2022-11-05T21:00:54.000Z",
+          "wordCount": 16533,
+          "title": "How to Install QEMU/KVM on Ubuntu to Create Virtual Machines",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180014",
+          "author": "Web Webster",
+          "description": "In this latest step-by-step guide, we will show you how to install Oracle VirtualBox in Ubuntu and Linux Mint.\nThe post How to Install Oracle VirtualBox in Ubuntu and Linux Mint appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-oracle-virtualbox-ubuntu-linux-mint/",
+          "publishedOn": "2022-11-05T15:00:49.000Z",
+          "wordCount": 16527,
+          "title": "How to Install Oracle VirtualBox in Ubuntu and Linux Mint",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=180007",
           "author": "Web Webster",
@@ -4117,96 +4117,6 @@
           "wordCount": 16507,
           "title": "SparkyLinux 2022.10 Semi-Rolling Replaces LightDM with SDDM",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179722",
-          "author": "Web Webster",
-          "description": "Want to make your first Linux app using Flutter? Check out this guide that teaches you the basics you need to know.\nThe post How to Make Your First Linux App With Flutter appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-make-your-first-linux-app-with-flutter/",
-          "publishedOn": "2022-10-07T02:00:29.000Z",
-          "wordCount": 16526,
-          "title": "How to Make Your First Linux App With Flutter",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179683",
-          "author": "Web Webster",
-          "description": "In this article, we are going to learn how to use Ansible Vault to protect sensitive playbook data by encrypting the data in Linux. Learn more here.\nThe post How to Use Ansible Vault to Protect Sensitive Playbook Data appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-use-ansible-vault-to-protect-sensitive-playbook-data/",
-          "publishedOn": "2022-10-07T01:00:15.000Z",
-          "wordCount": 16536,
-          "title": "How to Use Ansible Vault to Protect Sensitive Playbook Data",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179742",
-          "author": "Web Webster",
-          "description": "In this tutorial, I will show you how to set up a Proxy on Ubuntu from the Settings app and the CLI. Learn more here.\nThe post How to Set Up a Proxy on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-set-up-a-proxy-on-ubuntu/",
-          "publishedOn": "2022-10-07T00:00:49.000Z",
-          "wordCount": 16540,
-          "title": "How to Set Up a Proxy on Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179680",
-          "author": "Web Webster",
-          "description": "This step-by-step guide walks you through how to install Nginx, MariaDB, and PHP (LEMP Stack) on Rocky Linux 9.\nThe post How to Install Nginx, MariaDB, and PHP on Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-nginx-mariadb-and-php-on-rocky-linux-9/",
-          "publishedOn": "2022-10-06T23:00:12.000Z",
-          "wordCount": 16537,
-          "title": "How to Install Nginx, MariaDB, and PHP on Rocky Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179646",
-          "author": "Web Webster",
-          "description": "In this article, we will demonstrate how to configure a Secure FTP server (vsftpd) with SSL/TLS encryption in Rocky Linux.\nThe post How to Secure FTP Server with SSL/TLS in Rocky Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-secure-ftp-server-with-ssl-tls-in-rocky-linux-2/",
-          "publishedOn": "2022-10-06T22:00:18.000Z",
-          "wordCount": 16535,
-          "title": "How to Secure FTP Server with SSL/TLS in Rocky Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179725",
-          "author": "Web Webster",
-          "description": "Microsoft Teams is a proprietary business communication platform. What are the best free and open source alternatives to Microsoft Teams? Learn more here.\nThe post Best Free and Open Source Alternatives to Microsoft Teams appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-microsoft-teams/",
-          "publishedOn": "2022-10-06T21:00:51.000Z",
-          "wordCount": 16544,
-          "title": "Best Free and Open Source Alternatives to Microsoft Teams",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179740",
-          "author": "Web Webster",
-          "description": "Previously only available pre-installed on the company’s Linux-powered notebooks, TUXEDO OS is now also available for download as an ISO image, just like 99.9% percent of the GNU/Linux distributions on the market. Learn more here.\nThe post TUXEDO Computers Releases Live ISO of TUXEDO OS Linux Distro appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/tuxedo-computers-releases-live-iso-of-tuxedo-os-linux-distro/",
-          "publishedOn": "2022-10-06T20:00:51.000Z",
-          "wordCount": 16547,
-          "title": "TUXEDO Computers Releases Live ISO of TUXEDO OS Linux Distro",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179737",
-          "author": "Web Webster",
-          "description": "Fedora and openSUSE are dropping H.264, H.265, and VC-1 VA-API video codecs support from Mesa to avoid potential license issues. Learn more here.\nThe post Fedora and openSUSE Are Dropping Support for Some Video Codecs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fedora-and-opensuse-are-dropping-support-for-some-video-codecs/",
-          "publishedOn": "2022-10-06T19:00:24.000Z",
-          "wordCount": 16531,
-          "title": "Fedora and openSUSE Are Dropping Support for Some Video Codecs",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179739",
-          "author": "Web Webster",
-          "description": "Major highlights of the Wireshark 4.0 release include a more powerful display filter syntax and redesigned dialogs. Learn more here.\nThe post Wireshark 4.0 Released: World’s Most Popular Network Protocol Analyzer appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/wireshark-4-0-released-worlds-most-popular-network-protocol-analyzer/",
-          "publishedOn": "2022-10-06T18:15:32.000Z",
-          "wordCount": 16526,
-          "title": "Wireshark 4.0 Released: World’s Most Popular Network Protocol Analyzer",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4215,6 +4125,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CAIiEDb5yfh77JXj3VYJjeLGy54qGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
+          "author": null,
+          "description": "How to Use diff to Compare Text Files in the Linux Terminal  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vY29tcGFyZS10ZXh0LWZpbGVzLW9uLWxpbnV4LXdpdGgtZGlmZi_SAQA?oc=5",
+          "publishedOn": "2022-11-05T20:00:00.000Z",
+          "wordCount": 2084,
+          "title": "How to Use diff to Compare Text Files in the Linux Terminal - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/woman-comparing-documents.jpg"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vY3JlYXRlLWEtbG9jYWwtZ2l0LXJlcG9zaXRvcnktb24tbGludXgtd2l0aC10aGUtaGVscC1vZi1zc2gv0gEA",
+          "author": null,
+          "description": "Create a Local Git Repository on Linux with the Help of SSH  thenewstack.io",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vY3JlYXRlLWEtbG9jYWwtZ2l0LXJlcG9zaXRvcnktb24tbGludXgtd2l0aC10aGUtaGVscC1vZi1zc2gv0gEA?oc=5",
+          "publishedOn": "2022-11-05T13:05:30.000Z",
+          "wordCount": null,
+          "title": "Create a Local Git Repository on Linux with the Help of SSH - thenewstack.io",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUlCVC1CeS1EZWZhdWx0LVRpcNIBAA",
+          "author": null,
+          "description": "Linux Moving Ahead With Enabling Kernel IBT By Default  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUlCVC1CeS1EZWZhdWx0LVRpcNIBAA?oc=5",
+          "publishedOn": "2022-11-05T11:00:00.000Z",
+          "wordCount": 1418,
+          "title": "Linux Moving Ahead With Enabling Kernel IBT By Default - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEIHku6mrWQ0YbMG14Ww3RmAqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "LXQt 1.2 Desktop Environment Released with Initial Wayland Support, Various Improvements  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9seHF0LTEtMi1kZXNrdG9wLWVudmlyb25tZW50LXJlbGVhc2VkLXdpdGgtaW5pdGlhbC13YXlsYW5kLXN1cHBvcnQtdmFyaW91cy1pbXByb3ZlbWVudHPSAQA?oc=5",
+          "publishedOn": "2022-11-05T10:44:33.000Z",
+          "wordCount": 11433,
+          "title": "LXQt 1.2 Desktop Environment Released with Initial Wayland Support, Various Improvements - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/11/lxqt121.webp"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1BTURHUFUtQ2hhbmdlc9IBAA",
+          "author": null,
+          "description": "Linux 6.2 AMDGPU Driver Gets Newer GPUs Working On Arm, SR-IOV Fixes For RDNA3/GFX11  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1BTURHUFUtQ2hhbmdlc9IBAA?oc=5",
+          "publishedOn": "2022-11-05T10:02:00.000Z",
+          "wordCount": 1463,
+          "title": "Linux 6.2 AMDGPU Driver Gets Newer GPUs Working On Arm, SR-IOV Fixes For RDNA3/GFX11 - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEB2o8J6xveBBt5t-Zzrxwy0qGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
+          "author": null,
+          "description": "Get some quality titles like Frostpunk and Children of Morta in the 11bit bundle  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTEvZ2V0LXNvbWUtcXVhbGl0eS10aXRsZXMtbGlrZS1mcm9zdHB1bmstYW5kLWNoaWxkcmVuLW9mLW1vcnRhLWluLXRoZS0xMWJpdC1idW5kbGUv0gEA?oc=5",
+          "publishedOn": "2022-11-05T10:01:43.000Z",
+          "wordCount": null,
+          "title": "Get some quality titles like Frostpunk and Children of Morta in the 11bit bundle - GamingOnLinux",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1Rb1MtU01CQS1CTUVDLXY40gEA",
+          "author": null,
+          "description": "AMD Updates Linux QoS Patches For SMBA With CXL Memory, BMEC  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1Rb1MtU01CQS1CTUVDLXY40gEA?oc=5",
+          "publishedOn": "2022-11-05T09:55:00.000Z",
+          "wordCount": 1357,
+          "title": "AMD Updates Linux QoS Patches For SMBA With CXL Memory, BMEC - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEMK79qexvzkKnKTxk4wHEkIqGQgEKhAIACoHCAowjYOGCzCsvYMDMOzOiQY",
+          "author": null,
+          "description": "How to Record the Screen in Ubuntu  Beebom",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctcmVjb3JkLXNjcmVlbi11YnVudHUv0gEA?oc=5",
+          "publishedOn": "2022-11-05T09:42:21.000Z",
+          "wordCount": 2781,
+          "title": "How to Record the Screen in Ubuntu - Beebom",
+          "imageUrl": "https://beebom.com/wp-content/uploads/2022/11/How-to-Record-the-Screen-in-Ubuntu.jpg"
+        },
         {
           "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1aZW40LUF1dG9tYXRpYy1JQlJT0gEA",
           "author": null,
@@ -4624,6 +4614,16 @@
           "wordCount": 1331,
           "title": "Void Scrappers blends Vampire Survivors mechanics with a space shoot 'em up - GamingOnLinux",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1856356972id21827gol.jpg"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01lc2EtMjIuMy1BTlYtRmFzdGVyLU1lc2gtU2hhZGXSAQA",
+          "author": null,
+          "description": "Mesa 22.3 Tunes Intel Arc Graphics For Better Vulkan Mesh Shading Performance  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01lc2EtMjIuMy1BTlYtRmFzdGVyLU1lc2gtU2hhZGXSAQA?oc=5",
+          "publishedOn": "2022-11-02T10:11:00.000Z",
+          "wordCount": 1349,
+          "title": "Mesa 22.3 Tunes Intel Arc Graphics For Better Vulkan Mesh Shading Performance - Phoronix",
+          "imageUrl": null
         },
         {
           "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZpbmVJQlQtVElQLXg4Ni1jb3Jl0gEA",
@@ -9334,226 +9334,6 @@
           "wordCount": 5596,
           "title": "10 best Linux laptops to look for in 2022 - Hindustan Times",
           "imageUrl": "https://images.hindustantimes.com/img/2022/10/06/400x225/Collage_Maker-06-Oct-2022-0848-PM_1665069622713_1665069622971_1665069622971.jpg"
-        },
-        {
-          "id": "CAIiEM9gMMsVtafigJ5oO8JhOe4qGQgEKhAIACoHCAow0seXCzCE8a4DMKW__wY",
-          "author": null,
-          "description": "10 Essential Privacy and Security Apps for Linux Desktops  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/essential-privacy-and-security-apps-for-linux/",
-          "publishedOn": "2022-10-07T14:00:00.000Z",
-          "wordCount": 2939,
-          "title": "10 Essential Privacy and Security Apps for Linux Desktops - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Linux-Privacy-Security-Apps.png"
-        },
-        {
-          "id": "CAIiEMkOgM5w08CgqIrb7U3o2ZIqMwgEKioIACIQ0eiH5PzI_1DxDLCivZ3AaSoUCAoiENHoh-T8yP9Q8Qywor2dwGkws4zGBg",
-          "author": null,
-          "description": "How to Install Ubuntu Linux in VMWare  It's FOSS",
-          "link": "https://itsfoss.com/install-ubuntu-in-vmware/",
-          "publishedOn": "2022-10-07T11:55:27.000Z",
-          "wordCount": 8544,
-          "title": "How to Install Ubuntu Linux in VMWare - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/install-ubuntu-in-vmware.png"
-        },
-        {
-          "id": "CAIiEJj1y_XQo-R47E3zMftXjS4qGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
-          "author": null,
-          "description": "Facepunch put out a fresh statement on Rust for Steam Deck / Linux  GamingOnLinux",
-          "link": "https://www.gamingonlinux.com/2022/10/facepunch-put-out-a-fresh-statement-on-rust-for-steam-deck-linux/",
-          "publishedOn": "2022-10-07T11:01:10.000Z",
-          "wordCount": 2513,
-          "title": "Facepunch put out a fresh statement on Rust for Steam Deck / Linux - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/747272413id21709gol.jpg"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuNS03NjAweNIBAA",
-          "author": null,
-          "description": "AMD Ryzen 5 7600X Linux Performance Review  Phoronix",
-          "link": "https://www.phoronix.com/review/amd-ryzen5-7600x",
-          "publishedOn": "2022-10-07T10:22:12.000Z",
-          "wordCount": 1515,
-          "title": "AMD Ryzen 5 7600X Linux Performance Review - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxLR1MtTGludXgtUGF0Y2hlc9IBAA",
-          "author": null,
-          "description": "Intel Preps The Linux Kernel For LKGS - Part Of FRED  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxLR1MtTGludXgtUGF0Y2hlc9IBAA?oc=5",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 1378,
-          "title": "Intel Preps The Linux Kernel For LKGS - Part Of FRED - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEM9gMMsVtafigJ5oO8JhOe4qGQgEKhAIACoHCAow0seXCzCE8a4DMKW__wY",
-          "author": null,
-          "description": "10 Essential Privacy and Security Apps for Linux Desktops  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZXNzZW50aWFsLXByaXZhY3ktYW5kLXNlY3VyaXR5LWFwcHMtZm9yLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 3014,
-          "title": "10 Essential Privacy and Security Apps for Linux Desktops - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Linux-Privacy-Security-Apps.png"
-        },
-        {
-          "id": "CAIiENhWZrpQ_kM8-Q9UcvT_tSQqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "How to Start X11 on Linux Without a Display Manager  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXN0YXJ0LXgxMS1vbi1saW51eC13aXRob3V0LWRpc3BsYXktbWFuYWdlci_SAQA?oc=5",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 2334,
-          "title": "How to Start X11 on Linux Without a Display Manager - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/laptop-monitor-tablet.jpg"
-        },
-        {
-          "id": "CAIiEED-ZnD3Xe4Zxpr74NwNahwqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
-          "author": null,
-          "description": "Ubuntu Linux tries for the office desktop  ZDNet",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3VidW50dS1saW51eC10cmllcy1mb3ItdGhlLW9mZmljZS1kZXNrdG9wL9IBAA?oc=5",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 9059,
-          "title": "Ubuntu Linux tries for the office desktop - ZDNet",
-          "imageUrl": "https://www.zdnet.com/a/img/resize/de949af10669d858186449c647a7a97df81d97e6/2022/02/16/7f7d06d5-6107-4367-9c1d-640fdf3e93e7/gettyimages-1276838887.jpg?auto=webp&fit=crop&height=675&width=1200"
-        },
-        {
-          "id": "CAIiEIYMURVfYas0EMj4yYYsVhQqGQgEKhAIACoHCAowwsi0CzDP48sDMMv2ywc",
-          "author": null,
-          "description": "Review these top Linux courses on Udemy  TechRepublic",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9saW51eC1jb3Vyc2VzLXVkZW15L9IBAA?oc=5",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 6603,
-          "title": "Review these top Linux courses on Udemy - TechRepublic",
-          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/08/shutterstock-by-jivacore-linux-copy.jpg?x95853"
-        },
-        {
-          "id": "CAIiEJXk9xJvEnm4vqXh586mHMMqGAgEKg8IACoHCAow3oGRAjCUny4wjYvvBQ",
-          "author": null,
-          "description": "Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks  The Hacker News",
-          "link": "https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html",
-          "publishedOn": "2022-10-07T07:00:00.000Z",
-          "wordCount": 2250,
-          "title": "Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks - The Hacker News",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEj3-KQ8w7ei_n-LAkeCEFswG7Woixxv4soLns0au6Hzm7B78vQZF-OMHycmeHbqkDUwmwVPRAU4iQCxjWBU9Tc_6B2IWxIrKc2Ul4E4j9wodZF6AgDufjF6egP2KnK23z_GiG3F691ZFzELl5xc8GED504Lh8DFKfCKR8gaysQvMztkqYEHt138-LYM/s728-e1000/phishing.jpg"
-        },
-        {
-          "id": "CAIiEJ3Qbpnyi2qBxDJAQxmxRLwqGQgEKhAIACoHCAow_uOmCzDm7r4DMOSDwQM",
-          "author": null,
-          "description": "How to install Guake Terminal app on Ubuntu 22.04 LTS Linux  Linux Shout",
-          "link": "https://www.how2shout.com/linux/how-to-install-guake-terminal-app-on-ubuntu-22-04-lts-linux/",
-          "publishedOn": "2022-10-07T06:22:11.000Z",
-          "wordCount": 2673,
-          "title": "How to install Guake Terminal app on Ubuntu 22.04 LTS Linux - Linux Shout",
-          "imageUrl": "https://www.how2shout.com/linux/wp-content/uploads/2022/10/Install-Gauke-terminal-ubuntu-22.04-linux.png"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnByaXZhdGVpbnRlcm5ldGFjY2Vzcy5jb20vYmxvZy9waWEtdnBuLWxpbnV4LWFwcC_SAQA",
-          "author": null,
-          "description": "PIA VPN Linux App: Unlimited Power | PIA Blog  Privacy News Online",
-          "link": "https://www.privateinternetaccess.com/blog/pia-vpn-linux-app/",
-          "publishedOn": "2022-10-07T05:32:12.000Z",
-          "wordCount": 3839,
-          "title": "PIA VPN Linux App: Unlimited Power | PIA Blog - Privacy News Online",
-          "imageUrl": "https://www.privateinternetaccess.com/blog/wp-content/uploads/2022/10/linux@2x.png"
-        },
-        {
-          "id": "CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA",
-          "author": null,
-          "description": "What is Btrfs in Linux? What are its Advantages Over Ext4?  It's FOSS",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA?oc=5",
-          "publishedOn": "2022-10-07T03:38:02.000Z",
-          "wordCount": 8677,
-          "title": "What is Btrfs in Linux? What are its Advantages Over Ext4? - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/btrfs-filesystem.png"
-        },
-        {
-          "id": "CBMiGmh0dHBzOi8vaXRzZm9zcy5jb20vYnRyZnMv0gEA",
-          "author": null,
-          "description": "What is Btrfs in Linux? What are its Advantages Over Ext4?  It's FOSS",
-          "link": "https://itsfoss.com/btrfs/",
-          "publishedOn": "2022-10-07T03:38:02.000Z",
-          "wordCount": 8192,
-          "title": "What is Btrfs in Linux? What are its Advantages Over Ext4? - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/btrfs-filesystem.png"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3LnBhcGVybWFnLmNvbS9saW51eC1wYXJpcy1mYXNoaW9uLXdlZWstMjY1ODQwNjQ3OC5odG1s0gEA",
-          "author": null,
-          "description": "What You Missed at Paris Fashion Week (According to Linux)  Papermag",
-          "link": "https://www.papermag.com/linux-paris-fashion-week-2658406478.html",
-          "publishedOn": "2022-10-06T21:14:49.000Z",
-          "wordCount": null,
-          "title": "What You Missed at Paris Fashion Week (According to Linux) - Papermag",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEJznS2pqGylBGDwgxZoq8V0qMwgEKioIACIQyKvy0DxcsbRLQKQhOygtHCoUCAoiEMir8tA8XLG0S0CkITsoLRww7bLrBg",
-          "author": null,
-          "description": "Linux kernel 5.19.12 'may harm' Intel laptop screens  The Register",
-          "link": "https://www.theregister.com/2022/10/06/intel_linux_gpu_laptop_displays/",
-          "publishedOn": "2022-10-06T19:40:00.000Z",
-          "wordCount": 1257,
-          "title": "Linux kernel 5.19.12 'may harm' Intel laptop screens - The Register",
-          "imageUrl": "https://regmedia.co.uk/2022/10/06/shutterstock_laptop.jpg"
-        },
-        {
-          "id": "1591902826",
-          "author": null,
-          "description": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays  Ars Technica\nLinux Kernel 5.19.12 bug could damage Intel laptop displays  BleepingComputer\nRunning Linux 5.19.2 on an Intel Laptop Can Damage the Display  PCMag\nLinux kernel 5.19.12 'may harm' Intel laptop screens  The Register\nThis New Linux Kernel Update Can Damage Your Laptop Display  Tom's Hardware\nView Full Coverage on Google News",
-          "link": "https://arstechnica.com/gadgets/2022/10/linux-5-19-2-kernel-can-flicker-and-damage-screens-on-some-intel-gpu-laptops/",
-          "publishedOn": "2022-10-06T17:36:19.000Z",
-          "wordCount": 1521,
-          "title": "Linux kernel 5.19.12 code could cause permanent damage to some laptop displays - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0281-760x380.jpeg"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vcGV0cmkuY29tL21pY3Jvc29mdC1pbnR1bmUtbGludXgtZGVza3RvcC1tYW5hZ2VtZW50L9IBAA",
-          "author": null,
-          "description": "Microsoft Adds Linux Desktop Management Support to Intune  Petri.com",
-          "link": "https://petri.com/microsoft-intune-linux-desktop-management/",
-          "publishedOn": "2022-10-06T17:25:33.000Z",
-          "wordCount": 3996,
-          "title": "Microsoft Adds Linux Desktop Management Support to Intune - Petri.com",
-          "imageUrl": "https://petri-media.s3.amazonaws.com/2022/02/Cloud_05.jpg"
-        },
-        {
-          "id": "CAIiEEg1uOLxNfwldUhjmoo_5yQqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "risiOS: A Fedora-Based Linux Distro That Holds Your Hand  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/what-is-risios/",
-          "publishedOn": "2022-10-06T17:00:00.000Z",
-          "wordCount": 2443,
-          "title": "risiOS: A Fedora-Based Linux Distro That Holds Your Hand - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/risiOS-Desktop-Wallpaper-Featured.jpg"
-        },
-        {
-          "id": "1590030440",
-          "author": null,
-          "description": "Linux 6.0 is Faster, Cooler | Debian Goes Proprietary | Google Africa Region  DevOps.com\nRust in the Linux Kernel  thenewstack.io\nLinux 6.1: Rust to hit mainline kernel  The Register\nRust Programming Language To Land in Linux Kernel 6.1  Tom's Hardware\nOne of the world's most popular programming languages is coming to Linux  TechRadar\nView Full Coverage on Google News",
-          "link": "https://devops.com/linux-60-debian-non-free-google-africa-richixbw/",
-          "publishedOn": "2022-10-06T16:46:27.000Z",
-          "wordCount": 6620,
-          "title": "Linux 6.0 is Faster, Cooler | Debian Goes Proprietary | Google Africa Region - DevOps.com",
-          "imageUrl": "https://devops.com/wp-content/uploads/2022/10/tlc046-viktor-zhulin-unsplash.png"
-        },
-        {
-          "id": "CAIiEIxq4nXm5krjV6soqYmZST8qFggEKg4IACoGCAowuvtAMIbACDCmkw8",
-          "author": null,
-          "description": "How to Control RGB Lighting On Linux  Make Tech Easier",
-          "link": "https://www.maketecheasier.com/control-rgb-lighting-on-linux/",
-          "publishedOn": "2022-10-06T15:25:00.000Z",
-          "wordCount": 2841,
-          "title": "How to Control RGB Lighting On Linux - Make Tech Easier",
-          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/09/rgb.jpg"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC0yMDIyLUxpbnV4LUhEUi1EaXNwbGF5LUhhcmTSAQA",
-          "author": null,
-          "description": "AMD Continues Working Toward HDR Display Support For The Linux Desktop  Phoronix",
-          "link": "https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard",
-          "publishedOn": "2022-10-06T15:00:00.000Z",
-          "wordCount": 1316,
-          "title": "AMD Continues Working Toward HDR Display Support For The Linux Desktop - Phoronix",
-          "imageUrl": null
         }
       ]
     },
@@ -9771,16 +9551,6 @@
           "wordCount": 2967,
           "title": "Rendering External API Data in WordPress Blocks on the Front End",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373905",
-          "author": "Ganesh Dahal",
-          "description": "Fluid typography is a fancy way of “describing font properties, such as size or line height, that scale fluidly according to the size of the viewport”. It’s also known by other names, like responsive typography, flexible type, fluid type, …\nAdding Fluid Typography Support to WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fluid-typography-wordpress-block-themes/",
-          "publishedOn": "2022-10-07T13:19:23.000Z",
-          "wordCount": 3088,
-          "title": "Adding Fluid Typography Support to WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373905"
         }
       ]
     },
@@ -10028,36 +9798,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
-          "author": "hello@smashingmagazine.com (Devansh Bansal)",
-          "description": "Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.",
-          "link": "https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/",
-          "publishedOn": "2022-10-07T08:00:00.000Z",
-          "wordCount": 5752,
-          "title": "A Roadmap For Building A Business Chatbot",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd63d9c-b78d-4900-8a7c-3539bf497433/roadmap-building-business-chatbot.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-          "author": "hello@smashingmagazine.com (Alexander Godwin)",
-          "description": "Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.",
-          "link": "https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-          "publishedOn": "2022-10-07T06:00:00.000Z",
-          "wordCount": 7903,
-          "title": "Node.js Authentication With Twilio Verify",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg"
         }
       ]
     },
@@ -11065,46 +10805,6 @@
           "wordCount": 2285,
           "title": "How Does Recursion Work? Simplified in JavaScript with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
-          "author": "Beau Carnes",
-          "description": "Does freeCodeCamp really need yet another Python course?   Click for answer.  Between the curriculum and the YouTube channel, freeCodeCamp has quite a few Python programming courses. But which Python course should you take? In this article, I'll rank every singe freeCodeCamp beginner's Python course from best to",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/",
-          "publishedOn": "2022-10-06T19:54:42.000Z",
-          "wordCount": 1425,
-          "title": "Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pythoninstructors-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
-          "author": "Beau Carnes",
-          "description": "The stack data structure is used frequently in programming, sometimes behind-the-scenes. And questions involving the stack data structure are very common in coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the stack data structure to solve the type of",
-          "link": "https://www.freecodecamp.org/news/stack-data-structure-solve-coding-challenges/",
-          "publishedOn": "2022-10-06T18:48:30.000Z",
-          "wordCount": 948,
-          "title": "How to Use the Stack Data Structure to Solve Coding Challenges",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/stack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
-          "author": "Kolade Chris",
-          "description": "In PHP, the implode() function is a built-in function that takes an array and converts it to a string. implode() doesn’t modify the original array. It doesn’t matter whether the array is an indexed or associative array. Once you pass in the array to implode(), it joins all the values",
-          "link": "https://www.freecodecamp.org/news/php-implode-convert-array-to-string-with-join/",
-          "publishedOn": "2022-10-06T16:14:10.000Z",
-          "wordCount": 1366,
-          "title": "PHP Implode – Convert Array to String with Join",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/implode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
-          "author": "Daniel Bourke",
-          "description": "My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub",
-          "link": "https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
-          "publishedOn": "2022-10-06T14:48:39.000Z",
-          "wordCount": 1730,
-          "title": "Learn PyTorch for Deep Learning – Free 26-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pytorch24.png"
         }
       ]
     }
