@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=245900",
+          "author": "Omar Farooq",
+          "description": "In this guide, we learned about moving averages: what moving average is, what is its uses, and how to calculate the moving average.",
+          "link": "https://linuxhint.com/numpy-moving-average/",
+          "publishedOn": "2022-11-04T19:04:15.000Z",
+          "wordCount": 16322,
+          "title": "Numpy Moving Average",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245901",
+          "author": "Ann-ul Hayyat",
+          "description": "This guide will help you better understand the NumPy ptp() method. The NumPy ptp() method's syntax, parameters, and return value are all covered.",
+          "link": "https://linuxhint.com/numpy-ptp-method/",
+          "publishedOn": "2022-11-04T19:04:12.000Z",
+          "wordCount": 16365,
+          "title": "Numpy ptp Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245899",
+          "author": "Omar Farooq",
+          "description": "Guide on how to add a number to the elements of the array and how to add the title to the list of names by implementing the addition function using NumPy map.",
+          "link": "https://linuxhint.com/numpy-map/",
+          "publishedOn": "2022-11-04T19:03:46.000Z",
+          "wordCount": 16171,
+          "title": "NumPy Map",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245898",
+          "author": "Ann-ul Hayyat",
+          "description": "In this article, we discussed how we can utilize the log base 2 function which is a mathematical function of the NumPy library.",
+          "link": "https://linuxhint.com/numpy-log-base-2/",
+          "publishedOn": "2022-11-04T19:03:41.000Z",
+          "wordCount": 16399,
+          "title": "Numpy Log Base 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245897",
+          "author": "Omar Farooq",
+          "description": "Tutorial on what is the least square and how we get the linalg.lstsq() of the unknown variable x using the linear equation ax=b and multiple functions of NumPy.",
+          "link": "https://linuxhint.com/numpy-least-squares/",
+          "publishedOn": "2022-11-04T19:03:36.000Z",
+          "wordCount": 16412,
+          "title": "NumPy Least Squares",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245851",
+          "author": "Omar Farooq",
+          "description": "This discussed the use of filter methods that are provided by the NumPy package that allows us to create arrays and store any data in the form of an array.",
+          "link": "https://linuxhint.com/numpy-filter/",
+          "publishedOn": "2022-11-04T19:03:31.000Z",
+          "wordCount": 16357,
+          "title": "Numpy Filter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245850",
+          "author": "Kalsoom Bibi",
+          "description": "This is on how to work with numpy empty arrays in Python and how to use the zeros’ function and other example empty arrays to implement them in Python.",
+          "link": "https://linuxhint.com/numpy-empty-array/",
+          "publishedOn": "2022-11-04T19:03:27.000Z",
+          "wordCount": 16450,
+          "title": "Numpy Empty Array",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245849",
+          "author": "Omar Farooq",
+          "description": "Practical tutorial on what the docstrings in NumPy are, how they work, and comparing the docstrings with comments and explaining the difference between both.",
+          "link": "https://linuxhint.com/numpy-docstring/",
+          "publishedOn": "2022-11-04T19:02:42.000Z",
+          "wordCount": 16291,
+          "title": "NumPy Docstring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245848",
+          "author": "Omar Farooq",
+          "description": "In this article, we explained different ways to create two-dimensional arrays and how we can manipulate them using NumPy’s built-in functions.",
+          "link": "https://linuxhint.com/numpy-create-2d-array/",
+          "publishedOn": "2022-11-04T19:02:37.000Z",
+          "wordCount": 16491,
+          "title": "Numpy Create 2D array",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245805",
+          "author": "Omar Farooq",
+          "description": "In this article, we have briefly discussed complex numbers and how we can create complex arrays using NumPy’s built-in functions.",
+          "link": "https://linuxhint.com/numpy-complex-number/",
+          "publishedOn": "2022-11-04T19:02:33.000Z",
+          "wordCount": 16460,
+          "title": "Numpy Complex Number",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245804",
+          "author": "Kalsoom Bibi",
+          "description": "In NumPy, the term ‘broadcasting’ is the capacity to handle arrays of various shapes while carrying out arithmetic operations that are frequently performed.",
+          "link": "https://linuxhint.com/numpy-broadcasting/",
+          "publishedOn": "2022-11-04T19:02:29.000Z",
+          "wordCount": 16459,
+          "title": "NumPy Broadcasting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245803",
+          "author": "Ann-ul Hayyat",
+          "description": "The arcsin() is a NumPy mathematical function, and it is the trigonometric function's (sin) inverse, i.e., sin-1(x). This article explains Numpy arcsin.",
+          "link": "https://linuxhint.com/numpy-arcsin/",
+          "publishedOn": "2022-11-04T19:01:51.000Z",
+          "wordCount": 16420,
+          "title": "Numpy arcsin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245802",
+          "author": "Omar Farooq",
+          "description": "Practical guide on how the apply function is used in NumPy and how to apply the different functions on arrays along or over the axis using the apply methods.",
+          "link": "https://linuxhint.com/numpy-apply-function/",
+          "publishedOn": "2022-11-04T19:01:46.000Z",
+          "wordCount": 16282,
+          "title": "NumPy Apply Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245801",
+          "author": "Prateek Jangid",
+          "description": "Tutorial on the approach to mastering backticks in Linux Bash scripts to run the multiple commands from the Bash script and execute them based on their output.",
+          "link": "https://linuxhint.com/mastering-backticks-linux-bash-scripts/",
+          "publishedOn": "2022-11-04T19:01:43.000Z",
+          "wordCount": 15854,
+          "title": "Mastering Backticks in Linux Bash Scripts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245765",
+          "author": "Prateek Jangid",
+          "description": "Comprehensive tutorial on how to make a Bash script return with different return codes on exit using the exit codes by setting up the different return codes.",
+          "link": "https://linuxhint.com/bash-script-returns-different-return-codes-exit/",
+          "publishedOn": "2022-11-04T19:01:38.000Z",
+          "wordCount": 15773,
+          "title": "Making a Bash Script Return with Different Return Codes on Exit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245764",
+          "author": "Ali Imran Nagori",
+          "description": "Guide on using the Linux sysfs file system in Linux and discover the functions of the various sub-directories and purposes since it has a vast amount of data.",
+          "link": "https://linuxhint.com/linux-sysfs-file-system/",
+          "publishedOn": "2022-11-04T19:01:34.000Z",
+          "wordCount": 16245,
+          "title": "Linux sysfs File System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245763",
+          "author": "Ayesha Sajid",
+          "description": "Practical tutorial on some of the functions of the “string.h” header file in the C programming language using the string length, copy, and comparison functions.",
+          "link": "https://linuxhint.com/c-string-h-library-functions/",
+          "publishedOn": "2022-11-04T19:00:55.000Z",
+          "wordCount": 15817,
+          "title": "How to Use the C String.h Library Functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245761",
+          "author": "Ayesha Sajid",
+          "description": "Tutorial on the usage of the “auto” keyword in the C programming language and how the same functionality can be achieved without even using this keyword in C.",
+          "link": "https://linuxhint.com/auto-keyword-c/",
+          "publishedOn": "2022-11-04T19:00:46.000Z",
+          "wordCount": 15767,
+          "title": "Auto Keyword in C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245762",
+          "author": "Ayesha Sajid",
+          "description": "This is on bitwise “AND” operation of the C programming language, its significance, and how this operator actually works in the C programming language.",
+          "link": "https://linuxhint.com/bitwise-and-c/",
+          "publishedOn": "2022-11-04T19:00:42.000Z",
+          "wordCount": 15664,
+          "title": "How and Why to do Bitwise AND in C?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246316",
+          "author": "Kalsoom Bibi",
+          "description": "This article discusses the OSError and the best way to fix it. The OS module's error class and a built-in exception in Python are called OSError.",
+          "link": "https://linuxhint.com/python-oserror/",
+          "publishedOn": "2022-11-04T18:58:56.000Z",
+          "wordCount": 16247,
+          "title": "Python OSError",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246249",
+          "author": "Kalsoom Bibi",
+          "description": "A guide on how to use the open() function in file handling since file handling has many options, such as opening a file and reading the data in the file.",
+          "link": "https://linuxhint.com/python-open-function/",
+          "publishedOn": "2022-11-04T18:58:51.000Z",
+          "wordCount": 16329,
+          "title": "Python open() Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246248",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on how to use the object() function in the Python programming language to create an empty or featureless object through basic simple codes.",
+          "link": "https://linuxhint.com/python-object-function/",
+          "publishedOn": "2022-11-04T18:58:47.000Z",
+          "wordCount": 16394,
+          "title": "Python Object() Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246247",
+          "author": "Aqsa Yasin",
+          "description": "Python’s built-in math module has a method to convert degrees to radians denoted by math.radians(). This article explains Python Math Radians( ) method.",
+          "link": "https://linuxhint.com/python-math-radians-method/",
+          "publishedOn": "2022-11-04T18:58:34.000Z",
+          "wordCount": 16532,
+          "title": "Python Math Radians( ) Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246246",
+          "author": "Aqsa Yasin",
+          "description": "Practical guide on how to use the Python math’s isclose() method to figure out if two values are close to one another and categorize the large amounts of data.",
+          "link": "https://linuxhint.com/python-math-isclose-method/",
+          "publishedOn": "2022-11-04T18:58:30.000Z",
+          "wordCount": 16436,
+          "title": "Python Math Isclose() Method",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=17508",
           "author": "Linux Explorer",
           "description": "Lutris is designed as a game manager for Linux systems, and with it, you get an easy time installing and enjoying games on Ubuntu.",
@@ -2130,76 +2370,6 @@
           "wordCount": 4521,
           "title": "Bluetooth Security Risks",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=235698",
-          "author": "Linux Wolfman",
-          "description": "Tutorial to teach you how to  use GitHub. Setting up local and remote repositories, forking a repository, handling a merge conflict, squashing multiple commits, rebasing, how you can use tags in GitHub and many more.",
-          "link": "https://linuxhint.com/github-tutorial/",
-          "publishedOn": "2022-10-08T13:56:35.000Z",
-          "wordCount": 3363,
-          "title": "GitHub Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=55503",
-          "author": "Linux Explorer",
-          "description": "This tutorial explains how to play media from the Linux terminal in Linux, including Youtube, how to play local media and how to download Youtube media.",
-          "link": "https://linuxhint.com/play_media_linux_terminal/",
-          "publishedOn": "2022-10-08T12:27:42.000Z",
-          "wordCount": 4435,
-          "title": "Playing Media in Linux Terminal (Including Youtube)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=29928",
-          "author": "Dave Sumaylo",
-          "description": "The basic purpose of the fork command method is to create one or more child processes. This article explains fork system call in C.",
-          "link": "https://linuxhint.com/c_fork_system_call/",
-          "publishedOn": "2022-10-08T11:52:35.000Z",
-          "wordCount": 4416,
-          "title": "Fork System Call in C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=102917",
-          "author": "Dave Sumaylo",
-          "description": "The C language has the calloc() function, which is used to dynamically allocate the desired number of memory blocks of a particular type.",
-          "link": "https://linuxhint.com/calloc-in-c/",
-          "publishedOn": "2022-10-08T10:56:20.000Z",
-          "wordCount": 4489,
-          "title": "Calloc in C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=72649",
-          "author": "Linux Explorer",
-          "description": "This tutorial describes both command line and graphical free XSS (Cross-site scripting) scanning and exploitation tools.",
-          "link": "https://linuxhint.com/free_xss_tools/",
-          "publishedOn": "2022-10-08T08:54:02.000Z",
-          "wordCount": 5081,
-          "title": "Free XSS Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=30759",
-          "author": "Linux Explorer",
-          "description": "These are laptops that we recommend that are either ship with Ubuntu pre-installed, or they work with the popular Linux distribution without any issues.",
-          "link": "https://linuxhint.com/best-ubuntu-laptops/",
-          "publishedOn": "2022-10-08T08:29:57.000Z",
-          "wordCount": 4582,
-          "title": "Best Ubuntu Laptops You Can Buy in 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=26991",
-          "author": "Linux Explorer",
-          "description": "VB allows user to run guest operating system on another host virtually without need for partitioning of hard drive or running another OS on dual boot.",
-          "link": "https://linuxhint.com/virtualbox_beginners/",
-          "publishedOn": "2022-10-08T07:30:44.000Z",
-          "wordCount": 5090,
-          "title": "VirtualBox: Beginners Guide and How to Setup Ubuntu Virtual Machine",
-          "imageUrl": null
         }
       ]
     },
@@ -2208,6 +2378,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180028",
+          "author": "Web Webster",
+          "description": "NTP, or Network Time Protocol, is a networking protocol for time and clock synchronization on the computer network. In this guide, you will learn how to install and use Chrony on the Rocky Linux server.\nThe post How to Set Up Chrony as an NTP Server and Client on Rocky Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/set-up-chrony-ntp-server-client-rocky-linux/",
+          "publishedOn": "2022-11-06T22:00:11.000Z",
+          "wordCount": 16554,
+          "title": "How to Set Up Chrony as an NTP Server and Client on Rocky Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180020",
+          "author": "Web Webster",
+          "description": "The dir command is not commonly used in Linux, but it works less like the preferred ls command. This article offers some examples of how to use the dir command to list the contents of a directory.\nThe post How to Use the dir Command in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/use-dir-command-linux/",
+          "publishedOn": "2022-11-06T16:00:57.000Z",
+          "wordCount": 16547,
+          "title": "How to Use the dir Command in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=180019",
           "author": "Web Webster",
@@ -4077,46 +4267,6 @@
           "wordCount": 16519,
           "title": "EuroLinux Desktop Review: A Worthy Alternative to Ubuntu LTS?",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179757",
-          "author": "Web Webster",
-          "description": "In this tutorial, you will learn how to install and configure Squid Proxy on a Rocky Linux or AlmaLinux 9 server. Learn more here.\nThe post How to Install a Squid Proxy Server on Rocky Linux/AlmaLinux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-configure-squid-proxy-server-on-rocky-linux-almalinux-9/",
-          "publishedOn": "2022-10-08T14:00:27.000Z",
-          "wordCount": 16541,
-          "title": "How to Install a Squid Proxy Server on Rocky Linux/AlmaLinux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179692",
-          "author": "Web Webster",
-          "description": "This tutorial will be helpful for beginners to install Linux kernel 6.0 on Ubuntu 22.04 LTS, Ubuntu 20.04 LTS, and Linux Mint 21.\nThe post How to Install Linux Kernel 6.0 on Ubuntu / Linux Mint appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-linux-kernel-6-0-on-ubuntu-linux-mint/",
-          "publishedOn": "2022-10-07T22:00:06.000Z",
-          "wordCount": 16534,
-          "title": "How to Install Linux Kernel 6.0 on Ubuntu / Linux Mint",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179760",
-          "author": "Web Webster",
-          "description": "The triple buffering code developed by Ubuntu, now lands in Debian 12 Bookworm unstable for GNOME and planned to release in 2023.\nThe post Debian 12 Picks Up Ubuntu’s Triple Buffering Patch for GNOME appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/debian-12-picks-up-ubuntus-triple-buffering-patch-for-gnome/",
-          "publishedOn": "2022-10-07T21:00:17.000Z",
-          "wordCount": 16529,
-          "title": "Debian 12 Picks Up Ubuntu’s Triple Buffering Patch for GNOME",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=179756",
-          "author": "Web Webster",
-          "description": "Less than three months after the previous update, SparkyLinux 2022.10 Semi-Rolling is available. Learn more here.\nThe post SparkyLinux 2022.10 Semi-Rolling Replaces LightDM with SDDM appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparkylinux-2022-10-semi-rolling-replaces-lightdm-with-sddm/",
-          "publishedOn": "2022-10-07T19:18:09.000Z",
-          "wordCount": 16507,
-          "title": "SparkyLinux 2022.10 Semi-Rolling Replaces LightDM with SDDM",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4125,6 +4275,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CAIiEG13Q6MO8exrvJuB3AUc6scqFwgEKg4IACoGCAowu5gUMNLMAjCg7LUG",
+          "author": null,
+          "description": "There's a good chance Android 14 will support a new file format  Android Police",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2FuZHJvaWQtbnRmcy1kZXYtdGltZWxpbmUv0gEA?oc=5",
+          "publishedOn": "2022-11-07T01:00:00.000Z",
+          "wordCount": 2270,
+          "title": "There's a good chance Android 14 will support a new file format - Android Police",
+          "imageUrl": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/android-generic-1.jpg"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1yYzQtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Linux 6.1-rc4 Released: \"Please Jump Right In, The Water Is Fine\"  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMS1yYzQtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2022-11-06T23:30:00.000Z",
+          "wordCount": 1370,
+          "title": "Linux 6.1-rc4 Released: \"Please Jump Right In, The Water Is Fine\" - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CAIiEHMHwOn1Y2NCm96hCU2lTWQqGQgEKhAIACoHCAow-ZGbCzC9nLMDMKWQ7AY",
+          "author": null,
+          "description": "Devuan-Based PeppermintOS November 2022 Release Brings New and Updated Tools  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZXZ1YW4tYmFzZWQtcGVwcGVybWludG9zLW5vdmVtYmVyLTIwMjItcmVsZWFzZS1icmluZ3MtbmV3LWFuZC11cGRhdGVkLXRvb2xz0gEA?oc=5",
+          "publishedOn": "2022-11-06T16:29:38.000Z",
+          "wordCount": 11385,
+          "title": "Devuan-Based PeppermintOS November 2022 Release Brings New and Updated Tools - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/11/pos2211.webp"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUxhcHRvcC1CcmlnaHRuZXNzLU1vcmXSAQA",
+          "author": null,
+          "description": "Linux Laptop Backlight Fixes On The Way For v6.1, More Testing Encouraged  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUxhcHRvcC1CcmlnaHRuZXNzLU1vcmXSAQA?oc=5",
+          "publishedOn": "2022-11-06T10:09:00.000Z",
+          "wordCount": 1413,
+          "title": "Linux Laptop Backlight Fixes On The Way For v6.1, More Testing Encouraged - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0J0cmZzLUZsdXNoLUVtZXJnZW5jedIBAA",
+          "author": null,
+          "description": "Btrfs \"Reserve Flush Emergency\" Feature Heading To Linux 6.2  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0J0cmZzLUZsdXNoLUVtZXJnZW5jedIBAA?oc=5",
+          "publishedOn": "2022-11-06T09:41:00.000Z",
+          "wordCount": 1388,
+          "title": "Btrfs \"Reserve Flush Emergency\" Feature Heading To Linux 6.2 - Phoronix",
+          "imageUrl": null
+        },
         {
           "id": "CAIiEDb5yfh77JXj3VYJjeLGy54qGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
           "author": null,
@@ -4224,6 +4424,16 @@
           "wordCount": 2454,
           "title": "Voting machines using Linux to be tested in NH - Granite Geek - Concord Monitor",
           "imageUrl": "https://granitegeek.concordmonitor.com/wp-content/uploads/2022/11/VotingWorks-machine-web.jpeg"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMS9pbnRlbC1hcmMtZ3B1LWZpcm13YXJlLXVwZGF0ZXMtYXBwZWFyLXRvLXJlcXVpcmUtYW4taW50ZWwtY3B1LWF0LWxlYXN0LWZvci1ub3cv0gF7aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIyLzExL2ludGVsLWFyYy1ncHUtZmlybXdhcmUtdXBkYXRlcy1hcHBlYXItdG8tcmVxdWlyZS1hbi1pbnRlbC1jcHUtYXQtbGVhc3QtZm9yLW5vdy9hbXAv",
+          "author": null,
+          "description": "Intel says that both Intel and AMD CPUs can update Arc GPU firmware [Updated]  Ars Technica",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMS9pbnRlbC1hcmMtZ3B1LWZpcm13YXJlLXVwZGF0ZXMtYXBwZWFyLXRvLXJlcXVpcmUtYW4taW50ZWwtY3B1LWF0LWxlYXN0LWZvci1ub3cv0gF7aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIyLzExL2ludGVsLWFyYy1ncHUtZmlybXdhcmUtdXBkYXRlcy1hcHBlYXItdG8tcmVxdWlyZS1hbi1pbnRlbC1jcHUtYXQtbGVhc3QtZm9yLW5vdy9hbXAv?oc=5",
+          "publishedOn": "2022-11-04T19:47:25.000Z",
+          "wordCount": 1645,
+          "title": "Intel says that both Intel and AMD CPUs can update Arc GPU firmware [Updated] - Ars Technica",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/intel-arc-gpu-760x380.jpg"
         },
         {
           "id": "CAIiEASJNr6FgmF_buMykd3yqpQqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
@@ -4364,6 +4574,16 @@
           "wordCount": 3617,
           "title": "CyRC Vulnerability Advisory: CVE-2022-43945 buffer overflow vulnerabilities in NFSD - Security Boulevard",
           "imageUrl": "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
+        },
+        {
+          "id": "CAIiEKUF2-6S0lhAKekIkl2xVSoqMwgEKioIACIQ03gIRsk8ICKduWBw5wI-HCoUCAoiENN4CEbJPCAinblgcOcCPhwwlf3vBg",
+          "author": null,
+          "description": "Thanks to Microsoft you could soon run multiple nested Windows inside Linux  Neowin",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy90aGFua3MtdG8tbWljcm9zb2Z0LXlvdS1jb3VsZC1zb29uLXJ1bi1tdWx0aXBsZS1uZXN0ZWQtd2luZG93cy1pbnNpZGUtbGludXgv0gEA?oc=5",
+          "publishedOn": "2022-11-03T16:44:00.000Z",
+          "wordCount": 2396,
+          "title": "Thanks to Microsoft you could soon run multiple nested Windows inside Linux - Neowin",
+          "imageUrl": "https://cdn.neowin.com/news/images/uploaded/2022/11/1667490520_nested_hyper-v_story.jpg"
         },
         {
           "id": "CAIiEDX2mI6c2hcPpPnFw7P1BR8qGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
@@ -9174,166 +9394,6 @@
           "wordCount": 2449,
           "title": "EuroLinux: An Enterprise-Grade Linux Distro Based on RHEL - MUO - MakeUseOf",
           "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/EuroLinux-9.jpg"
-        },
-        {
-          "id": "CAIiEHvohdKVvZoEuMxRiKqklGIqGQgEKhAIACoHCAow6sCWCzDN5q0DMJLeyQY",
-          "author": null,
-          "description": "JSAUX wasted no time with a new Steam Deck Docking Station with DisplayPort  GamingOnLinux",
-          "link": "https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/",
-          "publishedOn": "2022-10-08T09:57:42.000Z",
-          "wordCount": 1850,
-          "title": "JSAUX wasted no time with a new Steam Deck Docking Station with DisplayPort - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1943303474id21713gol.jpg"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5DaHJvbWUtRFJNLVhEQy0yMDIy0gEA",
-          "author": null,
-          "description": "Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First  Phoronix",
-          "link": "https://www.phoronix.com/news/OpenChrome-DRM-XDC-2022",
-          "publishedOn": "2022-10-08T09:57:00.000Z",
-          "wordCount": 1421,
-          "title": "Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEBGtaO3UbeKkcFZgRvXyyZ8qGQgEKhAIACoHCAow_uOmCzDm7r4DMOSDwQM",
-          "author": null,
-          "description": "How to install Tilda Terminal on Ubuntu 22.04 LTS  Linux Shout",
-          "link": "https://www.how2shout.com/linux/how-to-install-tilda-terminal-on-ubuntu-22-04-lts/",
-          "publishedOn": "2022-10-08T09:06:06.000Z",
-          "wordCount": 2878,
-          "title": "How to install Tilda Terminal on Ubuntu 22.04 LTS - Linux Shout",
-          "imageUrl": "https://www.how2shout.com/linux/wp-content/uploads/2022/10/Install-Tilda-Terminal-on-Ubuntu-22.04-LTS-Linux.png"
-        },
-        {
-          "id": "CAIiEMC-_IkzIhtQsXCPH3WINqcqGAgEKg8IACoHCAow3oGRAjCUny4wjYvvBQ",
-          "author": null,
-          "description": "Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite  The Hacker News",
-          "link": "https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html",
-          "publishedOn": "2022-10-08T07:50:00.000Z",
-          "wordCount": 2270,
-          "title": "Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite - The Hacker News",
-          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEj_mSCNjeWlBLcZ9KTwy9P_b-QtDO-uH5LuoYKGw-YZcAfFgRU0st0csu44_gTgZwL4MVA9GlXLRHGoTpHTNFOSftIiRwcJsFz3v9R_soRPdNhkcQoPitDJc8WQa29QHbw65xEBWA0c3bofUYBs0APomKwz9aGt00iyBYUKhzKwGdIMwB3dM-N9Gw0P/s728-e1000/zimbra.jpg"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5DaHJvbWUtRFJNLVhEQy0yMDIy0gEA",
-          "author": null,
-          "description": "Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5DaHJvbWUtRFJNLVhEQy0yMDIy0gEA?oc=5",
-          "publishedOn": "2022-10-08T07:00:00.000Z",
-          "wordCount": 1410,
-          "title": "Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEJOdo5eLrJy1i029Qz7DjLEqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "EuroLinux: An Enterprise-Grade Linux Distro Based on RHEL  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2hhdC1pcy1ldXJvbGludXgv0gEA?oc=5",
-          "publishedOn": "2022-10-08T07:00:00.000Z",
-          "wordCount": 2541,
-          "title": "EuroLinux: An Enterprise-Grade Linux Distro Based on RHEL - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/EuroLinux-9.jpg"
-        },
-        {
-          "id": "CAIiEIYMURVfYas0EMj4yYYsVhQqGQgEKhAIACoHCAowwsi0CzDP48sDMMv2ywc",
-          "author": null,
-          "description": "Review these top Linux courses on Udemy  TechRepublic",
-          "link": "https://www.techrepublic.com/article/linux-courses-udemy/",
-          "publishedOn": "2022-10-07T21:13:00.000Z",
-          "wordCount": 6600,
-          "title": "Review these top Linux courses on Udemy - TechRepublic",
-          "imageUrl": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/08/shutterstock-by-jivacore-linux-copy.jpg?x95853"
-        },
-        {
-          "id": "CAIiEED-ZnD3Xe4Zxpr74NwNahwqGQgEKhAIACoHCAowip-zCzCXusoDMIyM2wc",
-          "author": null,
-          "description": "Ubuntu Linux tries for the office desktop  ZDNet",
-          "link": "https://www.zdnet.com/article/ubuntu-linux-tries-for-the-office-desktop/",
-          "publishedOn": "2022-10-07T20:16:12.000Z",
-          "wordCount": 9064,
-          "title": "Ubuntu Linux tries for the office desktop - ZDNet",
-          "imageUrl": "https://www.zdnet.com/a/img/resize/de949af10669d858186449c647a7a97df81d97e6/2022/02/16/7f7d06d5-6107-4367-9c1d-640fdf3e93e7/gettyimages-1276838887.jpg?auto=webp&fit=crop&height=675&width=1200"
-        },
-        {
-          "id": "CAIiENhWZrpQ_kM8-Q9UcvT_tSQqGQgEKhAIACoHCAow0seXCzCE8a4DMKK__wY",
-          "author": null,
-          "description": "How to Start X11 on Linux Without a Display Manager  MUO - MakeUseOf",
-          "link": "https://www.makeuseof.com/how-to-start-x11-on-linux-without-display-manager/",
-          "publishedOn": "2022-10-07T20:00:00.000Z",
-          "wordCount": 2222,
-          "title": "How to Start X11 on Linux Without a Display Manager - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/laptop-monitor-tablet.jpg"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vdGVjaHJlcG9ydC5jb20vdnBuL2Jlc3QtbGludXgtdnBucy_SAQA",
-          "author": null,
-          "description": "The Best Linux VPN in 2022 | Paid and Free Linux VPNs  The Tech Report",
-          "link": "https://techreport.com/vpn/best-linux-vpns/",
-          "publishedOn": "2022-10-07T19:08:50.000Z",
-          "wordCount": 7646,
-          "title": "The Best Linux VPN in 2022 | Paid and Free Linux VPNs - The Tech Report",
-          "imageUrl": "https://techreport.com/wp-content/uploads/2022/10/Best-Linux-VPN-TR.jpg"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL3N5c3RlbWQtMjUyLXJjMdIBAA",
-          "author": null,
-          "description": "systemd 252-rc1 Introduces New systemd-measure Tool, Other New Features  Phoronix",
-          "link": "https://www.phoronix.com/news/systemd-252-rc1",
-          "publishedOn": "2022-10-07T17:10:00.000Z",
-          "wordCount": 1450,
-          "title": "systemd 252-rc1 Introduces New systemd-measure Tool, Other New Features - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL2Z3dXBkLTEuOC42LVJlbGVhc2Vk0gEA",
-          "author": null,
-          "description": "Fwupd 1.8.6 Released With Smaller Package Size, New Hardware Support  Phoronix",
-          "link": "https://www.phoronix.com/news/fwupd-1.8.6-Released",
-          "publishedOn": "2022-10-07T16:30:00.000Z",
-          "wordCount": 1276,
-          "title": "Fwupd 1.8.6 Released With Smaller Package Size, New Hardware Support - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEMe73i2ao-cI0hvZtXWpOG4qFggEKg4IACoGCAowuvtAMIbACDCmkw8",
-          "author": null,
-          "description": "How to Enable Audio Casting in Linux  Make Tech Easier",
-          "link": "https://www.maketecheasier.com/enable-audio-casting-in-linux/",
-          "publishedOn": "2022-10-07T15:25:00.000Z",
-          "wordCount": 2192,
-          "title": "How to Enable Audio Casting in Linux - Make Tech Easier",
-          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/07/AudioCasting.png"
-        },
-        {
-          "id": "CAIiEHpgoH-tnJzWHA01QfI7Q9oqGQgEKhAIACoHCAow_uOmCzDm7r4DMOSDwQM",
-          "author": null,
-          "description": "How to install Tabby Terminal on Ubuntu 22.04 Linux  Linux Shout",
-          "link": "https://www.how2shout.com/linux/how-to-install-tabby-terminal-on-ubuntu-22-04-linux/",
-          "publishedOn": "2022-10-07T15:02:00.000Z",
-          "wordCount": 2579,
-          "title": "How to install Tabby Terminal on Ubuntu 22.04 Linux - Linux Shout",
-          "imageUrl": "https://www.how2shout.com/linux/wp-content/uploads/2022/10/Install-Tabby-Terminal-on-Ubuntu-22.04-LTS.png"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUxLR1MtTGludXgtUGF0Y2hlc9IBAA",
-          "author": null,
-          "description": "Intel Preps The Linux Kernel For LKGS - Part Of FRED  Phoronix",
-          "link": "https://www.phoronix.com/news/Intel-LKGS-Linux-Patches",
-          "publishedOn": "2022-10-07T14:30:00.000Z",
-          "wordCount": 1408,
-          "title": "Intel Preps The Linux Kernel For LKGS - Part Of FRED - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CAIiEEdL9IK8kyrlzi-_Mbabht0qFwgEKg4IACoGCAoww7k_MMevCDDIrqcH",
-          "author": null,
-          "description": "10 best Linux laptops to look for in 2022  Hindustan Times",
-          "link": "https://www.hindustantimes.com/shop-now/electronics/10-best-linux-laptops-to-look-for-in-2022-101665062141666.html",
-          "publishedOn": "2022-10-07T14:30:00.000Z",
-          "wordCount": 5596,
-          "title": "10 best Linux laptops to look for in 2022 - Hindustan Times",
-          "imageUrl": "https://images.hindustantimes.com/img/2022/10/06/400x225/Collage_Maker-06-Oct-2022-0848-PM_1665069622713_1665069622971_1665069622971.jpg"
         }
       ]
     },
@@ -10775,36 +10835,6 @@
           "wordCount": 1539,
           "title": "Python Programming Tips to Help You Level Up Your Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
-          "author": "Aman Kalra",
-          "description": "In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {",
-          "link": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
-          "publishedOn": "2022-10-07T20:49:10.000Z",
-          "wordCount": 1189,
-          "title": "TypeScript Generics – Use Case and Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-hitarth-jadhav-220357.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
-          "author": "Dionysia Lemonaki",
-          "description": "When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/",
-          "publishedOn": "2022-10-07T18:00:38.000Z",
-          "wordCount": 2230,
-          "title": "How to Check if a String Contains a Substring in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-tranmautritam-251225.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
-          "author": "Dillion Megida",
-          "description": "Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the",
-          "link": "https://www.freecodecamp.org/news/recursion-in-javascript-simplified/",
-          "publishedOn": "2022-10-07T17:51:43.000Z",
-          "wordCount": 2285,
-          "title": "How Does Recursion Work? Simplified in JavaScript with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/recursion-js.png"
         }
       ]
     }
