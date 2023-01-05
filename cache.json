@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=20759",
+          "author": "Dave Sumaylo",
+          "description": "This covered the steps for adding LasPass on Firefox on Ubuntu 22.04, creating an account, and using it for quick login and saving your credentials and notes.",
+          "link": "https://linuxhint.com/install-lastpass-ubuntu/",
+          "publishedOn": "2023-01-03T08:42:27.000Z",
+          "wordCount": 16436,
+          "title": "How to Install LastPass on Ubuntu 22.04",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=271118",
           "author": "Kevin Reursora",
           "description": "Multistage build contains a series of builds. To create a multistage Dockerfile, use more than one “FROM” statement, where first statement acts as a base build.",
@@ -1850,216 +1860,6 @@
           "wordCount": 16753,
           "title": "ESP32 Digital Inputs and Digital Outputs Using Arduino IDE",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=123236",
-          "author": "Kevin Reursora",
-          "description": "Practical tutorial on how to convert the PostgreSQL timestamp to date using different functions including DATE(), TO_CHAR(), NOW(), EXTRACT(), and DATE_PART().",
-          "link": "https://linuxhint.com/postgresql-convert-timestamp-to-date/",
-          "publishedOn": "2022-12-06T10:32:55.000Z",
-          "wordCount": 16435,
-          "title": "PostgreSQL Convert Timestamp to Date",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262233",
-          "author": "Kashif",
-          "description": "ESP32 inbuilt timer is not so accurate so we can use NTP server to get real time of specific time zone and use it to execute instructions. Read more here.",
-          "link": "https://linuxhint.com/esp32-ntp-client-server-date-time/",
-          "publishedOn": "2022-12-06T06:24:21.000Z",
-          "wordCount": 16544,
-          "title": "ESP32 NTP Client-Server: Get Date and Time – Arduino IDE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262228",
-          "author": "Kashif",
-          "description": "ESP32 contains dual Bluetooth. Bluetooth classic for high end requirements and Bluetooth low energy for power saving applications. Find out more in this guide.",
-          "link": "https://linuxhint.com/bluetooth-classic-bluetooth-low-energy-esp32/",
-          "publishedOn": "2022-12-06T06:07:25.000Z",
-          "wordCount": 16717,
-          "title": "ESP32 – Bluetooth Classic vs Bluetooth Low Energy (BLE)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262219",
-          "author": "Umar Hassan",
-          "description": "To disable the Discord automatically determines input sensitivity of mic feature, turn off stated toggle in the input sensitivity section from user settings.",
-          "link": "https://linuxhint.com/disable-automatically-determines-input-sensitivity-of-mic-discord/",
-          "publishedOn": "2022-12-06T05:56:41.000Z",
-          "wordCount": 15863,
-          "title": "Discord Automatically Determines Input Sensitivity of Mic Feature",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262212",
-          "author": "Farah Batool",
-          "description": "The “getDate()” method is used for getting the day of the month instead of the “getDay()” method. Because the getDay() returns the number between 0 and 6.",
-          "link": "https://linuxhint.com/date-getday-returns-wrong-day-in-javascript-fixed/",
-          "publishedOn": "2022-12-06T04:24:00.000Z",
-          "wordCount": 15904,
-          "title": "Date.getDay() Returns Wrong Day in JavaScript [Fixed]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262196",
-          "author": "Rafia Zafar",
-          "description": "To create a Git patch from uncommitted changes, first open the Git working repository. Create the patch using the “git diff --cached > Patchfile.patch” command.",
-          "link": "https://linuxhint.com/create-git-patch-from-uncommitted-changes-in-current-working-directory/",
-          "publishedOn": "2022-12-06T04:15:09.000Z",
-          "wordCount": 16296,
-          "title": "Create a Git Patch From the Uncommitted Changes in the Current Working Directory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262187",
-          "author": "Umar Hassan",
-          "description": "The charCodeAt() and the String.fromCharCode() methods can be implemented in combination to convert the integer to its character equivalent in JavaScript.",
-          "link": "https://linuxhint.com/convert-integer-to-its-character-equivalent-in-javascript/",
-          "publishedOn": "2022-12-06T04:04:21.000Z",
-          "wordCount": 16353,
-          "title": "Convert Integer to Its Character Equivalent in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262177",
-          "author": "Umar Hassan",
-          "description": "The map() method, forEach() and push() methods or reduce() and concat() methods can be used to convert an array of strings to an array of numbers in JavaScript.",
-          "link": "https://linuxhint.com/convert-array-of-starings-to-array-of-numbers-in-javascript/",
-          "publishedOn": "2022-12-06T03:54:06.000Z",
-          "wordCount": 16542,
-          "title": "Convert Array of Starings to Array of Numbers in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262170",
-          "author": "Umar Hassan",
-          "description": "The instanceof operator combined with logical not(!) operator or the boolean value can be used to check if an object is not an instance of class in JavaScript.",
-          "link": "https://linuxhint.com/check-if-object-is-not-instanceof-class-in-javascript/",
-          "publishedOn": "2022-12-06T02:56:01.000Z",
-          "wordCount": 16193,
-          "title": "Check if Object is Not instanceof Class in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262164",
-          "author": "Umar Hassan",
-          "description": "classList property and contains() method, getElementsByTagName() and match() methods or jQuery can be used to check if a body has specific class in JavaScript.",
-          "link": "https://linuxhint.com/check-if-body-has-a-specific-class-using-javascript/",
-          "publishedOn": "2022-12-06T02:43:06.000Z",
-          "wordCount": 16342,
-          "title": "Check if Body has a Specific Class Using JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262157",
-          "author": "Ann-ul Hayyat",
-          "description": "Tutorial on the the left shift (<<) Bitwise operators, their types, and functionalities to shift the number or value by the definite number of bits to the left.",
-          "link": "https://linuxhint.com/csharp-bitwise-operator/",
-          "publishedOn": "2022-12-06T02:29:48.000Z",
-          "wordCount": 16709,
-          "title": "C# Bitwise Left Shift (<<) Operator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=262151",
-          "author": "Farah Batool",
-          "description": "The “setDate()” method with the “getDate()” method and “Date.now()” method is used to add 1 day to a date using JavaScript.",
-          "link": "https://linuxhint.com/add-1-day-to-date-using-javascript/",
-          "publishedOn": "2022-12-06T02:22:43.000Z",
-          "wordCount": 16098,
-          "title": "Add 1 Day to a Date Using JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261968",
-          "author": "Kashif",
-          "description": "A PIR sensor with ESP32 measures infrared (IR) light radiating from objects in its field of view. To trigger a response using the PIR millis function is used.",
-          "link": "https://linuxhint.com/esp32-pir-motion-sensor-arduino-ide/",
-          "publishedOn": "2022-12-05T17:44:26.000Z",
-          "wordCount": 17513,
-          "title": "ESP32 with PIR Motion Sensor using Interrupts and Timers – Arduino IDE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261958",
-          "author": "Omar Farooq",
-          "description": "A guide on using the string at() method, the writing style of the at() method, and the types of errors and exceptions we will get if we make logical mistakes.",
-          "link": "https://linuxhint.com/cpp-string-at/",
-          "publishedOn": "2022-12-05T16:59:44.000Z",
-          "wordCount": 16575,
-          "title": "C++ string::at() Function",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261948",
-          "author": "Omar Farooq",
-          "description": "A guide on how to use the C++ rint() function and its functions, and the user gets the rounded integer value by using the fesetround() method with examples.",
-          "link": "https://linuxhint.com/cpp-rint-function/",
-          "publishedOn": "2022-12-05T16:51:34.000Z",
-          "wordCount": 16629,
-          "title": "C++ rint() Function",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261926",
-          "author": "Awais Khan",
-          "description": "DAKboard is an app that allows you to create customizable displays. This article is a guide on how to install and setup DAKboard on Raspberry Pi through the browser.",
-          "link": "https://linuxhint.com/guide-setup-dakboard-raspberry-pi-browser/",
-          "publishedOn": "2022-12-05T15:41:52.000Z",
-          "wordCount": 16545,
-          "title": "A Complete Guide to Setup DAKboard on Raspberry Pi through Browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261904",
-          "author": "Zahra Zamir",
-          "description": "10 useful Network commands for Linux systems are discussed in the article. The commands that are discussed include ifconfig, ping, dig and many others.",
-          "link": "https://linuxhint.com/10-useful-networking-commands-raspberry-pi-linux/",
-          "publishedOn": "2022-12-05T15:29:01.000Z",
-          "wordCount": 16446,
-          "title": "10 Useful Networking Commands for Raspberry Pi Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261882",
-          "author": "Muhammad Farhan",
-          "description": "To fix the hardware reserved memory issue in Windows, you need to install 64-bit Windows, disable maximum memory on boot, or disable RAM virtualization.",
-          "link": "https://linuxhint.com/hardware-reserved-memory-windows-fixed/",
-          "publishedOn": "2022-12-05T14:26:43.000Z",
-          "wordCount": 16609,
-          "title": "7 Fixes for Hardware Reserved Memory Windows (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261861",
-          "author": "Muhammad Farhan",
-          "description": "To fix the driver power state failure error on Windows, you need to enable safe mode, disconnect peripherals, turn off power savings, or disable fast startup.",
-          "link": "https://linuxhint.com/driver-power-state-failure-on-windows-fixed/",
-          "publishedOn": "2022-12-05T14:08:55.000Z",
-          "wordCount": 16638,
-          "title": "6 Solutions to Fix Driver Power State Failure on Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261843",
-          "author": "Muhammad Farhan",
-          "description": "To fix the bad system config info stop code in Windows 10, you need to restart Windows, perform start-up repair, rebuild bcd, run sfc scan, or run dism scan.",
-          "link": "https://linuxhint.com/bad-system-config-info-stop-code-windows-10-fixed/",
-          "publishedOn": "2022-12-05T13:54:15.000Z",
-          "wordCount": 16409,
-          "title": "6 Fixes to Solve the Bad System Config Info Stop Code in Windows 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=261840",
-          "author": "Zahra Zamir",
-          "description": "In this article, we have listed the 5 ways to put Raspberry Pi 4 to good use, which includes using it as a Retro gaming device, media center, and more.",
-          "link": "https://linuxhint.com/5-ways-put-raspberry-pi-to-good-use/",
-          "publishedOn": "2022-12-05T13:42:52.000Z",
-          "wordCount": 16139,
-          "title": "5 Ways to Put Raspberry Pi to Good Use",
-          "imageUrl": null
         }
       ]
     },
@@ -2068,6 +1868,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181152",
+          "author": "Web Webster",
+          "description": "fwupd 1.8.9 adds SHA384 support for TPM hashes, an interactive request when re-inserting the USB cable, and much more. Learn more here.\nThe post fwupd 1.8.9 Adds SHA384 Support for TPM Hashes, New Devices appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/fwupd-1-8-9-sha384-support-tpm-hashes/",
+          "publishedOn": "2023-01-05T01:00:15.000Z",
+          "wordCount": 16664,
+          "title": "fwupd 1.8.9 Adds SHA384 Support for TPM Hashes, New Devices",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181151",
+          "author": "Web Webster",
+          "description": "GNU/Linux is growing rapidly in India, and some Indian sites have begun attacking GNU/Linux with totally fabricated claims sponsored by Microsoft. Learn more here.\nThe post Analytics India Magazine Shows That Microsoft Hates Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/analytics-india-magazine-shows-that-microsoft-hates-linux/",
+          "publishedOn": "2023-01-04T23:00:26.000Z",
+          "wordCount": 16652,
+          "title": "Analytics India Magazine Shows That Microsoft Hates Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181150",
+          "author": "Web Webster",
+          "description": "The new Fedora Spins have been officially approved and will be offered to download as part of Fedora Linux 38 in late April 2023.\nThe post Fedora Linux 38 Will Offer Fedora Budgie and Sway Spins appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/fedora-linux-38-fedora-budgie-sway-spins/",
+          "publishedOn": "2023-01-04T21:00:31.000Z",
+          "wordCount": 16663,
+          "title": "Fedora Linux 38 Will Offer Fedora Budgie and Sway Spins",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181149",
+          "author": "Web Webster",
+          "description": "Powered by the latest Linux 6.1 kernel and the upcoming Mesa 23 graphics stacks, Nitrux 2.6 comes with PipeWire enabled by default. Learn more here.\nThe post Nitrux 2.6 is Powered by Linux 6.1, Adds PipeWire and Wayland appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/nitrux-2-6-is-linux-pipewire-wayland/",
+          "publishedOn": "2023-01-04T19:00:35.000Z",
+          "wordCount": 16666,
+          "title": "Nitrux 2.6 is Powered by Linux 6.1, Adds PipeWire and Wayland",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/developer/77f779ebcd36ef3bb721a3d8083f76f8/",
+          "author": null,
+          "description": "Linux iptables Firewall Simplified Examples\nThe post  appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/77f779ebcd36ef3bb721a3d8083f76f8/",
+          "publishedOn": "2023-01-04T18:07:29.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180938",
+          "author": "Web Webster",
+          "description": "This article guide explains the differences between the Yum and DNF package managers in Fedora and Red Hat-based Linux distros.\nThe post What is the Difference Between DNF and YUM Commands? appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/difference-between-dnf-yum-commands/",
+          "publishedOn": "2023-01-04T18:00:37.000Z",
+          "wordCount": 16655,
+          "title": "What is the Difference Between DNF and YUM Commands?",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180937",
+          "author": "Web Webster",
+          "description": "Microsoft Teams is one of the top IT tools for advanced team messaging, video conferencing, meeting, and collaboration. Here are some of the best alternatives for Linux.\nThe post 16 Best Microsoft Teams Alternatives for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/best-microsoft-teams-alternatives-linux/",
+          "publishedOn": "2023-01-04T17:00:33.000Z",
+          "wordCount": 16651,
+          "title": "16 Best Microsoft Teams Alternatives for Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180922",
+          "author": "Web Webster",
+          "description": "Check out this installation guide on how to get the latest Xfce 4.18 desktop in Xubuntu 22.04 and Xubuntu 22.10.\nThe post How to Get Xfce 4.18 on Xubuntu 22.04 and 22.10 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/get-xfce-4-18-xubuntu/",
+          "publishedOn": "2023-01-04T16:00:30.000Z",
+          "wordCount": 16656,
+          "title": "How to Get Xfce 4.18 on Xubuntu 22.04 and 22.10",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180908",
+          "author": "Web Webster",
+          "description": "In this tutorial, you’ll learn how to install Chrony NTP on a Rocky Linux system in order to synchronize the system clock.\nThe post How to Install Chrony NTP to Synchronize Time in Rocky Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-chrony-ntp-synchronize-time-rocky-linux/",
+          "publishedOn": "2023-01-04T15:00:28.000Z",
+          "wordCount": 16665,
+          "title": "How to Install Chrony NTP to Synchronize Time in Rocky Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180907",
+          "author": "Web Webster",
+          "description": "Tired of the old software in Debian Stable, but don’t want to move to another distro? Try switching to Debian Testing instead, and enjoy the best of both worlds.\nThe post How to Switch From Debian Stable to Testing appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/switch-debian-stable-testing/",
+          "publishedOn": "2023-01-04T14:00:26.000Z",
+          "wordCount": 16665,
+          "title": "How to Switch From Debian Stable to Testing",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=181145",
           "author": "Web Webster",
@@ -4297,106 +4197,6 @@
           "wordCount": 16564,
           "title": "5 Free Resources From the Cybersecurity and Infrastructure Security Agency",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180398",
-          "author": "Web Webster",
-          "description": "XFCE is a lightweight Linux desktop environment with the main focus on speed rather than looks. This tutorial will teach you how to install themes in Linux distributions that use the XFCE desktop environment.\nThe post How to Install XFCE Themes in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-xfce-themes-linux/",
-          "publishedOn": "2022-12-06T03:00:56.000Z",
-          "wordCount": 16587,
-          "title": "How to Install XFCE Themes in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180597",
-          "author": "Web Webster",
-          "description": "The new Steam Client update further improves the new Big Picture mode and fixes several bugs. Get more details on the update here.\nThe post Latest Steam Client Update Improves Big Picture Mode, Fixes Borderlands 2 Crash appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/steam-client-update-improves-new-big-picture-mode-fixes-borderlands-2-crash/",
-          "publishedOn": "2022-12-06T01:00:33.000Z",
-          "wordCount": 16591,
-          "title": "Latest Steam Client Update Improves Big Picture Mode, Fixes Borderlands 2 Crash",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180594",
-          "author": "Web Webster",
-          "description": "The new Ubuntu Linux kernel security update, which addresses multiple vulnerabilities, is now available for several Ubuntu releases.\nThe post Ubuntu Users Get New Linux Kernel Security Updates, 10 Vulnerabilities Patched appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ubuntu-linux-kernel-security-updates-10-vulnerabilities-patched/",
-          "publishedOn": "2022-12-05T23:00:21.000Z",
-          "wordCount": 16580,
-          "title": "Ubuntu Users Get New Linux Kernel Security Updates, 10 Vulnerabilities Patched",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180590",
-          "author": "Web Webster",
-          "description": "System76’s in-house distribution Pop!_OS Linux currently features a graphical desktop environment derived from GNOME, called COSMIC.\nThe post System76’s COSMIC Desktop Promises HDR Support, Smooth NVIDIA Experience appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/system76-cosmic-desktop-promises-hdr-support-smooth-nvidia-experience/",
-          "publishedOn": "2022-12-05T21:00:12.000Z",
-          "wordCount": 16563,
-          "title": "System76’s COSMIC Desktop Promises HDR Support, Smooth NVIDIA Experience",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180566",
-          "author": "Web Webster",
-          "description": "Meet Exodia OS, an Arch Linux-based distribution in the making for general and advanced usage. Here’s a first look.\nThe post Exodia OS: Emerging BSPWM-Based Arch Linux for Pentesters appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/exodia-os-bspwm-based-arch-linux-pentesters/",
-          "publishedOn": "2022-12-05T19:00:04.000Z",
-          "wordCount": 16557,
-          "title": "Exodia OS: Emerging BSPWM-Based Arch Linux for Pentesters",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180395",
-          "author": "Web Webster",
-          "description": "Vim has a staggering number of features and functions hidden behind keyboard shortcuts and commands. Learn how to navigate them here.\nThe post Vim Tutorial for Beginners appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/vim-tutorial-beginners/",
-          "publishedOn": "2022-12-05T18:00:11.000Z",
-          "wordCount": 16554,
-          "title": "Vim Tutorial for Beginners",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180394",
-          "author": "Web Webster",
-          "description": "htop is a popular command-line tool for monitoring system resources and performance on Linux. Here are a few good alternatives.\nThe post 5 htop Alternatives to Enhance Your Linux System Monitoring Experience appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/htop-alternatives-system-monitoring/",
-          "publishedOn": "2022-12-05T17:00:50.000Z",
-          "wordCount": 16569,
-          "title": "5 htop Alternatives to Enhance Your Linux System Monitoring Experience",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180393",
-          "author": "Web Webster",
-          "description": "In this review, you’ll get to see the many reasons as to why System76’s Pop!_OS is the best Ubuntu-based Linux distribution.\nThe post Pop!_OS Review: Reasons Why It’s an All-Rounder Linux Distro appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/pop_os-review/",
-          "publishedOn": "2022-12-05T16:00:46.000Z",
-          "wordCount": 16572,
-          "title": "Pop!_OS Review: Reasons Why It’s an All-Rounder Linux Distro",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180390",
-          "author": "Web Webster",
-          "description": "Designed to overcome the limitations of conventional data catalogs, ODD helps with data management processes. Learn more here.\nThe post ODD Platform: Open-Source Data Discovery and Observability appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/odd-platform-open-source-data-discovery-observability/",
-          "publishedOn": "2022-12-05T15:00:45.000Z",
-          "wordCount": 16561,
-          "title": "ODD Platform: Open-Source Data Discovery and Observability",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180384",
-          "author": "Web Webster",
-          "description": "In this step-by-step guide, you will learn how to install official NVIDIA graphics drivers on the RHEL 9 distribution.\nThe post How to Install NVIDIA Drivers on RHEL 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-nvidia-drivers-rhel-9/",
-          "publishedOn": "2022-12-05T14:00:42.000Z",
-          "wordCount": 16555,
-          "title": "How to Install NVIDIA Drivers on RHEL 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4405,6 +4205,186 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbmV3LXNoYy1jb21waWxlZC1saW51eC1tYWx3YXJlLWluc3RhbGxzLWNyeXB0b21pbmVycy1kZG9zLWJvdHMv0gFyaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9uZXctc2hjLWNvbXBpbGVkLWxpbnV4LW1hbHdhcmUtaW5zdGFsbHMtY3J5cHRvbWluZXJzLWRkb3MtYm90cy9hbXAv",
+          "author": null,
+          "description": "New SHC-compiled Linux malware installs cryptominers, DDoS bots  BleepingComputer",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbmV3LXNoYy1jb21waWxlZC1saW51eC1tYWx3YXJlLWluc3RhbGxzLWNyeXB0b21pbmVycy1kZG9zLWJvdHMv0gFyaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9uZXctc2hjLWNvbXBpbGVkLWxpbnV4LW1hbHdhcmUtaW5zdGFsbHMtY3J5cHRvbWluZXJzLWRkb3MtYm90cy9hbXAv?oc=5",
+          "publishedOn": "2023-01-04T22:29:46.000Z",
+          "wordCount": 2212,
+          "title": "New SHC-compiled Linux malware installs cryptominers, DDoS bots - BleepingComputer",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/06/13/Linux_headpic.jpg"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZml4LWNvbW1hbmQtbm90LWZvdW5kLWVycm9yLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "How to Fix the “command not found” Error on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZml4LWNvbW1hbmQtbm90LWZvdW5kLWVycm9yLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2023-01-04T21:00:00.000Z",
+          "wordCount": 2530,
+          "title": "How to Fix the “command not found” Error on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/linux_user_worried_by_the_command_not_found_error.jpg"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vdGVjaG5ld3Nib3kuY29tL25ldy1saW51eC1tYWx3YXJlLWZvdW5kLXRhcmdldGluZy13b3JkcHJlc3Mtc2l0ZXMvP25vYW1wPW1vYmlsZdIBUGh0dHBzOi8vdGVjaG5ld3Nib3kuY29tL25ldy1saW51eC1tYWx3YXJlLWZvdW5kLXRhcmdldGluZy13b3JkcHJlc3Mtc2l0ZXMvP2FtcD0x",
+          "author": null,
+          "description": "New Linux malware found targeting WordPress sites ...  Technewsboy",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vdGVjaG5ld3Nib3kuY29tL25ldy1saW51eC1tYWx3YXJlLWZvdW5kLXRhcmdldGluZy13b3JkcHJlc3Mtc2l0ZXMvP25vYW1wPW1vYmlsZdIBUGh0dHBzOi8vdGVjaG5ld3Nib3kuY29tL25ldy1saW51eC1tYWx3YXJlLWZvdW5kLXRhcmdldGluZy13b3JkcHJlc3Mtc2l0ZXMvP2FtcD0x?oc=5",
+          "publishedOn": "2023-01-04T20:05:09.000Z",
+          "wordCount": 2277,
+          "title": "New Linux malware found targeting WordPress sites ... - Technewsboy",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/xXaZ3Lb4ZEejUv9ipwK3ha-1200-80.jpg"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1IV01PTi1Nb3JlLVNlbnNvcnPSAQA",
+          "author": null,
+          "description": "Hardware Monitoring Sensor Driver Additions Begin Queuing For Linux 6.3  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1IV01PTi1Nb3JlLVNlbnNvcnPSAQA?oc=5",
+          "publishedOn": "2023-01-04T20:00:00.000Z",
+          "wordCount": 1594,
+          "title": "Hardware Monitoring Sensor Driver Additions Begin Queuing For Linux 6.3 - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAxLzA0L2NhbGN1bGF0ZV9saW51eC_SATtodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDEvMDQvY2FsY3VsYXRlX2xpbnV4Lw",
+          "author": null,
+          "description": "Calculate Linux: It's like Gentoo, but for businesses  The Register",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAxLzA0L2NhbGN1bGF0ZV9saW51eC_SATtodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDEvMDQvY2FsY3VsYXRlX2xpbnV4Lw?oc=5",
+          "publishedOn": "2023-01-04T18:30:00.000Z",
+          "wordCount": 1582,
+          "title": "Calculate Linux: It's like Gentoo, but for businesses - The Register",
+          "imageUrl": "https://regmedia.co.uk/2023/01/04/calculate-kde.jpg"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JlZC1IYXQtMjAyMy1IRFItSGFja2Zlc3TSAQA",
+          "author": null,
+          "description": "Red Hat Planning A Hackfest To Further Advance HDR Support On The Linux Desktop  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JlZC1IYXQtMjAyMy1IRFItSGFja2Zlc3TSAQA?oc=5",
+          "publishedOn": "2023-01-04T18:26:00.000Z",
+          "wordCount": 1634,
+          "title": "Red Hat Planning A Hackfest To Further Advance HDR Support On The Linux Desktop - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9mYXVsdC10b2xlcmFudC1zZnRwLXNjcmlwdGluZy1yZXRyeS1mYWlsZWQtdHJhbnNmZXJzLWF1dG9tYXRpY2FsbHnSAQA",
+          "author": null,
+          "description": "Fault-Tolerant SFTP scripting - Retry Failed Transfers Automatically  Linux Journal",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9mYXVsdC10b2xlcmFudC1zZnRwLXNjcmlwdGluZy1yZXRyeS1mYWlsZWQtdHJhbnNmZXJzLWF1dG9tYXRpY2FsbHnSAQA?oc=5",
+          "publishedOn": "2023-01-04T18:21:54.000Z",
+          "wordCount": 3808,
+          "title": "Fault-Tolerant SFTP scripting - Retry Failed Transfers Automatically - Linux Journal",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc3BlZWQtdGVzdC1pbnRlcm5ldC1mcm9tLWxpbnV4LWNvbW1hbmQtbGluZS_SAQA",
+          "author": null,
+          "description": "How to Speed Test Your Internet From the Linux Command Line  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc3BlZWQtdGVzdC1pbnRlcm5ldC1mcm9tLWxpbnV4LWNvbW1hbmQtbGluZS_SAQA?oc=5",
+          "publishedOn": "2023-01-04T17:45:00.000Z",
+          "wordCount": 2310,
+          "title": "How to Speed Test Your Internet From the Linux Command Line - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/picture-of-a-dashboard-showing-statistical-data.jpg"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9ob3N0LW1vbmVyby1ub2RlLW9uLXRvci1saW51eC_SAUFodHRwczovL3d3dy5tYWtldGVjaGVhc2llci5jb20vaG9zdC1tb25lcm8tbm9kZS1vbi10b3ItbGludXgvP2FtcA",
+          "author": null,
+          "description": "How to Host A Monero Node on Tor in Linux  Make Tech Easier",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9ob3N0LW1vbmVyby1ub2RlLW9uLXRvci1saW51eC_SAUFodHRwczovL3d3dy5tYWtldGVjaGVhc2llci5jb20vaG9zdC1tb25lcm8tbm9kZS1vbi10b3ItbGludXgvP2FtcA?oc=5",
+          "publishedOn": "2023-01-04T16:25:00.000Z",
+          "wordCount": 2553,
+          "title": "How to Host A Monero Node on Tor in Linux - Make Tech Easier",
+          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/10/monero-node-tor-linux-00-featured-image.jpg"
+        },
+        {
+          "id": "CBMie2h0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LXNvZnR3YXJlLXN0ZXBzLXRvLW1pZ3JhdGUtd2luZG93cy1mcm9tLWJpZy1kcml2ZS10by1zbWFsbC1kcml2ZS4yMDI0NjIyL3Bvc3QtMTA0NTU0Mzk2NtIBAA",
+          "author": null,
+          "description": "Linux software, steps to migrate Windows from big drive to small drive?  HardForum",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vaGFyZGZvcnVtLmNvbS90aHJlYWRzL2xpbnV4LXNvZnR3YXJlLXN0ZXBzLXRvLW1pZ3JhdGUtd2luZG93cy1mcm9tLWJpZy1kcml2ZS10by1zbWFsbC1kcml2ZS4yMDI0NjIyL3Bvc3QtMTA0NTU0Mzk2NtIBAA?oc=5",
+          "publishedOn": "2023-01-04T16:10:26.000Z",
+          "wordCount": 1311,
+          "title": "Linux software, steps to migrate Windows from big drive to small drive? - HardForum",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vYmxvZ3MuYmxhY2tiZXJyeS5jb20vZW4vMjAyMy8wMS9lbmRwb2ludC1zZWN1cml0eS1zb2x1dGlvbnMtZm9yLXRoZS1ncm93aW5nLXRocmVhdC1sYW5kc2NhcGXSAQA",
+          "author": null,
+          "description": "Endpoint Security Solutions for the Growing Threat Landscape  BlackBerry Blog",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vYmxvZ3MuYmxhY2tiZXJyeS5jb20vZW4vMjAyMy8wMS9lbmRwb2ludC1zZWN1cml0eS1zb2x1dGlvbnMtZm9yLXRoZS1ncm93aW5nLXRocmVhdC1sYW5kc2NhcGXSAQA?oc=5",
+          "publishedOn": "2023-01-04T15:00:00.000Z",
+          "wordCount": 1446,
+          "title": "Endpoint Security Solutions for the Growing Threat Landscape - BlackBerry Blog",
+          "imageUrl": "https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2022/12/ztna-1200x630px-social-fb.png"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvaHVtYmxlLWNob2ljZS1mb3ItamFudWFyeS0yMDIzLWhhcy1kb29tLWV0ZXJuYWwtYS1nb29kLW1vbnRoLWZvci1zdGVhbS1kZWNrL9IBAA",
+          "author": null,
+          "description": "Humble Choice for January 2023 has DOOM Eternal, a good month ...  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvaHVtYmxlLWNob2ljZS1mb3ItamFudWFyeS0yMDIzLWhhcy1kb29tLWV0ZXJuYWwtYS1nb29kLW1vbnRoLWZvci1zdGVhbS1kZWNrL9IBAA?oc=5",
+          "publishedOn": "2023-01-04T12:36:49.000Z",
+          "wordCount": 1661,
+          "title": "Humble Choice for January 2023 has DOOM Eternal, a good month ... - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1876244793id22125gol.jpg"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWdlbm9hLWxpbnV40gEA",
+          "author": null,
+          "description": "AlmaLinux, CentOS Stream, Clear Linux, Debian, Fedora & Ubuntu On AMD 4th Gen EPYC Genoa  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWdlbm9hLWxpbnV40gEA?oc=5",
+          "publishedOn": "2023-01-04T12:33:23.000Z",
+          "wordCount": 1402,
+          "title": "AlmaLinux, CentOS Stream, Clear Linux, Debian, Fedora & Ubuntu On AMD 4th Gen EPYC Genoa - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvYW1kLXJheS10cmFjaW5nLW9uLWxpbnV4LWdldHMtY2xvc2VyLXdpdGgtbWVzYS1lbmFibGluZy1zcGVjaWZpYy1nYW1lcy_SAQA",
+          "author": null,
+          "description": "AMD Ray Tracing on Linux gets closer with Mesa enabling specific games  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvYW1kLXJheS10cmFjaW5nLW9uLWxpbnV4LWdldHMtY2xvc2VyLXdpdGgtbWVzYS1lbmFibGluZy1zcGVjaWZpYy1nYW1lcy_SAQA?oc=5",
+          "publishedOn": "2023-01-04T11:48:54.000Z",
+          "wordCount": 1256,
+          "title": "AMD Ray Tracing on Linux gets closer with Mesa enabling specific games - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2109306303id22121gol.jpg"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NCTC1NYXJpbmVyLTIuMC4yMDIyMTIyMtIBAA",
+          "author": null,
+          "description": "Microsoft's CBL-Mariner 2.0.20221222 Linux Distro Now Allows ...  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NCTC1NYXJpbmVyLTIuMC4yMDIyMTIyMtIBAA?oc=5",
+          "publishedOn": "2023-01-04T11:03:00.000Z",
+          "wordCount": 1411,
+          "title": "Microsoft's CBL-Mariner 2.0.20221222 Linux Distro Now Allows ... - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjMvMDEvMDQveW91LWRvbnQtbmVlZC1hLXNhbi13aXRoLWxpbnV4LWxpbmJpdC_SAQA",
+          "author": null,
+          "description": "Linbit pushes DRDB-based software as SAN replacement – Blocks ...  Blocks and Files",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vYmxvY2tzYW5kZmlsZXMuY29tLzIwMjMvMDEvMDQveW91LWRvbnQtbmVlZC1hLXNhbi13aXRoLWxpbnV4LWxpbmJpdC_SAQA?oc=5",
+          "publishedOn": "2023-01-04T11:00:08.000Z",
+          "wordCount": 4455,
+          "title": "Linbit pushes DRDB-based software as SAN replacement – Blocks ... - Blocks and Files",
+          "imageUrl": "https://blocksandfiles.com/wp-content/uploads/2023/01/Philipp-Reisner-teaser.jpg"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wMS9uZXctc2hjLWJhc2VkLWxpbnV4LW1hbHdhcmUtdGFyZ2V0aW5nLmh0bWzSAVJodHRwczovL3RoZWhhY2tlcm5ld3MuY29tLzIwMjMvMDEvbmV3LXNoYy1iYXNlZC1saW51eC1tYWx3YXJlLXRhcmdldGluZy5odG1sP2FtcD0x",
+          "author": null,
+          "description": "New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner  The Hacker News",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wMS9uZXctc2hjLWJhc2VkLWxpbnV4LW1hbHdhcmUtdGFyZ2V0aW5nLmh0bWzSAVJodHRwczovL3RoZWhhY2tlcm5ld3MuY29tLzIwMjMvMDEvbmV3LXNoYy1iYXNlZC1saW51eC1tYWx3YXJlLXRhcmdldGluZy5odG1sP2FtcD0x?oc=5",
+          "publishedOn": "2023-01-04T08:32:00.000Z",
+          "wordCount": 1989,
+          "title": "New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner - The Hacker News",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiz9ez9EnV9BbIq2bPpXaXydklrP9XrLDrDIlHxUfw35ODweTwc-ta67nKsqhPdZZUzS3J_Y-bJAlMWyOIq5_24UNlVQNSw4rZxP105eBDbOMv-SyA5k1vw1s-VdX_9BBha2-_WU6mBgDxgStcCpE3LZQTSuX_d7jGu8Brzi0qLG0RnuKXwk3wsPa4E/s728-rj-e3650/hacking.png"
+        },
+        {
+          "id": "CBMiLWh0dHBzOi8vZ2FtZXJhbnQuY29tL3ZhbHZlLWhkci1saW51eC1zeXN0ZW1zL9IBAA",
+          "author": null,
+          "description": "Valve Wants to Bring HDR to Linux Systems  GameRant",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vZ2FtZXJhbnQuY29tL3ZhbHZlLWhkci1saW51eC1zeXN0ZW1zL9IBAA?oc=5",
+          "publishedOn": "2023-01-04T08:16:00.000Z",
+          "wordCount": 2156,
+          "title": "Valve Wants to Bring HDR to Linux Systems - GameRant",
+          "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/valve-new-trademark-game-software-1.jpg"
+        },
         {
           "id": "CBMibmh0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL3ZhbHZlcy13b3JraW5nLW9uLWhkci1mb3ItbGludXgtZ2FtaW5nLXBhdmluZy10aGUtd2F5LWZvci1hbi1ldmVudHVhbC1vbGVkLXN0ZWFtLWRlY2sv0gEA",
           "author": null,
@@ -5104,6 +5084,16 @@
           "wordCount": 4071,
           "title": "Google seems to be ramping up Fuchsia development going into 2023 - 9to5Google",
           "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/06/Fuchsia-OS-emulator-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9teC1saW51eC1zZXQtdG8tcmVjZWl2ZS14ZmNlLTQxOC11cGRhdGUtc29tZXRpbWUtaW4tamFudWFyeS_SAQA",
+          "author": null,
+          "description": "MX Linux set to receive Xfce 4.18 update sometime in January  Neowin",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9teC1saW51eC1zZXQtdG8tcmVjZWl2ZS14ZmNlLTQxOC11cGRhdGUtc29tZXRpbWUtaW4tamFudWFyeS_SAQA?oc=5",
+          "publishedOn": "2022-12-29T21:00:00.000Z",
+          "wordCount": 2409,
+          "title": "MX Linux set to receive Xfce 4.18 update sometime in January - Neowin",
+          "imageUrl": "https://cdn.neowin.com/news/images/uploaded/2022/12/1672343094_xfce-mxtools_story.jpg"
         },
         {
           "id": "CBMiWGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9teC1saW51eC1zZXQtdG8tcmVjZWl2ZS14ZmNlLTQxOC11cGRhdGUtc29tZXRpbWUtaW4tamFudWFyeS_SAVdodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9teC1saW51eC1zZXQtdG8tcmVjZWl2ZS14ZmNlLTQxOC11cGRhdGUtc29tZXRpbWUtaW4tamFudWFyeS8",
@@ -6344,6 +6334,16 @@
           "wordCount": 994,
           "title": "DH2i DxEnterprise earns Red Hat OpenShift Certification - IT Brief Australia",
           "imageUrl": "https://itbrief.com.au/uploads/story/2022/12/21/compatible_GettyImages-1286070241.jpg"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIyLzEyL2xpbnV4LW1pbnQtMjEtMS1iZXRhLWlzLWF2YWlsYWJsZS10by1kb3dubG9hZNIBVWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIyLzEyL2xpbnV4LW1pbnQtMjEtMS1iZXRhLWlzLWF2YWlsYWJsZS10by1kb3dubG9hZC9hbXA",
+          "author": null,
+          "description": "Linux Mint 21.1 Beta is Available to Download  OMG! Ubuntu!",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIyLzEyL2xpbnV4LW1pbnQtMjEtMS1iZXRhLWlzLWF2YWlsYWJsZS10by1kb3dubG9hZNIBVWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIyLzEyL2xpbnV4LW1pbnQtMjEtMS1iZXRhLWlzLWF2YWlsYWJsZS10by1kb3dubG9hZC9hbXA?oc=5",
+          "publishedOn": "2022-12-21T08:00:00.000Z",
+          "wordCount": 1780,
+          "title": "Linux Mint 21.1 Beta is Available to Download - OMG! Ubuntu!",
+          "imageUrl": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2021/01/linux-mint.jpg"
         },
         {
           "id": "CBMiQWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjIvMTIvMjAvbGludXgtbWludC0yMTEtZ3JhbmRtYS1jaHJpc3RtYXMv0gEA",
@@ -9084,166 +9084,6 @@
           "wordCount": 1274,
           "title": "Heroic Games Launcher gets a big Hotfix to clean up some issues - GamingOnLinux",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/259719082id21994gol.jpg"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLWxvbmctZGFyay10YWxlcy1mcm9tLXRoZS1mYXItdGVycml0b3J5LW91dC1ub3ctYXMtdGhlLWdhbWUtaXMtc3BsaXQtdXAv0gEA",
-          "author": null,
-          "description": "The Long Dark: Tales from the Far Territory out now as the game is split up  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLWxvbmctZGFyay10YWxlcy1mcm9tLXRoZS1mYXItdGVycml0b3J5LW91dC1ub3ctYXMtdGhlLWdhbWUtaXMtc3BsaXQtdXAv0gEA?oc=5",
-          "publishedOn": "2022-12-06T12:01:22.000Z",
-          "wordCount": 1201,
-          "title": "The Long Dark: Tales from the Far Territory out now as the game is split up - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1382175339id21991gol.jpg"
-        },
-        {
-          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZFWC0yMjEyLVJlbGVhc2Vk0gEA",
-          "author": null,
-          "description": "FEX-Emu 2212 Improves x86_64 Game Support On Arm, Now Supports Older Radeon GPUs  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZFWC0yMjEyLVJlbGVhc2Vk0gEA?oc=5",
-          "publishedOn": "2022-12-06T11:16:00.000Z",
-          "wordCount": 1535,
-          "title": "FEX-Emu 2212 Improves x86_64 Game Support On Arm, Now Supports Older Radeon GPUs - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vaXRzZm9zcy5jb20vbGlicmVvZmZpY2UtdnMtZnJlZW9mZmljZS_SAQA",
-          "author": null,
-          "description": "LibreOffice vs FreeOffice: Comparing Popular Free Office Suites  It's FOSS",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vaXRzZm9zcy5jb20vbGlicmVvZmZpY2UtdnMtZnJlZW9mZmljZS_SAQA?oc=5",
-          "publishedOn": "2022-12-06T10:58:53.000Z",
-          "wordCount": 7731,
-          "title": "LibreOffice vs FreeOffice: Comparing Popular Free Office Suites - It's FOSS",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/12/freeoffice-vs-libreoffice.png"
-        },
-        {
-          "id": "CBMidmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvbnZpZGlhLXRhbGtzLXVwLXJ0eC1pby13aXRoLWdkZWZsYXRlLXVzZWQtaW4tZGlyZWN0c3RvcmFnZS0xMS10by1zcGVlZC11cC1nYW1lcy_SAQA",
-          "author": null,
-          "description": "NVIDIA talks up RTX IO with GDeflate (used in DirectStorage 1.1) to speed up games  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvbnZpZGlhLXRhbGtzLXVwLXJ0eC1pby13aXRoLWdkZWZsYXRlLXVzZWQtaW4tZGlyZWN0c3RvcmFnZS0xMS10by1zcGVlZC11cC1nYW1lcy_SAQA?oc=5",
-          "publishedOn": "2022-12-06T10:54:48.000Z",
-          "wordCount": 1367,
-          "title": "NVIDIA talks up RTX IO with GDeflate (used in DirectStorage 1.1) to speed up games - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9taWNyb3NvZnQtcHJvamVjdC1rb2RpYWstaXMtYWxsLXNldC10by1tYWtlLWVkZ2UtYmV0dGVyLW9uLXdpbmRvd3MtbWFjLWFuZC1saW51eC_SAWxodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9taWNyb3NvZnQtcHJvamVjdC1rb2RpYWstaXMtYWxsLXNldC10by1tYWtlLWVkZ2UtYmV0dGVyLW9uLXdpbmRvd3MtbWFjLWFuZC1saW51eC8",
-          "author": null,
-          "description": "Microsoft \"Project Kodiak\" is all set to make Edge \"better\" on Windows, Mac, and Linux  Neowin",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9taWNyb3NvZnQtcHJvamVjdC1rb2RpYWstaXMtYWxsLXNldC10by1tYWtlLWVkZ2UtYmV0dGVyLW9uLXdpbmRvd3MtbWFjLWFuZC1saW51eC_SAWxodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9taWNyb3NvZnQtcHJvamVjdC1rb2RpYWstaXMtYWxsLXNldC10by1tYWtlLWVkZ2UtYmV0dGVyLW9uLXdpbmRvd3MtbWFjLWFuZC1saW51eC8?oc=5",
-          "publishedOn": "2022-12-06T08:36:00.000Z",
-          "wordCount": 2401,
-          "title": "Microsoft \"Project Kodiak\" is all set to make Edge \"better\" on Windows, Mac, and Linux - Neowin",
-          "imageUrl": "https://cdn.neowin.com/news/images/uploaded/2022/09/1662910727_1650457871_edge_insiders_can_story.jpg"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS1Nb2JpbGl0eS1QaG9zaC1BcHByb3ZlZNIBAA",
-          "author": null,
-          "description": "Fedora 38 Cleared To Produce \"Mobility Phosh\" Spins  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS1Nb2JpbGl0eS1QaG9zaC1BcHByb3ZlZNIBAA?oc=5",
-          "publishedOn": "2022-12-05T23:25:00.000Z",
-          "wordCount": 1269,
-          "title": "Fedora 38 Cleared To Produce \"Mobility Phosh\" Spins - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiemh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMi8xMi9vcGVuYWlzLW5ldy1jaGF0Ym90LWNhbi1oYWxsdWNpbmF0ZS1hLWxpbnV4LXNoZWxsLW9yLWNhbGxpbmctYS1iYnMv0gF-aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vaW5mb3JtYXRpb24tdGVjaG5vbG9neS8yMDIyLzEyL29wZW5haXMtbmV3LWNoYXRib3QtY2FuLWhhbGx1Y2luYXRlLWEtbGludXgtc2hlbGwtb3ItY2FsbGluZy1hLWJicy9hbXAv",
-          "author": null,
-          "description": "No Linux? No problem. Just get AI to hallucinate it for you  Ars Technica",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiemh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMi8xMi9vcGVuYWlzLW5ldy1jaGF0Ym90LWNhbi1oYWxsdWNpbmF0ZS1hLWxpbnV4LXNoZWxsLW9yLWNhbGxpbmctYS1iYnMv0gF-aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vaW5mb3JtYXRpb24tdGVjaG5vbG9neS8yMDIyLzEyL29wZW5haXMtbmV3LWNoYXRib3QtY2FuLWhhbGx1Y2luYXRlLWEtbGludXgtc2hlbGwtb3ItY2FsbGluZy1hLWJicy9hbXAv?oc=5",
-          "publishedOn": "2022-12-05T22:45:41.000Z",
-          "wordCount": 2024,
-          "title": "No Linux? No problem. Just get AI to hallucinate it for you - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_terminal_hero_2-760x380.jpg"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjgxMDc5L2NvbnZlcnRpbmctbnVtYmVycy1vbi1saW51eC1hbW9uZy1kZWNpbWFsLWhleGFkZWNpbWFsLW9jdGFsLWFuZC1iaW5hcnkuaHRtbNIBfGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjgxMDc5L2NvbnZlcnRpbmctbnVtYmVycy1vbi1saW51eC1hbW9uZy1kZWNpbWFsLWhleGFkZWNpbWFsLW9jdGFsLWFuZC1iaW5hcnkuYW1wLmh0bWw",
-          "author": null,
-          "description": "Converting numbers on Linux among decimal, hexadecimal, octal, and binary  Network World",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjgxMDc5L2NvbnZlcnRpbmctbnVtYmVycy1vbi1saW51eC1hbW9uZy1kZWNpbWFsLWhleGFkZWNpbWFsLW9jdGFsLWFuZC1iaW5hcnkuaHRtbNIBfGh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjgxMDc5L2NvbnZlcnRpbmctbnVtYmVycy1vbi1saW51eC1hbW9uZy1kZWNpbWFsLWhleGFkZWNpbWFsLW9jdGFsLWFuZC1iaW5hcnkuYW1wLmh0bWw?oc=5",
-          "publishedOn": "2022-12-05T22:15:00.000Z",
-          "wordCount": 11928,
-          "title": "Converting numbers on Linux among decimal, hexadecimal, octal, and binary - Network World",
-          "imageUrl": "https://images.idgesg.net/images/article/2020/04/encryption_encrypted_data_encoding_hexadecimal_code_by_matejmo_gettyimages-810557024_2400x1600-100839548-large.jpg?auto=webp&quality=85,70"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FybWJpYW4tMjIuMTEtUmVsZWFzZWTSAQA",
-          "author": null,
-          "description": "Armbian 22.11 Released With RISC-V 64-bit UEFI Build Support, New Arm Boards  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FybWJpYW4tMjIuMTEtUmVsZWFzZWTSAQA?oc=5",
-          "publishedOn": "2022-12-05T20:00:00.000Z",
-          "wordCount": 1262,
-          "title": "Armbian 22.11 Released With RISC-V 64-bit UEFI Build Support, New Arm Boards - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ocC1lbnZ5LXgzNjAtMjAyMi1ydW4tbGludXgv0gEA",
-          "author": null,
-          "description": "Can the HP Envy x360 (2022) run Linux?  XDA Developers",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ocC1lbnZ5LXgzNjAtMjAyMi1ydW4tbGludXgv0gEA?oc=5",
-          "publishedOn": "2022-12-05T19:00:00.000Z",
-          "wordCount": 2232,
-          "title": "Can the HP Envy x360 (2022) run Linux? - XDA Developers",
-          "imageUrl": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/11/HP-Envy-x360-13-14-1.jpg"
-        },
-        {
-          "id": "CBMidmh0dHBzOi8vd2NjZnRlY2guY29tL252aWRpYS1nZWZvcmNlLWdwdXMtZG9taW5hdGUtbGludXgtZ2FtaW5nLWJlbmNobWFya3MtYW1kLXJhZGVvbi1pbnRlbC1hcmMtbGVmdC1jYXRjaGluZy10aGUtZHVzdC_SAXpodHRwczovL3djY2Z0ZWNoLmNvbS9udmlkaWEtZ2Vmb3JjZS1ncHVzLWRvbWluYXRlLWxpbnV4LWdhbWluZy1iZW5jaG1hcmtzLWFtZC1yYWRlb24taW50ZWwtYXJjLWxlZnQtY2F0Y2hpbmctdGhlLWR1c3QvYW1wLw",
-          "author": null,
-          "description": "NVIDIA GeForce GPUs Continue To Dominate Linux Gaming Benchmarks, AMD Radeon & Intel Arc Left Catching The Dust  Wccftech",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd2NjZnRlY2guY29tL252aWRpYS1nZWZvcmNlLWdwdXMtZG9taW5hdGUtbGludXgtZ2FtaW5nLWJlbmNobWFya3MtYW1kLXJhZGVvbi1pbnRlbC1hcmMtbGVmdC1jYXRjaGluZy10aGUtZHVzdC_SAXpodHRwczovL3djY2Z0ZWNoLmNvbS9udmlkaWEtZ2Vmb3JjZS1ncHVzLWRvbWluYXRlLWxpbnV4LWdhbWluZy1iZW5jaG1hcmtzLWFtZC1yYWRlb24taW50ZWwtYXJjLWxlZnQtY2F0Y2hpbmctdGhlLWR1c3QvYW1wLw?oc=5",
-          "publishedOn": "2022-12-05T19:00:00.000Z",
-          "wordCount": 2012,
-          "title": "NVIDIA GeForce GPUs Continue To Dominate Linux Gaming Benchmarks, AMD Radeon & Intel Arc Left Catching The Dust - Wccftech",
-          "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2022/09/NVIDIA-GeForce-RTX-4090-Graphics-Card-_4-low_res-scale-4_00x-Custom-740x330.png"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEyLzA1L21pbnRfMjExX2VudGVyc19iZXRhL9IBQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMi8xMi8wNS9taW50XzIxMV9lbnRlcnNfYmV0YS8",
-          "author": null,
-          "description": "Fancy some fresh Linux Mint? 21.1 enters beta, should be here by Christmas  The Register",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIyLzEyLzA1L21pbnRfMjExX2VudGVyc19iZXRhL9IBQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMi8xMi8wNS9taW50XzIxMV9lbnRlcnNfYmV0YS8?oc=5",
-          "publishedOn": "2022-12-05T18:30:00.000Z",
-          "wordCount": 1584,
-          "title": "Fancy some fresh Linux Mint? 21.1 enters beta, should be here by Christmas - The Register",
-          "imageUrl": "https://regmedia.co.uk/2022/12/05/shutterstock_mint_xmas_drink.jpg"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaGFja2Vycy1oaWphY2stbGludXgtZGV2aWNlcy11c2luZy1wcm9vdC1pc29sYXRlZC1maWxlc3lzdGVtcy_SAXFodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2hhY2tlcnMtaGlqYWNrLWxpbnV4LWRldmljZXMtdXNpbmctcHJvb3QtaXNvbGF0ZWQtZmlsZXN5c3RlbXMvYW1wLw",
-          "author": null,
-          "description": "Hackers hijack Linux devices using PRoot isolated filesystems  BleepingComputer",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaGFja2Vycy1oaWphY2stbGludXgtZGV2aWNlcy11c2luZy1wcm9vdC1pc29sYXRlZC1maWxlc3lzdGVtcy_SAXFodHRwczovL3d3dy5ibGVlcGluZ2NvbXB1dGVyLmNvbS9uZXdzL3NlY3VyaXR5L2hhY2tlcnMtaGlqYWNrLWxpbnV4LWRldmljZXMtdXNpbmctcHJvb3QtaXNvbGF0ZWQtZmlsZXN5c3RlbXMvYW1wLw?oc=5",
-          "publishedOn": "2022-12-05T17:15:30.000Z",
-          "wordCount": 2426,
-          "title": "Hackers hijack Linux devices using PRoot isolated filesystems - BleepingComputer",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/07/21/Linux_tux_lightning.jpg"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYXBwbGUtbTItZGVjZW1iZXLSAQA",
-          "author": null,
-          "description": "A Fresh Look At The Asahi Linux Performance On Apple's M2  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYXBwbGUtbTItZGVjZW1iZXLSAQA?oc=5",
-          "publishedOn": "2022-12-05T16:52:40.000Z",
-          "wordCount": 1284,
-          "title": "A Fresh Look At The Asahi Linux Performance On Apple's M2 - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjIvMTIvMDUvaG93LXJlYWx0aW1lLWlzLXlvdXIta2VybmVsLXNjb3BlLWEtZ3Bpby10by1maW5kLW91dC_SAQA",
-          "author": null,
-          "description": "How Realtime Is Your Kernel? Scope A GPIO To Find Out  Hackaday",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjIvMTIvMDUvaG93LXJlYWx0aW1lLWlzLXlvdXIta2VybmVsLXNjb3BlLWEtZ3Bpby10by1maW5kLW91dC_SAQA?oc=5",
-          "publishedOn": "2022-12-05T16:30:00.000Z",
-          "wordCount": 2581,
-          "title": "How Realtime Is Your Kernel? Scope A GPIO To Find Out - Hackaday",
-          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/12/hadimg_rtgpio_scope_feat.jpg"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvc2FpbnRzLXJvdy1pdi1nZXR0aW5nLWEtZnJlZS11cGdyYWRlLXRvLXNhaW50cy1yb3ctaXYtcmUtZWxlY3RlZC1hbmQtc3RvcmUtY3Jvc3MtcGxheS_SAQA",
-          "author": null,
-          "description": "Saints Row IV getting a free upgrade to Saints Row IV: Re-Elected and store cross-play  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvc2FpbnRzLXJvdy1pdi1nZXR0aW5nLWEtZnJlZS11cGdyYWRlLXRvLXNhaW50cy1yb3ctaXYtcmUtZWxlY3RlZC1hbmQtc3RvcmUtY3Jvc3MtcGxheS_SAQA?oc=5",
-          "publishedOn": "2022-12-05T15:58:55.000Z",
-          "wordCount": 1583,
-          "title": "Saints Row IV getting a free upgrade to Saints Row IV: Re-Elected and store cross-play - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/729926019id21987gol.jpg"
         }
       ]
     },
@@ -9411,16 +9251,6 @@
           "wordCount": 845,
           "title": "CSS is OK, I guess.",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375747"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375184",
-          "author": "Pieter De Decker",
-          "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/does-www-still-belong-in-urls/",
-          "publishedOn": "2022-12-05T15:20:22.000Z",
-          "wordCount": 1667,
-          "title": "Does WWW still belong in URLs?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
         }
       ]
     },
@@ -9653,21 +9483,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
-          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6055,
-          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
         }
       ]
     },
@@ -9676,6 +9491,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "author": "Dhawal Shah",
+          "description": "Twelve years ago, universities like Stanford and MIT opened up free online courses [https://www.classcentral.com/] to the public. Today, over 1,200 schools [https://www.classcentral.com/universities] around the world have created thousands of free online courses. To welcome the new year, I’ve compiled this list of 860+ such free online courses that you can",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2023-01-04T17:00:00.000Z",
+          "wordCount": 9477,
+          "title": "860+ Free Online Programming & Computer Science Courses You Can Start This New Year",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/programming-courses-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/format-compact-numbers-with-javascript/",
+          "author": "Gerard Hynes",
+          "description": "Sometimes it can be difficult to fit large numbers into your site or app's layout, especially if you have to display several of them together.  As a result, a lot of modern sites and apps use the same format to display large numbers in a compact way. For example,",
+          "link": "https://www.freecodecamp.org/news/format-compact-numbers-with-javascript/",
+          "publishedOn": "2023-01-04T15:39:17.000Z",
+          "wordCount": 1706,
+          "title": "How to Format Compact Numbers with the JavaScript Internationalization API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Format-Compact-Numbers.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/",
+          "author": "Rajdeep Singh",
+          "description": "Ghost CMS is a platform specifically designed for bloggers and writers. Using Ghost, you can quickly get a blog website up and running.  Ghost targets primarily writers and all the features are specifically built for writing.  Ghost's new dashboard gives you a user-friendly interface, and beginners can easily",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/",
+          "publishedOn": "2023-01-04T15:20:24.000Z",
+          "wordCount": 5486,
+          "title": "How to Build a Custom Ghost CMS Theme",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/ghost-theme-development-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
           "author": "Daniel García Solla",
@@ -10395,56 +10240,6 @@
           "wordCount": 1269,
           "title": "How to Generate a Random Number within Certain a Range in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/9.-random-number.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
-          "author": "Manish Shivanandhan",
-          "description": "There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.",
-          "link": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
-          "publishedOn": "2022-12-05T23:40:58.000Z",
-          "wordCount": 1845,
-          "title": "Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Stealth-Security---Blog-Banner--24-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-apis-work/",
-          "author": "Tooba Jamal",
-          "description": "When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.",
-          "link": "https://www.freecodecamp.org/news/how-apis-work/",
-          "publishedOn": "2022-12-05T22:56:35.000Z",
-          "wordCount": 1923,
-          "title": "What is an API and How Does it Work? APIs for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/api-article.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
-          "author": "Daniel Asta",
-          "description": "We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how",
-          "link": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
-          "publishedOn": "2022-12-05T18:47:25.000Z",
-          "wordCount": 2705,
-          "title": "Better React Performance – When to Use the useCallback vs useMemo Hook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/useCallback-vs-useMemo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-node-js/",
-          "author": "Benjamin Semah",
-          "description": "Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *",
-          "link": "https://www.freecodecamp.org/news/what-is-node-js/",
-          "publishedOn": "2022-12-05T15:18:12.000Z",
-          "wordCount": 1907,
-          "title": "What Exactly is Node.js? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn",
-          "link": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
-          "publishedOn": "2022-12-05T14:53:05.000Z",
-          "wordCount": 1368,
-          "title": "How to Find the Size of an Array in C with the sizeof Operator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217-1.jpg"
         }
       ]
     }
