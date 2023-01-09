@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=275905",
+          "author": "Kalsoom Bibi",
+          "description": "This is how to expose the Kubernetes services on an external IP address and how to expose a Kubernetes service to an external IP address using a deployment.",
+          "link": "https://linuxhint.com/expose-kubernetes-service-external-ip-address/",
+          "publishedOn": "2023-01-08T05:34:51.000Z",
+          "wordCount": 16624,
+          "title": "Expose Kubernetes Service to an external IP address",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275850",
+          "author": "Kalsoom Bibi",
+          "description": "This is on Pod Security Admission (PSA) in Kubernetes, pod security admission in Kubernetes is, and how to configure the pod security admission in Kubernetes.",
+          "link": "https://linuxhint.com/configure-pod-security-admission-kubernetes/",
+          "publishedOn": "2023-01-08T05:30:56.000Z",
+          "wordCount": 16512,
+          "title": "Configure Pod Security Admission in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275848",
+          "author": "Kalsoom Bibi",
+          "description": "Practical guide on the configuration of Horizontal Pod Autoscaling (HPA) in Kubernetes and how the containers are scaled horizontally using practical examples.",
+          "link": "https://linuxhint.com/configure-hpa-kubernetes/",
+          "publishedOn": "2023-01-08T05:30:41.000Z",
+          "wordCount": 16620,
+          "title": "Configure HPA in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275847",
+          "author": "Ali Imran Nagori",
+          "description": "Practical tutorial on the different Linux command line tools and how to use them to find out which process is listening on a certain port using examples.",
+          "link": "https://linuxhint.com/check-which-process-using-port-linux/",
+          "publishedOn": "2023-01-08T05:30:24.000Z",
+          "wordCount": 16426,
+          "title": "Check Which Process Is Using a Port on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275846",
+          "author": "Prateek Jangid",
+          "description": "A guide of the Btrfs and XFS file systems showing the comparison of the critical attributes of each file system, like features and unique compatibility.",
+          "link": "https://linuxhint.com/btrfs-vs-xfs-brief-comparison/",
+          "publishedOn": "2023-01-08T05:30:11.000Z",
+          "wordCount": 16215,
+          "title": "Btrfs vs. XFS: A Brief Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275845",
+          "author": "Kennedy Brian",
+          "description": "A guide on backing up and restoring the DynamoDB Database since it creates copies of essential tables or data in a secure and incredibly accessible manner.",
+          "link": "https://linuxhint.com/backup-restore-dynamodb-database/",
+          "publishedOn": "2023-01-08T05:29:57.000Z",
+          "wordCount": 16085,
+          "title": "Backup and Restore DynamoDB Database",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275993",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on what webhooks are and how to create them on Kubernetes to deliver the messages right from one app to the other using automated responses.",
+          "link": "https://linuxhint.com/create-webhook-kubernetes/",
+          "publishedOn": "2023-01-08T05:28:51.000Z",
+          "wordCount": 16456,
+          "title": "How to Create a Webhook in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275991",
+          "author": "Kalsoom Bibi",
+          "description": "In this article, we learned about the basic concept of what containers are while specifically focusing on the init container in Kubernetes.",
+          "link": "https://linuxhint.com/create-init-containers-kubernetes/",
+          "publishedOn": "2023-01-08T05:28:27.000Z",
+          "wordCount": 16478,
+          "title": "How to Create init Containers in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275992",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on how to create a round robin load balancer in Kubernetes to load balancing and improve the running of Kubernetes clusters using Kubernetes structure.",
+          "link": "https://linuxhint.com/create-round-robin-load-balancer-kubernetes/",
+          "publishedOn": "2023-01-08T05:28:01.000Z",
+          "wordCount": 16412,
+          "title": "How to Create a Round Robin Load Balancer in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275990",
+          "author": "Saeed Raza",
+          "description": "Comprehensive tutorial on the several steps to connect to MongoDB with Python by installing the MongoDB in Windows and configuring Python in the system.",
+          "link": "https://linuxhint.com/connect-mongodb-with-python/",
+          "publishedOn": "2023-01-08T05:27:51.000Z",
+          "wordCount": 16672,
+          "title": "How to Connect to MongoDB with Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275942",
+          "author": "Shahriar Shovon",
+          "description": "Tutorial on how to manage the security permissions for trusted sites on Google Chrome, how to clear the site data and allow the trusted sites to use cookies.",
+          "link": "https://linuxhint.com/add-trusted-sites-google-chrome/",
+          "publishedOn": "2023-01-08T05:26:59.000Z",
+          "wordCount": 17434,
+          "title": "How to Add the Trusted Sites in Google Chrome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275944",
+          "author": "Saeed Raza",
+          "description": "Practical tutorial on how to connect to MongoDB with Java by casting off a Java environment to connect with MongoDB using the mongo-java-driver jar file.",
+          "link": "https://linuxhint.com/connect-mongodb-with-java/",
+          "publishedOn": "2023-01-08T05:26:42.000Z",
+          "wordCount": 16703,
+          "title": "How to Connect to MongoDB with Java",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275907",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on how to get the filter and monitor the events using the kubectl describe pod/pod-name and kubectl get events to watch the events in Kubernetes.",
+          "link": "https://linuxhint.com/get-filter-and-monitor-kubernetes-events/",
+          "publishedOn": "2023-01-08T05:26:00.000Z",
+          "wordCount": 16510,
+          "title": "Get the Filter and Monitor the Kubernetes Events",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275909",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on what an event is, how it can be accessed in the Kubernetes system, and how to implement those methods using the kubectl commands.",
+          "link": "https://linuxhint.com/access-kubernetes-events/",
+          "publishedOn": "2023-01-08T05:25:52.000Z",
+          "wordCount": 16459,
+          "title": "How to Access the Kubernetes Events",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275904",
+          "author": "Kennedy Brian",
+          "description": "Practical tutorial on how to use the AWS DynamoDB streams with Lambda to get a real-time stream of changes or data changes made to your DynamoDB tables.",
+          "link": "https://linuxhint.com/dynamodb-streams-with-lambda/",
+          "publishedOn": "2023-01-08T05:24:58.000Z",
+          "wordCount": 16626,
+          "title": "DynamoDB Streams with Lambda",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275903",
+          "author": "Kennedy Brian",
+          "description": "These are the main examples of the DynamoDB Query Operations. Its query operation does not behave like that of your ordinary AQL database.",
+          "link": "https://linuxhint.com/dynamodb-query-examples/",
+          "publishedOn": "2023-01-08T05:24:41.000Z",
+          "wordCount": 16191,
+          "title": "DynamoDB Query Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275891",
+          "author": "Kennedy Brian",
+          "description": "Tutorial on DynamoDB pagination with various possible use cases and examples and how the pagination in DynamoDB differs from the pagination in other databases.",
+          "link": "https://linuxhint.com/dynamodb-pagination/",
+          "publishedOn": "2023-01-08T05:24:20.000Z",
+          "wordCount": 16180,
+          "title": "DynamoDB Pagination: Overview, Use Cases, and Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275892",
+          "author": "Kennedy Brian",
+          "description": "PartiQL is a SQL-compatible query language that simplifies querying data which allows you to filter, project, and manipulate data in DynamoDB tables.",
+          "link": "https://linuxhint.com/dynamodb-partiql-setup-examples/",
+          "publishedOn": "2023-01-08T05:24:15.000Z",
+          "wordCount": 16142,
+          "title": "DynamoDB PartiQL Setup and Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275889",
+          "author": "Kennedy Brian",
+          "description": "Practical tutorial on the various DynamoDB encryption mechanisms that you can utilize in the Amazon Web Service and how to set up the encryption in DynamoDB.",
+          "link": "https://linuxhint.com/dynamodb-encryption/",
+          "publishedOn": "2023-01-08T05:23:58.000Z",
+          "wordCount": 16248,
+          "title": "DynamoDB Encryption: How It Works, Options, and Configuration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275888",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on the basics of working with Oracle decode() function to handle more complex if-else statements in Oracle tables using practical examples.",
+          "link": "https://linuxhint.com/oracle-decode/",
+          "publishedOn": "2023-01-08T05:23:20.000Z",
+          "wordCount": 15754,
+          "title": "Oracle Decode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=275887",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on how to create the EndpointSlices in Kubernetes cluster to track all the network endpoints and allow better scalability and extensibility options.",
+          "link": "https://linuxhint.com/create-kubernetes-endpointslices/",
+          "publishedOn": "2023-01-08T05:22:56.000Z",
+          "wordCount": 16431,
+          "title": "Create Kubernetes EndpointSlices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=276180",
+          "author": "Prateek Jangid",
+          "description": "A guide on using the resize2fs command to resize the EXT4 partitions without errors and using additional options to increase or decrease the EXT4 partitions.",
+          "link": "https://linuxhint.com/resize-the-ext4-partition/",
+          "publishedOn": "2023-01-08T05:19:44.000Z",
+          "wordCount": 15866,
+          "title": "How To Resize the EXT4 Partition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=276105",
+          "author": "Shahriar Shovon",
+          "description": "In this article is how to download and install VMware Workstation 17 Player on Linux Mint 21 which was released last month with a lot of new features.",
+          "link": "https://linuxhint.com/install-vmware-workstation-17-player-linux-mint-21/",
+          "publishedOn": "2023-01-08T05:19:15.000Z",
+          "wordCount": 16647,
+          "title": "How to Install VMware Workstation 17 Player on Linux Mint 21",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=276104",
+          "author": "Prateek Jangid",
+          "description": "A guide on installing Roblox on Pop!_OS by running the Roblox Studio or Roblox Player on Linux with Wine’s compatibility layer for the Windows startup program.",
+          "link": "https://linuxhint.com/install-roblox-pop-os/",
+          "publishedOn": "2023-01-08T05:19:01.000Z",
+          "wordCount": 15978,
+          "title": "How To Install Roblox on Pop!_OS",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=109831",
           "author": "Linux Explorer",
           "description": "In this article, we introduced to you to the Linux command “cut” which is used to cut some part of the specified portion of any file.",
@@ -1710,216 +1950,6 @@
           "wordCount": 17074,
           "title": "Python Calendar Module",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264235",
-          "author": "Umar Hassan",
-          "description": "To add and set up an AltDentifier bot in Discord, search for the bot in the Discord app directory, link it with the required server, and grant access to it.",
-          "link": "https://linuxhint.com/add-and-setup-altdentifier-bot-in-discord/",
-          "publishedOn": "2022-12-10T09:08:55.000Z",
-          "wordCount": 16468,
-          "title": "How to Add and Setup AltDentifier Bot in Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264256",
-          "author": "Umar Hassan",
-          "description": "To add and set up Ticketer bot in Discord, search for the bot in the Discord app directory, integrate it with the server and apply /setup command.",
-          "link": "https://linuxhint.com/add-and-setup-ticketer-bot-in-discord/",
-          "publishedOn": "2022-12-10T09:08:02.000Z",
-          "wordCount": 16493,
-          "title": "How to Add and Setup Ticketer Bot in Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264214",
-          "author": "Farah Batool",
-          "description": "To add and set ProtectList bot, select server > open “App Directory” > search “ProtectList” Bot in a search bar, prove identity, and grant permissions to bot.",
-          "link": "https://linuxhint.com/add-and-setup-protectlist-bot-in-discord/",
-          "publishedOn": "2022-12-10T08:49:29.000Z",
-          "wordCount": 16439,
-          "title": "How to Add and Setup ProtectList Bot in Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264191",
-          "author": "Muhammad Farhan",
-          "description": "To fix Windows 10 start menu and cortana aren’t working critical error, terminate local security authority process, disable antivirus, or reset Windows.",
-          "link": "https://linuxhint.com/windows-10-start-menu-cortana-are-not-working-fixed/",
-          "publishedOn": "2022-12-10T08:41:05.000Z",
-          "wordCount": 16701,
-          "title": "Fix Windows 10 Critical Error Start Menu and Cortana Are Not Working",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264175",
-          "author": "Umar Hassan",
-          "description": "To configure your microphone and headset in Discord, open the settings, set the input/output devices, adjust their volumes and additional voice settings.",
-          "link": "https://linuxhint.com/configure-your-microphone-and-headset-in-discord/",
-          "publishedOn": "2022-12-10T08:29:48.000Z",
-          "wordCount": 16132,
-          "title": "How to Configure Your Microphone and Headset in Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264166",
-          "author": "Rafia Zafar",
-          "description": "To adjust Discord audio quality or change bitrate, go to the server voice channel settings and adjust the voice bitrate from the “Overview” settings.",
-          "link": "https://linuxhint.com/how-to-adjust-audio-quality-or-change-bitrate-on-discord/",
-          "publishedOn": "2022-12-10T08:20:51.000Z",
-          "wordCount": 15981,
-          "title": "How to Adjust Audio Quality or Change Bitrate on Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264155",
-          "author": "Maria Naz",
-          "description": "To change the theme, access the user settings and go to the “Appearance” tab. Change theme and UI appearance using different options.",
-          "link": "https://linuxhint.com/change-the-theme-and-ui-appearance-on-discord/",
-          "publishedOn": "2022-12-10T07:04:52.000Z",
-          "wordCount": 16156,
-          "title": "How to Change the Theme and UI Appearance on Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264145",
-          "author": "Sharqa Hameed",
-          "description": "To access Discord data package, first of all, launch the “Discord>User Settings>Privacy $ Safety> Request Data” to access the data package on Discord.",
-          "link": "https://linuxhint.com/access-my-data-package-on-discord/",
-          "publishedOn": "2022-12-10T06:59:51.000Z",
-          "wordCount": 16050,
-          "title": "How Do I Access My Discord Data Package?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264125",
-          "author": "Rafia Zafar",
-          "description": "To merge branch without auto commit, commit the changes and move to branch in which you want to merge. Then, use the “git merge branch --no-commit” command.",
-          "link": "https://linuxhint.com/git-merge-without-auto-commit/",
-          "publishedOn": "2022-12-10T06:55:18.000Z",
-          "wordCount": 16385,
-          "title": "Git Merge Without Auto Commit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264116",
-          "author": "Rafia Zafar",
-          "description": "To clone a private repository, use the “git clone https://username@github.com/username/repository-nfame.git” command in the Git terminal.",
-          "link": "https://linuxhint.com/clone-github-private-repository-git/",
-          "publishedOn": "2022-12-10T06:41:00.000Z",
-          "wordCount": 15974,
-          "title": "How to Clone a GitHub Private Repository in Git",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264094",
-          "author": "Maria Naz",
-          "description": "To merge the Git local hotfix branch into the feature local branch, the $ git merge --no-ff ” command can be useful.",
-          "link": "https://linuxhint.com/git-merge-hotfix-branch-into-feature-branch/",
-          "publishedOn": "2022-12-10T06:35:42.000Z",
-          "wordCount": 16687,
-          "title": "Git Merge hotfix Branch Into feature Branch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264087",
-          "author": "Maria Naz",
-          "description": "Multiple commands are utilized to get the list of all Git commits including the lost ones, like “git reflog”, “git log --reflog”, and “git log --all --oneline”.",
-          "link": "https://linuxhint.com/git-list-of-all-git-commits-including-lost-ones/",
-          "publishedOn": "2022-12-10T06:21:49.000Z",
-          "wordCount": 16062,
-          "title": "Get a List of All Git Commits Including the Lost Ones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264078",
-          "author": "Zainab Rehman",
-          "description": "Copy and paste in Roblox can easily be done using shortcut keys of PC or laptop. This article is a guide on how to copy and paste on Roblox PC and mobile.",
-          "link": "https://linuxhint.com/copy-paste-roblox/",
-          "publishedOn": "2022-12-09T21:46:17.000Z",
-          "wordCount": 16071,
-          "title": "How to Copy and Paste on Roblox – PC/Mobiles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264062",
-          "author": "Kashif",
-          "description": "Portable IDE installation contains all files and directories Arduino needs to work on a PC without affecting its files outside the folder. Read more here.",
-          "link": "https://linuxhint.com/portable-arduino-ide-installation/",
-          "publishedOn": "2022-12-09T21:36:33.000Z",
-          "wordCount": 16665,
-          "title": "How to Create and Use a Portable Version of the Arduino Software (IDE)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264047",
-          "author": "Zahra Zamir",
-          "description": "There are several commands to free up disk space on Raspberry Pi, to automatically clean up the system space use autoremove or autoclean command.",
-          "link": "https://linuxhint.com/free-up-disk-space-on-raspberry-pi/",
-          "publishedOn": "2022-12-09T21:14:05.000Z",
-          "wordCount": 16131,
-          "title": "How to Free Up Disk Space on Raspberry Pi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264036",
-          "author": "Awais Khan",
-          "description": "Kivy is a Python framework for developing GUI applications. Follow this article to install it on the Raspberry Pi system.",
-          "link": "https://linuxhint.com/install-kivy-raspberry-pi/",
-          "publishedOn": "2022-12-09T21:01:10.000Z",
-          "wordCount": 16080,
-          "title": "How to Install Kivy on Raspberry Pi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264015",
-          "author": "Awais Khan",
-          "description": "This article discusses the easiest way to install a PSP emulator on a Raspberry Pi system. Follow this guide for the step-by-step process.",
-          "link": "https://linuxhint.com/install-psp-emulator-raspberry-pi/",
-          "publishedOn": "2022-12-09T20:51:59.000Z",
-          "wordCount": 16326,
-          "title": "How to Install PSP Emulator on Raspberry Pi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=264010",
-          "author": "Zainab Rehman",
-          "description": "This article lists the tips and tricks to secure your Roblox account as it contains private information, purchases and Robux. Find more details in this article.",
-          "link": "https://linuxhint.com/keep-roblox-account-safe/",
-          "publishedOn": "2022-12-09T20:34:48.000Z",
-          "wordCount": 16086,
-          "title": "How to Keep Roblox Account Safe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=263997",
-          "author": "Zainab Rehman",
-          "description": "Laptop can be used to receive and place calls using Microsoft Windows phone link apps. This article is a step-by-step guide to make and receive calls on a laptop.",
-          "link": "https://linuxhint.com/place-receive-phone-calls-laptop/",
-          "publishedOn": "2022-12-09T20:24:12.000Z",
-          "wordCount": 16169,
-          "title": "How to Place and Receive Phone Calls on a Laptop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=263986",
-          "author": "Awais Khan",
-          "description": "mplayer is a command-line media player that allows you to play videos from the terminal. Follow this guide to install it on the Raspberry Pi system.",
-          "link": "https://linuxhint.com/play-video-from-terminal-raspberry-pi/",
-          "publishedOn": "2022-12-09T20:12:41.000Z",
-          "wordCount": 16040,
-          "title": "How to Play Video from Terminal on Raspberry Pi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=263975",
-          "author": "Zainab Rehman",
-          "description": "To use the voice chat feature in Roblox, users must be 13+. Find more details on how to use the voice chat feature in Roblox.",
-          "link": "https://linuxhint.com/use-voice-chat-roblox/",
-          "publishedOn": "2022-12-09T19:56:41.000Z",
-          "wordCount": 16048,
-          "title": "How to Use Voice Chat on Roblox",
-          "imageUrl": null
         }
       ]
     },
@@ -1928,6 +1958,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180970",
+          "author": "Web Webster",
+          "description": "Musicly is a simple, elegant music player written in JavaScript. Learn more about this Electron and React-based music player.\nThe post Musicly: Simple Music Player appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/musicly-simple-music-player/",
+          "publishedOn": "2023-01-08T22:00:50.000Z",
+          "wordCount": 16623,
+          "title": "Musicly: Simple Music Player",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180968",
+          "author": "Web Webster",
+          "description": "Advanced-Copy is a powerful command-line program that is a modified version of the original cp command and mv tools. Learn how to use it here.\nThe post Advanced Copy Shows Progress Bar While Copying, Moving Files appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/advanced-copy-command/",
+          "publishedOn": "2023-01-08T16:00:47.000Z",
+          "wordCount": 16659,
+          "title": "Advanced Copy Shows Progress Bar While Copying, Moving Files",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=180967",
           "author": "Web Webster",
@@ -4077,106 +4127,6 @@
           "wordCount": 16665,
           "title": "Using the File Tagging Feature in KDE’s Dolphin File Manager",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180716",
-          "author": "Web Webster",
-          "description": "Tor Browser 12.0 is a major update that comes with upgraded internals based on the latest Firefox ESR series, namely Mozilla Firefox 102. Learn more here.\nThe post Tor Browser 12.0 Brings Multi-Locale Support Based on Firefox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/tor-browser-12-0-multi-locale-support-based-on-firefox/",
-          "publishedOn": "2022-12-10T03:00:31.000Z",
-          "wordCount": 16664,
-          "title": "Tor Browser 12.0 Brings Multi-Locale Support Based on Firefox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180715",
-          "author": "Web Webster",
-          "description": "The fwupd 1.8.8 release implements BIOS rollback protection support for Dell and Lenovo systems among other improvements. Learn more here.\nThe post fwupd 1.8.8 Brings BIOS Rollback Protection Support for Dell, Lenovo appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/fwupd-1-8-8-bios-rollback-protection-support-dell-lenovo/",
-          "publishedOn": "2022-12-10T01:00:34.000Z",
-          "wordCount": 16638,
-          "title": "fwupd 1.8.8 Brings BIOS Rollback Protection Support for Dell, Lenovo",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180711",
-          "author": "Web Webster",
-          "description": "AWS puts its patents behind the open-source and Linux patent guard OIN in an attempt to mitigate patent aggression.\nThe post Amazon Joins the Open Invention Network appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/amazon-joins-the-open-invention-network/",
-          "publishedOn": "2022-12-09T23:00:01.000Z",
-          "wordCount": 16625,
-          "title": "Amazon Joins the Open Invention Network",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180710",
-          "author": "Web Webster",
-          "description": "The biggest change in Blender 3.4 is the enablement of native support for the next-generation Wayland windowing environment on GNU/Linux systems.\nThe post Blender 3.4 Releases With Native Wayland Support on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/blender-3-4-native-wayland-support-linux/",
-          "publishedOn": "2022-12-09T21:00:03.000Z",
-          "wordCount": 16640,
-          "title": "Blender 3.4 Releases With Native Wayland Support on Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180709",
-          "author": "Web Webster",
-          "description": "Kali Linux 2022.4 includes upgrades of the GNOME and Plasma desktop environments, but more importantly, it is now available to Azure users.\nThe post Kali Linux is Now Part of the Microsoft Azure Marketplace appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/kali-linux-microsoft-azure-marketplace/",
-          "publishedOn": "2022-12-09T19:00:07.000Z",
-          "wordCount": 16648,
-          "title": "Kali Linux is Now Part of the Microsoft Azure Marketplace",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180486",
-          "author": "Web Webster",
-          "description": "If you develop and run Angular-based applications, it might be a good idea to enable document editing and real-time collaboration within your service by integrating ONLYOFFICE Docs.\nThe post How to Deploy ONLYOFFICE Docs on Angular appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/deploy-onlyoffice-docs-angular/",
-          "publishedOn": "2022-12-09T18:00:53.000Z",
-          "wordCount": 16648,
-          "title": "How to Deploy ONLYOFFICE Docs on Angular",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180484",
-          "author": "Web Webster",
-          "description": "Check out this list of exciting extensions to transform your GNOME top bar into a beautiful and productive one — with features and install guides.\nThe post Best and Exciting Extensions for GNOME Top Bar appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-exciting-extensions-gnome-top-bar/",
-          "publishedOn": "2022-12-09T17:00:03.000Z",
-          "wordCount": 16637,
-          "title": "Best and Exciting Extensions for GNOME Top Bar",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180481",
-          "author": "Web Webster",
-          "description": "ownCloud is a free, open-source, and self-hosted file synchronization and sharing solution. In this post, we will show you how to install ownCloud on Debian 11.\nThe post Install and Configure ownCloud on Debian 11 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-configure-owncloud-debian-11/",
-          "publishedOn": "2022-12-09T16:00:42.000Z",
-          "wordCount": 16639,
-          "title": "Install and Configure ownCloud on Debian 11",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180479",
-          "author": "Web Webster",
-          "description": "Eclipse Mosquitto is a free and open-source message broker implementation of the MQTT protocol. In this tutorial, we’ll walk through the process of installing and configuring Mosquitto MQTT Message Broker onto a Debian 11 server.\nThe post How to Install Mosquitto MQTT Message Broker on Debian 11 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-mosquitto-mqtt-message-broker-debian-11/",
-          "publishedOn": "2022-12-09T15:00:40.000Z",
-          "wordCount": 16662,
-          "title": "How to Install Mosquitto MQTT Message Broker on Debian 11",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180477",
-          "author": "Web Webster",
-          "description": "Cinnamon is a nice (yet underrated) desktop environment. Want to know why? Here are some good reasons behind it.\nThe post 7 Reasons Cinnamon is a Fantastic Linux Desktop Environment appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/7-reasons-why-cinnamon-fantastic-linux-desktop-environment/",
-          "publishedOn": "2022-12-09T14:00:37.000Z",
-          "wordCount": 16642,
-          "title": "7 Reasons Cinnamon is a Fantastic Linux Desktop Environment",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4185,6 +4135,96 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1yYzMtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Linux 6.2-rc3 Released - \"Starting To Look A Lot More Normal\"  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMi1yYzMtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2023-01-08T18:55:00.000Z",
+          "wordCount": 1477,
+          "title": "Linux 6.2-rc3 Released - \"Starting To Look A Lot More Normal\" - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcmFzcGJlcnJ5LXBpLXVidW50dS1jb3JlL9IBAA",
+          "author": null,
+          "description": "How Do You Use Ubuntu Core on a Raspberry Pi?  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcmFzcGJlcnJ5LXBpLXVidW50dS1jb3JlL9IBAA?oc=5",
+          "publishedOn": "2023-01-08T16:45:00.000Z",
+          "wordCount": 2781,
+          "title": "How Do You Use Ubuntu Core on a Raspberry Pi? - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ubuntu-core-fi.jpg"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbHNibGstY29tbWFuZC1pbi1saW51eC_SAQA",
+          "author": null,
+          "description": "How to Use the lsblk Command to List Block Devices on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbHNibGstY29tbWFuZC1pbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2023-01-08T15:30:00.000Z",
+          "wordCount": 2359,
+          "title": "How to Use the lsblk Command to List Block Devices on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/user_listing_block_devices_on_linux.jpg"
+        },
+        {
+          "id": "CBMipQFodHRwczovL3d3dy5kbnBpbmRpYS5pbi9icmFuZC1yZXZpZXdzL2dhZGdldHMvZmxpcGthcnQtc2FsZS1hbWF6aW5nLWRlYWwtc2F2ZS1ycy02MDAwLW9uLXRob21zb24tYWxwaGEtc21hcnQtbGludXgtdHYtd2l0aC1wb3dlcmZ1bC1wcm9jZXNzb3Itd2UtdGVsbC15b3UtaG93LzE1OTM1NS_SAaUBaHR0cHM6Ly93d3cuZG5waW5kaWEuaW4vYnJhbmQtcmV2aWV3cy9nYWRnZXRzL2ZsaXBrYXJ0LXNhbGUtYW1hemluZy1kZWFsLXNhdmUtcnMtNjAwMC1vbi10aG9tc29uLWFscGhhLXNtYXJ0LWxpbnV4LXR2LXdpdGgtcG93ZXJmdWwtcHJvY2Vzc29yLXdlLXRlbGwteW91LWhvdy8xNTkzNTUv",
+          "author": null,
+          "description": "Flipkart Sale: Amazing deal! Save Rs 6000 on Thomson Alpha Smart Linux TV with powerful processor, we tell you how  DNP INDIA",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMipQFodHRwczovL3d3dy5kbnBpbmRpYS5pbi9icmFuZC1yZXZpZXdzL2dhZGdldHMvZmxpcGthcnQtc2FsZS1hbWF6aW5nLWRlYWwtc2F2ZS1ycy02MDAwLW9uLXRob21zb24tYWxwaGEtc21hcnQtbGludXgtdHYtd2l0aC1wb3dlcmZ1bC1wcm9jZXNzb3Itd2UtdGVsbC15b3UtaG93LzE1OTM1NS_SAaUBaHR0cHM6Ly93d3cuZG5waW5kaWEuaW4vYnJhbmQtcmV2aWV3cy9nYWRnZXRzL2ZsaXBrYXJ0LXNhbGUtYW1hemluZy1kZWFsLXNhdmUtcnMtNjAwMC1vbi10aG9tc29uLWFscGhhLXNtYXJ0LWxpbnV4LXR2LXdpdGgtcG93ZXJmdWwtcHJvY2Vzc29yLXdlLXRlbGwteW91LWhvdy8xNTkzNTUv?oc=5",
+          "publishedOn": "2023-01-08T15:25:00.000Z",
+          "wordCount": 19681,
+          "title": "Flipkart Sale: Amazing deal! Save Rs 6000 on Thomson Alpha Smart Linux TV with powerful processor, we tell you how - DNP INDIA",
+          "imageUrl": "https://www.dnpindia.in/wp-content/uploads/2023/01/ni-series.webp"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FSSUEtT3B0aW1pemUtTGludXgtQVZYMi1BVlg1MTLSAQA",
+          "author": null,
+          "description": "AVX2 & AVX-512 Optimized Versions Of ARIA Cipher Coming With Linux 6.3  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FSSUEtT3B0aW1pemUtTGludXgtQVZYMi1BVlg1MTLSAQA?oc=5",
+          "publishedOn": "2023-01-08T14:39:00.000Z",
+          "wordCount": 1475,
+          "title": "AVX2 & AVX-512 Optimized Versions Of ARIA Cipher Coming With Linux 6.3 - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1MaW51eC02LjMtSW5pdGlhbC1VcGRhdGXSAQA",
+          "author": null,
+          "description": "AMD Begins Sending In \"New Stuff\" For Their Graphics Driver With Linux 6.3  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1MaW51eC02LjMtSW5pdGlhbC1VcGRhdGXSAQA?oc=5",
+          "publishedOn": "2023-01-08T11:45:00.000Z",
+          "wordCount": 1519,
+          "title": "AMD Begins Sending In \"New Stuff\" For Their Graphics Driver With Linux 6.3 - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pci0yLjExLVJlbGVhc2Vk0gEA",
+          "author": null,
+          "description": "Mir 2.11 Released With A Fix Around XWayland Use  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pci0yLjExLVJlbGVhc2Vk0gEA?oc=5",
+          "publishedOn": "2023-01-08T11:02:00.000Z",
+          "wordCount": 1350,
+          "title": "Mir 2.11 Released With A Fix Around XWayland Use - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTI5LTAtcmVsZWFzZWQtd2l0aC1tZWRpYS1rZXktc3VwcG9ydC1pbi1saW51eC1uZXctZmlsdGVyc9IBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTI5LTAtcmVsZWFzZWQtd2l0aC1tZWRpYS1rZXktc3VwcG9ydC1pbi1saW51eC1uZXctZmlsdGVycy9hbXA",
+          "author": null,
+          "description": "OBS Studio 29.0 Released with Media Key Support on Linux, New Filters  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTI5LTAtcmVsZWFzZWQtd2l0aC1tZWRpYS1rZXktc3VwcG9ydC1pbi1saW51eC1uZXctZmlsdGVyc9IBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9vYnMtc3R1ZGlvLTI5LTAtcmVsZWFzZWQtd2l0aC1tZWRpYS1rZXktc3VwcG9ydC1pbi1saW51eC1uZXctZmlsdGVycy9hbXA?oc=5",
+          "publishedOn": "2023-01-08T02:28:49.000Z",
+          "wordCount": 11367,
+          "title": "OBS Studio 29.0 Released with Media Key Support on Linux, New Filters - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/obs290.webp"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS92ZW50b3ktMS0wLTg3LWJyaW5ncy1zdXBwb3J0LWZvci1sZW5vdm8tcHJvZHVjdC1yZWNvdmVyeS1hbmQtZGVsbC1wZXItaXNvc9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS92ZW50b3ktMS0wLTg3LWJyaW5ncy1zdXBwb3J0LWZvci1sZW5vdm8tcHJvZHVjdC1yZWNvdmVyeS1hbmQtZGVsbC1wZXItaXNvcy9hbXA",
+          "author": null,
+          "description": "Ventoy 1.0.87 Brings Support for Lenovo Product Recovery and Dell PER ISOs  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS92ZW50b3ktMS0wLTg3LWJyaW5ncy1zdXBwb3J0LWZvci1sZW5vdm8tcHJvZHVjdC1yZWNvdmVyeS1hbmQtZGVsbC1wZXItaXNvc9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS92ZW50b3ktMS0wLTg3LWJyaW5ncy1zdXBwb3J0LWZvci1sZW5vdm8tcHJvZHVjdC1yZWNvdmVyeS1hbmQtZGVsbC1wZXItaXNvcy9hbXA?oc=5",
+          "publishedOn": "2023-01-07T17:59:10.000Z",
+          "wordCount": 11397,
+          "title": "Ventoy 1.0.87 Brings Support for Lenovo Product Recovery and Dell PER ISOs - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/ven1087.webp"
+        },
         {
           "id": "CBMiQGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWVuYWJsZS1zbmFwLXN1cHBvcnQtbGludXgtbWludC_SAQA",
           "author": null,
@@ -4214,6 +4254,26 @@
           "wordCount": 1468,
           "title": "Linux 4.9.337 Released To End Out The 2016 LTS Series - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy1KYXZhLUZyb250LUVuZC0yMDIzLUhvcGVz0gEA",
+          "author": null,
+          "description": "A Developer Hopes To Restore GCC's Java Front-End  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy1KYXZhLUZyb250LUVuZC0yMDIzLUhvcGVz0gEA?oc=5",
+          "publishedOn": "2023-01-07T14:39:00.000Z",
+          "wordCount": 1396,
+          "title": "A Developer Hopes To Restore GCC's Java Front-End - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNC05LXJlYWNoZXMtZW5kLW9mLWxpZmUtYWZ0ZXItNi15ZWFycy1vZi1zdXBwb3J00gFXaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWtlcm5lbC00LTktcmVhY2hlcy1lbmQtb2YtbGlmZS1hZnRlci02LXllYXJzLW9mLXN1cHBvcnQvYW1w",
+          "author": null,
+          "description": "Linux Kernel 4.9 Reaches End of Life After 6 Years of Support  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNC05LXJlYWNoZXMtZW5kLW9mLWxpZmUtYWZ0ZXItNi15ZWFycy1vZi1zdXBwb3J00gFXaHR0cHM6Ly85dG81bGludXguY29tL2xpbnV4LWtlcm5lbC00LTktcmVhY2hlcy1lbmQtb2YtbGlmZS1hZnRlci02LXllYXJzLW9mLXN1cHBvcnQvYW1w?oc=5",
+          "publishedOn": "2023-01-07T13:44:03.000Z",
+          "wordCount": 11496,
+          "title": "Linux Kernel 4.9 Reaches End of Life After 6 Years of Support - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/lk49eol.webp"
         },
         {
           "id": "CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvcHJvdG9uLWV4cGVyaW1lbnRhbC11cGRhdGVkLWFuZC1wcm90b24tbmV4dC03MC02LW91dC1mb3ItbGludXgtYW5kLXN0ZWFtLWRlY2sv0gEA",
@@ -4356,6 +4416,16 @@
           "imageUrl": "https://news.itsfoss.com/content/images/2023/01/budgie-10-7-release.png"
         },
         {
+          "id": "CBMiOmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzAxL2luc3RhbGwtbmFsYS1vbi11YnVudHXSAT5odHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyMy8wMS9pbnN0YWxsLW5hbGEtb24tdWJ1bnR1L2FtcA",
+          "author": null,
+          "description": "Nala is a Neat Alternative to Apt on Ubuntu  OMG! Ubuntu!",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzAxL2luc3RhbGwtbmFsYS1vbi11YnVudHXSAT5odHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyMy8wMS9pbnN0YWxsLW5hbGEtb24tdWJ1bnR1L2FtcA?oc=5",
+          "publishedOn": "2023-01-06T12:02:25.000Z",
+          "wordCount": 1809,
+          "title": "Nala is a Neat Alternative to Apt on Ubuntu - OMG! Ubuntu!",
+          "imageUrl": "https://149366088.v2.pressablecdn.com/wp-content/uploads/2023/01/nala-2.jpg"
+        },
+        {
           "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnNwaXJlLTEyLUFscGhhLTHSAQA",
           "author": null,
           "description": "The Linux OS Originally Known As Lindows Is Out With Linspire 12 Alpha  Phoronix",
@@ -4384,6 +4454,16 @@
           "wordCount": 1390,
           "title": "Compiling The Linux Kernel With LLVM's Clang Matured In 2022 - Phoronix",
           "imageUrl": null
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3ZhbmlsbGEtb3Mtb2ZmZXJzLWEtbmV3LXRha2Utb24tc2VjdXJpdHktZm9yLXRoZS1saW51eC1kZXNrdG9wL9IBaGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvdmFuaWxsYS1vcy1vZmZlcnMtYS1uZXctdGFrZS1vbi1zZWN1cml0eS1mb3ItdGhlLWxpbnV4LWRlc2t0b3Av",
+          "author": null,
+          "description": "Vanilla OS offers a new take on security for the Linux desktop  ZDNet",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3ZhbmlsbGEtb3Mtb2ZmZXJzLWEtbmV3LXRha2Utb24tc2VjdXJpdHktZm9yLXRoZS1saW51eC1kZXNrdG9wL9IBaGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvdmFuaWxsYS1vcy1vZmZlcnMtYS1uZXctdGFrZS1vbi1zZWN1cml0eS1mb3ItdGhlLWxpbnV4LWRlc2t0b3Av?oc=5",
+          "publishedOn": "2023-01-05T19:56:02.000Z",
+          "wordCount": 13712,
+          "title": "Vanilla OS offers a new take on security for the Linux desktop - ZDNet",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/b4404abc0feeec328a9cabfc5017d3a132754693/2023/01/02/169bd2f7-684e-458d-a5ea-e5a8edbb0d01/vanillaoshero.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
           "id": "CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3ZhbmlsbGEtb3Mtb2ZmZXJzLWEtbmV3LXRha2Utb24tc2VjdXJpdHktZm9yLXRoZS1saW51eC1kZXNrdG9wL9IBAA",
@@ -8584,176 +8664,6 @@
           "wordCount": 1383,
           "title": "SLOB Allocator Being Deprecated With Linux 6.2 - Phoronix",
           "imageUrl": null
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3LmdoYWNrcy5uZXQvMjAyMi8xMi8xMC93aW5kb3dzLTctYW5kLTgtMS1zdXBwb3J0LWVuZHMtbmV4dC1tb250aC_SAVBodHRwczovL3d3dy5naGFja3MubmV0LzIwMjIvMTIvMTAvd2luZG93cy03LWFuZC04LTEtc3VwcG9ydC1lbmRzLW5leHQtbW9udGgvP2FtcA",
-          "author": null,
-          "description": "Windows 7 and 8.1 support ends next month  Ghacks",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3LmdoYWNrcy5uZXQvMjAyMi8xMi8xMC93aW5kb3dzLTctYW5kLTgtMS1zdXBwb3J0LWVuZHMtbmV4dC1tb250aC_SAVBodHRwczovL3d3dy5naGFja3MubmV0LzIwMjIvMTIvMTAvd2luZG93cy03LWFuZC04LTEtc3VwcG9ydC1lbmRzLW5leHQtbW9udGgvP2FtcA?oc=5",
-          "publishedOn": "2022-12-10T12:29:05.000Z",
-          "wordCount": null,
-          "title": "Windows 7 and 8.1 support ends next month - Ghacks",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZnJhbWV3b3Jrcy01LTEwMS1yZWxlYXNlZC13aXRoLXBsYXNtYS13YXlsYW5kLWFuZC1tdWx0aS1tb25pdG9yLWltcHJvdmVtZW50c9IBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZnJhbWV3b3Jrcy01LTEwMS1yZWxlYXNlZC13aXRoLXBsYXNtYS13YXlsYW5kLWFuZC1tdWx0aS1tb25pdG9yLWltcHJvdmVtZW50cy9hbXA",
-          "author": null,
-          "description": "KDE Frameworks 5.101 Released with Plasma Wayland and Multi-Monitor Improvements  9to5Linux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZnJhbWV3b3Jrcy01LTEwMS1yZWxlYXNlZC13aXRoLXBsYXNtYS13YXlsYW5kLWFuZC1tdWx0aS1tb25pdG9yLWltcHJvdmVtZW50c9IBamh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZnJhbWV3b3Jrcy01LTEwMS1yZWxlYXNlZC13aXRoLXBsYXNtYS13YXlsYW5kLWFuZC1tdWx0aS1tb25pdG9yLWltcHJvdmVtZW50cy9hbXA?oc=5",
-          "publishedOn": "2022-12-10T12:11:54.000Z",
-          "wordCount": 11303,
-          "title": "KDE Frameworks 5.101 Released with Plasma Wayland and Multi-Monitor Improvements - 9to5Linux",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/12/kf5101.webp"
-        },
-        {
-          "id": "CBMifmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXRhY3RpY2lhbjAzOXMtYnVuZGxlLWlzLWEtZ3JlYXQtZGVhbC13aXRoLWdlYXJzLXRhY3RpY3MtbWVjaGFuaWN1cy1oYXJkLXdlc3QtYS1tb3JlL9IBAA",
-          "author": null,
-          "description": "The Tactician's Bundle is a great deal with Gears Tactics, Mechanicus, Hard West & more  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXRhY3RpY2lhbjAzOXMtYnVuZGxlLWlzLWEtZ3JlYXQtZGVhbC13aXRoLWdlYXJzLXRhY3RpY3MtbWVjaGFuaWN1cy1oYXJkLXdlc3QtYS1tb3JlL9IBAA?oc=5",
-          "publishedOn": "2022-12-10T12:07:34.000Z",
-          "wordCount": 1170,
-          "title": "The Tactician's Bundle is a great deal with Gears Tactics, Mechanicus, Hard West & more - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1827337272id22024gol.jpg"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvc3RlYW0tZGVjay1jbGllbnQtYmV0YS1maXhlcy11cC1uZXctYmlnLXBpY3R1cmUtbW9kZS1vdmVybGF5LXNpemluZy_SAQA",
-          "author": null,
-          "description": "Steam Deck Client Beta fixes up New Big Picture Mode overlay sizing  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvc3RlYW0tZGVjay1jbGllbnQtYmV0YS1maXhlcy11cC1uZXctYmlnLXBpY3R1cmUtbW9kZS1vdmVybGF5LXNpemluZy_SAQA?oc=5",
-          "publishedOn": "2022-12-10T11:40:26.000Z",
-          "wordCount": 1262,
-          "title": "Steam Deck Client Beta fixes up New Big Picture Mode overlay sizing - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dvZG90LTQuMC1CZXRhLTjSAQA",
-          "author": null,
-          "description": "Godot 4.0 Beta 8 Gets WebXR Fully Working, X11 Support Now Loaded Dynamically  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dvZG90LTQuMC1CZXRhLTjSAQA?oc=5",
-          "publishedOn": "2022-12-10T11:34:00.000Z",
-          "wordCount": 1361,
-          "title": "Godot 4.0 Beta 8 Gets WebXR Fully Working, X11 Support Now Loaded Dynamically - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01lc2EtMjIuMi41LVJlbGVhc2Vk0gEA",
-          "author": null,
-          "description": "Mesa 22.2.5 Released To End Out The Series  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01lc2EtMjIuMi41LVJlbGVhc2Vk0gEA?oc=5",
-          "publishedOn": "2022-12-10T11:12:00.000Z",
-          "wordCount": 1329,
-          "title": "Mesa 22.2.5 Released To End Out The Series - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvd2luZG93cy1jb21wYXRpYmlsaXR5LWxheWVyLXdpbmUtdjgwLWhhcy1hLWZpcnN0LXJlbGVhc2UtY2FuZGlkYXRlLW91dC_SAQA",
-          "author": null,
-          "description": "Windows compatibility layer Wine v8.0 has a first Release Candidate out  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvd2luZG93cy1jb21wYXRpYmlsaXR5LWxheWVyLXdpbmUtdjgwLWhhcy1hLWZpcnN0LXJlbGVhc2UtY2FuZGlkYXRlLW91dC_SAQA?oc=5",
-          "publishedOn": "2022-12-09T21:27:22.000Z",
-          "wordCount": 1121,
-          "title": "Windows compatibility layer Wine v8.0 has a first Release Candidate out - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMi9vbmUtb2YtdGhlLWJlc3QtbGludXgtcmVhZHktbWVjaGFuaWNhbC1rZXlib2FyZHMtZ2V0cy1hLW51bXBhZC_SAWtodHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMTIvb25lLW9mLXRoZS1iZXN0LWxpbnV4LXJlYWR5LW1lY2hhbmljYWwta2V5Ym9hcmRzLWdldHMtYS1udW1wYWQvYW1wLw",
-          "author": null,
-          "description": "Linux-ready Launch Heavy is a $300 mechanical keyboard for number crunchers  Ars Technica",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMi8xMi9vbmUtb2YtdGhlLWJlc3QtbGludXgtcmVhZHktbWVjaGFuaWNhbC1rZXlib2FyZHMtZ2V0cy1hLW51bXBhZC_SAWtodHRwczovL2Fyc3RlY2huaWNhLmNvbS9nYWRnZXRzLzIwMjIvMTIvb25lLW9mLXRoZS1iZXN0LWxpbnV4LXJlYWR5LW1lY2hhbmljYWwta2V5Ym9hcmRzLWdldHMtYS1udW1wYWQvYW1wLw?oc=5",
-          "publishedOn": "2022-12-09T18:25:32.000Z",
-          "wordCount": 1717,
-          "title": "Linux-ready Launch Heavy is a $300 mechanical keyboard for number crunchers - Ars Technica",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/system76-launch-heavy-760x380.jpg"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vdGVjaGhxLmNvbS8yMDIyLzEyL2VsZWt0cm9iaXQtYW5kLXN1c2UtcG93ZXJpbmctdGhlLWZ1dHVyZS1vZi1hdXRvbm9tb3VzLWRyaXZpbmcv0gEA",
-          "author": null,
-          "description": "Elektrobit and SUSE – powering autonomous cars  TechHQ",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vdGVjaGhxLmNvbS8yMDIyLzEyL2VsZWt0cm9iaXQtYW5kLXN1c2UtcG93ZXJpbmctdGhlLWZ1dHVyZS1vZi1hdXRvbm9tb3VzLWRyaXZpbmcv0gEA?oc=5",
-          "publishedOn": "2022-12-09T17:27:12.000Z",
-          "wordCount": 4629,
-          "title": "Elektrobit and SUSE – powering autonomous cars - TechHQ",
-          "imageUrl": "https://cdn.techhq.com/wp-content/uploads/2022/12/shutterstock_7403963741.jpg"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvYWx0ZXJpdW0tc2hpZnQtbG9va3MtbGlrZS1hLWZ1bi11cGNvbWluZy1yZXRyby1zdHlsZWQtcnBnLXdpdGgtYS1iaWctbmV3LWRlbW8v0gEA",
-          "author": null,
-          "description": "Alterium Shift looks like a fun upcoming retro-styled RPG with a big new demo  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvYWx0ZXJpdW0tc2hpZnQtbG9va3MtbGlrZS1hLWZ1bi11cGNvbWluZy1yZXRyby1zdHlsZWQtcnBnLXdpdGgtYS1iaWctbmV3LWRlbW8v0gEA?oc=5",
-          "publishedOn": "2022-12-09T16:32:53.000Z",
-          "wordCount": 1172,
-          "title": "Alterium Shift looks like a fun upcoming retro-styled RPG with a big new demo - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/112663573id22018gol.jpg"
-        },
-        {
-          "id": "CBMiQGh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9maW5kLXNhdmVkLXdpLWZpLXBhc3N3b3Jkcy1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Find Saved Wi-Fi Passwords in Linux  Make Tech Easier",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9maW5kLXNhdmVkLXdpLWZpLXBhc3N3b3Jkcy1saW51eC_SAQA?oc=5",
-          "publishedOn": "2022-12-09T16:25:00.000Z",
-          "wordCount": 2017,
-          "title": "How to Find Saved Wi-Fi Passwords in Linux - Make Tech Easier",
-          "imageUrl": "https://www.maketecheasier.com/assets/uploads/2022/11/WiFi-password-cover-image.jpg"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvZ2V0LWEtd2hvbGUtbG90LW9mLWNvbXBhbnktb2YtaGVyb2VzLWluLXRoaXMtbmV3LWdhbWUtYnVuZGxlL9IBAA",
-          "author": null,
-          "description": "Get a whole lot of Company of Heroes in this new game bundle  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvZ2V0LWEtd2hvbGUtbG90LW9mLWNvbXBhbnktb2YtaGVyb2VzLWluLXRoaXMtbmV3LWdhbWUtYnVuZGxlL9IBAA?oc=5",
-          "publishedOn": "2022-12-09T15:58:14.000Z",
-          "wordCount": 1067,
-          "title": "Get a whole lot of Company of Heroes in this new game bundle - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/42198942id22017gol.jpg"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvY2FjaHlvcy1saW51eC1wZXJm0gEA",
-          "author": null,
-          "description": "The Performance Of Arch Linux Powered CachyOS  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvY2FjaHlvcy1saW51eC1wZXJm0gEA?oc=5",
-          "publishedOn": "2022-12-09T15:31:01.000Z",
-          "wordCount": 1320,
-          "title": "The Performance Of Arch Linux Powered CachyOS - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvZGVza3RvcC1zdGVhbS1hbmQtc3RlYW0tZGVjay1jbGllbnQtYmV0YS11cGRhdGVzLXdpdGgtbmV3LWxhdW5jaC1vcHRpb25zLXVpL9IBAA",
-          "author": null,
-          "description": "Desktop Steam and Steam Deck Client Beta updates with new launch options UI  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvZGVza3RvcC1zdGVhbS1hbmQtc3RlYW0tZGVjay1jbGllbnQtYmV0YS11cGRhdGVzLXdpdGgtbmV3LWxhdW5jaC1vcHRpb25zLXVpL9IBAA?oc=5",
-          "publishedOn": "2022-12-09T15:25:45.000Z",
-          "wordCount": 2252,
-          "title": "Desktop Steam and Steam Deck Client Beta updates with new launch options UI - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/Steam-Logo.jpg"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vcGV0cmkuY29tL2luc3RhbGwtYXBhY2hlLXVidW50dS1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Install and Configure Apache Web Server on Ubuntu 22.04  Petri.com",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vcGV0cmkuY29tL2luc3RhbGwtYXBhY2hlLXVidW50dS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2022-12-09T15:14:18.000Z",
-          "wordCount": 8076,
-          "title": "How to Install and Configure Apache Web Server on Ubuntu 22.04 - Petri.com",
-          "imageUrl": "https://petri-media.s3.amazonaws.com/2022/02/Storage_02.jpg"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BpcGVXaXJlLTAuMy42MtIBAA",
-          "author": null,
-          "description": "PipeWire 0.3.62 Released With Bluetooth Offloading Support  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BpcGVXaXJlLTAuMy42MtIBAA?oc=5",
-          "publishedOn": "2022-12-09T14:54:00.000Z",
-          "wordCount": 1210,
-          "title": "PipeWire 0.3.62 Released With Bluetooth Offloading Support - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1DVURBLTEyLjDSAQA",
-          "author": null,
-          "description": "NVIDIA CUDA 12.0 Released With Official JIT LTO, C++20 Dialect Support  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1DVURBLTEyLjDSAQA?oc=5",
-          "publishedOn": "2022-12-09T14:39:00.000Z",
-          "wordCount": 1301,
-          "title": "NVIDIA CUDA 12.0 Released With Official JIT LTO, C++20 Dialect Support - Phoronix",
-          "imageUrl": null
         }
       ]
     },
@@ -8881,16 +8791,6 @@
           "wordCount": 1565,
           "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375537",
-          "author": "Temani Afif",
-          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
-          "publishedOn": "2022-12-09T14:26:39.000Z",
-          "wordCount": 3542,
-          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
         }
       ]
     },
@@ -9905,46 +9805,6 @@
           "wordCount": 8117,
           "title": "What is Programming? A Handbook for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/what-is-programming.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
-          "author": "Joel Olawanle",
-          "description": "JavaScript is a dynamically typed (or loosely typed) programming language. It allows you to declare variables without specifying or defining the variable type. You can create a variable in JavaScript without defining the type of value you can store in the variable. This can affect your program and cause bugs",
-          "link": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
-          "publishedOn": "2022-12-09T22:16:19.000Z",
-          "wordCount": 2178,
-          "title": "JavaScript Type Checking – How to Check Type in JS with typeof()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
-          "author": "Arunachalam B",
-          "description": "Can you imagine what it would be like to have a laptop but not to be able to access the internet? If you're a developer (or an aspiring one), you'll likely use the internet every day. So you should learn a few useful networking commands.  To learn networking in",
-          "link": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
-          "publishedOn": "2022-12-09T18:54:20.000Z",
-          "wordCount": 2391,
-          "title": "Linux Networking Commands You Should Know as a Beginner",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Networking-in-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
-          "author": "Megan Kaczanowski",
-          "description": "What's the difference between data privacy and data security? Data security is about protecting your data from unauthorized access (basically ensuring that hackers can't access your data). Data privacy, on the other hand, is about giving you more granular control over how (and by whom) your data is accessed, used,",
-          "link": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
-          "publishedOn": "2022-12-09T18:51:30.000Z",
-          "wordCount": 2016,
-          "title": "How to Improve Your Data Privacy – A Personal Guide to Protecting Your Online Information",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-antoni-shkraba-5475793.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
-          "author": "Victor Eke",
-          "description": "If you use the internet, you've likely used a dropdown menu before. They primarily serve two purposes: collecting user input in web forms, and implementing action/navigation menus in web applications. Dropdowns are one of the best ways to offer numerous options for a similar collection of elements without needing to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
-          "publishedOn": "2022-12-09T18:27:56.000Z",
-          "wordCount": 1906,
-          "title": "How to Build a Dropdown Menu with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/how-to-build-a-dropdown-menu-with-javascript.png"
         }
       ]
     }
