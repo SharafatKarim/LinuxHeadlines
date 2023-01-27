@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=66253",
+          "author": "Jerika Parungao",
+          "description": "To list down Docker containers, users can either use “docker container ls” command or the “docker ps -a” command along with options “-a”, “-q”, or “--format”.",
+          "link": "https://linuxhint.com/listing_docker_containers/",
+          "publishedOn": "2023-01-25T07:28:06.000Z",
+          "wordCount": 15933,
+          "title": "How to List Docker Containers",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=283407",
           "author": "BIMA FAJAR RAMADHAN",
           "description": "Whois and NSLookup are powerful information gathering tools in Kali Linux. It gives you so much detailed information about your target domain name.",
@@ -1740,16 +1750,6 @@
           "wordCount": 15994,
           "title": "2 Different Ways to Install Discord on Ubuntu 22.04",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=71585",
-          "author": "Jerika Parungao",
-          "description": "Tutorial on the steps for uninstalling a single package using Yum and how to specify the multiple packages with the same command using relevant examples.",
-          "link": "https://linuxhint.com/uninstall_yum_package/",
-          "publishedOn": "2022-12-28T13:25:17.000Z",
-          "wordCount": 16229,
-          "title": "How to Uninstall a Yum Package",
-          "imageUrl": null
         }
       ]
     },
@@ -1758,6 +1758,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181394",
+          "author": "Web Webster",
+          "description": "Not getting the option to take screenshots in the menu options? Not to worry, we have four easy solutions for you to try out on your Linux machine.  \nThe post 4 Ways to Take Screenshots With the Context Menu in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/take-screenshots-context-menu-linux/",
+          "publishedOn": "2023-01-26T23:00:27.000Z",
+          "wordCount": 16758,
+          "title": "4 Ways to Take Screenshots With the Context Menu in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181388",
+          "author": "Web Webster",
+          "description": "Check out this simple guide on how to share a folder between host and guest virtual machines in the GNOME Boxes application.\nThe post How to Share Folders Between Host and Guest in GNOME Boxes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-share-folder-between-host-guest-gnome-boxes/",
+          "publishedOn": "2023-01-26T21:00:23.000Z",
+          "wordCount": 16751,
+          "title": "How to Share Folders Between Host and Guest in GNOME Boxes",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181385",
+          "author": "Web Webster",
+          "description": "In this article, you will learn everything there is to know about the killing process in Linux, from the PID/Name to each killing signal.\nThe post Force Kill Linux Process using top, kill, pkill, killall, and xkill appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/force-kill-linux-process-commands/",
+          "publishedOn": "2023-01-26T19:00:22.000Z",
+          "wordCount": 16756,
+          "title": "Force Kill Linux Process using top, kill, pkill, killall, and xkill",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181376",
+          "author": "Web Webster",
+          "description": "Avoid having the rm command delete files without asking you by familiarizing yourself with the rm command’s options first.  \nThe post What You Need to Know About the rm Command in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/rm-command-linux/",
+          "publishedOn": "2023-01-26T18:00:20.000Z",
+          "wordCount": 16741,
+          "title": "What You Need to Know About the rm Command in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181588",
+          "author": "Web Webster",
+          "description": "Ubuntu Pro is only available for Ubuntu LTS releases and promises up to 10 years of security updates and access to exclusive tools.\nThe post Canonical Announces General Availability of Ubuntu Pro appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/canonical-announces-availability-ubuntu-pro/",
+          "publishedOn": "2023-01-26T17:00:52.000Z",
+          "wordCount": 16739,
+          "title": "Canonical Announces General Availability of Ubuntu Pro",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181587",
+          "author": "Web Webster",
+          "description": "PipeWire 0.3.65 adds support for Bluetooth MIDI devices, and support for compress offload was added using tinycompress. Learn more here.\nThe post PipeWire 0.3.65 Adds Bluetooth MIDI Support, ALSA Improvements appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/pipewire-0-3-65-support-improvements/",
+          "publishedOn": "2023-01-26T16:00:55.000Z",
+          "wordCount": 16736,
+          "title": "PipeWire 0.3.65 Adds Bluetooth MIDI Support, ALSA Improvements",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181585",
+          "author": "Web Webster",
+          "description": "GNOME 44 promises a GTK4 port of the Epiphany web browser, a file chooser grid view, support for 64px icon size in grid view, and more.\nThe post GNOME 44 Alpha Brings New Support, Features, More appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/gnome-44-alpha-release/",
+          "publishedOn": "2023-01-26T15:00:59.000Z",
+          "wordCount": 16742,
+          "title": "GNOME 44 Alpha Brings New Support, Features, More",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181583",
+          "author": "Web Webster",
+          "description": "The GUADEC 2023 event will offer a hybrid model where attendees can join in person in Riga, Latvia, or online. Learn more here.\nThe post GUADEC 2023 Conference: Date and Location Announcement appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/guadec-2023-conference-gnome-44/",
+          "publishedOn": "2023-01-26T14:00:09.000Z",
+          "wordCount": 16730,
+          "title": "GUADEC 2023 Conference: Date and Location Announcement",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181360",
+          "author": "Web Webster",
+          "description": "Check out this step-by-step guide on how to install and use Ubuntu Linux on Windows using Oracle VirtualBox.\nThe post Install Ubuntu on Windows Using VirtualBox appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-ubuntu-windows-using-virtualbox/",
+          "publishedOn": "2023-01-26T03:00:13.000Z",
+          "wordCount": 16717,
+          "title": "Install Ubuntu on Windows Using VirtualBox",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=181352",
           "author": "Web Webster",
@@ -4057,106 +4147,6 @@
           "wordCount": 16668,
           "title": "How to Install Blender 3.4 on Ubuntu, Linux Mint, Alma Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180873",
-          "author": "Web Webster",
-          "description": "This beginner tutorial will show you how to install Linux kernel 6.1 on AlmaLinux 9 and Rocky Linux 9 systems.  \nThe post How to Install Linux Kernel 6.1 on Rocky Linux, Alma Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-linux-kernel-6-1-rocky-linux-alma-linux/",
-          "publishedOn": "2022-12-28T03:00:52.000Z",
-          "wordCount": 16663,
-          "title": "How to Install Linux Kernel 6.1 on Rocky Linux, Alma Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181043",
-          "author": "Web Webster",
-          "description": "Canonical, the company that funds the development of Ubuntu, is likely to go public through an initial public offering (IPO) in 2023.\nThe post Canonical Considering IPO in 2023: What It Means for Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/canonical-considering-ipo-2023/",
-          "publishedOn": "2022-12-28T01:00:07.000Z",
-          "wordCount": 16650,
-          "title": "Canonical Considering IPO in 2023: What It Means for Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181031",
-          "author": "Web Webster",
-          "description": "Check out the release highlights of Manjaro Linux 22 “Sikaris,” which brings the latest Kernel 6.1, GNOME 43, KDE Plasma 5.26, and Xfce 4.18.\nThe post Manjaro Linux 22 Releases With Kernel 6.1, GNOME 43, Xfce 4.18 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/manjaro-linux-22-sikaris-release/",
-          "publishedOn": "2022-12-27T23:00:12.000Z",
-          "wordCount": 16662,
-          "title": "Manjaro Linux 22 Releases With Kernel 6.1, GNOME 43, Xfce 4.18",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181030",
-          "author": "Web Webster",
-          "description": "The final release of the Linux 6.2 kernel series is expected in mid-February 2023. Learn more about the release here.\nThe post Linus Torvalds Announces First Linux Kernel 6.2 Release appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/linus-torvalds-announces-first-linux-kernel-6-2-release/",
-          "publishedOn": "2022-12-27T21:00:14.000Z",
-          "wordCount": 16640,
-          "title": "Linus Torvalds Announces First Linux Kernel 6.2 Release",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181023",
-          "author": "Web Webster",
-          "description": "The Zero Day Initiative originally rated this Linux 5.15 in-kernel SMB server, ksmbd, bug a perfectly awful 10. Learn more here.\nThe post Patch Now: Serious Linux Kernel Security Hole ksmbd Uncovered appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/patch-now-serious-linux-kernel-security-hole-ksmbd-uncovered/",
-          "publishedOn": "2022-12-27T19:00:27.000Z",
-          "wordCount": 16640,
-          "title": "Patch Now: Serious Linux Kernel Security Hole ksmbd Uncovered",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180749",
-          "author": "Web Webster",
-          "description": "The apt package manager is a command-line utility used by Debian-based Linux distributions. Here’s how to use it to uninstall an existing application.\nThe post Difference Between ‘apt remove’ and ‘apt purge’ appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/difference-between-apt-remove-apt-purge/",
-          "publishedOn": "2022-12-27T18:00:56.000Z",
-          "wordCount": 16641,
-          "title": "Difference Between ‘apt remove’ and ‘apt purge’",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180748",
-          "author": "Web Webster",
-          "description": "Google Chrome is one of the most popular and widely used browsers across all computing platforms. Here’s how to install it on Ubuntu systems.\nThe post How to Install Google Chrome on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-google-chrome-ubuntu/",
-          "publishedOn": "2022-12-27T17:00:53.000Z",
-          "wordCount": 16645,
-          "title": "How to Install Google Chrome on Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180747",
-          "author": "Web Webster",
-          "description": "Check out this tutorial on how to find VirtualBox default user ID and password and how to enable and disable the unattended installation.\nThe post How to Find Default User ID, Password for Unattended Installation appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/find-virtualbox-default-user-id-password-unattended-installation/",
-          "publishedOn": "2022-12-27T16:00:52.000Z",
-          "wordCount": 16659,
-          "title": "How to Find Default User ID, Password for Unattended Installation",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180746",
-          "author": "Web Webster",
-          "description": "This article explains the possible causes and fixes to the Ubuntu Linux error “E: Unable to locate package name.”\nThe post How to Fix “E: Unable to Locate Package” Error in Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/fix-e-unable-to-locate-package-error-ubuntu/",
-          "publishedOn": "2022-12-27T15:00:50.000Z",
-          "wordCount": 16655,
-          "title": "How to Fix “E: Unable to Locate Package” Error in Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=180743",
-          "author": "Web Webster",
-          "description": "Here’s how to fix the cursor not visible problem in Wayland sessions in Fedora and Ubuntu for many applications such as Firefox and LibreOffice.\nThe post Mouse Cursor is Not Visible in Fedora and Wayland [Fixed] appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/mouse-cursor-not-visible-fedora-wayland-fixed/",
-          "publishedOn": "2022-12-27T14:00:47.000Z",
-          "wordCount": 16660,
-          "title": "Mouse Cursor is Not Visible in Fedora and Wayland [Fixed]",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4165,6 +4155,156 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9maXJzdC1sb29rLWF0LWJsZW5kb3MtYS1ibGVuZC1vZi1hcmNoLWxpbnV4LWZlZG9yYS1saW51eC1hbmQtdWJ1bnR10gFdaHR0cHM6Ly85dG81bGludXguY29tL2ZpcnN0LWxvb2stYXQtYmxlbmRvcy1hLWJsZW5kLW9mLWFyY2gtbGludXgtZmVkb3JhLWxpbnV4LWFuZC11YnVudHUvYW1w",
+          "author": null,
+          "description": "First Look at blendOS: A Blend of Arch Linux, Fedora Linux, and Ubuntu  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9maXJzdC1sb29rLWF0LWJsZW5kb3MtYS1ibGVuZC1vZi1hcmNoLWxpbnV4LWZlZG9yYS1saW51eC1hbmQtdWJ1bnR10gFdaHR0cHM6Ly85dG81bGludXguY29tL2ZpcnN0LWxvb2stYXQtYmxlbmRvcy1hLWJsZW5kLW9mLWFyY2gtbGludXgtZmVkb3JhLWxpbnV4LWFuZC11YnVudHUvYW1w?oc=5",
+          "publishedOn": "2023-01-26T21:51:02.000Z",
+          "wordCount": 11694,
+          "title": "First Look at blendOS: A Blend of Arch Linux, Fedora Linux, and Ubuntu - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/blendos.webp"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9ob21lLWFuZC1vZmZpY2Uvd29yay1saWZlL3doYXQtaXMtZmlyZWZveC1uaWdodGx5LWFuZC1zaG91bGQteW91LWJlLXVzaW5nLWl0L9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2hvbWUtYW5kLW9mZmljZS93b3JrLWxpZmUvd2hhdC1pcy1maXJlZm94LW5pZ2h0bHktYW5kLXNob3VsZC15b3UtYmUtdXNpbmctaXQv",
+          "author": null,
+          "description": "What is Firefox Nightly and should you be using it?  ZDNet",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9ob21lLWFuZC1vZmZpY2Uvd29yay1saWZlL3doYXQtaXMtZmlyZWZveC1uaWdodGx5LWFuZC1zaG91bGQteW91LWJlLXVzaW5nLWl0L9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2hvbWUtYW5kLW9mZmljZS93b3JrLWxpZmUvd2hhdC1pcy1maXJlZm94LW5pZ2h0bHktYW5kLXNob3VsZC15b3UtYmUtdXNpbmctaXQv?oc=5",
+          "publishedOn": "2023-01-26T21:07:33.000Z",
+          "wordCount": 12227,
+          "title": "What is Firefox Nightly and should you be using it? - ZDNet",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/b75f2d4b50d71d848dce301ed71fec30bd4930e6/2022/09/06/3810be5b-2bbb-4884-9e2c-659446ca42e3/mozilla-firefox.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbWNmbHktcmVwZWF0LWxpbnV4LWNvbW1hbmRzLWZyb20tYmFzaC1oaXN0b3J5L9IBAA",
+          "author": null,
+          "description": "McFly Is the Best Way to Repeat Linux Commands From Your Bash History  MUO - MakeUseOf",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbWNmbHktcmVwZWF0LWxpbnV4LWNvbW1hbmRzLWZyb20tYmFzaC1oaXN0b3J5L9IBAA?oc=5",
+          "publishedOn": "2023-01-26T20:00:00.000Z",
+          "wordCount": 2299,
+          "title": "McFly Is the Best Way to Repeat Linux Commands From Your Bash History - MUO - MakeUseOf",
+          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/access-linux-command-history-with-mcfly-1.jpg"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvdGhlLW92ZXJsb29rZWQtZ29yZ2VvdXMtcGl4ZWwtYXJ0LWxpbGFzLXNreS1hcmstaXMtbm93LW9uLWdvZy_SAQA",
+          "author": null,
+          "description": "The overlooked gorgeous pixel-art Lila's Sky Ark is now on GOG  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvdGhlLW92ZXJsb29rZWQtZ29yZ2VvdXMtcGl4ZWwtYXJ0LWxpbGFzLXNreS1hcmstaXMtbm93LW9uLWdvZy_SAQA?oc=5",
+          "publishedOn": "2023-01-26T17:05:08.000Z",
+          "wordCount": 1803,
+          "title": "The overlooked gorgeous pixel-art Lila's Sky Ark is now on GOG - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1845639859id22238gol.jpg"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1FREFDLUdyYW5pdGUtUmFwaWRz0gEA",
+          "author": null,
+          "description": "Linux 6.3 EDAC Prepares For Intel Granite Rapids With Up To 12 ...  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1FREFDLUdyYW5pdGUtUmFwaWRz0gEA?oc=5",
+          "publishedOn": "2023-01-26T17:00:00.000Z",
+          "wordCount": 1888,
+          "title": "Linux 6.3 EDAC Prepares For Intel Granite Rapids With Up To 12 ... - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9ob3ctdG8tZW5hYmxlLXpyYW0tcm9ja3ktbGludXgv0gFIaHR0cHM6Ly93d3cudGVjaHJlcHVibGljLmNvbS9hcnRpY2xlL2hvdy10by1lbmFibGUtenJhbS1yb2NreS1saW51eC9hbXAv",
+          "author": null,
+          "description": "How to enable zRAM on Rocky Linux and other RHEL-based distributions  TechRepublic",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9ob3ctdG8tZW5hYmxlLXpyYW0tcm9ja3ktbGludXgv0gFIaHR0cHM6Ly93d3cudGVjaHJlcHVibGljLmNvbS9hcnRpY2xlL2hvdy10by1lbmFibGUtenJhbS1yb2NreS1saW51eC9hbXAv?oc=5",
+          "publishedOn": "2023-01-26T16:20:00.000Z",
+          "wordCount": 5709,
+          "title": "How to enable zRAM on Rocky Linux and other RHEL-based distributions - TechRepublic",
+          "imageUrl": "https://www.techrepublic.com/wp-content/uploads/2021/07/rockylinuxhero-new.jpg"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvdHJhY2ttYW5pYS1zdGVhbS1wbGF5YWJsZS1vbi1zdGVhbS1kZWNrL9IBAA",
+          "author": null,
+          "description": "Trackmania heads to Steam and the devs say it's playable on Steam ...  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvdHJhY2ttYW5pYS1zdGVhbS1wbGF5YWJsZS1vbi1zdGVhbS1kZWNrL9IBAA?oc=5",
+          "publishedOn": "2023-01-26T16:04:16.000Z",
+          "wordCount": 1543,
+          "title": "Trackmania heads to Steam and the devs say it's playable on Steam ... - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1134531702id22237gol.jpg"
+        },
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg2NTY5L2Nhbm9uaWNhbC1zZWN1cml0eS1zdWJzY3JpcHRpb25zLWZvci11YnVudHUtbGludXgtbm93LWF2YWlsYWJsZS5odG1s0gFyaHR0cHM6Ly93d3cuaW5mb3dvcmxkLmNvbS9hcnRpY2xlLzM2ODY1NjkvY2Fub25pY2FsLXNlY3VyaXR5LXN1YnNjcmlwdGlvbnMtZm9yLXVidW50dS1saW51eC1ub3ctYXZhaWxhYmxlLmFtcC5odG1s",
+          "author": null,
+          "description": "Canonical security subscriptions for Ubuntu Linux now available  InfoWorld",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg2NTY5L2Nhbm9uaWNhbC1zZWN1cml0eS1zdWJzY3JpcHRpb25zLWZvci11YnVudHUtbGludXgtbm93LWF2YWlsYWJsZS5odG1s0gFyaHR0cHM6Ly93d3cuaW5mb3dvcmxkLmNvbS9hcnRpY2xlLzM2ODY1NjkvY2Fub25pY2FsLXNlY3VyaXR5LXN1YnNjcmlwdGlvbnMtZm9yLXVidW50dS1saW51eC1ub3ctYXZhaWxhYmxlLmFtcC5odG1s?oc=5",
+          "publishedOn": "2023-01-26T14:00:00.000Z",
+          "wordCount": 11022,
+          "title": "Canonical security subscriptions for Ubuntu Linux now available - InfoWorld",
+          "imageUrl": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/09/08/sale_313629_article_image-100928899-large.jpg?auto=webp&quality=85,70"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaGVsbG9zeXN0ZW0tbGludXgtcGVyZm9ybWFuY2XSAQA",
+          "author": null,
+          "description": "BSD-Powered helloSystem 0.8 Performance Against Linux On AMD ...  Phoronix",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaGVsbG9zeXN0ZW0tbGludXgtcGVyZm9ybWFuY2XSAQA?oc=5",
+          "publishedOn": "2023-01-26T13:07:04.000Z",
+          "wordCount": 1324,
+          "title": "BSD-Powered helloSystem 0.8 Performance Against Linux On AMD ... - Phoronix",
+          "imageUrl": null
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvNGEtZ2FtZXMtcmVsZWFzZS1hLWZ1bGwtbWV0cm8tZXhvZHVzLXNkay1mb3ItbW9kZGVycy_SAQA",
+          "author": null,
+          "description": "4A Games release a full Metro Exodus SDK for modders  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvNGEtZ2FtZXMtcmVsZWFzZS1hLWZ1bGwtbWV0cm8tZXhvZHVzLXNkay1mb3ItbW9kZGVycy_SAQA?oc=5",
+          "publishedOn": "2023-01-26T12:56:28.000Z",
+          "wordCount": 1217,
+          "title": "4A Games release a full Metro Exodus SDK for modders - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1318121054id22235gol.jpg"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLWdlbmVyYWwtYXZhaWxhYmlsaXR5LW9mLXVidW50dS1wcm8tZnJlZS1mb3ItdXAtdG8tNS1wY3PSAWVodHRwczovLzl0bzVsaW51eC5jb20vY2Fub25pY2FsLWFubm91bmNlcy1nZW5lcmFsLWF2YWlsYWJpbGl0eS1vZi11YnVudHUtcHJvLWZyZWUtZm9yLXVwLXRvLTUtcGNzL2FtcA",
+          "author": null,
+          "description": "Canonical Announces General Availability of Ubuntu Pro, Free for Up to 5 PCs  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYW5vbmljYWwtYW5ub3VuY2VzLWdlbmVyYWwtYXZhaWxhYmlsaXR5LW9mLXVidW50dS1wcm8tZnJlZS1mb3ItdXAtdG8tNS1wY3PSAWVodHRwczovLzl0bzVsaW51eC5jb20vY2Fub25pY2FsLWFubm91bmNlcy1nZW5lcmFsLWF2YWlsYWJpbGl0eS1vZi11YnVudHUtcHJvLWZyZWUtZm9yLXVwLXRvLTUtcGNzL2FtcA?oc=5",
+          "publishedOn": "2023-01-26T12:55:38.000Z",
+          "wordCount": 11470,
+          "title": "Canonical Announces General Availability of Ubuntu Pro, Free for Up to 5 PCs - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/10/upro.webp"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvcG9pbnQtYW5kLWNsaWNrLWFkdmVudHVyZS1zcGxpdHRvd24tbGludXgtc3VwcG9ydC_SAQA",
+          "author": null,
+          "description": "Developer of point and click adventure Splittown looking at Linux ...  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvcG9pbnQtYW5kLWNsaWNrLWFkdmVudHVyZS1zcGxpdHRvd24tbGludXgtc3VwcG9ydC_SAQA?oc=5",
+          "publishedOn": "2023-01-26T12:51:29.000Z",
+          "wordCount": 1378,
+          "title": "Developer of point and click adventure Splittown looking at Linux ... - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/288717570id22236gol.jpg"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vY3J5cHRvbW9kZS5jb20vdG9wLTgtZnJlZS1hcHBzLWZvci1uZXctbGludXgtdXNlcnMv0gE_aHR0cHM6Ly9jcnlwdG9tb2RlLmNvbS90b3AtOC1mcmVlLWFwcHMtZm9yLW5ldy1saW51eC11c2Vycy9hbXAv",
+          "author": null,
+          "description": "Top 8 Free Apps for New Linux Users  Crypto Mode",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vY3J5cHRvbW9kZS5jb20vdG9wLTgtZnJlZS1hcHBzLWZvci1uZXctbGludXgtdXNlcnMv0gE_aHR0cHM6Ly9jcnlwdG9tb2RlLmNvbS90b3AtOC1mcmVlLWFwcHMtZm9yLW5ldy1saW51eC11c2Vycy9hbXAv?oc=5",
+          "publishedOn": "2023-01-26T08:52:40.000Z",
+          "wordCount": 4133,
+          "title": "Top 8 Free Apps for New Linux Users - Crypto Mode",
+          "imageUrl": "https://cryptomode.com/wp-content/uploads/2023/01/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC1hbHBoYS1yZWxlYXNlZC13aXRoLW5ldy1zdHJlYW0tZGVjay1hcHAtZmlsZS1jaG9vc2VyLWdyaWQtdmlld9IBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC1hbHBoYS1yZWxlYXNlZC13aXRoLW5ldy1zdHJlYW0tZGVjay1hcHAtZmlsZS1jaG9vc2VyLWdyaWQtdmlldy9hbXA",
+          "author": null,
+          "description": "GNOME 44 Alpha Released with New Stream Deck App, File Chooser Grid View  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC1hbHBoYS1yZWxlYXNlZC13aXRoLW5ldy1zdHJlYW0tZGVjay1hcHAtZmlsZS1jaG9vc2VyLWdyaWQtdmlld9IBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC1hbHBoYS1yZWxlYXNlZC13aXRoLW5ldy1zdHJlYW0tZGVjay1hcHAtZmlsZS1jaG9vc2VyLWdyaWQtdmlldy9hbXA?oc=5",
+          "publishedOn": "2023-01-26T08:37:11.000Z",
+          "wordCount": 11558,
+          "title": "GNOME 44 Alpha Released with New Stream Deck App, File Chooser Grid View - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/g44.webp"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vc2VjdXJpdHlicmllZi5hc2lhL3N0b3J5L2JleW9uZHRydXN0LWFkZHMtcHJpdmlsZWdlLW1hbmFnZW1lbnQtY2FwYWJpbGl0aWVzLXRvLWxpbnV40gFgaHR0cHM6Ly9zZWN1cml0eWJyaWVmLmFzaWEvYW1wL3N0b3J5L2JleW9uZHRydXN0LWFkZHMtcHJpdmlsZWdlLW1hbmFnZW1lbnQtY2FwYWJpbGl0aWVzLXRvLWxpbnV4",
+          "author": null,
+          "description": "BeyondTrust adds privilege management capabilities to Linux  SecurityBrief Asia",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vc2VjdXJpdHlicmllZi5hc2lhL3N0b3J5L2JleW9uZHRydXN0LWFkZHMtcHJpdmlsZWdlLW1hbmFnZW1lbnQtY2FwYWJpbGl0aWVzLXRvLWxpbnV40gFgaHR0cHM6Ly9zZWN1cml0eWJyaWVmLmFzaWEvYW1wL3N0b3J5L2JleW9uZHRydXN0LWFkZHMtcHJpdmlsZWdlLW1hbmFnZW1lbnQtY2FwYWJpbGl0aWVzLXRvLWxpbnV4?oc=5",
+          "publishedOn": "2023-01-26T07:34:00.000Z",
+          "wordCount": 999,
+          "title": "BeyondTrust adds privilege management capabilities to Linux - SecurityBrief Asia",
+          "imageUrl": "https://securitybrief.asia/uploads/story/2023/01/26/compatible_GettyImages-1444963922.jpg"
+        },
         {
           "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FBcmNoNjQtUnVzdC1MaW51eC1LZXJuZWzSAQA",
           "author": null,
@@ -4214,6 +4354,16 @@
           "wordCount": 12861,
           "title": "How to easily and quickly clean your system and free disk space with BleachBit - ZDNet",
           "imageUrl": "https://www.zdnet.com/a/img/resize/82e5c8ad6edc0ba2fbbc1cbc4dab77acecefb74f/2022/10/10/ce582440-1c3b-4355-b0d3-c388ce345159/getty-a-woman-working-from-her-laptop-in-a-busy-cafe.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvYXRhcmktODBzLWNsYXNzaWMtcmV2aXZhbC1jYXZlcm5zLW9mLW1hcnMtcmVjaGFyZ2VkL9IBAA",
+          "author": null,
+          "description": "Atari announce another 80s classic revival with Caverns of Mars ...  GamingOnLinux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDEvYXRhcmktODBzLWNsYXNzaWMtcmV2aXZhbC1jYXZlcm5zLW9mLW1hcnMtcmVjaGFyZ2VkL9IBAA?oc=5",
+          "publishedOn": "2023-01-25T15:20:43.000Z",
+          "wordCount": 2029,
+          "title": "Atari announce another 80s classic revival with Caverns of Mars ... - GamingOnLinux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1202526629id22231gol.jpg"
         },
         {
           "id": "CBMiXmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wMS8yNS91LWJvb3Qtbm93LXN1cHBvcnRzLWJvb3RpbmctbGludXgtZnJvbS1hbi1odHRwLXNlcnZlci_SAWRodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMDEvMjUvdS1ib290LW5vdy1zdXBwb3J0cy1ib290aW5nLWxpbnV4LWZyb20tYW4taHR0cC1zZXJ2ZXIvP2FtcD0x",
@@ -4344,6 +4494,16 @@
           "wordCount": 5126,
           "title": "Wine 8.0 released with better support for running Windows apps on Linux (or other operating systems) - Liliputing",
           "imageUrl": "https://liliputing.com/wp-content/uploads/2022/01/Wine-logo.png"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS93aW5lLTgtMC1jb21wYXRpYmlsaXR5LWxheWVyLWlzLW91dC1ub3ctZm9yLXJ1bm5pbmctd2luZG93cy1hcHBzLW9uLWxpbnV40gFjaHR0cHM6Ly85dG81bGludXguY29tL3dpbmUtOC0wLWNvbXBhdGliaWxpdHktbGF5ZXItaXMtb3V0LW5vdy1mb3ItcnVubmluZy13aW5kb3dzLWFwcHMtb24tbGludXgvYW1w",
+          "author": null,
+          "description": "Wine 8.0 Compatibility Layer Is Out Now for Running Windows Apps on Linux  9to5Linux",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS93aW5lLTgtMC1jb21wYXRpYmlsaXR5LWxheWVyLWlzLW91dC1ub3ctZm9yLXJ1bm5pbmctd2luZG93cy1hcHBzLW9uLWxpbnV40gFjaHR0cHM6Ly85dG81bGludXguY29tL3dpbmUtOC0wLWNvbXBhdGliaWxpdHktbGF5ZXItaXMtb3V0LW5vdy1mb3ItcnVubmluZy13aW5kb3dzLWFwcHMtb24tbGludXgvYW1w?oc=5",
+          "publishedOn": "2023-01-24T16:51:20.000Z",
+          "wordCount": 11547,
+          "title": "Wine 8.0 Compatibility Layer Is Out Now for Running Windows Apps on Linux - 9to5Linux",
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2023/01/wine8.webp"
         },
         {
           "id": "CBMiS2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc2hvdWxkLWktY29tcHJlc3MtbXktb3MtZHJpdmUtdG8tc2F2ZS1kaXNrLXNwYWNlL9IBAA",
@@ -4554,6 +4714,16 @@
           "wordCount": 1145,
           "title": "Humble Bundle offering a whole lot of gems in two new bundles - GamingOnLinux",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1726939961id22215gol.jpg"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LnRlY2huZXdzd29ybGQuY29tL3N0b3J5L2xpbnV4LW1hbHdhcmUtcmF0ZXMtcmlzZS10by1yZWNvcmQtbGV2ZWxzLWFtaWQtaGFja2VyLWluY29uc2lzdGVuY3ktMTc2ODM0Lmh0bWzSAQA",
+          "author": null,
+          "description": "Linux Malware Rates Rise to Record Levels Amid Hacker ...  TechNewsWorld",
+          "link": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LnRlY2huZXdzd29ybGQuY29tL3N0b3J5L2xpbnV4LW1hbHdhcmUtcmF0ZXMtcmlzZS10by1yZWNvcmQtbGV2ZWxzLWFtaWQtaGFja2VyLWluY29uc2lzdGVuY3ktMTc2ODM0Lmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-01-23T13:15:40.000Z",
+          "wordCount": 2910,
+          "title": "Linux Malware Rates Rise to Record Levels Amid Hacker ... - TechNewsWorld",
+          "imageUrl": "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/malware-alert.jpg"
         },
         {
           "id": "CBMicmh0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3RvcnkvbGludXgtbWFsd2FyZS1yYXRlcy1yaXNlLXRvLXJlY29yZC1sZXZlbHMtYW1pZC1oYWNrZXItaW5jb25zaXN0ZW5jeS0xNzY4MzQuaHRtbNIBAA",
@@ -8844,206 +9014,6 @@
           "wordCount": 1931,
           "title": "Steam Deck hits over 7000 games either Verified or Playable - GamingOnLinux",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1011656495id22104gol.jpg"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvc2t5bGFrZS1yZXRibGVlZC1zdHVmZtIBAA",
-          "author": null,
-          "description": "Linux 6.2's Call Depth Tracking Helps Recover Lost Performance On Intel Skylake CPUs  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvc2t5bGFrZS1yZXRibGVlZC1zdHVmZtIBAA?oc=5",
-          "publishedOn": "2022-12-28T13:42:46.000Z",
-          "wordCount": 1451,
-          "title": "Linux 6.2's Call Depth Tracking Helps Recover Lost Performance On Intel Skylake CPUs - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMioQFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9yZWQtaGF0LWxvd2Vycy1iYXJyaWVycy10by1oeWJyaWQtY2xvdWQtYWRvcHRpb24td2l0aC1leHBhbmRlZC1wdWJsaWMtb2ZmZXJpbmdzLWluLWF3cy1tYXJrZXRwbGFjZS1yc2Y5dmFiedIBpwFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9yZWQtaGF0LWxvd2Vycy1iYXJyaWVycy10by1oeWJyaWQtY2xvdWQtYWRvcHRpb24td2l0aC1leHBhbmRlZC1wdWJsaWMtb2ZmZXJpbmdzLWluLWF3cy1tYXJrZXRwbGFjZS1yc2Y5dmFieT9hbXA9MQ",
-          "author": null,
-          "description": "Red Hat lowers barriers to hybrid cloud adoption with expanded public offerings in AWS marketplace  ZAWYA",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMioQFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9yZWQtaGF0LWxvd2Vycy1iYXJyaWVycy10by1oeWJyaWQtY2xvdWQtYWRvcHRpb24td2l0aC1leHBhbmRlZC1wdWJsaWMtb2ZmZXJpbmdzLWluLWF3cy1tYXJrZXRwbGFjZS1yc2Y5dmFiedIBpwFodHRwczovL3d3dy56YXd5YS5jb20vZW4vcHJlc3MtcmVsZWFzZS9jb21wYW5pZXMtbmV3cy9yZWQtaGF0LWxvd2Vycy1iYXJyaWVycy10by1oeWJyaWQtY2xvdWQtYWRvcHRpb24td2l0aC1leHBhbmRlZC1wdWJsaWMtb2ZmZXJpbmdzLWluLWF3cy1tYXJrZXRwbGFjZS1yc2Y5dmFieT9hbXA9MQ?oc=5",
-          "publishedOn": "2022-12-28T11:44:44.000Z",
-          "wordCount": 19363,
-          "title": "Red Hat lowers barriers to hybrid cloud adoption with expanded public offerings in AWS marketplace - ZAWYA",
-          "imageUrl": "https://static.zawya.com/version/c:NzE4ZTI5NzItMmQyOS00:M2IzOGE3/stefaniechiras-seniorvicepresident-partnerecosystemsuccess-red-jpg.webp?f=3%3A2"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXN0ZWFtLWRlY2stcmVhbGx5LWRvZXNudC1uZWVkLWV4Y2x1c2l2ZXMvY29tbWVudF9pZD0yMzc1NTbSAQA",
-          "author": null,
-          "description": "The Steam Deck really doesn't need exclusives  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXN0ZWFtLWRlY2stcmVhbGx5LWRvZXNudC1uZWVkLWV4Y2x1c2l2ZXMvY29tbWVudF9pZD0yMzc1NTbSAQA?oc=5",
-          "publishedOn": "2022-12-28T11:34:03.000Z",
-          "wordCount": 4044,
-          "title": "The Steam Deck really doesn't need exclusives - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/250738525id22103gol.jpg"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXN0ZWFtLWRlY2stcmVhbGx5LWRvZXNudC1uZWVkLWV4Y2x1c2l2ZXMvY29tbWVudF9pZD0yMzc0NjPSAQA",
-          "author": null,
-          "description": "The Steam Deck really doesn't need exclusives  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvdGhlLXN0ZWFtLWRlY2stcmVhbGx5LWRvZXNudC1uZWVkLWV4Y2x1c2l2ZXMvY29tbWVudF9pZD0yMzc0NjPSAQA?oc=5",
-          "publishedOn": "2022-12-28T11:34:03.000Z",
-          "wordCount": 3283,
-          "title": "The Steam Deck really doesn't need exclusives - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/250738525id22103gol.jpg"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NsZWFyLUxpbnV4LTUxMi1OUl9DUFVT0gEA",
-          "author": null,
-          "description": "Clear Linux Will Now Handle Up To 512 CPU Cores / vCPUs  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NsZWFyLUxpbnV4LTUxMi1OUl9DUFVT0gEA?oc=5",
-          "publishedOn": "2022-12-28T10:34:00.000Z",
-          "wordCount": 1427,
-          "title": "Clear Linux Will Now Handle Up To 512 CPU Cores / vCPUs - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL3doaXRuZXkta25pdHRlci9saW51eC1vbi1taWNyb2JsYXplLWFydHlhNy1saW51eC1kZXNpZ24taW4tcGV0YWxpbnV4LTIwMjItMS1lYWE1NTnSAQA",
-          "author": null,
-          "description": "Linux on MicroBlaze: ArtyA7 Linux Design in PetaLinux 2022.1  Hackster.io",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL3doaXRuZXkta25pdHRlci9saW51eC1vbi1taWNyb2JsYXplLWFydHlhNy1saW51eC1kZXNpZ24taW4tcGV0YWxpbnV4LTIwMjItMS1lYWE1NTnSAQA?oc=5",
-          "publishedOn": "2022-12-28T03:27:51.000Z",
-          "wordCount": 1258,
-          "title": "Linux on MicroBlaze: ArtyA7 Linux Design in PetaLinux 2022.1 - Hackster.io",
-          "imageUrl": "https://hackster.imgix.net/uploads/attachments/1537591/_0BeMLHZ06w.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUtlcm5lbC1CdWlsZC1MZXNzLVJBTdIBAA",
-          "author": null,
-          "description": "New Patches Aim To Reduce Memory Use While Compiling The ...  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUtlcm5lbC1CdWlsZC1MZXNzLVJBTdIBAA?oc=5",
-          "publishedOn": "2022-12-27T23:52:00.000Z",
-          "wordCount": 1461,
-          "title": "New Patches Aim To Reduce Memory Use While Compiling The ... - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00My0yLW9mZmljaWFsbHktcmVsZWFzZWQtYnJpbmdzLWltcHJvdmVtZW50cy10by1zY3JlZW5jYXN0LXVpLWJsdWV0b290aC1hbmQtbW9yZdIBcGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00My0yLW9mZmljaWFsbHktcmVsZWFzZWQtYnJpbmdzLWltcHJvdmVtZW50cy10by1zY3JlZW5jYXN0LXVpLWJsdWV0b290aC1hbmQtbW9yZS9hbXA",
-          "author": null,
-          "description": "GNOME 43.2 Officially Released, Brings Improvements to Screencast UI, Bluetooth, and More  9to5Linux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00My0yLW9mZmljaWFsbHktcmVsZWFzZWQtYnJpbmdzLWltcHJvdmVtZW50cy10by1zY3JlZW5jYXN0LXVpLWJsdWV0b290aC1hbmQtbW9yZdIBcGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00My0yLW9mZmljaWFsbHktcmVsZWFzZWQtYnJpbmdzLWltcHJvdmVtZW50cy10by1zY3JlZW5jYXN0LXVpLWJsdWV0b290aC1hbmQtbW9yZS9hbXA?oc=5",
-          "publishedOn": "2022-12-27T23:46:31.000Z",
-          "wordCount": 11623,
-          "title": "GNOME 43.2 Officially Released, Brings Improvements to Screencast UI, Bluetooth, and More - 9to5Linux",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/12/g432.webp"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW5zdGFsbC1mb3hpdC1wZGYtcmVhZGVyLW9uLXVidW50dS_SAQA",
-          "author": null,
-          "description": "How to Install Foxit PDF Reader on Ubuntu  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW5zdGFsbC1mb3hpdC1wZGYtcmVhZGVyLW9uLXVidW50dS_SAQA?oc=5",
-          "publishedOn": "2022-12-27T21:00:00.000Z",
-          "wordCount": 2227,
-          "title": "How to Install Foxit PDF Reader on Ubuntu - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-reading.jpg"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vbmFrZWRzZWN1cml0eS5zb3Bob3MuY29tLzIwMjIvMTIvMjcvY3JpdGljYWwtMTAtb3V0LW9mLTEwLWxpbnV4LWtlcm5lbC1zbWItaG9sZS1zaG91bGQteW91LXdvcnJ5L9IBbWh0dHBzOi8vbmFrZWRzZWN1cml0eS5zb3Bob3MuY29tLzIwMjIvMTIvMjcvY3JpdGljYWwtMTAtb3V0LW9mLTEwLWxpbnV4LWtlcm5lbC1zbWItaG9sZS1zaG91bGQteW91LXdvcnJ5L2FtcC8",
-          "author": null,
-          "description": "Critical “10-out-of-10” Linux kernel SMB hole – should you worry?  Naked Security",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vbmFrZWRzZWN1cml0eS5zb3Bob3MuY29tLzIwMjIvMTIvMjcvY3JpdGljYWwtMTAtb3V0LW9mLTEwLWxpbnV4LWtlcm5lbC1zbWItaG9sZS1zaG91bGQteW91LXdvcnJ5L9IBbWh0dHBzOi8vbmFrZWRzZWN1cml0eS5zb3Bob3MuY29tLzIwMjIvMTIvMjcvY3JpdGljYWwtMTAtb3V0LW9mLTEwLWxpbnV4LWtlcm5lbC1zbWItaG9sZS1zaG91bGQteW91LXdvcnJ5L2FtcC8?oc=5",
-          "publishedOn": "2022-12-27T18:00:02.000Z",
-          "wordCount": 2399,
-          "title": "Critical “10-out-of-10” Linux kernel SMB hole – should you worry? - Naked Security",
-          "imageUrl": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/02/linux-1200.jpg?w=775"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIveGJveC1nYW1lLXN0dWRpb3MtdGFsay1tb3JlLW9mLXRoZWlyLXRpdGxlcy1vbi1zdGVhbS1kZWNrL9IBAA",
-          "author": null,
-          "description": "Xbox Game Studios talk more of their titles on Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIveGJveC1nYW1lLXN0dWRpb3MtdGFsay1tb3JlLW9mLXRoZWlyLXRpdGxlcy1vbi1zdGVhbS1kZWNrL9IBAA?oc=5",
-          "publishedOn": "2022-12-27T16:51:32.000Z",
-          "wordCount": 1606,
-          "title": "Xbox Game Studios talk more of their titles on Steam Deck - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1400872636id22102gol.jpg"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9kZXBsb3ktY29udGFpbmVyLXJlbW90ZS1kb2NrZXItc2VydmVyY2F0L9IBUmh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9kZXBsb3ktY29udGFpbmVyLXJlbW90ZS1kb2NrZXItc2VydmVyY2F0L2FtcC8",
-          "author": null,
-          "description": "How to deploy a container to a remote Docker machine with ServerCat  TechRepublic",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9kZXBsb3ktY29udGFpbmVyLXJlbW90ZS1kb2NrZXItc2VydmVyY2F0L9IBUmh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9kZXBsb3ktY29udGFpbmVyLXJlbW90ZS1kb2NrZXItc2VydmVyY2F0L2FtcC8?oc=5",
-          "publishedOn": "2022-12-27T16:49:00.000Z",
-          "wordCount": 5815,
-          "title": "How to deploy a container to a remote Docker machine with ServerCat - TechRepublic",
-          "imageUrl": "https://www.techrepublic.com/wp-content/uploads/2022/06/docker-containers.jpeg"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vbmV3cy9tb3JlLWRldmVsb3BlcnMtdXNlLWxpbnV4LXRoYW4tbWFjb3PSAQA",
-          "author": null,
-          "description": "More developers reportedly now use Linux than macOS  TechRadar",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiQ2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vbmV3cy9tb3JlLWRldmVsb3BlcnMtdXNlLWxpbnV4LXRoYW4tbWFjb3PSAQA?oc=5",
-          "publishedOn": "2022-12-27T16:42:36.000Z",
-          "wordCount": 8793,
-          "title": "More developers reportedly now use Linux than macOS - TechRadar",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/p7asKHxYWoAoJXzcD2M8e7-1200-80.jpg"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvcHJvdG9udXAtcXQtdjI3Ny1hZGRzLXN1cHBvcnQtZm9yLW5vcnRoc3RhcnByb3Rvbi10by1wbGF5LW1vZGRlZC10aXRhbmZhbGwtMi_SAQA",
-          "author": null,
-          "description": "ProtonUp-Qt v2.7.7 adds support for NorthstarProton to play modded ...  GamingOnLinux",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjIvMTIvcHJvdG9udXAtcXQtdjI3Ny1hZGRzLXN1cHBvcnQtZm9yLW5vcnRoc3RhcnByb3Rvbi10by1wbGF5LW1vZGRlZC10aXRhbmZhbGwtMi_SAQA?oc=5",
-          "publishedOn": "2022-12-27T16:19:55.000Z",
-          "wordCount": 1094,
-          "title": "ProtonUp-Qt v2.7.7 adds support for NorthstarProton to play modded ... - GamingOnLinux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/717427071id22101gol.jpg"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2luZG93cy1pbnN0YWxsLWthbGktbGludXgv0gEA",
-          "author": null,
-          "description": "How to Install Kali Linux on Windows  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2luZG93cy1pbnN0YWxsLWthbGktbGludXgv0gEA?oc=5",
-          "publishedOn": "2022-12-27T16:15:00.000Z",
-          "wordCount": 2229,
-          "title": "How to Install Kali Linux on Windows - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Featured-Images.jpg"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JTRVEtSW1wcm92ZW1lbnRzLUxpbnV4LTYuM9IBAA",
-          "author": null,
-          "description": "Restartable Sequences \"RSEQ\" Additions Expected For Linux 6.3  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JTRVEtSW1wcm92ZW1lbnRzLUxpbnV4LTYuM9IBAA?oc=5",
-          "publishedOn": "2022-12-27T15:52:00.000Z",
-          "wordCount": 1613,
-          "title": "Restartable Sequences \"RSEQ\" Additions Expected For Linux 6.3 - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjItZmVhdHVyZXPSAQA",
-          "author": null,
-          "description": "Linux 6.2 Features: Stable Intel Arc Graphics. RTX 30 Support, Intel ...  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjItZmVhdHVyZXPSAQA?oc=5",
-          "publishedOn": "2022-12-27T15:35:09.000Z",
-          "wordCount": 1754,
-          "title": "Linux 6.2 Features: Stable Intel Arc Graphics. RTX 30 Support, Intel ... - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LU1pZ3JhdGUtUGFnZXMtQmF0Y2gtRmx1c2jSAQA",
-          "author": null,
-          "description": "Intel Prepares Linux Batch TLB Flushing For Page Migration As A Big Performance Win  Phoronix",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LU1pZ3JhdGUtUGFnZXMtQmF0Y2gtRmx1c2jSAQA?oc=5",
-          "publishedOn": "2022-12-27T15:10:00.000Z",
-          "wordCount": 1387,
-          "title": "Intel Prepares Linux Batch TLB Flushing For Page Migration As A Big Performance Win - Phoronix",
-          "imageUrl": null
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtdWJ1bnR1LXRvdWNoLW9uLXlvdXItbW9iaWxlLXBob25lL9IBAA",
-          "author": null,
-          "description": "How to Install Ubuntu Touch on Your Mobile Phone  MUO - MakeUseOf",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtdWJ1bnR1LXRvdWNoLW9uLXlvdXItbW9iaWxlLXBob25lL9IBAA?oc=5",
-          "publishedOn": "2022-12-27T14:16:00.000Z",
-          "wordCount": 2639,
-          "title": "How to Install Ubuntu Touch on Your Mobile Phone - MUO - MakeUseOf",
-          "imageUrl": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/muo-linux-ubuntu-touch-nexus5-featured.jpg"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vdGhlbmV3c3RhY2suaW8va3ViZXJuZXRlcy1mb3Itd2luZG93cy_SAQA",
-          "author": null,
-          "description": "Kubernetes for Windows  thenewstack.io",
-          "link": "https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vdGhlbmV3c3RhY2suaW8va3ViZXJuZXRlcy1mb3Itd2luZG93cy_SAQA?oc=5",
-          "publishedOn": "2022-12-27T14:10:50.000Z",
-          "wordCount": null,
-          "title": "Kubernetes for Windows - thenewstack.io",
-          "imageUrl": null
         }
       ]
     },
@@ -9159,6 +9129,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Managing our colors can truly help people to access our content. In this article, Brecht de Ruyte takes a deep dive into how we can create a high-contrast system while maintaining a balance between designing something accessible and respecting the look and feel of a brand.",
+          "link": "https://smashingmagazine.com/2023/01/creating-high-contrast-design-system-css-custom-properties/",
+          "publishedOn": "2023-01-26T14:00:00.000Z",
+          "wordCount": 5167,
+          "title": "Creating A High-Contrast Design System With CSS Custom Properties",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/",
+          "author": "hello@smashingmagazine.com (Suzanne Scacca)",
+          "description": "57% of product professionals say that product research has a positive effect on customer satisfaction. 42% agree that it affects profitability. Imagine how much more successful your product would be if you did research continuously?",
+          "link": "https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/",
+          "publishedOn": "2023-01-26T10:00:00.000Z",
+          "wordCount": 5206,
+          "title": "Better ROI For Your Digital Products: Why Continuous Research Is Key",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/better-roi-digital-products-continous-research/better-roi-digital-products-continous-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/better-roi-digital-products-continous-research/better-roi-digital-products-continous-research.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -9451,6 +9451,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
+          "author": "Rwitesh Bera",
+          "description": "Since its introduction, the programming language Go (also known as Golang) has become increasingly popular. It is known for its simplicity and efficient performance, similar to that of a lower-level language such as C++.  While working with a database, schema migration is one of the most important tasks that",
+          "link": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
+          "publishedOn": "2023-01-26T23:17:14.000Z",
+          "wordCount": 1573,
+          "title": "How to Perform Database Migrations using Go Migrate",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Blue-and-Pink-3D-Elements-Student-Part-Time-Graphic-Designer-Video-Resume-Talking-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
+          "author": "Joshua Omobola",
+          "description": "With over 10,000 blockchains currently operating, there are endless possibilities for deploying your smart contracts.  For anybody to be able to use your Decentralized Application (DApp), they need to be connected to the blockchain where you've deployed your smart contract. This article will show you how to prompt your",
+          "link": "https://www.freecodecamp.org/news/how-to-switch-blockchains-on-metamask-with-javascript/",
+          "publishedOn": "2023-01-26T23:15:48.000Z",
+          "wordCount": 1357,
+          "title": "How to Switch Blockchains on MetaMask with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Custom-Network--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "author": "Sampurna Chapagain",
+          "description": "Polymorphic association in Ruby on Rails refers to the type of active record association. From the Rails Guide [https://guides.rubyonrails.org/association_basics.html#polymorphic-associations] , it allows a single model to belong to more than one other model on a single association. This tutorial assumes that you have some knowledge of a few associations in",
+          "link": "https://www.freecodecamp.org/news/polymorphic-association-ruby-on-rails/",
+          "publishedOn": "2023-01-26T18:40:39.000Z",
+          "wordCount": 1320,
+          "title": "How to Use Polymorphic Associations in Ruby on Rails",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Add-a-subheading--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "author": "Dhawal Shah",
+          "description": "The 8 Ivy League schools [https://en.wikipedia.org/wiki/Ivy_League] are among the most prestigious universities in the world. They consist of Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania. In 2023, all 8 Ivy League schools are ranked in the top-20 of the U.S. News & World Report national",
+          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
+          "publishedOn": "2023-01-26T03:51:00.000Z",
+          "wordCount": 10304,
+          "title": "Here are 850+ Ivy League Courses You Can Take Right Now for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/collection-ivy-league-moocs-social-2.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
           "author": "Faith Oyama",
