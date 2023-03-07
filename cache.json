@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=88180",
+          "author": "Linux Explorer",
+          "description": "Practical tutorial on how to use the read() function to read the files and the methods that the C language provides to detect and identify the errors.",
+          "link": "https://linuxhint.com/posix-read-functioning-in-c-programming/",
+          "publishedOn": "2023-03-06T02:30:53.000Z",
+          "wordCount": 16860,
+          "title": "Read() Function in C Language",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=157765",
           "author": "Linux Explorer",
           "description": "To create a file after checking its non-existence in Python, use the open() method with the “w+” flag or use the pathlib module.",
@@ -19,6 +29,76 @@
           "publishedOn": "2023-03-05T23:48:04.000Z",
           "wordCount": 16138,
           "title": "Python Create File If Not Exists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=70970",
+          "author": "Dave Sumaylo",
+          "description": "Guide on the best webcam speaker microphone combo that you can try and use in 2023 when it comes to organizing a video conference with a group of people.",
+          "link": "https://linuxhint.com/best_webcam_speaker_microphone_combo/",
+          "publishedOn": "2023-03-05T21:19:24.000Z",
+          "wordCount": 16343,
+          "title": "Best Webcam Speaker Microphone Combo in 2023",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=109558",
+          "author": "Linux Explorer",
+          "description": "Guide on what a string consists of in the C language, their elements, the kind of data they use, how they are encoded, and what characters each type supports.",
+          "link": "https://linuxhint.com/using-strings-in-c-with-examples/",
+          "publishedOn": "2023-03-05T20:06:26.000Z",
+          "wordCount": 17485,
+          "title": "Strings in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=144203",
+          "author": "Linux Explorer",
+          "description": "Practical tutorial on how to use the getcwd() function to determine the current working directory of the calling program in C langugage and their errors.",
+          "link": "https://linuxhint.com/getcwd-function-c/",
+          "publishedOn": "2023-03-05T18:31:39.000Z",
+          "wordCount": 16668,
+          "title": "Getcwd() Function in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=104548",
+          "author": "Dave Sumaylo",
+          "description": "Practical tutorial on how to use the free() function to free the dynamically allocated memory using its syntax and the theoretical description of how it works.",
+          "link": "https://linuxhint.com/free-memory-function-c/",
+          "publishedOn": "2023-03-05T18:18:21.000Z",
+          "wordCount": 16573,
+          "title": "Free() Function in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=144111",
+          "author": "Linux Explorer",
+          "description": "Tutorial on how to use the pthread_cancel() function to ask the system to terminate a running thread and how to compile the programs from the pthread library.",
+          "link": "https://linuxhint.com/c-pthread_cancel-function-usage/",
+          "publishedOn": "2023-03-05T18:07:37.000Z",
+          "wordCount": 16707,
+          "title": "Pthread_Function() in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=144400",
+          "author": "Linux Explorer",
+          "description": "Comprehensive guide on how to use the gethostbyname() function in C language to get an information about a hostname and how a “hostent” structure is composed.",
+          "link": "https://linuxhint.com/gethostbyname-function-c/",
+          "publishedOn": "2023-03-05T17:07:32.000Z",
+          "wordCount": 17071,
+          "title": "Gethostbyname() Function in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=99266",
+          "author": "Linux Explorer",
+          "description": "Tutorial on how to use the open() function to open the files, its theoretical description and input arguments, and the data type that is used in each case.",
+          "link": "https://linuxhint.com/use-open-system-call-c/",
+          "publishedOn": "2023-03-05T14:59:07.000Z",
+          "wordCount": 17107,
+          "title": "Open() Function in C Language",
           "imageUrl": null
         },
         {
@@ -2140,16 +2220,6 @@
           "wordCount": 16810,
           "title": "Atom Text Editor Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=46423",
-          "author": "Jerika Parungao",
-          "description": "This explains the use of “watch” instruction to monitor different activities in Linux and the way of using it in Linux shell using its syntax illustration.",
-          "link": "https://linuxhint.com/linux_watch_command/",
-          "publishedOn": "2023-02-05T09:20:19.000Z",
-          "wordCount": 16668,
-          "title": "Linux Watch Command",
-          "imageUrl": null
         }
       ]
     },
@@ -2159,23 +2229,103 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182171",
+          "author": "Web Webster",
+          "description": "R is a popular programming language and software environment used for data science. Here’s how to install it on a Linux system.\nThe post How to Install R Programming Language in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-r-programming-language-linux/",
+          "publishedOn": "2023-03-07T01:00:21.000Z",
+          "wordCount": 16736,
+          "title": "How to Install R Programming Language in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182296",
+          "author": "Web Webster",
+          "description": "LibreELEC 11 is a major update that ships with Kodi 20 “Nexus” and introduces a new Generic-Legacy image supporting NVIDIA GPUs and more.\nThe post LibreELEC 11 Launches With Kodi 20, Support for NVIDIA GPUs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/libreelec-11/",
+          "publishedOn": "2023-03-06T23:00:54.000Z",
+          "wordCount": 16748,
+          "title": "LibreELEC 11 Launches With Kodi 20, Support for NVIDIA GPUs",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182295",
+          "author": "Web Webster",
+          "description": "Two valuable apps being discontinued is not what you wanted to hear today. But, there’s hope with a fork and alternatives.\nThe post End of the Road for ‘Peek’ and ‘Markets’ Linux Apps appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/discontinued-peek-markets-linux-apps/",
+          "publishedOn": "2023-03-06T21:00:48.000Z",
+          "wordCount": 16746,
+          "title": "End of the Road for ‘Peek’ and ‘Markets’ Linux Apps",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182293",
+          "author": "Web Webster",
+          "description": "Pano, a next-gen clipboard manager for GNOME Shell, has been updated with some major improvements. Check them out here.  \nThe post Pano Visual Clipboard Manager Adds UI Customization Options, Favorites appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/pano-visual-clipboard-manager/",
+          "publishedOn": "2023-03-06T19:00:30.000Z",
+          "wordCount": 16735,
+          "title": "Pano Visual Clipboard Manager Adds UI Customization Options, Favorites",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182292",
+          "author": "Web Webster",
+          "description": "Proton is a well-known open source-focused company, with well-known applications, such as Proton Mail and Proton VPN. Now, it has open-sourced code for the mobile apps of its recently released Proton Drive service for Android and iOS.\nThe post Proton Drive Mobile Apps Are Now Open Source appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/proton-drive-mobile-apps-open-source/",
+          "publishedOn": "2023-03-06T18:00:27.000Z",
+          "wordCount": 16753,
+          "title": "Proton Drive Mobile Apps Are Now Open Source",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182289",
+          "author": "Web Webster",
+          "description": "Powered by the long-term supported Linux 6.1 LTS kernel series, Nitrux 2.7 is here to offer a brand-new flavor of its ISO image. Learn more here.\nThe post Nitrux 2.7 Releases With Maui Shell, KDE Plasma 5.27 LTS Flavors appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/nitrux-2-7-release/",
+          "publishedOn": "2023-03-06T17:00:14.000Z",
+          "wordCount": 16749,
+          "title": "Nitrux 2.7 Releases With Maui Shell, KDE Plasma 5.27 LTS Flavors",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182285",
+          "author": "Web Webster",
+          "description": "The two-week merge window for Linux kernel 6.3 opened automatically with the release of Linux 6.2, and now, the first release candidate development version is available.\nThe post Linus Torvalds Announces Linux Kernel 6.3 Release Candidate appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/first-linux-kernel-6-3-release-candidate/",
+          "publishedOn": "2023-03-06T16:00:59.000Z",
+          "wordCount": 16735,
+          "title": "Linus Torvalds Announces Linux Kernel 6.3 Release Candidate",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182280",
+          "author": "Web Webster",
+          "description": "The Mixxx 2.3.4 update brings controller mapping support for Traktor Kontrol S2 Mk1 and Numark Party Mix among other improvements.\nThe post Mixxx 2.3.4 Adds Support for Traktor Kontrol S2 Mk1, Numark Party Mix appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/mixxx-2-3-4-release/",
+          "publishedOn": "2023-03-06T15:00:22.000Z",
+          "wordCount": 16749,
+          "title": "Mixxx 2.3.4 Adds Support for Traktor Kontrol S2 Mk1, Numark Party Mix",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182278",
+          "author": "Lizz Edelstein",
+          "description": "The White House’s National Cybersecurity Strategy unveiled an ambitious blueprint for improving U.S. cybersecurity and threat response.\nThe post Biden Cybersecurity Strategy: Big Ambitions, Big Obstacles appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/biden-cybersecurity-strategy/",
+          "publishedOn": "2023-03-06T14:00:42.000Z",
+          "wordCount": 16736,
+          "title": "Biden Cybersecurity Strategy: Big Ambitions, Big Obstacles",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=182268",
           "author": "Web Webster",
           "description": "KDE Plasma 5.27 is now in Debian’s Testing branch, and the upcoming stable 12 (Bookworm) release will use it.\nThe post Debian 12 Will Include the KDE Plasma 5.27 Desktop Environment appeared first on Linux Today.",
           "link": "https://www.linuxtoday.com/developer/debian-12-kde-plasma-5-27/",
           "publishedOn": "2023-03-05T22:00:37.000Z",
-          "wordCount": 16721,
+          "wordCount": 16731,
           "title": "Debian 12 Will Include the KDE Plasma 5.27 Desktop Environment",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182265",
-          "author": "Web Webster",
-          "description": "The new Ubuntu kernel security updates target vulnerabilities found in Ubuntu systems running Linux kernel 5.19 as well as Ubuntu systems running Linux kernel 5.15 LTS.\nThe post Latest Ubuntu Kernel Security Updates Patch 17 Vulnerabilities appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/latest-ubuntu-kernel-security-updates-patch-17-vulnerabilities/",
-          "publishedOn": "2023-03-05T16:00:45.000Z",
-          "wordCount": 16742,
-          "title": "Latest Ubuntu Kernel Security Updates Patch 17 Vulnerabilities",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         },
         {
@@ -4257,26 +4407,6 @@
           "wordCount": 16736,
           "title": "How to Install Wine 8.0 On Ubuntu and Linux Mint",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181582",
-          "author": "Web Webster",
-          "description": "This guide walks you step-by-step through installing VMware Workstation Player virtualization software on Ubuntu 22.04 LTS.\nThe post How to Install VMware Workstation Player on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-vmware-workstation-player-ubuntu/",
-          "publishedOn": "2023-02-04T22:00:50.000Z",
-          "wordCount": 16715,
-          "title": "How to Install VMware Workstation Player on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=181563",
-          "author": "Web Webster",
-          "description": "Explore the top free code editors for Ubuntu, including features and highlights. Find the best code editor for your development needs.\nThe post 5 Best Free Code Editors for Ubuntu and Other Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-free-code-editors-ubuntu/",
-          "publishedOn": "2023-02-04T16:00:49.000Z",
-          "wordCount": 16734,
-          "title": "5 Best Free Code Editors for Ubuntu and Other Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4286,23 +4416,213 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
-          "id": "CBMirwFodHRwczovL21lZGl1bS5jb20vQFRlY2hIdXRUVi90b3AtNS1mYXZvcml0ZS1saW51eC1kaXN0cm9zLWluLTIwMjMtYTRjMWExMDZiNWM4P3NvdXJjZT10b3BpY3NfdjItLS0tLS0tLS0zOS04NC0tLS0tLS0tLS0tLS0tLS0tLS0tNWYwMzJhZGZfYmRmNl80MGEwXzhjMTVfNzMwNjlkYzAzMzNjLS0tLS0tLTE30gEA",
+          "id": "CBMicGh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL3BvZGNhc3Qtc2VnbWVudC9hcHBsZS1saW51eC10aHJlYXRzLWRvLW1zc3BzLW5lZWQtbW9yZS1ub24td2luZG93cy1zcGVjaWFsaXN0cy1jZmgtMTHSAQA",
           "author": null,
-          "description": "Top 5 FAVORITE Linux Distros in 2023 | by TechHut | Mar, 2023  Medium",
-          "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL21lZGl1bS5jb20vQFRlY2hIdXRUVi90b3AtNS1mYXZvcml0ZS1saW51eC1kaXN0cm9zLWluLTIwMjMtYTRjMWExMDZiNWM4P3NvdXJjZT10b3BpY3NfdjItLS0tLS0tLS0zOS04NC0tLS0tLS0tLS0tLS0tLS0tLS0tNWYwMzJhZGZfYmRmNl80MGEwXzhjMTVfNzMwNjlkYzAzMzNjLS0tLS0tLTE30gEA?oc=5",
-          "publishedOn": "2023-03-06T01:21:03.000Z",
-          "wordCount": 6116,
-          "title": "Top 5 FAVORITE Linux Distros in 2023 | by TechHut | Mar, 2023 - Medium",
+          "description": "Apple & Linux Threats: Do MSSPs Need More Non-Windows ...  SC Media",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL3BvZGNhc3Qtc2VnbWVudC9hcHBsZS1saW51eC10aHJlYXRzLWRvLW1zc3BzLW5lZWQtbW9yZS1ub24td2luZG93cy1zcGVjaWFsaXN0cy1jZmgtMTHSAQA?oc=5",
+          "publishedOn": "2023-03-06T23:31:08.000Z",
+          "wordCount": 6115,
+          "title": "Apple & Linux Threats: Do MSSPs Need More Non-Windows ... - SC Media",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
-          "id": "CBMiV2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51cy10b3J2YWxkcy1hbm5vdW5jZXMtZmlyc3QtbGludXgta2VybmVsLTYtMy1yZWxlYXNlLWNhbmRpZGF0ZdIBW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51cy10b3J2YWxkcy1hbm5vdW5jZXMtZmlyc3QtbGludXgta2VybmVsLTYtMy1yZWxlYXNlLWNhbmRpZGF0ZS9hbXA",
+          "id": "CBMiW2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjg5OTc0L2J1aWxkaW5nLXlvdXItcGVyc29uYWwtbGludXgtY2hlYXQtc2hlZXRzLmh0bWzSAV9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMzY4OTk3NC9idWlsZGluZy15b3VyLXBlcnNvbmFsLWxpbnV4LWNoZWF0LXNoZWV0cy5hbXAuaHRtbA",
           "author": null,
-          "description": "Linus Torvalds Announces First Linux Kernel 6.3 Release Candidate  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51cy10b3J2YWxkcy1hbm5vdW5jZXMtZmlyc3QtbGludXgta2VybmVsLTYtMy1yZWxlYXNlLWNhbmRpZGF0ZdIBW2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51cy10b3J2YWxkcy1hbm5vdW5jZXMtZmlyc3QtbGludXgta2VybmVsLTYtMy1yZWxlYXNlLWNhbmRpZGF0ZS9hbXA?oc=5",
-          "publishedOn": "2023-03-05T23:10:53.000Z",
-          "wordCount": 6116,
-          "title": "Linus Torvalds Announces First Linux Kernel 6.3 Release Candidate - 9to5Linux",
+          "description": "Building your personal Linux cheat sheets  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjg5OTc0L2J1aWxkaW5nLXlvdXItcGVyc29uYWwtbGludXgtY2hlYXQtc2hlZXRzLmh0bWzSAV9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMzY4OTk3NC9idWlsZGluZy15b3VyLXBlcnNvbmFsLWxpbnV4LWNoZWF0LXNoZWV0cy5hbXAuaHRtbA?oc=5",
+          "publishedOn": "2023-03-06T22:55:00.000Z",
+          "wordCount": 6115,
+          "title": "Building your personal Linux cheat sheets - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXJlbW92ZS1zb2Z0d2FyZS1yZXBvc2l0b3JpZXMtb24tdWJ1bnR1L9IBAA",
+          "author": null,
+          "description": "How to Remove Software Repositories on Ubuntu - Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXJlbW92ZS1zb2Z0d2FyZS1yZXBvc2l0b3JpZXMtb24tdWJ1bnR1L9IBAA?oc=5",
+          "publishedOn": "2023-03-06T21:30:00.000Z",
+          "wordCount": 6115,
+          "title": "How to Remove Software Repositories on Ubuntu - Linux - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVNQUi1DMC4yLUlkbGUtU3RhdGUtTGludXjSAQA",
+          "author": null,
+          "description": "Intel Preparing Sapphire Rapids C0.2 Idle State Support For Better ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVNQUi1DMC4yLUlkbGUtU3RhdGUtTGludXjSAQA?oc=5",
+          "publishedOn": "2023-03-06T21:00:00.000Z",
+          "wordCount": 6115,
+          "title": "Intel Preparing Sapphire Rapids C0.2 Idle State Support For Better ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZFWC1FbXUtMjMwMy1SZWxlYXNlZNIBAA",
+          "author": null,
+          "description": "FEX 2303 Released For Improving Linux x86_64 Gaming On ARM64  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZFWC1FbXUtMjMwMy1SZWxlYXNlZNIBAA?oc=5",
+          "publishedOn": "2023-03-06T20:00:00.000Z",
+          "wordCount": 6115,
+          "title": "FEX 2303 Released For Improving Linux x86_64 Gaming On ARM64 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0yOC1sb3NpbmctbXktbWFyYmxlcy_SAQA",
+          "author": null,
+          "description": "Building a Retro Linux Gaming Computer - Part 28: Losing My Marbles  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0yOC1sb3NpbmctbXktbWFyYmxlcy_SAQA?oc=5",
+          "publishedOn": "2023-03-06T19:30:02.000Z",
+          "wordCount": 6115,
+          "title": "Building a Retro Linux Gaming Computer - Part 28: Losing My Marbles - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3dhbnQtdG8tc2F2ZS15b3VyLWFnaW5nLWNvbXB1dGVyLXRyeS10aGVzZS01LWxpbnV4LWRpc3RyaWJ1dGlvbnMv0gFqaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS93YW50LXRvLXNhdmUteW91ci1hZ2luZy1jb21wdXRlci10cnktdGhlc2UtNS1saW51eC1kaXN0cmlidXRpb25zLw",
+          "author": null,
+          "description": "Want to save your aging computer? Try these 5 Linux distributions  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3dhbnQtdG8tc2F2ZS15b3VyLWFnaW5nLWNvbXB1dGVyLXRyeS10aGVzZS01LWxpbnV4LWRpc3RyaWJ1dGlvbnMv0gFqaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS93YW50LXRvLXNhdmUteW91ci1hZ2luZy1jb21wdXRlci10cnktdGhlc2UtNS1saW51eC1kaXN0cmlidXRpb25zLw?oc=5",
+          "publishedOn": "2023-03-06T17:58:38.000Z",
+          "wordCount": 6115,
+          "title": "Want to save your aging computer? Try these 5 Linux distributions - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjMtZmVhdHVyZXPSAQA",
+          "author": null,
+          "description": "Linux 6.3 Features: AMD Auto IBRS To Steam Deck Controller ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjMtZmVhdHVyZXPSAQA?oc=5",
+          "publishedOn": "2023-03-06T17:09:19.000Z",
+          "wordCount": 6115,
+          "title": "Linux 6.3 Features: AMD Auto IBRS To Steam Deck Controller ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlicmVlbGVjLTExLWlzLWEtbGlnaHR3ZWlnaHQtZ251LWxpbnV4LWRpc3Ryby1idWlsdC1hcm91bmQta29kaS0yLTAtbWVkaWEtY2VudGVyL9IBAA",
+          "author": null,
+          "description": "LibreELEC 11 is a lightweight GNU/Linux distro built around Kodi 2.0 media center  Liliputing",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbGlsaXB1dGluZy5jb20vbGlicmVlbGVjLTExLWlzLWEtbGlnaHR3ZWlnaHQtZ251LWxpbnV4LWRpc3Ryby1idWlsdC1hcm91bmQta29kaS0yLTAtbWVkaWEtY2VudGVyL9IBAA?oc=5",
+          "publishedOn": "2023-03-06T16:31:42.000Z",
+          "wordCount": 6115,
+          "title": "LibreELEC 11 is a lightweight GNU/Linux distro built around Kodi 2.0 media center - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2VtbWFidW50dXMtaXMtYS1saW51eC1kaXN0cmlidXRpb24tZ2VhcmVkLXRvd2FyZC10aG9zZS13aG8tZG9udC1rbm93LWxpbnV4L9IBdGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvZW1tYWJ1bnR1cy1pcy1hLWxpbnV4LWRpc3RyaWJ1dGlvbi1nZWFyZWQtdG93YXJkLXRob3NlLXdoby1kb250LWtub3ctbGludXgv",
+          "author": null,
+          "description": "Emmabuntüs is a Linux distribution geared toward those who don't know Linux  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2VtbWFidW50dXMtaXMtYS1saW51eC1kaXN0cmlidXRpb24tZ2VhcmVkLXRvd2FyZC10aG9zZS13aG8tZG9udC1rbm93LWxpbnV4L9IBdGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvZW1tYWJ1bnR1cy1pcy1hLWxpbnV4LWRpc3RyaWJ1dGlvbi1nZWFyZWQtdG93YXJkLXRob3NlLXdoby1kb250LWtub3ctbGludXgv?oc=5",
+          "publishedOn": "2023-03-06T15:06:50.000Z",
+          "wordCount": 6115,
+          "title": "Emmabuntüs is a Linux distribution geared toward those who don't know Linux - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODcyOTYyL2FyY2gtbGludXgtdnMtdWJ1bnR1L9IBOmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODcyOTYyL2FyY2gtbGludXgtdnMtdWJ1bnR1L2FtcC8",
+          "author": null,
+          "description": "Arch Linux vs. Ubuntu: Which Should You Use?  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODcyOTYyL2FyY2gtbGludXgtdnMtdWJ1bnR1L9IBOmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODcyOTYyL2FyY2gtbGludXgtdnMtdWJ1bnR1L2FtcC8?oc=5",
+          "publishedOn": "2023-03-06T14:00:40.000Z",
+          "wordCount": 6115,
+          "title": "Arch Linux vs. Ubuntu: Which Should You Use? - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAzLzA2L3VidW50dV9sYXRlc3Rfa2VybmVsX2tkZS_SAURodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDMvMDYvdWJ1bnR1X2xhdGVzdF9rZXJuZWxfa2RlLw",
+          "author": null,
+          "description": "How to get the latest Linux kernel on your Ubuntu box  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAzLzA2L3VidW50dV9sYXRlc3Rfa2VybmVsX2tkZS_SAURodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDMvMDYvdWJ1bnR1X2xhdGVzdF9rZXJuZWxfa2RlLw?oc=5",
+          "publishedOn": "2023-03-06T13:35:00.000Z",
+          "wordCount": 6115,
+          "title": "How to get the latest Linux kernel on your Ubuntu box - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivQFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMy8wMy8wNi8yNjIxMDI1LzI4MTI0L2VuL0F1dG9tb3RpdmUtT3BlcmF0aW5nLVN5c3RlbS1HbG9iYWwtTWFya2V0LVJlcG9ydC0yMDIzLUdyb3dpbmctQWR2YW5jZW1lbnRzLWluLUluZm90YWlubWVudC1TeXN0ZW1zLUJvbHN0ZXItU2VjdG9yLmh0bWzSAQA",
+          "author": null,
+          "description": "Automotive Operating System Global Market Report 2023: Growing ...  GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMy8wMy8wNi8yNjIxMDI1LzI4MTI0L2VuL0F1dG9tb3RpdmUtT3BlcmF0aW5nLVN5c3RlbS1HbG9iYWwtTWFya2V0LVJlcG9ydC0yMDIzLUdyb3dpbmctQWR2YW5jZW1lbnRzLWluLUluZm90YWlubWVudC1TeXN0ZW1zLUJvbHN0ZXItU2VjdG9yLmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-03-06T12:58:40.000Z",
+          "wordCount": 6115,
+          "title": "Automotive Operating System Global Market Report 2023: Growing ... - GlobeNewswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vYmVlYm9tLmNvbS9ob3ctYWRkLXVzZXItdG8tZ3JvdXAtbGludXgv0gEzaHR0cHM6Ly9iZWVib20uY29tL2hvdy1hZGQtdXNlci10by1ncm91cC1saW51eC9hbXAv",
+          "author": null,
+          "description": "How to Add a User to a Group in Linux  Beebom",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vYmVlYm9tLmNvbS9ob3ctYWRkLXVzZXItdG8tZ3JvdXAtbGludXgv0gEzaHR0cHM6Ly9iZWVib20uY29tL2hvdy1hZGQtdXNlci10by1ncm91cC1saW51eC9hbXAv?oc=5",
+          "publishedOn": "2023-03-06T12:29:33.000Z",
+          "wordCount": 6115,
+          "title": "How to Add a User to a Group in Linux - Beebom",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLXJjdXJlZi1MaW51eC1TcGVlZC1VcNIBAA",
+          "author": null,
+          "description": "Intel Continues With More Big-Time Optimizations To The Linux Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLXJjdXJlZi1MaW51eC1TcGVlZC1VcNIBAA?oc=5",
+          "publishedOn": "2023-03-06T12:21:00.000Z",
+          "wordCount": 6115,
+          "title": "Intel Continues With More Big-Time Optimizations To The Linux Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL29wZW5zdXNlLWJlZ2lucy1lbmZvcmNpbmctc2VjdXJlLWJvb3Qta2VybmVsLWxvY2tkb3duL9IBAA",
+          "author": null,
+          "description": "openSUSE Begins Enforcing Secure Boot Kernel Lockdown  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL29wZW5zdXNlLWJlZ2lucy1lbmZvcmNpbmctc2VjdXJlLWJvb3Qta2VybmVsLWxvY2tkb3duL9IBAA?oc=5",
+          "publishedOn": "2023-03-06T11:47:34.000Z",
+          "wordCount": 6115,
+          "title": "openSUSE Begins Enforcing Secure Boot Kernel Lockdown - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wZWVrLW1hcmtldHMtZGlzY29udGludWVkL9IBAA",
+          "author": null,
+          "description": "End of the Road for GIF Recorder 'Peek' and Stock Tracker 'Markets ...  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wZWVrLW1hcmtldHMtZGlzY29udGludWVkL9IBAA?oc=5",
+          "publishedOn": "2023-03-06T11:24:20.000Z",
+          "wordCount": 6115,
+          "title": "End of the Road for GIF Recorder 'Peek' and Stock Tracker 'Markets ... - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcmh5dGhtLW1pbmktZ2FtZS1jb2xsZWN0aW9uLWJpdHMtYm9wcy1nZXRzLWxpbnV4LXN1cHBvcnQv0gEA",
+          "author": null,
+          "description": "Rhythm mini-game collection Bits & Bops gets Linux support  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcmh5dGhtLW1pbmktZ2FtZS1jb2xsZWN0aW9uLWJpdHMtYm9wcy1nZXRzLWxpbnV4LXN1cHBvcnQv0gEA?oc=5",
+          "publishedOn": "2023-03-06T10:51:12.000Z",
+          "wordCount": 6115,
+          "title": "Rhythm mini-game collection Bits & Bops gets Linux support - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctZml4LWV4ZWMtdXNlci1wcm9jZXNzLWNhdXNlZC1leGVjLWZvcm1hdC1lcnJvci1saW51eC_SAVBodHRwczovL2JlZWJvbS5jb20vaG93LWZpeC1leGVjLXVzZXItcHJvY2Vzcy1jYXVzZWQtZXhlYy1mb3JtYXQtZXJyb3ItbGludXgvYW1wLw",
+          "author": null,
+          "description": "How to Fix “exec user process caused: exec format error” in Linux  Beebom",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctZml4LWV4ZWMtdXNlci1wcm9jZXNzLWNhdXNlZC1leGVjLWZvcm1hdC1lcnJvci1saW51eC_SAVBodHRwczovL2JlZWJvbS5jb20vaG93LWZpeC1leGVjLXVzZXItcHJvY2Vzcy1jYXVzZWQtZXhlYy1mb3JtYXQtZXJyb3ItbGludXgvYW1wLw?oc=5",
+          "publishedOn": "2023-03-06T10:31:38.000Z",
+          "wordCount": 6115,
+          "title": "How to Fix “exec user process caused: exec format error” in Linux - Beebom",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg5ODgyL2NvbXBhbmllcy1jYW50LXN0b3AtdXNpbmctb3Blbi1zb3VyY2UuaHRtbNIBWGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg5ODgyL2NvbXBhbmllcy1jYW50LXN0b3AtdXNpbmctb3Blbi1zb3VyY2UuYW1wLmh0bWw",
+          "author": null,
+          "description": "Companies can’t stop using open source  InfoWorld",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg5ODgyL2NvbXBhbmllcy1jYW50LXN0b3AtdXNpbmctb3Blbi1zb3VyY2UuaHRtbNIBWGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNjg5ODgyL2NvbXBhbmllcy1jYW50LXN0b3AtdXNpbmctb3Blbi1zb3VyY2UuYW1wLmh0bWw?oc=5",
+          "publishedOn": "2023-03-06T10:00:00.000Z",
+          "wordCount": 6115,
+          "title": "Companies can’t stop using open source - InfoWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9uaXRydXgtMi03LXJlbGVhc2VkLXdpdGgtbWF1aS1zaGVsbC1hbmQta2RlLXBsYXNtYS01LTI3LWx0cy1mbGF2b3Jz0gFdaHR0cHM6Ly85dG81bGludXguY29tL25pdHJ1eC0yLTctcmVsZWFzZWQtd2l0aC1tYXVpLXNoZWxsLWFuZC1rZGUtcGxhc21hLTUtMjctbHRzLWZsYXZvcnMvYW1w",
+          "author": null,
+          "description": "Nitrux 2.7 Released with Maui Shell and KDE Plasma 5.27 LTS Flavors  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9uaXRydXgtMi03LXJlbGVhc2VkLXdpdGgtbWF1aS1zaGVsbC1hbmQta2RlLXBsYXNtYS01LTI3LWx0cy1mbGF2b3Jz0gFdaHR0cHM6Ly85dG81bGludXguY29tL25pdHJ1eC0yLTctcmVsZWFzZWQtd2l0aC1tYXVpLXNoZWxsLWFuZC1rZGUtcGxhc21hLTUtMjctbHRzLWZsYXZvcnMvYW1w?oc=5",
+          "publishedOn": "2023-03-06T08:25:21.000Z",
+          "wordCount": 6115,
+          "title": "Nitrux 2.7 Released with Maui Shell and KDE Plasma 5.27 LTS Flavors - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4311,7 +4631,7 @@
           "description": "How to Use the tee Command to Split Terminal Output on Linux  MUO - MakeUseOf",
           "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdGVlLWNvbW1hbmQtc3BsaXQtdGVybWluYWwtb3V0cHV0LWxpbnV4L9IBAA?oc=5",
           "publishedOn": "2023-03-05T20:30:00.000Z",
-          "wordCount": 6116,
+          "wordCount": 6115,
           "title": "How to Use the tee Command to Split Terminal Output on Linux - MUO - MakeUseOf",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -4321,7 +4641,7 @@
           "description": "Linux 6.3 Drops Support For The Intel ICC Compiler  Phoronix",
           "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1Ecm9wcy1JbnRlbC1JQ0PSAQA?oc=5",
           "publishedOn": "2023-03-05T20:23:00.000Z",
-          "wordCount": 6116,
+          "wordCount": 6115,
           "title": "Linux 6.3 Drops Support For The Intel ICC Compiler - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
@@ -4331,28 +4651,8 @@
           "description": "Testing The First PCIe Gen 5.0 NVMe SSD On Linux Has Been Disappointing Review  Phoronix",
           "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW5sYW5kLXRkNTEwLWdlbjUtbGludXjSAQA?oc=5",
           "publishedOn": "2023-03-05T18:52:31.000Z",
-          "wordCount": 6116,
+          "wordCount": 6115,
           "title": "Testing The First PCIe Gen 5.0 NVMe SSD On Linux Has Been Disappointing Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigQFodHRwczovL3d3dy5oYXJkd2FyZXRpbWVzLmNvbS9udmlkaWEtcnR4LTQwODAtNDA3MC10aS1lbnRlci10aGUtbGlzdC1vZi10b3AtMTAtbW9zdC1zb2xkLWdwdXMtb24tc3RlYW0tYW1kLWdyb3dzLWxpbnV4LWNwdS1zaGFyZS_SAYUBaHR0cHM6Ly93d3cuaGFyZHdhcmV0aW1lcy5jb20vbnZpZGlhLXJ0eC00MDgwLTQwNzAtdGktZW50ZXItdGhlLWxpc3Qtb2YtdG9wLTEwLW1vc3Qtc29sZC1ncHVzLW9uLXN0ZWFtLWFtZC1ncm93cy1saW51eC1jcHUtc2hhcmUvYW1wLw",
-          "author": null,
-          "description": "NVIDIA RTX 4080/4070 Ti Enter the List of Top 10 Most Sold GPUs on Steam, AMD Grows Linux CPU Share  Hardware Times",
-          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5oYXJkd2FyZXRpbWVzLmNvbS9udmlkaWEtcnR4LTQwODAtNDA3MC10aS1lbnRlci10aGUtbGlzdC1vZi10b3AtMTAtbW9zdC1zb2xkLWdwdXMtb24tc3RlYW0tYW1kLWdyb3dzLWxpbnV4LWNwdS1zaGFyZS_SAYUBaHR0cHM6Ly93d3cuaGFyZHdhcmV0aW1lcy5jb20vbnZpZGlhLXJ0eC00MDgwLTQwNzAtdGktZW50ZXItdGhlLWxpc3Qtb2YtdG9wLTEwLW1vc3Qtc29sZC1ncHVzLW9uLXN0ZWFtLWFtZC1ncm93cy1saW51eC1jcHUtc2hhcmUvYW1wLw?oc=5",
-          "publishedOn": "2023-03-05T14:28:52.000Z",
-          "wordCount": 6116,
-          "title": "NVIDIA RTX 4080/4070 Ti Enter the List of Top 10 Most Sold GPUs on Steam, AMD Grows Linux CPU Share - Hardware Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctc2lkZWxvYWQtYXBwcy1jaHJvbWVib29rL9IBAA",
-          "author": null,
-          "description": "How to sideload apps to a Chromebook  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctc2lkZWxvYWQtYXBwcy1jaHJvbWVib29rL9IBAA?oc=5",
-          "publishedOn": "2023-03-05T13:00:00.000Z",
-          "wordCount": 6116,
-          "title": "How to sideload apps to a Chromebook - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4361,18 +4661,8 @@
           "description": "Linux Landing Change To Allow STIBP When Using Legacy IBRS  Phoronix",
           "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1TVElCUC1MZWdhY3ktSUJSU9IBAA?oc=5",
           "publishedOn": "2023-03-05T11:31:00.000Z",
-          "wordCount": 6116,
+          "wordCount": 6115,
           "title": "Linux Landing Change To Allow STIBP When Using Legacy IBRS - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vaXQuc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAzLzA0LzA1NTEyNTAvYXNrLXNsYXNoZG90LWNhbi15b3UtdXNlLWFuLXVuc2FmZS1jb21wdXRlci1zYWZlbHnSAQA",
-          "author": null,
-          "description": "Ask Slashdot: Can You Use an Unsafe Computer Safely?  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vaXQuc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAzLzA0LzA1NTEyNTAvYXNrLXNsYXNoZG90LWNhbi15b3UtdXNlLWFuLXVuc2FmZS1jb21wdXRlci1zYWZlbHnSAQA?oc=5",
-          "publishedOn": "2023-03-05T00:01:25.000Z",
-          "wordCount": 6116,
-          "title": "Ask Slashdot: Can You Use an Unsafe Computer Safely? - Slashdot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4383,6 +4673,16 @@
           "publishedOn": "2023-03-04T23:00:00.000Z",
           "wordCount": 6116,
           "title": "How to Use RecoverPy to Rescue Deleted Files on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi3gFodHRwczovL21lZGl1bS5jb20vQG5lb25mb3JnZS9jaGF0Z3B0LWFwaS1hbmQtcHl0aG9uLWhvdy10by1zaW11bGF0ZS1saW51eC10ZXJtaW5hbC13aXRoLWp1c3QtYS1mZXctbGluZXMtb2YtY29kZS0zNWFiNGRmYmNhYjA_c291cmNlPXRvcGljc192Mi0tLS0tLS0tLTI0LTg0LS0tLS0tLS0tLS0tLS0tLS0tLS0zNDgxMTMwYl8wNTE0XzQ5MjBfODg3MF85NmU1NDc5ZWQ4ZDgtLS0tLS0tMTfSAQA",
+          "author": null,
+          "description": "ChatGPT API and Python: How to Simulate Linux Terminal with just ...  Medium",
+          "link": "https://news.google.com/rss/articles/CBMi3gFodHRwczovL21lZGl1bS5jb20vQG5lb25mb3JnZS9jaGF0Z3B0LWFwaS1hbmQtcHl0aG9uLWhvdy10by1zaW11bGF0ZS1saW51eC10ZXJtaW5hbC13aXRoLWp1c3QtYS1mZXctbGluZXMtb2YtY29kZS0zNWFiNGRmYmNhYjA_c291cmNlPXRvcGljc192Mi0tLS0tLS0tLTI0LTg0LS0tLS0tLS0tLS0tLS0tLS0tLS0zNDgxMTMwYl8wNTE0XzQ5MjBfODg3MF85NmU1NDc5ZWQ4ZDgtLS0tLS0tMTfSAQA?oc=5",
+          "publishedOn": "2023-03-03T21:11:15.000Z",
+          "wordCount": 6115,
+          "title": "ChatGPT API and Python: How to Simulate Linux Terminal with just ... - Medium",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4463,16 +4763,6 @@
           "publishedOn": "2023-03-03T13:03:13.000Z",
           "wordCount": 6116,
           "title": "Latest Ubuntu Linux Kernel Security Updates Patch 17 Vulnerabilities - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vd3d3LmFyY3dlYi5jb20vYmxvZy9jb2xsYWJvcmF0aW9uLWJldHdlZW4tbGludXgtZm91bmRhdGlvbnMtbGYtZWRnZS1vcGVuLWdyaWQtYWxsaWFuY2UtYWNjZWxlcmF0ZS1lZGdlLWlubm92YXRpb27SAQA",
-          "author": null,
-          "description": "Collaboration Between Linux Foundation's LF Edge and Open Grid ...  ARC Advisory Group",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFyY3dlYi5jb20vYmxvZy9jb2xsYWJvcmF0aW9uLWJldHdlZW4tbGludXgtZm91bmRhdGlvbnMtbGYtZWRnZS1vcGVuLWdyaWQtYWxsaWFuY2UtYWNjZWxlcmF0ZS1lZGdlLWlubm92YXRpb27SAQA?oc=5",
-          "publishedOn": "2023-03-03T12:00:00.000Z",
-          "wordCount": 6116,
-          "title": "Collaboration Between Linux Foundation's LF Edge and Open Grid ... - ARC Advisory Group",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5123,6 +5413,16 @@
           "publishedOn": "2023-02-27T14:04:05.000Z",
           "wordCount": 6133,
           "title": "AMD Ryzen 9 7950X3D Linux Performance Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidmh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAyLzI3LzA0NTcyMDYvYXNhaGktbGludXgtZGlzcHV0ZXMtcmVwb3J0LXRoYXQtbGludXgtNjItd2lsbC1ydW4tb24tYXBwbGUtbTEtY2hpcHPSAQA",
+          "author": null,
+          "description": "Asahi Linux Disputes Report That Linux 6.2 Will Run on Apple M1 ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAyLzI3LzA0NTcyMDYvYXNhaGktbGludXgtZGlzcHV0ZXMtcmVwb3J0LXRoYXQtbGludXgtNjItd2lsbC1ydW4tb24tYXBwbGUtbTEtY2hpcHPSAQA?oc=5",
+          "publishedOn": "2023-02-27T13:54:57.000Z",
+          "wordCount": 6115,
+          "title": "Asahi Linux Disputes Report That Linux 6.2 Will Run on Apple M1 ... - Slashdot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6546,16 +6846,6 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAyLzE3L3N5c3RlbWRfMjUzL9IBAA",
-          "author": null,
-          "description": "systemd 253: The future of enterprise Linux boot processes  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAyLzE3L3N5c3RlbWRfMjUzL9IBAA?oc=5",
-          "publishedOn": "2023-02-17T08:00:00.000Z",
-          "wordCount": 6116,
-          "title": "systemd 253: The future of enterprise Linux boot processes - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
           "id": "CBMicGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wMi8xNy9wdXJpc20tbGFwZG9jay1raXQtY29udmVydHMtdGhlLWxpYnJlbS01LWxpbnV4LXNtYXJ0cGhvbmUtaW50by1hLWxhcHRvcC_SAXZodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMDIvMTcvcHVyaXNtLWxhcGRvY2sta2l0LWNvbnZlcnRzLXRoZS1saWJyZW0tNS1saW51eC1zbWFydHBob25lLWludG8tYS1sYXB0b3AvP2FtcD0x",
           "author": null,
           "description": "Purism Lapdock kit converts the Librem 5 Linux smartphone into a laptop  CNX Software",
@@ -7033,6 +7323,16 @@
           "publishedOn": "2023-02-15T10:13:49.000Z",
           "wordCount": 6094,
           "title": "EVERSPACE 2 gets a Steam Deck and Linux release update - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2Jlc3QtbGludXgtbGFwdG9wL9IBO2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvYmVzdC1saW51eC1sYXB0b3Av",
+          "author": null,
+          "description": "The best Linux laptops of 2023  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2Jlc3QtbGludXgtbGFwdG9wL9IBO2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvYmVzdC1saW51eC1sYXB0b3Av?oc=5",
+          "publishedOn": "2023-02-15T08:00:00.000Z",
+          "wordCount": 6115,
+          "title": "The best Linux laptops of 2023 - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7846,6 +8146,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiOWh0dHBzOi8vd3d3Lmdyb292eXBvc3QuY29tL2hvd3RvL2luc3RhbGwtcm9ibG94LW9uLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "How to Install Roblox on Linux  groovyPost",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lmdyb292eXBvc3QuY29tL2hvd3RvL2luc3RhbGwtcm9ibG94LW9uLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2023-02-10T08:00:00.000Z",
+          "wordCount": 6115,
+          "title": "How to Install Roblox on Linux - groovyPost",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dlbnRvby0yMDIyLUhpZ2hsaWdodHPSAQA",
           "author": null,
           "description": "Gentoo Had A Busy 2022 With A Weekly LiveGUI ISO, Gpkg Binary ...  Phoronix",
@@ -8243,6 +8553,16 @@
           "publishedOn": "2023-02-08T08:28:00.000Z",
           "wordCount": 6208,
           "title": "Linux AMD Ryzen users can rejoice as testing shows massive performance gains over the years - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vdmlydHVhbGl6YXRpb25yZXZpZXcuY29tL2FydGljbGVzLzIwMjMvMDIvMDgvY3Jvbi1saW51eC5hc3B40gEA",
+          "author": null,
+          "description": "Automating Routine Tasks in Linux  Virtualization Review",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdmlydHVhbGl6YXRpb25yZXZpZXcuY29tL2FydGljbGVzLzIwMjMvMDIvMDgvY3Jvbi1saW51eC5hc3B40gEA?oc=5",
+          "publishedOn": "2023-02-08T08:00:00.000Z",
+          "wordCount": 6115,
+          "title": "Automating Routine Tasks in Linux - Virtualization Review",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8874,116 +9194,6 @@
           "wordCount": 6069,
           "title": "Proposed Patch Would Disable Linux CPU Security Mitigations at ... - WebProNews",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1BTURHUFUtUzBpeC1Oby1CSU9T0gEA",
-          "author": null,
-          "description": "Linux 6.3 To Allow Some AMD GPU Power Savings Benefits Even Without S0ix BIOS Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1BTURHUFUtUzBpeC1Oby1CSU9T0gEA?oc=5",
-          "publishedOn": "2023-02-05T12:25:00.000Z",
-          "wordCount": 6062,
-          "title": "Linux 6.3 To Allow Some AMD GPU Power Savings Benefits Even Without S0ix BIOS Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NYTC1SQU0tUmVnaW9uLUxpbnV4LTYuM9IBAA",
-          "author": null,
-          "description": "CXL RAM Regions Being Worked On For Linux 6.3  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NYTC1SQU0tUmVnaW9uLUxpbnV4LTYuM9IBAA?oc=5",
-          "publishedOn": "2023-02-05T11:55:00.000Z",
-          "wordCount": 6062,
-          "title": "CXL RAM Regions Being Worked On For Linux 6.3 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAyLzA0LzIyMTkyNDIvdWJpc29mdHMtbGF1bmNoZXItYnJva2UtaXRzLW93bi1nYW1lcy1vbi1saW51eC1hbmQtc3RlYW0tZGVja9IBAA",
-          "author": null,
-          "description": "Ubisoft's Launcher Broke Its Own Games on Linux and Steam Deck ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAyLzA0LzIyMTkyNDIvdWJpc29mdHMtbGF1bmNoZXItYnJva2UtaXRzLW93bi1nYW1lcy1vbi1saW51eC1hbmQtc3RlYW0tZGVja9IBAA?oc=5",
-          "publishedOn": "2023-02-05T08:03:45.000Z",
-          "wordCount": 6062,
-          "title": "Ubisoft's Launcher Broke Its Own Games on Linux and Steam Deck ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFodHRwczovL2dhbWVzLnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wMi8wNS8wMjI1MjE5L2xlZ2VuZC1vZi16ZWxkYS1hLWxpbmstdG8tdGhlLXBhc3QtcmV2ZXJzZS1lbmdpbmVlcmVkLWZvci1saW51eC1zd2l0Y2gtbWFjLWFuZC13aW5kb3dz0gEA",
-          "author": null,
-          "description": "'Legend of Zelda: A Link to the Past' Reverse-Engineered for Linux ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2dhbWVzLnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wMi8wNS8wMjI1MjE5L2xlZ2VuZC1vZi16ZWxkYS1hLWxpbmstdG8tdGhlLXBhc3QtcmV2ZXJzZS1lbmdpbmVlcmVkLWZvci1saW51eC1zd2l0Y2gtbWFjLWFuZC13aW5kb3dz0gEA?oc=5",
-          "publishedOn": "2023-02-05T02:41:29.000Z",
-          "wordCount": 6062,
-          "title": "'Legend of Zelda: A Link to the Past' Reverse-Engineered for Linux ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9uZXdzY29tbS01NzQ0OC5waHDSAQA",
-          "author": null,
-          "description": "IDC: Tablets sales slightly declined in 2022, Chromebooks fell off a ...  GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9uZXdzY29tbS01NzQ0OC5waHDSAQA?oc=5",
-          "publishedOn": "2023-02-05T00:48:38.000Z",
-          "wordCount": 6062,
-          "title": "IDC: Tablets sales slightly declined in 2022, Chromebooks fell off a ... - GSMArena.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidWh0dHBzOi8vd3d3Lm9zbmV3cy5jb20vc3RvcnkvMTM1ODIzL2Rldi1leHBsYWlucy13aHktdGlueTExLXdpbmRvd3MtaXMtc28tdGlueS15ZXQtc2VjdXJlLWRlc3BpdGUtbm8tdHBtLXNlY3VyZS1ib290L9IBAA",
-          "author": null,
-          "description": "Dev explains why Tiny11 Windows is so tiny yet secure despite no ...  OS News",
-          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm9zbmV3cy5jb20vc3RvcnkvMTM1ODIzL2Rldi1leHBsYWlucy13aHktdGlueTExLXdpbmRvd3MtaXMtc28tdGlueS15ZXQtc2VjdXJlLWRlc3BpdGUtbm8tdHBtLXNlY3VyZS1ib290L9IBAA?oc=5",
-          "publishedOn": "2023-02-04T21:39:25.000Z",
-          "wordCount": 6062,
-          "title": "Dev explains why Tiny11 Windows is so tiny yet secure despite no ... - OS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtbmVzc3VzLWthbGktbGludXgv0gEA",
-          "author": null,
-          "description": "How to Install Nessus on Kali Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtbmVzc3VzLWthbGktbGludXgv0gEA?oc=5",
-          "publishedOn": "2023-02-04T21:30:00.000Z",
-          "wordCount": 6062,
-          "title": "How to Install Nessus on Kali Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLURPSVQtRE9JVE0tRGV0YWlsc9IBAA",
-          "author": null,
-          "description": "A Detailed Explanation On Intel's DOIT Mode, Possible Options For ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLURPSVQtRE9JVE0tRGV0YWlsc9IBAA?oc=5",
-          "publishedOn": "2023-02-04T21:24:00.000Z",
-          "wordCount": 6062,
-          "title": "A Detailed Explanation On Intel's DOIT Mode, Possible Options For ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL2NoZWNrLW91dC10aGlzLW1vZGRlcnMtZG9vbWVkLXF1ZXN0LXRvLXR1cm4tYS1uaW50ZW5kby1zd2l0Y2gtaW50by1hLXN0ZWFtLWRlY2sv0gEA",
-          "author": null,
-          "description": "Check out this modder's doomed quest to turn a Nintendo Switch ...  PC Gamer",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnBjZ2FtZXIuY29tL2NoZWNrLW91dC10aGlzLW1vZGRlcnMtZG9vbWVkLXF1ZXN0LXRvLXR1cm4tYS1uaW50ZW5kby1zd2l0Y2gtaW50by1hLXN0ZWFtLWRlY2sv0gEA?oc=5",
-          "publishedOn": "2023-02-04T17:38:27.000Z",
-          "wordCount": 6062,
-          "title": "Check out this modder's doomed quest to turn a Nintendo Switch ... - PC Gamer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1taW5pa3ViZS1vbi11YnVudHUtbGludXgtZm9yLWVhc3kta3ViZXJuZXRlcy1kZXZlbG9wbWVudC_SAQA",
-          "author": null,
-          "description": "Install Minikube on Ubuntu Linux for Easy Kubernetes Development  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vaW5zdGFsbC1taW5pa3ViZS1vbi11YnVudHUtbGludXgtZm9yLWVhc3kta3ViZXJuZXRlcy1kZXZlbG9wbWVudC_SAQA?oc=5",
-          "publishedOn": "2023-02-04T14:02:18.000Z",
-          "wordCount": 6062,
-          "title": "Install Minikube on Ubuntu Linux for Easy Kubernetes Development - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy90b3AtMTAtbW9zdC1mYW1vdXMtY29tcHV0ZXItcHJvZ3JhbW1lcnMtb2YtYWxsLXRpbWXSAQA",
-          "author": null,
-          "description": "Top 10 most famous computer programmers of all time  Cointelegraph",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy90b3AtMTAtbW9zdC1mYW1vdXMtY29tcHV0ZXItcHJvZ3JhbW1lcnMtb2YtYWxsLXRpbWXSAQA?oc=5",
-          "publishedOn": "2023-02-04T14:01:21.000Z",
-          "wordCount": 6062,
-          "title": "Top 10 most famous computer programmers of all time - Cointelegraph",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8992,6 +9202,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=377123",
+          "author": "Ganesh Dahal",
+          "description": "Fonts are a defining characteristic of the design of any site. That includes WordPress themes, where it’s common for theme developers to integrate a service like Google Fonts into the WordPress Customizer settings for a “classic” PHP-based theme. That hasn’t …\nManaging Fonts in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-fonts-in-wordpress-block-themes/",
+          "publishedOn": "2023-03-06T15:26:31.000Z",
+          "wordCount": 2703,
+          "title": "Managing Fonts in WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377123"
+        },
         {
           "id": "https://css-tricks.com/?p=376748",
           "author": "Šime Vidas",
@@ -9069,6 +9289,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
+          "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
+          "publishedOn": "2023-03-06T16:00:00.000Z",
+          "wordCount": 4653,
+          "title": "Inspiring Web Design And UX Showcases",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
@@ -9346,6 +9581,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python",
+          "link": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
+          "publishedOn": "2023-03-06T22:20:45.000Z",
+          "wordCount": 1242,
+          "title": "How to Test and Debug SQL Queries with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Testing.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "author": "Valentine Gatwiri",
+          "description": "The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function",
+          "link": "https://www.freecodecamp.org/news/using-scanf-in-c/",
+          "publishedOn": "2023-03-06T21:59:30.000Z",
+          "wordCount": 2391,
+          "title": "How to Use scanf( ) in C to Read and Store User Input",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-element-digital-1370294.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and",
+          "link": "https://www.freecodecamp.org/news/rendering-patterns/",
+          "publishedOn": "2023-03-06T18:22:40.000Z",
+          "wordCount": 4247,
+          "title": "Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sebastian-svenson-8QgqOLJAL8k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "author": "Shittu Olumide",
+          "description": "Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be",
+          "link": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
+          "publishedOn": "2023-03-06T17:51:46.000Z",
+          "wordCount": 1372,
+          "title": "How to Extract Data from PDF Files with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Extract-Data-from-PDF-Files-with-Python-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "author": "Eamonn Cottrell",
+          "description": "I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate",
+          "link": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
+          "publishedOn": "2023-03-06T16:41:05.000Z",
+          "wordCount": 1564,
+          "title": "Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "author": "Arunachalam B",
+          "description": "Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the",
+          "link": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
+          "publishedOn": "2023-03-06T14:58:04.000Z",
+          "wordCount": 2005,
+          "title": "How to Search Files Effectively in the Linux Terminal – Advanced Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/11.-Part-2--How-to-search-files-effectively-in-linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "author": "Andrej Kovacevic",
+          "description": "ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,",
+          "link": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
+          "publishedOn": "2023-03-06T14:56:56.000Z",
+          "wordCount": 1666,
+          "title": "Can ChatGPT Ensure Secure Coding Practices?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/chatgpt-coding.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
           "author": "Oluseye Jeremiah",
