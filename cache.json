@@ -12,6 +12,76 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=183950",
+          "author": "Dave Sumaylo",
+          "description": "To replace a string in a file, open the file with open(), read the data with read(), replace the data with replace() and store it back in the file with write().",
+          "link": "https://linuxhint.com/python-replaces-string-file/",
+          "publishedOn": "2023-04-06T00:22:51.000Z",
+          "wordCount": 4684,
+          "title": "Python Replace String in File",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=134218",
+          "author": "Dave Sumaylo",
+          "description": "To read a file into a string in Python, use the read() method, the readlines() method with string concatenation and the read_text() method from Path package.",
+          "link": "https://linuxhint.com/read-file-string-python/",
+          "publishedOn": "2023-04-05T21:28:11.000Z",
+          "wordCount": 3878,
+          "title": "Python Read File Into String",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=244246",
+          "author": "Dave Sumaylo",
+          "description": "UnboundLocalError is caused when a local variable is accessed before the assignment of value. Or due to the confusion between local and global scope.",
+          "link": "https://linuxhint.com/python-unboundlocalerror/",
+          "publishedOn": "2023-04-05T20:53:49.000Z",
+          "wordCount": 3869,
+          "title": "Python UnboundLocalError",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=146775",
+          "author": "Dave Sumaylo",
+          "description": "To generate random boolean values in Python, first generate random numeric values and then use the bool() method to convert them into a boolean.",
+          "link": "https://linuxhint.com/python-generate-random-boolean-value/",
+          "publishedOn": "2023-04-05T19:23:33.000Z",
+          "wordCount": 4130,
+          "title": "Python Generate a Random Boolean Value",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=136158",
+          "author": "Dave Sumaylo",
+          "description": "To convert a Python String into a Dictionary, use the json.loads() method, the ast.literal_eval() method, or generator expressions.",
+          "link": "https://linuxhint.com/python-string-dict/",
+          "publishedOn": "2023-04-05T16:19:15.000Z",
+          "wordCount": 4099,
+          "title": "Python String to a Dict",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=134623",
+          "author": "Dave Sumaylo",
+          "description": "To use quotes within a string in Python, use a different set of quotes to declare the string and in between a string or use backslash “\\” before quotes.",
+          "link": "https://linuxhint.com/python-string-escape-quotes/",
+          "publishedOn": "2023-04-05T14:45:59.000Z",
+          "wordCount": 3707,
+          "title": "Python String Escape Quotes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=175469",
+          "author": "Dave Sumaylo",
+          "description": "To print the values of the Numpy Array with specific precision in Python, use the set_printoptions() method and define the precision argument.",
+          "link": "https://linuxhint.com/precision-print-numpy-array-python/",
+          "publishedOn": "2023-04-05T13:11:51.000Z",
+          "wordCount": 3821,
+          "title": "Python Print Numpy Array with Precision",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=146770",
           "author": "Kevin Reursora",
           "description": "To remove a file only if it exists, use the remove() method and the unlink() methods. However, you need to wrap these methods in try-except statements.",
@@ -1638,6 +1708,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182845",
+          "author": "Web Webster",
+          "description": "The guide demonstrates how to contribute to open-source projects, from choosing a project to seeking feedback and being patient.\nThe post How to Contribute to Open-Source Projects: A Beginner’s Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-contribute-open-source-projects/",
+          "publishedOn": "2023-04-07T00:00:11.000Z",
+          "wordCount": 17102,
+          "title": "How to Contribute to Open-Source Projects: A Beginner’s Guide",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182844",
+          "author": "Web Webster",
+          "description": "By the end of this article, you’ll have a solid understanding of Docker and how it can help you develop software more efficiently.\nThe post A Comprehensive Guide to Docker for Beginners appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/comprehensive-guide-docker-beginners/",
+          "publishedOn": "2023-04-06T22:00:09.000Z",
+          "wordCount": 17129,
+          "title": "A Comprehensive Guide to Docker for Beginners",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182840",
+          "author": "Web Webster",
+          "description": "This guide will demonstrate how to set up an Apache web server to host a website on your Linux system for free.\nThe post How to Host a Website on Your Linux System for Free appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-host-website-free-linux-system/",
+          "publishedOn": "2023-04-06T20:00:06.000Z",
+          "wordCount": 17120,
+          "title": "How to Host a Website on Your Linux System for Free",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182837",
+          "author": "Web Webster",
+          "description": "In our tutorial, we will install OpenVPN on a Rocky Linux 9 server and configure it to be accessible from a client machine.\nThe post How to Install and Configure OpenVPN Server on Rocky Linux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-and-configure-openvpn-server-on-rocky-linux-9/",
+          "publishedOn": "2023-04-06T18:00:05.000Z",
+          "wordCount": 17139,
+          "title": "How to Install and Configure OpenVPN Server on Rocky Linux 9",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182835",
+          "author": "Web Webster",
+          "description": "In this guide, you’ll learn about Xen Orchestra as well as how to install Xen Orchestra Appliance and connect to it via SSH.\nThe post How to Install Xen Orchestra Appliance in XCP-ng Server appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-xen-orchestra-appliance/",
+          "publishedOn": "2023-04-06T17:00:03.000Z",
+          "wordCount": 17121,
+          "title": "How to Install Xen Orchestra Appliance in XCP-ng Server",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182825",
+          "author": "Web Webster",
+          "description": "In this tutorial, you’ll learn how to install local software packages (.DEB) in Debian and its derivatives using three different command-line tools.\nThe post 3 Command-Line Tools to Install Deb Packages appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/command-line-tools-install-deb-packages-ubuntu/",
+          "publishedOn": "2023-04-06T16:00:01.000Z",
+          "wordCount": 17097,
+          "title": "3 Command-Line Tools to Install Deb Packages",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182823",
+          "author": "Web Webster",
+          "description": "In this tutorial, we’ll walk through the steps on how to install Dotclear on Ubuntu servers with Apache 2 web server and MariaDB database.\nThe post How to Install Dotclear on Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-dotclear-ubuntu/",
+          "publishedOn": "2023-04-06T15:00:59.000Z",
+          "wordCount": 17102,
+          "title": "How to Install Dotclear on Ubuntu",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182822",
+          "author": "Web Webster",
+          "description": "In this tutorial we will guide you through the installation and start-up of the Cockpit server administration tool on a Debian server.\nThe post How to Install the Cockpit Server Administration Tool on Debian appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-cockpit-debian/",
+          "publishedOn": "2023-04-06T14:00:58.000Z",
+          "wordCount": 17118,
+          "title": "How to Install the Cockpit Server Administration Tool on Debian",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182923",
+          "author": "Web Webster",
+          "description": "The Star64 Model-A SBC supports up to 8GB 1866MHz LPDDR4 memory and comes with an embedded 32-bit RISC-V E24 CPU for real-time control.\nThe post Star64 Is Now Available to Order as PINE64’s First RISC-V SBC appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/star64-now-available/",
+          "publishedOn": "2023-04-06T13:00:58.000Z",
+          "wordCount": 17144,
+          "title": "Star64 Is Now Available to Order as PINE64’s First RISC-V SBC",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182817",
+          "author": "Web Webster",
+          "description": "This guide demonstrates the recommended methods on how to install Visual Studio Code on openSUSE Leap and Tumbleweed.\nThe post How to Install VS Code on openSUSE Leap and Tumbleweed appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-vs-code-opensuse-leap-tumbleweed/",
+          "publishedOn": "2023-04-06T02:00:08.000Z",
+          "wordCount": 17127,
+          "title": "How to Install VS Code on openSUSE Leap and Tumbleweed",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=182816",
           "author": "Web Webster",
@@ -3827,116 +3997,6 @@
           "wordCount": 17113,
           "title": "How to Install Joomla on Alma Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182227",
-          "author": "Web Webster",
-          "description": "Check out this list of the best PDF editors for Ubuntu and other Linux distributions, including their advantages and features.\nThe post 5 Best FOSS PDF Editors for Ubuntu and Other Linux Distros appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-foss-pdf-editors-ubuntu-other-linux/",
-          "publishedOn": "2023-03-08T03:00:15.000Z",
-          "wordCount": 17120,
-          "title": "5 Best FOSS PDF Editors for Ubuntu and Other Linux Distros",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182210",
-          "author": "Web Webster",
-          "description": "Follow our step-by-step guide to easily install Docker on your Linux Mint 21 system, and start containerizing your applications.\nThe post How to Install Docker on Linux Mint 21: A Step-by-Step Guide appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-docker-linux-mint-21/",
-          "publishedOn": "2023-03-07T23:00:12.000Z",
-          "wordCount": 17131,
-          "title": "How to Install Docker on Linux Mint 21: A Step-by-Step Guide",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182322",
-          "author": "Web Webster",
-          "description": "Check out the changes in Linux Kernel 6.3 RC1, which brings more Rust support with updates across CPU, GPU, storage, and more.\nThe post Linux Kernel 6.3 RC1 Brings Intel VPU Driver, Rust Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/linux-kernel-6-3-rc1-release/",
-          "publishedOn": "2023-03-07T21:00:27.000Z",
-          "wordCount": 17118,
-          "title": "Linux Kernel 6.3 RC1 Brings Intel VPU Driver, Rust Updates",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=fit_campaign&p=182410",
-          "author": "Molly Singmaster",
-          "description": "The post Right Rail Newsletter Widget appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/fit_campaign/right-rail-newsletter-widget/",
-          "publishedOn": "2023-03-07T20:23:02.000Z",
-          "wordCount": null,
-          "title": "Right Rail Newsletter Widget",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?p=182352",
-          "author": "Molly Singmaster",
-          "description": "campaign-settings\nThe post Campaign Settings appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field-group&p=182352",
-          "publishedOn": "2023-03-07T20:20:19.000Z",
-          "wordCount": null,
-          "title": "Campaign Settings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182409",
-          "author": "Molly Singmaster",
-          "description": "custom_css\nThe post Custom CSS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182409",
-          "publishedOn": "2023-03-07T20:20:19.000Z",
-          "wordCount": null,
-          "title": "Custom CSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182408",
-          "author": "Molly Singmaster",
-          "description": "mobile_email_placeholder\nThe post Email Placeholder (Mobile) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182408",
-          "publishedOn": "2023-03-07T20:20:18.000Z",
-          "wordCount": null,
-          "title": "Email Placeholder (Mobile)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182406",
-          "author": "Molly Singmaster",
-          "description": "button_border_radius\nThe post Input Border Radius Right appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182406",
-          "publishedOn": "2023-03-07T20:20:18.000Z",
-          "wordCount": null,
-          "title": "Input Border Radius Right",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182407",
-          "author": "Molly Singmaster",
-          "description": "desktop_email_placeholder\nThe post Email Placeholder (Desktop) appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182407",
-          "publishedOn": "2023-03-07T20:20:18.000Z",
-          "wordCount": null,
-          "title": "Email Placeholder (Desktop)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182403",
-          "author": "Molly Singmaster",
-          "description": "input_border_rounded\nThe post Input Border Rounded? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182403",
-          "publishedOn": "2023-03-07T20:20:17.000Z",
-          "wordCount": null,
-          "title": "Input Border Rounded?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=acf-field&p=182405",
-          "author": "Molly Singmaster",
-          "description": "button_border_rounded\nThe post Button Border Rounded? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/?post_type=acf-field&p=182405",
-          "publishedOn": "2023-03-07T20:20:17.000Z",
-          "wordCount": null,
-          "title": "Button Border Rounded?",
-          "imageUrl": null
         }
       ]
     },
@@ -3945,6 +4005,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWVweWMtc2NhbGluZy0zODTSAQA",
+          "author": null,
+          "description": "Intel Linux Optimizations Help AMD EPYC \"Genoa\" Improve Scaling To 384 Threads  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWVweWMtc2NhbGluZy0zODTSAQA?oc=5",
+          "publishedOn": "2023-04-06T20:08:49.000Z",
+          "wordCount": 6047,
+          "title": "Intel Linux Optimizations Help AMD EPYC \"Genoa\" Improve Scaling To 384 Threads - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGlzdC1udW1iZXItb2YtZXRoZXJuZXQtcG9ydHMtb24tbGludXgtc2VydmVyL9IBAA",
+          "author": null,
+          "description": "How to List All Physical Ethernet Ports on a Linux Server  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGlzdC1udW1iZXItb2YtZXRoZXJuZXQtcG9ydHMtb24tbGludXgtc2VydmVyL9IBAA?oc=5",
+          "publishedOn": "2023-04-06T19:45:00.000Z",
+          "wordCount": 6048,
+          "title": "How to List All Physical Ethernet Ports on a Linux Server - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLU0yLURldmljZS1UcmVlLUxpbnV4LTYuNNIBAA",
+          "author": null,
+          "description": "Linux 6.4 Bringing Apple M2 Additions For 2022 MacBook Air, MacBook Pro, Mac Mini  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLU0yLURldmljZS1UcmVlLUxpbnV4LTYuNNIBAA?oc=5",
+          "publishedOn": "2023-04-06T16:00:00.000Z",
+          "wordCount": 6048,
+          "title": "Linux 6.4 Bringing Apple M2 Additions For 2022 MacBook Air, MacBook Pro, Mac Mini - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9zeXN0ZW03Ni1zaG93cy1vZmYtZmlyc3QtaW1hZ2VzLW9mLWl0cy12aXJnby1saW51eC1sYXB0b3AtZGVzaWdu0gEA",
+          "author": null,
+          "description": "System76 Shows First Pics of Fully Customized Linux Laptop ...  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9zeXN0ZW03Ni1zaG93cy1vZmYtZmlyc3QtaW1hZ2VzLW9mLWl0cy12aXJnby1saW51eC1sYXB0b3AtZGVzaWdu0gEA?oc=5",
+          "publishedOn": "2023-04-06T15:36:48.000Z",
+          "wordCount": 6048,
+          "title": "System76 Shows First Pics of Fully Customized Linux Laptop ... - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1F1YWxjb21tLVFBSUMtRm9yLUxpbnV4LTYuNNIBAA",
+          "author": null,
+          "description": "Qualcomm QAIC Accelerator Driver Coming With Linux 6.4  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1F1YWxjb21tLVFBSUMtRm9yLUxpbnV4LTYuNNIBAA?oc=5",
+          "publishedOn": "2023-04-06T14:00:00.000Z",
+          "wordCount": 6047,
+          "title": "Qualcomm QAIC Accelerator Driver Coming With Linux 6.4 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1vcmUtTVRMLUZvci1MaW51eC02LjTSAQA",
+          "author": null,
+          "description": "Intel Carries Out More Meteor Lake Graphics Enablement For Linux ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1vcmUtTVRMLUZvci1MaW51eC02LjTSAQA?oc=5",
+          "publishedOn": "2023-04-06T12:16:00.000Z",
+          "wordCount": 6048,
+          "title": "Intel Carries Out More Meteor Lake Graphics Enablement For Linux ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMif2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjMwNDA2MDA1MDU0L2VuL0FsbWFMaW51eC10by1TaG93Y2FzZS1pdHMtQ29tbXVuaXR5LURyaXZlbi1MaW51eC1PUy1hdC1GT1NTQVNJQS1TdW1taXTSAQA",
+          "author": null,
+          "description": "AlmaLinux to Showcase its Community-Driven Linux OS at ...  Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjMwNDA2MDA1MDU0L2VuL0FsbWFMaW51eC10by1TaG93Y2FzZS1pdHMtQ29tbXVuaXR5LURyaXZlbi1MaW51eC1PUy1hdC1GT1NTQVNJQS1TdW1taXTSAQA?oc=5",
+          "publishedOn": "2023-04-06T12:05:00.000Z",
+          "wordCount": 6048,
+          "title": "AlmaLinux to Showcase its Community-Driven Linux OS at ... - Business Wire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiJ2h0dHBzOi8vYmVlYm9tLmNvbS9yZWJvb3QtbGludXgtc3lzdGVtL9IBK2h0dHBzOi8vYmVlYm9tLmNvbS9yZWJvb3QtbGludXgtc3lzdGVtL2FtcC8",
+          "author": null,
+          "description": "How to Reboot Linux System (6 Methods)  Beebom",
+          "link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vYmVlYm9tLmNvbS9yZWJvb3QtbGludXgtc3lzdGVtL9IBK2h0dHBzOi8vYmVlYm9tLmNvbS9yZWJvb3QtbGludXgtc3lzdGVtL2FtcC8?oc=5",
+          "publishedOn": "2023-04-06T11:15:40.000Z",
+          "wordCount": 6048,
+          "title": "How to Reboot Linux System (6 Methods) - Beebom",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1ib3RvMy1vbi1hbWF6b24tbGludXgtMi1hd3MtZWMyL9IBAA",
+          "author": null,
+          "description": "How to install boto3 on Amazon Linux 2 - AWS EC2?  H2S Media",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1ib3RvMy1vbi1hbWF6b24tbGludXgtMi1hd3MtZWMyL9IBAA?oc=5",
+          "publishedOn": "2023-04-06T08:29:25.000Z",
+          "wordCount": 6047,
+          "title": "How to install boto3 on Amazon Linux 2 - AWS EC2? - H2S Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA0L2xpbnV4LW1pbnQtY2lubmFtb24tc3R5bGVz0gFCaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDQvbGludXgtbWludC1jaW5uYW1vbi1zdHlsZXMvYW1w",
+          "author": null,
+          "description": "Linux Mint 21.2 Simplifies Theming with ‘Cinnamon Styles’  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA0L2xpbnV4LW1pbnQtY2lubmFtb24tc3R5bGVz0gFCaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDQvbGludXgtbWludC1jaW5uYW1vbi1zdHlsZXMvYW1w?oc=5",
+          "publishedOn": "2023-04-05T23:51:35.000Z",
+          "wordCount": 6048,
+          "title": "Linux Mint 21.2 Simplifies Theming with ‘Cinnamon Styles’ - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiPmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA0L2xpbnV4LW1pbnQtY2lubmFtb24tc3R5bGVz0gEA",
           "author": null,
@@ -5893,6 +6053,16 @@
           "publishedOn": "2023-03-24T07:42:41.000Z",
           "wordCount": 6172,
           "title": "What Is Linux? An Operating System, Software, Program, and More - ITPro Today",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLW9wZW5saXRlc3BlZWQtd2ViLXNlcnZlci1vbi1saW51eC_SAWVodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8taW5zdGFsbC1vcGVubGl0ZXNwZWVkLXdlYi1zZXJ2ZXItb24tbGludXgvYW1wLw",
+          "author": null,
+          "description": "How to install OpenLiteSpeed web server on Linux  AddictiveTips",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLW9wZW5saXRlc3BlZWQtd2ViLXNlcnZlci1vbi1saW51eC_SAWVodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8taW5zdGFsbC1vcGVubGl0ZXNwZWVkLXdlYi1zZXJ2ZXItb24tbGludXgvYW1wLw?oc=5",
+          "publishedOn": "2023-03-24T07:00:00.000Z",
+          "wordCount": 6047,
+          "title": "How to install OpenLiteSpeed web server on Linux - AddictiveTips",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8584,136 +8754,6 @@
           "wordCount": 6115,
           "title": "Starfield from Bethesda launching September 6 | GamingOnLinux - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBpcGVzLUlPQ0JfTk9XQUlU0gEA",
-          "author": null,
-          "description": "IOCB_NOWAIT For Linux Pipes Yields 10~23x Performance ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBpcGVzLUlPQ0JfTk9XQUlU0gEA?oc=5",
-          "publishedOn": "2023-03-08T12:05:00.000Z",
-          "wordCount": 6115,
-          "title": "IOCB_NOWAIT For Linux Pipes Yields 10~23x Performance ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZhbmlsbGEtT1MtMi4wLURlYmlhbtIBAA",
-          "author": null,
-          "description": "Vanilla OS 2.0 Shifting From Ubuntu Base To Debian Sid  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ZhbmlsbGEtT1MtMi4wLURlYmlhbtIBAA?oc=5",
-          "publishedOn": "2023-03-08T11:39:00.000Z",
-          "wordCount": 6138,
-          "title": "Vanilla OS 2.0 Shifting From Ubuntu Base To Debian Sid - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zcGFya3lsaW51eC0yMDIzLTAzLXJvbGxpbmctYnJpbmdzLWxpbnV4LWtlcm5lbC02LTEtYW5kLWtkZS1wbGFzbWEtNS0yNy1sdHPSAWVodHRwczovLzl0bzVsaW51eC5jb20vc3Bhcmt5bGludXgtMjAyMy0wMy1yb2xsaW5nLWJyaW5ncy1saW51eC1rZXJuZWwtNi0xLWFuZC1rZGUtcGxhc21hLTUtMjctbHRzL2FtcA",
-          "author": null,
-          "description": "SparkyLinux 2023.03 Rolling Brings Linux Kernel 6.1 and KDE Plasma 5.27 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zcGFya3lsaW51eC0yMDIzLTAzLXJvbGxpbmctYnJpbmdzLWxpbnV4LWtlcm5lbC02LTEtYW5kLWtkZS1wbGFzbWEtNS0yNy1sdHPSAWVodHRwczovLzl0bzVsaW51eC5jb20vc3Bhcmt5bGludXgtMjAyMy0wMy1yb2xsaW5nLWJyaW5ncy1saW51eC1rZXJuZWwtNi0xLWFuZC1rZGUtcGxhc21hLTUtMjctbHRzL2FtcA?oc=5",
-          "publishedOn": "2023-03-08T11:31:47.000Z",
-          "wordCount": 6138,
-          "title": "SparkyLinux 2023.03 Rolling Brings Linux Kernel 6.1 and KDE Plasma 5.27 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93bi_SAYsBaHR0cHM6Ly93d3cub2NyZWdpc3Rlci5jb20vMjAyMy8wMy8wOC9zY2FsZS1saW51eC1hbmQtZnJlZS1zb2Z0d2FyZS1jb252ZW50aW9uLXJldHVybnMtdG8tcGFzYWRlbmEtZm9yLWZpcnN0LXRpbWUtc2luY2UtY292aWQtbG9ja2Rvd24vYW1wLw",
-          "author": null,
-          "description": "SCALE Linux and free software convention returns to Pasadena for first time since COVID lockdown  OCRegister",
-          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5vY3JlZ2lzdGVyLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93bi_SAYsBaHR0cHM6Ly93d3cub2NyZWdpc3Rlci5jb20vMjAyMy8wMy8wOC9zY2FsZS1saW51eC1hbmQtZnJlZS1zb2Z0d2FyZS1jb252ZW50aW9uLXJldHVybnMtdG8tcGFzYWRlbmEtZm9yLWZpcnN0LXRpbWUtc2luY2UtY292aWQtbG9ja2Rvd24vYW1wLw?oc=5",
-          "publishedOn": "2023-03-08T08:00:00.000Z",
-          "wordCount": 6047,
-          "title": "SCALE Linux and free software convention returns to Pasadena for first time since COVID lockdown - OCRegister",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vZGV2b3BzLmNvbS9saW51eC1pbnRlbC1tb29uLWF0bGFzc2lhbi1yaWNoaXhidy_SAQA",
-          "author": null,
-          "description": "Linux Tweak Brings Big Speedup ¦ DCs in SPAAACE (Redux ...  DevOps.com",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vZGV2b3BzLmNvbS9saW51eC1pbnRlbC1tb29uLWF0bGFzc2lhbi1yaWNoaXhidy_SAQA?oc=5",
-          "publishedOn": "2023-03-08T08:00:00.000Z",
-          "wordCount": 6184,
-          "title": "Linux Tweak Brings Big Speedup ¦ DCs in SPAAACE (Redux ... - DevOps.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFodHRwczovL3d3dy5wYXNhZGVuYXN0YXJuZXdzLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93btIBkQFodHRwczovL3d3dy5wYXNhZGVuYXN0YXJuZXdzLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93bi9hbXAv",
-          "author": null,
-          "description": "SCALE Linux and free software convention returns to Pasadena for first time since COVID lockdown  The Pasadena Star-News",
-          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5wYXNhZGVuYXN0YXJuZXdzLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93btIBkQFodHRwczovL3d3dy5wYXNhZGVuYXN0YXJuZXdzLmNvbS8yMDIzLzAzLzA4L3NjYWxlLWxpbnV4LWFuZC1mcmVlLXNvZnR3YXJlLWNvbnZlbnRpb24tcmV0dXJucy10by1wYXNhZGVuYS1mb3ItZmlyc3QtdGltZS1zaW5jZS1jb3ZpZC1sb2NrZG93bi9hbXAv?oc=5",
-          "publishedOn": "2023-03-08T08:00:00.000Z",
-          "wordCount": 6172,
-          "title": "SCALE Linux and free software convention returns to Pasadena for first time since COVID lockdown - The Pasadena Star-News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vY3JlYXRlLWFybS1iYXNlZC1saW51eC12aXJ0dWFsLW1hY2hpbmUtYXp1cmUv0gEA",
-          "author": null,
-          "description": "How to Create an ARM-Based Linux Virtual Machine With Azure  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vY3JlYXRlLWFybS1iYXNlZC1saW51eC12aXJ0dWFsLW1hY2hpbmUtYXp1cmUv0gEA?oc=5",
-          "publishedOn": "2023-03-07T21:00:00.000Z",
-          "wordCount": 6115,
-          "title": "How to Create an ARM-Based Linux Virtual Machine With Azure - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuOS03OTAweDNk0gEA",
-          "author": null,
-          "description": "AMD Ryzen 9 7900X3D Linux Performance Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuOS03OTAweDNk0gEA?oc=5",
-          "publishedOn": "2023-03-07T19:19:49.000Z",
-          "wordCount": 6115,
-          "title": "AMD Ryzen 9 7900X3D Linux Performance Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODc3NzI0L2ZsYXRodWItd2FudHMtdG8tYmUtdGhlLXVsdGltYXRlLWxpbnV4LWFwcC1zdG9yZS_SAVZodHRwczovL3d3dy5ob3d0b2dlZWsuY29tLzg3NzcyNC9mbGF0aHViLXdhbnRzLXRvLWJlLXRoZS11bHRpbWF0ZS1saW51eC1hcHAtc3RvcmUvYW1wLw",
-          "author": null,
-          "description": "Flathub Wants to Be the Ultimate Linux App Store  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODc3NzI0L2ZsYXRodWItd2FudHMtdG8tYmUtdGhlLXVsdGltYXRlLWxpbnV4LWFwcC1zdG9yZS_SAVZodHRwczovL3d3dy5ob3d0b2dlZWsuY29tLzg3NzcyNC9mbGF0aHViLXdhbnRzLXRvLWJlLXRoZS11bHRpbWF0ZS1saW51eC1hcHAtc3RvcmUvYW1wLw?oc=5",
-          "publishedOn": "2023-03-07T18:59:01.000Z",
-          "wordCount": 6115,
-          "title": "Flathub Wants to Be the Ultimate Linux App Store - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYW4tZWFybHktbWFyY2gtcm91bmQtdXAtb2Ytc3RlYW0tZGVjay1uZXdzL9IBAA",
-          "author": null,
-          "description": "An early March round-up of Steam Deck news  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYW4tZWFybHktbWFyY2gtcm91bmQtdXAtb2Ytc3RlYW0tZGVjay1uZXdzL9IBAA?oc=5",
-          "publishedOn": "2023-03-07T15:14:27.000Z",
-          "wordCount": 6115,
-          "title": "An early March round-up of Steam Deck news - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1jcmVhdGUtYS1ib290YWJsZS1saW51eC11c2ItZHJpdmUv0gFSaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9ob3ctdG8tY3JlYXRlLWEtYm9vdGFibGUtbGludXgtdXNiLWRyaXZlLw",
-          "author": null,
-          "description": "How to create a bootable Linux USB drive  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1jcmVhdGUtYS1ib290YWJsZS1saW51eC11c2ItZHJpdmUv0gFSaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9ob3ctdG8tY3JlYXRlLWEtYm9vdGFibGUtbGludXgtdXNiLWRyaXZlLw?oc=5",
-          "publishedOn": "2023-03-07T14:59:21.000Z",
-          "wordCount": 6115,
-          "title": "How to create a bootable Linux USB drive - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vZW1iZWRkZWQtbGludXgtcHJvY2Vzc29yLXRhcC1taWNyb2NvbnRyb2xsZXJzLWZvci1jb2RlLXBlcmlwaGVyYWxzL9IBAA",
-          "author": null,
-          "description": "Embedded Linux processor tap microcontrollers for code, peripherals  eeNews Europe",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vZW1iZWRkZWQtbGludXgtcHJvY2Vzc29yLXRhcC1taWNyb2NvbnRyb2xsZXJzLWZvci1jb2RlLXBlcmlwaGVyYWxzL9IBAA?oc=5",
-          "publishedOn": "2023-03-07T14:26:52.000Z",
-          "wordCount": 6115,
-          "title": "Embedded Linux processor tap microcontrollers for code, peripherals - eeNews Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW5zc2YtbWVtYmVyc2hpcC1ncm93dGgtc2lnbmFscy10ZWNobmljYWwtY29tbXVuaXRpZXMtY29udGludWVkLWNvbW1pdG1lbnQtdG8taW52ZXN0aW5nLWluLXNlY3VyaXR5LTMwMTc2NDA5MC5odG1s0gEA",
-          "author": null,
-          "description": "OpenSSF Membership Growth Signals Technical Communities ...  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW5zc2YtbWVtYmVyc2hpcC1ncm93dGgtc2lnbmFscy10ZWNobmljYWwtY29tbXVuaXRpZXMtY29udGludWVkLWNvbW1pdG1lbnQtdG8taW52ZXN0aW5nLWluLXNlY3VyaXR5LTMwMTc2NDA5MC5odG1s0gEA?oc=5",
-          "publishedOn": "2023-03-07T14:00:00.000Z",
-          "wordCount": 6115,
-          "title": "OpenSSF Membership Growth Signals Technical Communities ... - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8978,21 +9018,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-complex-forms-vue/meta-building-complex-forms-vue.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
-          "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
-          "publishedOn": "2023-03-07T15:30:00.000Z",
-          "wordCount": 4514,
-          "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg"
         }
       ]
     },
@@ -9001,6 +9026,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/upload-files-with-javascript/",
+          "author": "Austin Gil",
+          "description": "I recently published a tutorial showing how to upload files with HTML [https://austingil.com/uploading-files-with-html/]. That's great, but it's a bit limited to using the native browser form behavior, which causes the page to refresh. In this tutorial, I want to show you how to do the same thing with JavaScript [https://austingil.com/category/javascript/]",
+          "link": "https://www.freecodecamp.org/news/upload-files-with-javascript/",
+          "publishedOn": "2023-04-06T20:27:40.000Z",
+          "wordCount": 1824,
+          "title": "How to Upload Files with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/JavaScript-Blog-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/multi-dimensional-arrays-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Multi-dimensional arrays, also known as matrices, are a powerful data structure in Python. They allow you to store and manipulate data in multiple dimensions or axes.  You'll commonly use these types of arrays in fields such as mathematics, statistics, and computer science to represent and process structured data, such",
+          "link": "https://www.freecodecamp.org/news/multi-dimensional-arrays-in-python/",
+          "publishedOn": "2023-04-06T17:28:05.000Z",
+          "wordCount": 1654,
+          "title": "Multi-Dimensional Arrays in Python – Matrices Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gids.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-http/",
+          "author": "Rufai Mustapha",
+          "description": "Without HTTP (Hypertext Transfer Protocol), the World Wide Web as we know it today would not exist. HTTP is the protocol that enables the transfer of data over the internet, allowing users to access websites and other online resources. There are various ways to design web applications, including GraphQL, SOAP,",
+          "link": "https://www.freecodecamp.org/news/what-is-http/",
+          "publishedOn": "2023-04-06T16:53:26.000Z",
+          "wordCount": 2533,
+          "title": "What is HTTP? Protocol Overview for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/http--5-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hello-world-in-java/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are learning a programming language, the first thing you do is print something in the terminal/command prompt.  And that first thing is likely printing \"Hello World\" in the terminal. So that's what I'll show you how to do here if you are learning Java for the first",
+          "link": "https://www.freecodecamp.org/news/hello-world-in-java/",
+          "publishedOn": "2023-04-06T16:08:13.000Z",
+          "wordCount": 1331,
+          "title": "Java for Beginners – How to Create Your First \"Hello World\" Program",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/altumcode-XMFZqrGyV-Q-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Are you a C# developer looking to enhance your skills in data manipulation and querying? Do you want to learn how to query and manipulate data from various sources using the power of Language Integrated Query (LINQ)? We are excited to introduce our latest video course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/",
+          "publishedOn": "2023-04-06T15:45:49.000Z",
+          "wordCount": 1023,
+          "title": "Mastering LINQ: Unlock the Power of Advanced C# Data Manipulation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linq.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-functions-in-c/",
+          "author": "Valentine Gatwiri",
+          "description": "Functions are an essential component of the C programming language. They help you divide bigger problems into smaller, more manageable chunks of code, making it simpler to create and run programs.  We'll look at functions in C, their syntax, and how to use them successfully in this article. What",
+          "link": "https://www.freecodecamp.org/news/how-to-use-functions-in-c/",
+          "publishedOn": "2023-04-06T14:20:12.000Z",
+          "wordCount": 2567,
+          "title": "How to Use Functions in C - Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/guillaume-bolduc-uBe2mknURG4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-to-know-about-gpt-4/",
+          "author": "Kaushal Joshi",
+          "description": "We are living through an AI revolution. The AI industry is constantly evolving, with new tools, products, and technologies emerging every day.  For those not familiar with the AI domain, keeping up with these developments can be challenging. The biggest news recently is undoubtedly GPT-4. Everyone from my barber",
+          "link": "https://www.freecodecamp.org/news/what-to-know-about-gpt-4/",
+          "publishedOn": "2023-04-06T14:15:36.000Z",
+          "wordCount": 2708,
+          "title": "What to Know About GPT-4 for Non-AI Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/gpt-4.gif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/indices-of-a-list-in-python-list-indexof-equivalent/",
+          "author": "Kolade Chris",
+          "description": "Python has several methods and hacks for getting the index of an item in iterable data like a list, tuple, and dictionary. In this article, we are looking at how you can get the index of a list item with the index() method. I’ll also show you a function that",
+          "link": "https://www.freecodecamp.org/news/indices-of-a-list-in-python-list-indexof-equivalent/",
+          "publishedOn": "2023-04-06T07:49:00.000Z",
+          "wordCount": 1635,
+          "title": "Indices of a List in Python – List IndexOf() Equivalent",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/listIndex.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/most-asked-questions-about-bubble-sort/",
           "author": "Joel Olawanle",
@@ -10530,106 +10635,6 @@
           "wordCount": 1246,
           "title": "What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might",
-          "link": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
-          "publishedOn": "2023-03-07T23:24:27.000Z",
-          "wordCount": 4305,
-          "title": "Different Types of APIs – SOAP vs REST vs GraphQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/john-towner-p-rN-n6Miag-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
-          "author": "Rufai Mustapha",
-          "description": "In this article, we'll use build a random color generator in JavaScript. Along the way, we will explore general topics in programming like functions and randomization.  We will build a project called Change The Background Color to illustrate these concepts. You can see the demo here [http://rufai.github.io/buildingx/random_bg_color.html].  In",
-          "link": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
-          "publishedOn": "2023-03-07T22:11:32.000Z",
-          "wordCount": 2396,
-          "title": "How to Generate Colors in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/colotd--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
-          "author": "Dillion Megida",
-          "description": "Have you ever encountered a \"circular reference\" error when working with JSON? In this tutorial, I'll explain what this error means as well as how to fix it. This error, in my experience, occurs when you try to convert an object with circular references to JSON. You may have experienced",
-          "link": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
-          "publishedOn": "2023-03-07T21:52:14.000Z",
-          "wordCount": 1811,
-          "title": "Circular Reference Error in JavaScript – Meaning and How to Fix It",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/22.-circular-reference-error.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Loops are an essential concept in programming. They allow you to execute a block of code repeatedly based on certain conditions.  Python offers two types of loops: for and while loops. In this article, we will explore both of these loop types and provide examples of how to use",
-          "link": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
-          "publishedOn": "2023-03-07T21:36:52.000Z",
-          "wordCount": 1452,
-          "title": "How to Use Loops in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Loops.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
-          "author": "Andrey Germanov",
-          "description": "Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. In the previous post \"Machine learning with Julia – How to Build and Deploy a Trained",
-          "link": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
-          "publishedOn": "2023-03-07T21:34:07.000Z",
-          "wordCount": 8443,
-          "title": "Deep Learning with Julia – How to Build and Train a Model using a Neural Network",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
-          "author": "David Clinton",
-          "description": "Getting a new technology out to consumers will usually require good people and boat loads of resources – including money. Generally, lots of money.  A lot of that money will be spent on research. And, more often than not, the hard research needed to translate a great idea into",
-          "link": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
-          "publishedOn": "2023-03-07T17:07:38.000Z",
-          "wordCount": 3027,
-          "title": "The Business of Technology Research – Who Funds It, And What's Being Done",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-2156.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/variable-data-types-explained/",
-          "author": "Deborah Kurata",
-          "description": "Walking into a hardware store, it's not enough to say: \"I need a tool\". You need to be specific about the type of tool you need.  Each tool type has its particular purpose: A hammer to drive a nail into wood, a paint brush to paint, and a wrench",
-          "link": "https://www.freecodecamp.org/news/variable-data-types-explained/",
-          "publishedOn": "2023-03-07T16:54:47.000Z",
-          "wordCount": 2180,
-          "title": "Variable Data Types Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/data-types-thumbnail2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Conditional statements are an essential part of programming in Python. They allow you to make decisions based on the values of variables or the result of comparisons.  In this article, we'll explore how to use if, else, and elif statements in Python, along with some examples of how to",
-          "link": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
-          "publishedOn": "2023-03-07T16:03:51.000Z",
-          "wordCount": 1997,
-          "title": "How to Use Conditional Statements in Python – Examples of if, else, and elif",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Conditional.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/static-variables-in-java/",
-          "author": "Edeh Israel Chidera",
-          "description": "Static variables and static methods are two important concepts in Java.  Whenever a variable is declared as static, this means there is only one copy of it for the entire class, rather than each instance having its own copy. A static method means it can be called without creating",
-          "link": "https://www.freecodecamp.org/news/static-variables-in-java/",
-          "publishedOn": "2023-03-07T15:57:36.000Z",
-          "wordCount": 1545,
-          "title": "Static Variables in Java – Why and How to Use Static Methods",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
-          "author": "Kolade Chris",
-          "description": "In regular expressions, “S” is a metacharacter that represents space. The small letter “s” metacharacter stands for space, and the capital letter “S” stands for non-space. That's how the pattern for most metacharacters works. For instance, the small letter “d” is the metacharacter for a digit, and the capital letter",
-          "link": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
-          "publishedOn": "2023-03-07T14:09:22.000Z",
-          "wordCount": 1038,
-          "title": "What does \\S in Regex Mean? Space and Negated Space Metacharacters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--3-.png"
         }
       ]
     }
