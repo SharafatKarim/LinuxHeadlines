@@ -12,6 +12,36 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=144191",
+          "author": "Dave Sumaylo",
+          "description": "Random RGB Colors can be generated in two formats in Python, one is the hex code and the other is the set of values for Red, Green, and Blue.",
+          "link": "https://linuxhint.com/generate-random-rgb-colors-python/",
+          "publishedOn": "2023-04-08T08:00:57.000Z",
+          "wordCount": 3980,
+          "title": "Generate Random RGB Colors in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=151093",
+          "author": "Dave Sumaylo",
+          "description": "This error is caused by passing a tuple instead of an index value or a range of index values to access the elements of the list.",
+          "link": "https://linuxhint.com/python-error-list-indices-integers-slices-not-tuple/",
+          "publishedOn": "2023-04-08T08:00:31.000Z",
+          "wordCount": 3747,
+          "title": "Python error: list indices must be integers or slices, not a tuple",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=182601",
+          "author": "Dave Sumaylo",
+          "description": "To create a list of lists in Python, use the bracket notation used for list initialization or use the append() method to add lists into a list.",
+          "link": "https://linuxhint.com/create-list-lists-python/",
+          "publishedOn": "2023-04-08T08:00:18.000Z",
+          "wordCount": 3789,
+          "title": "Create a List of Lists in Python",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=183950",
           "author": "Dave Sumaylo",
           "description": "To replace a string in a file, open the file with open(), read the data with read(), replace the data with replace() and store it back in the file with write().",
@@ -1460,246 +1490,6 @@
           "wordCount": 25333,
           "title": "100 Best Applications for Ubuntu 2023",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=304072",
-          "author": "Maria Naz",
-          "description": "To list the users in a MySQL database, the “SHOW user()” statement, “SHOW current_user()” statement, or “SELECT” statement can be used.",
-          "link": "https://linuxhint.com/list-users-in-mysql-database/",
-          "publishedOn": "2023-03-09T18:50:47.000Z",
-          "wordCount": 16288,
-          "title": "How to List the Users in a MySQL Database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=302275",
-          "author": "Zahra Zamir",
-          "description": "Node.js is written in C/C++ for multiple reasons which include fast running, better performance, direct interaction with the OS and other such reasons.",
-          "link": "https://linuxhint.com/why-node-js-written-in-c-and-cpp-programming/",
-          "publishedOn": "2023-03-09T18:49:47.000Z",
-          "wordCount": 15961,
-          "title": "Why Was Node.js Written in the C/C++ Programming Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303886",
-          "author": "Umar Hassan",
-          "description": "The strings in Java can be concatenated by using the “+” operator, “concat()” method, String.format() method, String.join() method, or the StringBuilder class.",
-          "link": "https://linuxhint.com/concatenate-strings-in-java/",
-          "publishedOn": "2023-03-09T18:49:33.000Z",
-          "wordCount": 16541,
-          "title": "How to Concatenate Strings in Java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=304075",
-          "author": "Muhammad Farhan",
-          "description": "PowerShell can be launched as an administrator using the “Start menu”, “Run dialog box”, “PowerShell console”, or “Windows Explorer”.",
-          "link": "https://linuxhint.com/run-powershell-as-administrator/",
-          "publishedOn": "2023-03-09T18:49:32.000Z",
-          "wordCount": 16096,
-          "title": "How to Run PowerShell as Administrator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303888",
-          "author": "Maria Naz",
-          "description": "To check the MySQL version by utilizing the Workbench, open Workbench > Select Connection> Server Tab> Server Status option> Check version.",
-          "link": "https://linuxhint.com/check-mysql-version-using-workbench/",
-          "publishedOn": "2023-03-09T18:49:13.000Z",
-          "wordCount": 15954,
-          "title": "How to Check MySQL Version Using Workbench?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303790",
-          "author": "Maria Naz",
-          "description": "To check the MySQL version using the Windows terminal, the “SELECT VERSION”, “SHOW VARIABLES LIKE” statement, or the “STATUS” command can be used.",
-          "link": "https://linuxhint.com/check-mysql-version-using-windows-terminal/",
-          "publishedOn": "2023-03-09T18:49:00.000Z",
-          "wordCount": 16228,
-          "title": "How to Check MySQL Version Using Windows Terminal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303789",
-          "author": "Abdul Mannan",
-          "description": "To change the MySQL root password in Windows and Linux, use the command “ALTER USER 'root'@'localhost' IDENTIFIED BY '';”.",
-          "link": "https://linuxhint.com/how-to-change-mysql-root-password-in-linux-or-windows/",
-          "publishedOn": "2023-03-09T18:48:41.000Z",
-          "wordCount": 16440,
-          "title": "How to Change MySQL Root Password in Linux or Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303788",
-          "author": "Abdul Mannan",
-          "description": "To automatically backup MySQL database. Create a Python script with database details, backup interval time, and mysqldump command for creating backup files.",
-          "link": "https://linuxhint.com/automatically-backup-mysql-database-using-python/",
-          "publishedOn": "2023-03-09T18:48:28.000Z",
-          "wordCount": 16185,
-          "title": "How to Automatically Backup MySQL Database Using Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303787",
-          "author": "Abdul Mannan",
-          "description": "Create a PHP file with MySQL database credentials and backup file name. Use mysqldump command to create a backup file and Task Scheduler to automate the process.",
-          "link": "https://linuxhint.com/automatically-backup-mysql-database-using-php/",
-          "publishedOn": "2023-03-09T18:48:18.000Z",
-          "wordCount": 16447,
-          "title": "How to Automatically Backup MySQL Database Using PHP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303786",
-          "author": "Abdul Mannan",
-          "description": "Create a bash script, provide database details and use mysqldump command to create the backup file. Execute bash script and use crontab for automation of backup",
-          "link": "https://linuxhint.com/automatically-backup-mysql-database-using-bash-script/",
-          "publishedOn": "2023-03-09T18:48:00.000Z",
-          "wordCount": 16270,
-          "title": "How to Automatically Backup MySQL Database Using Bash Script",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303722",
-          "author": "Shahrukh Syed",
-          "description": "To fix the “Windows Update Cannot Currently Check For updates” problem, repair update service, reset Windows update settings, or repair Windows update database.",
-          "link": "https://linuxhint.com/windows-update-cannot-currently-check-for-updates-fixed/",
-          "publishedOn": "2023-03-09T18:47:41.000Z",
-          "wordCount": 16241,
-          "title": "Fix- Windows Update Cannot Currently Check For Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303724",
-          "author": "Maria Naz",
-          "description": "To create a new database user in MySQL, the “CREATE USER ‘<username>’@’localhost’ IDENTIFIED BY ‘password’;” command can be used.",
-          "link": "https://linuxhint.com/create-a-new-database-user-in-mysql/",
-          "publishedOn": "2023-03-09T18:46:48.000Z",
-          "wordCount": 16247,
-          "title": "How Do I Create a New Database User in MySQL?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303725",
-          "author": "Abdul Mannan",
-          "description": "MySQL allows the user to insert data in the existing table that meets a specific condition. Using the “UPDATE” statement with the “WHERE” clause.",
-          "link": "https://linuxhint.com/insert-data-into-a-specific-row-in-mysql/",
-          "publishedOn": "2023-03-09T18:46:29.000Z",
-          "wordCount": 16300,
-          "title": "How do I Insert Data into a Specific Row in MySQL?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303721",
-          "author": "Shahrukh Syed",
-          "description": "To fix “Windows Modules Installer Worker Windows 10 High CPU”, delete SoftwareDistribution folder, run troubleshooter, run SFC and DISM tool, restart service.",
-          "link": "https://linuxhint.com/windows-modules-installer-worker-windows-10-high-cpu-fixed/",
-          "publishedOn": "2023-03-09T18:46:01.000Z",
-          "wordCount": 16715,
-          "title": "[Solved] Windows Modules Installer Worker Windows 10 High CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=302222",
-          "author": "Umar Hassan",
-          "description": "The “final” keyword in Java is utilized to refrain the user from overwriting a value. This keyword can be associated with a variable, function, or class, etc.",
-          "link": "https://linuxhint.com/final-keyword-in-java/",
-          "publishedOn": "2023-03-09T18:43:12.000Z",
-          "wordCount": 16283,
-          "title": "What is the “final” Keyword in Java?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=304074",
-          "author": "Maria Naz",
-          "description": "To query a list in MySQL, use the “SELECT  FROM ” query to list out the required records of the table.",
-          "link": "https://linuxhint.com/query-a-list-in-mysql/",
-          "publishedOn": "2023-03-09T18:41:16.000Z",
-          "wordCount": 16111,
-          "title": "How to Query a List in MySQL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=304073",
-          "author": "Umar Hassan",
-          "description": "To pass by reference in Java, return an updated value, return an incremented array element, or update a public member variable in a class.",
-          "link": "https://linuxhint.com/pass-by-reference-in-java/",
-          "publishedOn": "2023-03-09T18:41:08.000Z",
-          "wordCount": 16333,
-          "title": "How to Pass by Reference in Java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=304071",
-          "author": "Umar Hassan",
-          "description": "A HashMap in Java stores items in the form of \"key/value\" pairs. It can be iterated with the help of “for” loop, “foreach()” method, or the “Iterator” object.",
-          "link": "https://linuxhint.com/iterate-a-hashmap-in-java/",
-          "publishedOn": "2023-03-09T18:40:49.000Z",
-          "wordCount": 16522,
-          "title": "How to Iterate a HashMap in Java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303990",
-          "author": "Abdul Mannan",
-          "description": "Download SQL Server Management Studio, open the downloaded file, browse for the location, and install it. Open SSMS and connect it to MySQL Server.",
-          "link": "https://linuxhint.com/install-sql-server-management-studio/",
-          "publishedOn": "2023-03-09T18:40:21.000Z",
-          "wordCount": 15985,
-          "title": "How to Install SQL Server Management Studio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303989",
-          "author": "Abdul Mannan",
-          "description": "Download MySQL from the website and then install it. During the installation, set a password and create a user, then add the path in environment variables.",
-          "link": "https://linuxhint.com/install-mysql-windows/",
-          "publishedOn": "2023-03-09T18:40:04.000Z",
-          "wordCount": 16517,
-          "title": "How to Install MySQL on Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303988",
-          "author": "Abdul Mannan",
-          "description": "To install MySQL on Windows 11, download the “MSI Installer” from the official website of MySQL. From that, you can choose desired products and install them.",
-          "link": "https://linuxhint.com/how-to-install-mysql-on-windows-11/",
-          "publishedOn": "2023-03-09T18:39:56.000Z",
-          "wordCount": 16527,
-          "title": "How to Install MySQL on Windows 11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303987",
-          "author": "Abdul Mannan",
-          "description": "To find the MySQL data directory containing the retain database on Windows and Linux, run the “select @@datadir;” or “SHOW VARIABLES LIKE 'datadir';” command.",
-          "link": "https://linuxhint.com/how-to-find-your-mysql-data-directory-containing-your-retain-database/",
-          "publishedOn": "2023-03-09T18:39:24.000Z",
-          "wordCount": 16490,
-          "title": "How to Find Your MySQL Data Directory Containing Your Retain Database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303986",
-          "author": "Hafsa Javed",
-          "description": "To find the second largest number in an array in Java, we can use “iterative method” as well as “array.sort()” method and print out second largest number.",
-          "link": "https://linuxhint.com/find-second-largest-number-in-an-array-in-java/",
-          "publishedOn": "2023-03-09T18:39:13.000Z",
-          "wordCount": 16125,
-          "title": "How to Find the Second Largest Number in an Array in Java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=303928",
-          "author": "Abdul Mannan",
-          "description": "To find if MySQL is running on Linux, run “sudo systemctl status mysql”, “ps -aux | grep mysql” or “sudo mysqladmin -u root -p status” command.",
-          "link": "https://linuxhint.com/how-to-find-out-if-mysql-is-running-on-linux-or-not/",
-          "publishedOn": "2023-03-09T18:39:04.000Z",
-          "wordCount": 16374,
-          "title": "How to Find out if MySQL is Running on Linux or Not",
-          "imageUrl": null
         }
       ]
     },
@@ -1708,6 +1498,36 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182882",
+          "author": "Web Webster",
+          "description": "This tutorial demonstrates how to install the latest stable version of Nginx on RHEL-based distributions from sources.\nThe post How to Build NGINX From Sources in RHEL-Based Distros appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-build-nginx-from-sources-in-rhel-based-distros/",
+          "publishedOn": "2023-04-08T21:00:16.000Z",
+          "wordCount": 17087,
+          "title": "How to Build NGINX From Sources in RHEL-Based Distros",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182895",
+          "author": "Web Webster",
+          "description": "In this article, we will learn what import_* and include_* directives are and how to work with include and import statements in Ansible.\nThe post How to Work With Include and Import in Ansible appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-work-with-include-and-import-in-ansible/",
+          "publishedOn": "2023-04-08T15:00:59.000Z",
+          "wordCount": 17117,
+          "title": "How to Work With Include and Import in Ansible",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182876",
+          "author": "Web Webster",
+          "description": "bottom is billed as a customizable cross-platform graphical process and system monitor for the terminal. Learn more here.\nThe post bottom: Graphical Process and System Monitor for the Terminal appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/bottom-graphical-process-and-system-monitor-for-the-terminal/",
+          "publishedOn": "2023-04-08T02:00:37.000Z",
+          "wordCount": 17099,
+          "title": "bottom: Graphical Process and System Monitor for the Terminal",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=182874",
           "author": "Web Webster",
@@ -3907,96 +3727,6 @@
           "wordCount": 17110,
           "title": "6 wc Commands to Count Lines, Words, Characters",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182416",
-          "author": "Web Webster",
-          "description": "Learn how to create fillable forms with ONLYOFFICE Docs in a more comfortable way with the help of the newly added feature — user roles.\nThe post Create Fillable Forms With User Roles in ONLYOFFICE Docs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/create-fillable-forms-user-roles-onlyoffice-docs/",
-          "publishedOn": "2023-03-10T03:00:39.000Z",
-          "wordCount": 17128,
-          "title": "Create Fillable Forms With User Roles in ONLYOFFICE Docs",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182446",
-          "author": "Web Webster",
-          "description": "LibreOffice 7.4.6 brings even more bug fixes to make the LibreOffice 7.4 office suite series more stable and reliable for everyday use.\nThe post LibreOffice 7.4.6 Office Suite Brings More Than 70 Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/libreoffice-7-4-6-release/",
-          "publishedOn": "2023-03-10T01:00:16.000Z",
-          "wordCount": 17125,
-          "title": "LibreOffice 7.4.6 Office Suite Brings More Than 70 Bug Fixes",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182442",
-          "author": "Web Webster",
-          "description": "GitGuardian scanned 1.027 billion new GitHub commits in 2022 and found 10 million secrets occurrences. Learn more here.\nThe post Massive GitHub Analysis Reveals 10M Secrets in 1B Commits appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/massive-github-analysis-reveals-10m-secrets-1b-commits/",
-          "publishedOn": "2023-03-09T23:00:29.000Z",
-          "wordCount": 17122,
-          "title": "Massive GitHub Analysis Reveals 10M Secrets in 1B Commits",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182436",
-          "author": "Web Webster",
-          "description": "EndeavorOS Cassini Nova ships with Linux kernel 6.2.2, which is the latest kernel release at the moment of writing. Learn more here.\nThe post EndeavorOS Cassini Nova Brings Linux Kernel 6.2, Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/endeavouros-cassini-nova/",
-          "publishedOn": "2023-03-09T21:00:40.000Z",
-          "wordCount": 17113,
-          "title": "EndeavorOS Cassini Nova Brings Linux Kernel 6.2, Bug Fixes",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182435",
-          "author": "Web Webster",
-          "description": "Here are a dozen reasons, in the form of items on this year’s schedule, to go to SCaLE 20x, which starts March 9 in Pasadena, California.\nThe post 12 Reasons to Attend This Year’s SCaLE 20x appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/12-reasons-attend-scale-20x/",
-          "publishedOn": "2023-03-09T19:00:46.000Z",
-          "wordCount": 17119,
-          "title": "12 Reasons to Attend This Year’s SCaLE 20x",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182255",
-          "author": "Web Webster",
-          "description": "In this tutorial, you’ll learn how to install and use Vuls, an open-source and agentless vulnerability scanner, on an Ubuntu 22.04 server.\nThe post How to Install and Use Vuls Vulnerability Scanner on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-use-vuls-vulnerability-scanner-ubuntu-22-04/",
-          "publishedOn": "2023-03-09T18:00:41.000Z",
-          "wordCount": 17125,
-          "title": "How to Install and Use Vuls Vulnerability Scanner on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182245",
-          "author": "Web Webster",
-          "description": "Check out this assortment of Linux online training courses offered by Udemy to help you attain Linux system administration skills.\nThe post 9 Best Linux Online Training Courses for Beginners appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-linux-online-training-courses/",
-          "publishedOn": "2023-03-09T16:00:36.000Z",
-          "wordCount": 17132,
-          "title": "9 Best Linux Online Training Courses for Beginners",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182243",
-          "author": "Web Webster",
-          "description": "In this blog post, we will show you how to install Matomo on Debian 11 OS. Matomo is a free, open-source web analytics application used for live tracking of website visits. Here’s how to install it on Debian 11.\nThe post How to Install Matomo on Debian 11 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-matomo-debian-11/",
-          "publishedOn": "2023-03-09T15:00:35.000Z",
-          "wordCount": 17127,
-          "title": "How to Install Matomo on Debian 11",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182242",
-          "author": "Web Webster",
-          "description": "Udemy presents you with a comprehensive list of computer science courses you can follow to understand the basics of computers.\nThe post 10 Best Computer Science Courses for Beginners in 2023 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-computer-science-courses-beginners/",
-          "publishedOn": "2023-03-09T14:00:33.000Z",
-          "wordCount": 17132,
-          "title": "10 Best Computer Science Courses for Beginners in 2023",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4005,6 +3735,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMihAFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNC8wOC8xODYyNDIvY29sbGFib3JhLWRldmVsb3Blci1leHBsb3Jlcy1ydXN0LXN1cHBvcnQtZm9yLXRoZS1saW51eC1rZXJuZWxzLXY0bDJtZWRpYS1zdWJzeXN0ZW3SAQA",
+          "author": null,
+          "description": "Collabora Developer Explores Rust Support for the Linux Kernel's ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNC8wOC8xODYyNDIvY29sbGFib3JhLWRldmVsb3Blci1leHBsb3Jlcy1ydXN0LXN1cHBvcnQtZm9yLXRoZS1saW51eC1rZXJuZWxzLXY0bDJtZWRpYS1zdWJzeXN0ZW3SAQA?oc=5",
+          "publishedOn": "2023-04-08T18:50:25.000Z",
+          "wordCount": 6048,
+          "title": "Collabora Developer Explores Rust Support for the Linux Kernel's ... - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW90YXMtbWFya2Rvd24tbm90ZS10YWtpbmctYXBwLWZvci1saW51eC_SAQA",
+          "author": null,
+          "description": "Iotas: A Markdown-Based Note-Taking Linux App That Syncs With Nextcloud Notes  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW90YXMtbWFya2Rvd24tbm90ZS10YWtpbmctYXBwLWZvci1saW51eC_SAQA?oc=5",
+          "publishedOn": "2023-04-08T18:45:00.000Z",
+          "wordCount": 6047,
+          "title": "Iotas: A Markdown-Based Note-Taking Linux App That Syncs With Nextcloud Notes - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC12cy1jb2RlLWluLXVidW50dS1saW51eC12aWEtdGVybWluYWwv0gEA",
+          "author": null,
+          "description": "How to install VS Code in Ubuntu Linux via terminal?  H2S Media",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC12cy1jb2RlLWluLXVidW50dS1saW51eC12aWEtdGVybWluYWwv0gEA?oc=5",
+          "publishedOn": "2023-04-08T15:47:26.000Z",
+          "wordCount": 6047,
+          "title": "How to install VS Code in Ubuntu Linux via terminal? - H2S Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1pOTE1LUludGVsLUxhc3QtUm91bmTSAQA",
+          "author": null,
+          "description": "Intel Sends In Last Round Of Graphics Driver Feature Updates For Linux 6.4  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1pOTE1LUludGVsLUxhc3QtUm91bmTSAQA?oc=5",
+          "publishedOn": "2023-04-08T10:48:00.000Z",
+          "wordCount": 6048,
+          "title": "Intel Sends In Last Round Of Graphics Driver Feature Updates For Linux 6.4 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1OaW50ZW5kby1GaXhlc9IBAA",
+          "author": null,
+          "description": "Linux 6.4 To Fix Bug Where Nintendo Controllers Could Indefinitely Rumble  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1OaW50ZW5kby1GaXhlc9IBAA?oc=5",
+          "publishedOn": "2023-04-08T10:35:00.000Z",
+          "wordCount": 6048,
+          "title": "Linux 6.4 To Fix Bug Where Nintendo Controllers Could Indefinitely Rumble - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vYWl0aG9yaXR5LmNvbS90ZWNobm9sb2d5L2FsbWFsaW51eC10by1zaG93Y2FzZS1pdHMtY29tbXVuaXR5LWRyaXZlbi1saW51eC1vcy1hdC1mb3NzYXNpYS1zdW1taXQv0gEA",
+          "author": null,
+          "description": "AlmaLinux to Showcase its Community-Driven Linux OS at ...  AiThority",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWl0aG9yaXR5LmNvbS90ZWNobm9sb2d5L2FsbWFsaW51eC10by1zaG93Y2FzZS1pdHMtY29tbXVuaXR5LWRyaXZlbi1saW51eC1vcy1hdC1mb3NzYXNpYS1zdW1taXQv0gEA?oc=5",
+          "publishedOn": "2023-04-08T09:06:18.000Z",
+          "wordCount": 6048,
+          "title": "AlmaLinux to Showcase its Community-Driven Linux OS at ... - AiThority",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiPWh0dHBzOi8vd3d3LmVzZWN1cml0eXBsYW5ldC5jb20vbmV0d29ya3Mva2FsaS1saW51eC10dXRvcmlhbC_SAQA",
           "author": null,
@@ -8504,256 +8294,6 @@
           "wordCount": 6138,
           "title": "Global and China Automotive Operating System (OS) Industry ... - Business Wire",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm92by1MaW51eEJvb3QtQnl0ZURhbmNl0gEA",
-          "author": null,
-          "description": "Lenovo Begins Supporting LinuxBoot Firmware With ByteDance  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xlbm92by1MaW51eEJvb3QtQnl0ZURhbmNl0gEA?oc=5",
-          "publishedOn": "2023-03-10T13:30:00.000Z",
-          "wordCount": 6138,
-          "title": "Lenovo Begins Supporting LinuxBoot Firmware With ByteDance - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAzLzEwL3RoaW5rcGFkX3gxY19nMTBfbGludXgv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzAzLzEwL3RoaW5rcGFkX3gxY19nMTBfbGludXgv",
-          "author": null,
-          "description": "The ThinkPad X1 Carbon Gen 10 as a Linux laptop  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzAzLzEwL3RoaW5rcGFkX3gxY19nMTBfbGludXgv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzAzLzEwL3RoaW5rcGFkX3gxY19nMTBfbGludXgv?oc=5",
-          "publishedOn": "2023-03-10T12:30:00.000Z",
-          "wordCount": 6138,
-          "title": "The ThinkPad X1 Carbon Gen 10 as a Linux laptop - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvbm8tdHJ1bmV4dC1nZW4tc3RlYW0tZGVjay1mb3ItYS1mZXcteWVhcnMtdmFsdmUtc2F5L2NvbW1lbnRfaWQ9MjQwOTI50gEA",
-          "author": null,
-          "description": "No true next-gen Steam Deck for 'a few years' Valve say  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvbm8tdHJ1bmV4dC1nZW4tc3RlYW0tZGVjay1mb3ItYS1mZXcteWVhcnMtdmFsdmUtc2F5L2NvbW1lbnRfaWQ9MjQwOTI50gEA?oc=5",
-          "publishedOn": "2023-03-10T12:22:40.000Z",
-          "wordCount": 6138,
-          "title": "No true next-gen Steam Deck for 'a few years' Valve say - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvbm8tdHJ1bmV4dC1nZW4tc3RlYW0tZGVjay1mb3ItYS1mZXcteWVhcnMtdmFsdmUtc2F5L9IBAA",
-          "author": null,
-          "description": "No true next-gen Steam Deck for 'a few years' Valve say  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvbm8tdHJ1bmV4dC1nZW4tc3RlYW0tZGVjay1mb3ItYS1mZXcteWVhcnMtdmFsdmUtc2F5L9IBAA?oc=5",
-          "publishedOn": "2023-03-10T12:22:40.000Z",
-          "wordCount": 6138,
-          "title": "No true next-gen Steam Deck for 'a few years' Valve say - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvaHVtYmxlLWhlcm9pbmVzLWJ1bmRsZS1hbi1hd2Vzb21lLWRlYWwtZm9yLXN0ZWFtLWRlY2stYW5kLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "The Humble Heroines Bundle is an awesome deal for Steam Deck ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvaHVtYmxlLWhlcm9pbmVzLWJ1bmRsZS1hbi1hd2Vzb21lLWRlYWwtZm9yLXN0ZWFtLWRlY2stYW5kLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2023-03-10T12:04:05.000Z",
-          "wordCount": 6138,
-          "title": "The Humble Heroines Bundle is an awesome deal for Steam Deck ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYWV0aGVybWFuY2VyLWNyZWF0dXJlLWNvbGxlY3Rvci1yb2d1ZS1saXRlLWZyb20tdGhlLWRldi1vZi1tb25zdGVyLXNhbmN0dWFyeS_SAQA",
-          "author": null,
-          "description": "Aethermancer is a new creature collector rogue-lite from the dev of ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYWV0aGVybWFuY2VyLWNyZWF0dXJlLWNvbGxlY3Rvci1yb2d1ZS1saXRlLWZyb20tdGhlLWRldi1vZi1tb25zdGVyLXNhbmN0dWFyeS_SAQA?oc=5",
-          "publishedOn": "2023-03-10T11:54:16.000Z",
-          "wordCount": 6138,
-          "title": "Aethermancer is a new creature collector rogue-lite from the dev of ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcHJvdG9uLWhvdGZpeC11cGRhdGVkLWZvci1yZXNpZGVudC1ldmlsLTQtcmVtYWtlLXN0ZWFtLWRlY2stbmVlZHMtc3RlYW1vcy0zNDYtcHJldmlldy_SAQA",
-          "author": null,
-          "description": "Proton Hotfix updated for Resident Evil 4 remake, Steam Deck ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcHJvdG9uLWhvdGZpeC11cGRhdGVkLWZvci1yZXNpZGVudC1ldmlsLTQtcmVtYWtlLXN0ZWFtLWRlY2stbmVlZHMtc3RlYW1vcy0zNDYtcHJldmlldy_SAQA?oc=5",
-          "publishedOn": "2023-03-10T11:41:37.000Z",
-          "wordCount": 6138,
-          "title": "Proton Hotfix updated for Resident Evil 4 remake, Steam Deck ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zaWR1Y3Rpb24tMjAyMi0xLTEtbWFzdGVycy1vZi13YXItYXJyaXZlcy13aXRoLWxpbnV4LWtlcm5lbC02LTItYW5kLWtkZS1wbGFzbWEtNS0yN9IBbWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zaWR1Y3Rpb24tMjAyMi0xLTEtbWFzdGVycy1vZi13YXItYXJyaXZlcy13aXRoLWxpbnV4LWtlcm5lbC02LTItYW5kLWtkZS1wbGFzbWEtNS0yNy9hbXA",
-          "author": null,
-          "description": "siduction 2022.1.1 “Masters of War” Arrives with Linux Kernel 6.2 and KDE Plasma 5.27  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zaWR1Y3Rpb24tMjAyMi0xLTEtbWFzdGVycy1vZi13YXItYXJyaXZlcy13aXRoLWxpbnV4LWtlcm5lbC02LTItYW5kLWtkZS1wbGFzbWEtNS0yN9IBbWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zaWR1Y3Rpb24tMjAyMi0xLTEtbWFzdGVycy1vZi13YXItYXJyaXZlcy13aXRoLWxpbnV4LWtlcm5lbC02LTItYW5kLWtkZS1wbGFzbWEtNS0yNy9hbXA?oc=5",
-          "publishedOn": "2023-03-10T11:04:27.000Z",
-          "wordCount": 6138,
-          "title": "siduction 2022.1.1 “Masters of War” Arrives with Linux Kernel 6.2 and KDE Plasma 5.27 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1yZXBsYWNlLXdpbmRvd3Mtd2l0aC1saW51eC1taW50LW9uLXlvdXItcGMv0gFbaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9ob3ctdG8tcmVwbGFjZS13aW5kb3dzLXdpdGgtbGludXgtbWludC1vbi15b3VyLXBjLw",
-          "author": null,
-          "description": "How to replace Windows with Linux Mint on your PC  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1yZXBsYWNlLXdpbmRvd3Mtd2l0aC1saW51eC1taW50LW9uLXlvdXItcGMv0gFbaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9ob3ctdG8tcmVwbGFjZS13aW5kb3dzLXdpdGgtbGludXgtbWludC1vbi15b3VyLXBjLw?oc=5",
-          "publishedOn": "2023-03-09T22:28:07.000Z",
-          "wordCount": 6138,
-          "title": "How to replace Windows with Linux Mint on your PC - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9lbmRwb2ludC9pY2VmaXJlLXJhbnNvbXdhcmUtcG9ydGVuZHMtYnJvYWRlci1zaGlmdC13aW5kb3dzLWxpbnV40gEA",
-          "author": null,
-          "description": "IceFire Ransomware Portends a Broader Shift From Windows to Linux  Dark Reading",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9lbmRwb2ludC9pY2VmaXJlLXJhbnNvbXdhcmUtcG9ydGVuZHMtYnJvYWRlci1zaGlmdC13aW5kb3dzLWxpbnV40gEA?oc=5",
-          "publishedOn": "2023-03-09T21:59:19.000Z",
-          "wordCount": 6138,
-          "title": "IceFire Ransomware Portends a Broader Shift From Windows to Linux - Dark Reading",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkwMjcxL3NhdmluZy1jb21tYW5kcy10by1hLWZpbGUtdXNpbmctY3RybC14LWUuaHRtbNIBXmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkwMjcxL3NhdmluZy1jb21tYW5kcy10by1hLWZpbGUtdXNpbmctY3RybC14LWUuYW1wLmh0bWw",
-          "author": null,
-          "description": "Saving commands to a file using Ctrl-x-e  Network World",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkwMjcxL3NhdmluZy1jb21tYW5kcy10by1hLWZpbGUtdXNpbmctY3RybC14LWUuaHRtbNIBXmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkwMjcxL3NhdmluZy1jb21tYW5kcy10by1hLWZpbGUtdXNpbmctY3RybC14LWUuYW1wLmh0bWw?oc=5",
-          "publishedOn": "2023-03-09T21:01:00.000Z",
-          "wordCount": 6138,
-          "title": "Saving commands to a file using Ctrl-x-e - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9ydW1ibGUtc3VwcG9ydC1mb3IteGJveC1jb250cm9sbGVycy1vbi1saW51eC1jb3VsZC1hcnJpdmUtc29vbi_SAVpodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9ydW1ibGUtc3VwcG9ydC1mb3IteGJveC1jb250cm9sbGVycy1vbi1saW51eC1jb3VsZC1hcnJpdmUtc29vbi8",
-          "author": null,
-          "description": "Rumble support for Xbox controllers on Linux could arrive soon  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9ydW1ibGUtc3VwcG9ydC1mb3IteGJveC1jb250cm9sbGVycy1vbi1saW51eC1jb3VsZC1hcnJpdmUtc29vbi_SAVpodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9ydW1ibGUtc3VwcG9ydC1mb3IteGJveC1jb250cm9sbGVycy1vbi1saW51eC1jb3VsZC1hcnJpdmUtc29vbi8?oc=5",
-          "publishedOn": "2023-03-09T20:58:00.000Z",
-          "wordCount": 6138,
-          "title": "Rumble support for Xbox controllers on Linux could arrive soon - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW5zdGFsbC1zbGFjay1vbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Install Slack on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW5zdGFsbC1zbGFjay1vbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-03-09T20:00:00.000Z",
-          "wordCount": 6138,
-          "title": "How to Install Slack on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbmdvdmVyLTAuOC4z0gEA",
-          "author": null,
-          "description": "Hangover 0.8.3 Released For Enjoying Windows x86/x86_64 Apps/Games On Linux ARM64  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbmdvdmVyLTAuOC4z0gEA?oc=5",
-          "publishedOn": "2023-03-09T19:30:00.000Z",
-          "wordCount": 6138,
-          "title": "Hangover 0.8.3 Released For Enjoying Windows x86/x86_64 Apps/Games On Linux ARM64 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL29mZmVyL2RlYWxzL21hc3Rlci1saW51eC1hbmQtZ2V0LWNlcnRpZmllZC13aXRoLXRoaXMtdHJhaW5pbmctYnVuZGxlLWRlYWwv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vb2ZmZXIvZGVhbHMvbWFzdGVyLWxpbnV4LWFuZC1nZXQtY2VydGlmaWVkLXdpdGgtdGhpcy10cmFpbmluZy1idW5kbGUtZGVhbC9hbXAv",
-          "author": null,
-          "description": "Master Linux and get certified with this training bundle deal  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL29mZmVyL2RlYWxzL21hc3Rlci1saW51eC1hbmQtZ2V0LWNlcnRpZmllZC13aXRoLXRoaXMtdHJhaW5pbmctYnVuZGxlLWRlYWwv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vb2ZmZXIvZGVhbHMvbWFzdGVyLWxpbnV4LWFuZC1nZXQtY2VydGlmaWVkLXdpdGgtdGhpcy10cmFpbmluZy1idW5kbGUtZGVhbC9hbXAv?oc=5",
-          "publishedOn": "2023-03-09T19:08:04.000Z",
-          "wordCount": 6138,
-          "title": "Master Linux and get certified with this training bundle deal - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc3BlZWRyZWFkLWxpbnV4LXJhcGlkbHktYXNzaW1pbGF0ZS10ZXh0LWRvY3VtZW50cy_SAQA",
-          "author": null,
-          "description": "speedread Lets You Rapidly Assimilate Text Documents on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc3BlZWRyZWFkLWxpbnV4LXJhcGlkbHktYXNzaW1pbGF0ZS10ZXh0LWRvY3VtZW50cy_SAQA?oc=5",
-          "publishedOn": "2023-03-09T18:30:00.000Z",
-          "wordCount": 6138,
-          "title": "speedread Lets You Rapidly Assimilate Text Documents on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcHJlcGFyZS10by1zZWUtYS1sb3QtbW9yZS1vZi1lcGljLW9ubGluZS1zZXJ2aWNlcy13aXRoLWVwaWNzLW5ldy1zZWxmLXB1Ymxpc2hpbmcv0gEA",
-          "author": null,
-          "description": "Prepare to see a lot more of Epic Online Services, with Epic's new ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvcHJlcGFyZS10by1zZWUtYS1sb3QtbW9yZS1vZi1lcGljLW9ubGluZS1zZXJ2aWNlcy13aXRoLWVwaWNzLW5ldy1zZWxmLXB1Ymxpc2hpbmcv0gEA?oc=5",
-          "publishedOn": "2023-03-09T17:08:02.000Z",
-          "wordCount": 6138,
-          "title": "Prepare to see a lot more of Epic Online Services, with Epic's new ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LWRpc3Ryby1yZXZpZXdzLW9wZW5zdXNlLXR1bWJsZXdlZWQtcGFydC0xL9IBAA",
-          "author": null,
-          "description": "Linux Distro Reviews: openSUSE Tumbleweed — Part 1  WebProNews",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2xpbnV4LWRpc3Ryby1yZXZpZXdzLW9wZW5zdXNlLXR1bWJsZXdlZWQtcGFydC0xL9IBAA?oc=5",
-          "publishedOn": "2023-03-09T16:33:45.000Z",
-          "wordCount": 6138,
-          "title": "Linux Distro Reviews: openSUSE Tumbleweed — Part 1 - WebProNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZmQtZmFzdC13YXktdG8tZmluZC1maWxlcy1saW51eC_SAQA",
-          "author": null,
-          "description": "fd Is a Blazingly Fast Way to Find Files on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZmQtZmFzdC13YXktdG8tZmluZC1maWxlcy1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-03-09T16:30:00.000Z",
-          "wordCount": 6138,
-          "title": "fd Is a Blazingly Fast Way to Find Files on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVzdC1saW51eC1mZWF0dXJlcy13aW5kb3dzLWFwcHMv0gEA",
-          "author": null,
-          "description": "How to Get the Best Linux Features With Windows Apps  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVzdC1saW51eC1mZWF0dXJlcy13aW5kb3dzLWFwcHMv0gEA?oc=5",
-          "publishedOn": "2023-03-09T16:15:00.000Z",
-          "wordCount": 6138,
-          "title": "How to Get the Best Linux Features With Windows Apps - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tZW5lcmd5LWFubm91bmNlcy1jb25mZXJlbmNlLXNjaGVkdWxlLWZvci1sZi1lbmVyZ3ktc3VtbWl0LTMwMTc2ODA1Ni5odG1s0gEA",
-          "author": null,
-          "description": "Linux Foundation Energy Announces Conference Schedule for LF ...  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tZW5lcmd5LWFubm91bmNlcy1jb25mZXJlbmNlLXNjaGVkdWxlLWZvci1sZi1lbmVyZ3ktc3VtbWl0LTMwMTc2ODA1Ni5odG1s0gEA?oc=5",
-          "publishedOn": "2023-03-09T14:43:00.000Z",
-          "wordCount": 6138,
-          "title": "Linux Foundation Energy Announces Conference Schedule for LF ... - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmNhcnNjb29wcy5jb20vMjAyMy8wMy9ibXctdXBkYXRlcy1pZHJpdmUtZm9yLWFsbC1jdXJyZW50LW1vZGVscy1haGVhZC1vZi1zd2l0Y2gtdG8tYW5kcm9pZC1wbGF0Zm9ybS_SAXRodHRwczovL3d3dy5jYXJzY29vcHMuY29tLzIwMjMvMDMvYm13LXVwZGF0ZXMtaWRyaXZlLWZvci1hbGwtY3VycmVudC1tb2RlbHMtYWhlYWQtb2Ytc3dpdGNoLXRvLWFuZHJvaWQtcGxhdGZvcm0vYW1wLw",
-          "author": null,
-          "description": "BMW Updates iDrive For All Current Models Ahead Of Switch To Android Platform  CarScoops",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNhcnNjb29wcy5jb20vMjAyMy8wMy9ibXctdXBkYXRlcy1pZHJpdmUtZm9yLWFsbC1jdXJyZW50LW1vZGVscy1haGVhZC1vZi1zd2l0Y2gtdG8tYW5kcm9pZC1wbGF0Zm9ybS_SAXRodHRwczovL3d3dy5jYXJzY29vcHMuY29tLzIwMjMvMDMvYm13LXVwZGF0ZXMtaWRyaXZlLWZvci1hbGwtY3VycmVudC1tb2RlbHMtYWhlYWQtb2Ytc3dpdGNoLXRvLWFuZHJvaWQtcGxhdGZvcm0vYW1wLw?oc=5",
-          "publishedOn": "2023-03-09T14:34:46.000Z",
-          "wordCount": 6138,
-          "title": "BMW Updates iDrive For All Current Models Ahead Of Switch To Android Platform - CarScoops",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYXRhcmlzLTE5ODEtY2xhc3NpYy1yZXZhbXAtY2F2ZXJucy1vZi1tYXJzLXJlY2hhcmdlZC1pcy1vdXQtbm93L9IBAA",
-          "author": null,
-          "description": "Atari's 1981 classic revamp Caverns of Mars: Recharged is out now  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDMvYXRhcmlzLTE5ODEtY2xhc3NpYy1yZXZhbXAtY2F2ZXJucy1vZi1tYXJzLXJlY2hhcmdlZC1pcy1vdXQtbm93L9IBAA?oc=5",
-          "publishedOn": "2023-03-09T14:16:11.000Z",
-          "wordCount": 6138,
-          "title": "Atari's 1981 classic revamp Caverns of Mars: Recharged is out now - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wMy9pY2VmaXJlLWxpbnV4LXJhbnNvbXdhcmUuaHRtbNIBAA",
-          "author": null,
-          "description": "IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wMy9pY2VmaXJlLWxpbnV4LXJhbnNvbXdhcmUuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-03-09T14:01:00.000Z",
-          "wordCount": 6138,
-          "title": "IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaWNlZmlyZS1yYW5zb213YXJlLW5vdy1lbmNyeXB0cy1ib3RoLWxpbnV4LWFuZC13aW5kb3dzLXN5c3RlbXMv0gFyaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9pY2VmaXJlLXJhbnNvbXdhcmUtbm93LWVuY3J5cHRzLWJvdGgtbGludXgtYW5kLXdpbmRvd3Mtc3lzdGVtcy9hbXAv",
-          "author": null,
-          "description": "IceFire ransomware now encrypts both Linux and Windows systems  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaWNlZmlyZS1yYW5zb213YXJlLW5vdy1lbmNyeXB0cy1ib3RoLWxpbnV4LWFuZC13aW5kb3dzLXN5c3RlbXMv0gFyaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9pY2VmaXJlLXJhbnNvbXdhcmUtbm93LWVuY3J5cHRzLWJvdGgtbGludXgtYW5kLXdpbmRvd3Mtc3lzdGVtcy9hbXAv?oc=5",
-          "publishedOn": "2023-03-09T14:00:00.000Z",
-          "wordCount": 6138,
-          "title": "IceFire ransomware now encrypts both Linux and Windows systems - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8978,21 +8518,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
-          "link": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
-          "publishedOn": "2023-03-10T08:00:00.000Z",
-          "wordCount": 4571,
-          "title": "A Pragmatist’s Guide To Lean User Research",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/pragmatists-guide-lean-user-research/pragmatists-guide-lean-user-research.jpg"
         }
       ]
     },
@@ -10520,36 +10045,6 @@
           "wordCount": 3730,
           "title": "How to Build Forms in React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-rodnae-productions-7821577.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "author": "Rufai Mustapha",
-          "description": "Tour Afrique",
-          "link": "https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/",
-          "publishedOn": "2023-03-09T19:43:56.000Z",
-          "wordCount": 1993,
-          "title": "How to Make a Clickable SVG Map With HTML and CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/amy-youtube--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "author": "Oluseye Jeremiah",
-          "description": "Machine learning has become a popular field in recent years, with various applications in data analysis, computer vision, natural language processing, and more.  Python is one of the most widely used programming languages for machine learning, thanks to its rich ecosystem of libraries, frameworks, and tools.  But to",
-          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/",
-          "publishedOn": "2023-03-09T17:57:45.000Z",
-          "wordCount": 1484,
-          "title": "How to Perform Machine Learning Tasks with Python and SQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/just.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "author": "Nairuz Abulhul",
-          "description": "All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,",
-          "link": "https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/",
-          "publishedOn": "2023-03-09T16:25:31.000Z",
-          "wordCount": 3048,
-          "title": "Exploiting CORS – How to Pentest Cross-Origin Resource Sharing Vulnerabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/possessed-photography-_E1PQXKUkMw-unsplash--4-.jpg"
         }
       ]
     }
