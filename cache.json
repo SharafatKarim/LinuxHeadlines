@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=323185",
+          "author": "Talha Mahmood",
+          "description": "Visit the S3 dashboard to upload the object/data to the S3 bucket and during the process configure the server-side encryption to protect the uploading data.",
+          "link": "https://linuxhint.com/visit-the-s3-dashboard-to-upload-the-object-data-to-the-s3-bucket-and-during-the-process-configure-the-server-side-encryption-to-protect-the-uploading-data/",
+          "publishedOn": "2023-05-08T13:45:19.000Z",
+          "wordCount": 3801,
+          "title": "How Can I Protect My Data Using Server-Side Encryption?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=323173",
+          "author": "Danish Ghafoor",
+          "description": "The CHECK constraint in MySQL is utilized to specify the condition on a particular column that must be fulfilled while inserting or updating any data.",
+          "link": "https://linuxhint.com/how-to-add-or-remove-check-constraint-in-mysql/",
+          "publishedOn": "2023-05-08T13:39:41.000Z",
+          "wordCount": 5343,
+          "title": "How to Add or Remove CHECK Constraint in MySQL?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=323153",
+          "author": "Talha Mahmood",
+          "description": "To configure API keys using Amazon API Gateway, simply create an API key from the dashboard and attach a usage plan to it to complete the configuration.",
+          "link": "https://linuxhint.com/how-to-configure-api-keys-using-the-amazon-api-gateway-console/",
+          "publishedOn": "2023-05-08T13:27:08.000Z",
+          "wordCount": 4031,
+          "title": "How to Configure API Keys Using the Amazon API Gateway Console?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322887",
+          "author": "Kaynat Asif",
+          "description": "The C# programming language used Console.ReadLine() and Console.WriteLine() methods for implementing the user input and output on the terminal.",
+          "link": "https://linuxhint.com/basic-user-input-output-csharp/",
+          "publishedOn": "2023-05-08T00:33:33.000Z",
+          "wordCount": 3919,
+          "title": "Basic user Input and Output usage in C#",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322877",
+          "author": "Zainab Rehman",
+          "description": "The include() and require() constructors are used in PHP to move the data of one file into the other file. Follow this guide to learn the difference between them.",
+          "link": "https://linuxhint.com/include-vs-require-functions-php/",
+          "publishedOn": "2023-05-08T00:28:15.000Z",
+          "wordCount": 3880,
+          "title": "All About include() and require() Functions in PHP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322224",
+          "author": "John Otieno",
+          "description": "Practical tutorial on working with a Kafka topic using the Kafka CLI tools, how we can create a topic, how to write to a topic, and how to read from a topic.",
+          "link": "https://linuxhint.com/create-topic-apache-kafka-2/",
+          "publishedOn": "2023-05-06T07:26:23.000Z",
+          "wordCount": 4161,
+          "title": "Create a Topic in Apache Kafka",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322189",
+          "author": "John Otieno",
+          "description": "Practical tutorial on what the Kafka transformations are, its various types, their role, and how to work with the peek() transformation in Apache Kafka.",
+          "link": "https://linuxhint.com/apache-kafka-streams-peek-transformations/",
+          "publishedOn": "2023-05-06T07:25:41.000Z",
+          "wordCount": 3978,
+          "title": "Apache Kafka Streams Peek Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322188",
+          "author": "John Otieno",
+          "description": "Practical guide on the fundamentals of working with Kafka Streams map transformation and how we could use it to convert a stream of integers to string values.",
+          "link": "https://linuxhint.com/apache-kafka-streams-map-transformations/",
+          "publishedOn": "2023-05-06T07:25:27.000Z",
+          "wordCount": 4053,
+          "title": "Apache Kafka Streams Map Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322186",
+          "author": "John Otieno",
+          "description": "Practical tutorial on the basics of working with hopping time window transformations in Kafka Streams to allow for continuous processing of the stream.",
+          "link": "https://linuxhint.com/apache-kafka-streams-hopping-time-window-transformations/",
+          "publishedOn": "2023-05-06T07:25:20.000Z",
+          "wordCount": 3816,
+          "title": "Apache Kafka Streams Hopping Time Window Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322187",
+          "author": "John Otieno",
+          "description": "Tutorial on the inverse filter transform in Apache Kafka Streams, how it works, and how we can use it to exclude the results that match a given condition.",
+          "link": "https://linuxhint.com/apache-kafka-streams-inverse-filter-transformations/",
+          "publishedOn": "2023-05-06T07:25:13.000Z",
+          "wordCount": 3906,
+          "title": "Apache Kafka Streams Inverse Filter Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322185",
+          "author": "John Otieno",
+          "description": "Tutorial on what the groupByKey transformation means when it comes to Kafka streams, the Kafka groupByKey() method in Java, how it works, and how to use it.Tutorial on what the groupByKey transformation means when it comes to Kafka streams, the Kafka groupByKey() method in Java, how it works, and how to use it.",
+          "link": "https://linuxhint.com/apache-kafka-streams-groupbykey-transformations/",
+          "publishedOn": "2023-05-06T07:24:47.000Z",
+          "wordCount": 3790,
+          "title": "Apache Kafka Streams GroupByKey Transformation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322172",
+          "author": "John Otieno",
+          "description": "Practical guide on how to work with Kafka Streams branch transformation to branch the data from a source stream into multiple substreams based on a condition.",
+          "link": "https://linuxhint.com/apache-kafka-streams-branch-transformations/",
+          "publishedOn": "2023-05-06T07:24:30.000Z",
+          "wordCount": 3830,
+          "title": "Apache Kafka Streams Branch Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322173",
+          "author": "John Otieno",
+          "description": "Practical tutorial on how to work with the Kafka Streams cogroup transformation using the KStream API in the Kafka streams library and the cogroup method.",
+          "link": "https://linuxhint.com/apache-kafka-streams-cogroup-transformations/",
+          "publishedOn": "2023-05-06T07:24:15.000Z",
+          "wordCount": 3811,
+          "title": "Apache Kafka Streams Cogroup Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322176",
+          "author": "John Otieno",
+          "description": "Practical guide on the ForEach transformation in a Kafka stream, how it works, hwo to apply it, and how to use it to operate on each record in a given stream.",
+          "link": "https://linuxhint.com/apache-kafka-streams-foreach-transformations/",
+          "publishedOn": "2023-05-06T07:23:58.000Z",
+          "wordCount": 3949,
+          "title": "Apache Kafka Streams ForEach Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322175",
+          "author": "John Otieno",
+          "description": "Practical guide on what the Kafka Streams flatmap transformation does, how it works, and how we can use it in a Kafka Streams application along with examples.",
+          "link": "https://linuxhint.com/apache-kafka-streams-flatmap-transformations/",
+          "publishedOn": "2023-05-06T07:23:41.000Z",
+          "wordCount": 3837,
+          "title": "Apache Kafka Streams FlatMap Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322174",
+          "author": "John Otieno",
+          "description": "Guide on how to use the Kafka Streams platform to build the stream processing applications using a high-level DSL to process and analyze the data in real-time.",
+          "link": "https://linuxhint.com/apache-kafka-streams-count-transformations/",
+          "publishedOn": "2023-05-06T07:23:31.000Z",
+          "wordCount": 3965,
+          "title": "Apache Kafka Streams Count Transformations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322212",
+          "author": "John Otieno",
+          "description": "Guide on how to use a JSON file to update the replication factor of a given topic in Kafka and how to modify the replication factor of an existing Kafka topic.",
+          "link": "https://linuxhint.com/change-replication-factor-apache-kafka/",
+          "publishedOn": "2023-05-06T07:22:02.000Z",
+          "wordCount": 3976,
+          "title": "How to Change the Replication Factor in Apache Kafka",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322243",
+          "author": "Abdul Moeed",
+          "description": "The space between the table columns can be added with the help of padding left and right properties. These add space from the right and left directions.",
+          "link": "https://linuxhint.com/how-add-space-between-columns-without-affecting-rows-html-table/",
+          "publishedOn": "2023-05-06T07:21:51.000Z",
+          "wordCount": 3945,
+          "title": "How to Add Space Between Columns without Affecting Rows in an HTML Table?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322242",
+          "author": "Abdul Moeed",
+          "description": "To add a double border, use :before CSS selectors with the position set to relative in main and absolute in the new div with content property.",
+          "link": "https://linuxhint.com/how-to-add-double-border-with-different-color/",
+          "publishedOn": "2023-05-06T07:21:39.000Z",
+          "wordCount": 3870,
+          "title": "How to Add a Double Border with Different Colors?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322241",
+          "author": "John Otieno",
+          "description": "Tutorial on how you can configure and run the Apache Kafka from a docker compose YAML configuration file and how to deploy a Kafka cluster using the docker.",
+          "link": "https://linuxhint.com/deploy-apache-kafka-with-docker-compose/",
+          "publishedOn": "2023-05-06T07:21:31.000Z",
+          "wordCount": 4145,
+          "title": "Deploy Apache Kafka with Docker Compose",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322240",
+          "author": "Aaliyan Javaid",
+          "description": "Dependency Injection is a programming design pattern that helps to reduce the coupling between software components.",
+          "link": "https://linuxhint.com/dependency-injection-csharp/",
+          "publishedOn": "2023-05-06T07:21:17.000Z",
+          "wordCount": 4405,
+          "title": "Dependency Injection C#",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322239",
+          "author": "John Otieno",
+          "description": "How to create a partition in the Apache Kafka cluster and how you can configure the number of partitions of a given topic using the kafka-topics.sh command.",
+          "link": "https://linuxhint.com/create-apache-kafka-partitions/",
+          "publishedOn": "2023-05-06T07:21:05.000Z",
+          "wordCount": 3886,
+          "title": "Create Apache Kafka Partitions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322223",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on how to configure and create a basic Kafka consumer application using the CLI tools and understand its various functionalities.",
+          "link": "https://linuxhint.com/create-apache-kafka-consumer/",
+          "publishedOn": "2023-05-06T07:20:29.000Z",
+          "wordCount": 4169,
+          "title": "Create an Apache Kafka Consumer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=322222",
+          "author": "John Otieno",
+          "description": "The basics of configuring the Kafka ACL features to define who or what has the authorization to approach the resource and what nature of admittance they have",
+          "link": "https://linuxhint.com/configure-apache-kafka-acl-security/",
+          "publishedOn": "2023-05-06T07:20:16.000Z",
+          "wordCount": 3876,
+          "title": "Configure the Apache Kafka ACL for Security",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=320116",
           "author": "John Otieno",
           "description": "Comprehensive tutorial on how to quickly set up the basic Kafka producer and consumer applications using the Rust programming language along with examples.",
@@ -1250,146 +1490,6 @@
           "wordCount": 4090,
           "title": "How to Use break Statement in C++",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=155046",
-          "author": "Dave Sumaylo",
-          "description": "The len() method can be used to find the length of a Python Dictionary. This len() method works for nested Dictionaries as well.",
-          "link": "https://linuxhint.com/python-dictionary-length/",
-          "publishedOn": "2023-04-11T06:47:57.000Z",
-          "wordCount": 4080,
-          "title": "Length of Dictionary Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=183656",
-          "author": "Kevin Reursora",
-          "description": "To Get the class name of an object/variable in Python, the user can use the type() method, the __class__ attribute, or the __class__.__name__ attribute.",
-          "link": "https://linuxhint.com/get-class-name-python/",
-          "publishedOn": "2023-04-11T06:32:12.000Z",
-          "wordCount": 3906,
-          "title": "Get a Class Name in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=146264",
-          "author": "Dave Sumaylo",
-          "description": "To remove an element(s) from a set in Python, use the remove() method, the discard() method, the difference() method, or the subtraction operator.",
-          "link": "https://linuxhint.com/remove-element-from-set-python/",
-          "publishedOn": "2023-04-11T06:03:20.000Z",
-          "wordCount": 3971,
-          "title": "How to Remove an Element From a Set in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=146811",
-          "author": "Kevin Reursora",
-          "description": "This error is caused by calling a variable with parenthesis when it is neither a module nor a function. Also, due to an invalid call to imported module’s method",
-          "link": "https://linuxhint.com/python-object-not-callable-error/",
-          "publishedOn": "2023-04-11T05:48:41.000Z",
-          "wordCount": 3942,
-          "title": "Python Object is Not Callable Error",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=183607",
-          "author": "Kevin Reursora",
-          "description": "To convert a list of tuples into a dictionary in Python, use the dict() constructor with either the list comprehension approach or the map() method.",
-          "link": "https://linuxhint.com/convert-list-tuples-dictionary-python/",
-          "publishedOn": "2023-04-11T05:41:41.000Z",
-          "wordCount": 3844,
-          "title": "Convert a List of Tuples to a Dictionary in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=204326",
-          "author": "Dave Sumaylo",
-          "description": "To instantiate a class in Python, simply create a variable and set it equal to a call to the class name with parenthesis, similar to calling a function.",
-          "link": "https://linuxhint.com/instantiate-class-python/",
-          "publishedOn": "2023-04-11T05:22:31.000Z",
-          "wordCount": 4015,
-          "title": "How to Instantiate a Class in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=129412",
-          "author": "Dave Sumaylo",
-          "description": "To remove all None values, use the remove() with __contains__(), list comprehension with if condition, or the filter() method with Lambda statement.",
-          "link": "https://linuxhint.com/remove-none-from-the-list-python/",
-          "publishedOn": "2023-04-11T05:07:21.000Z",
-          "wordCount": 3891,
-          "title": "Remove None from the List Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=156634",
-          "author": "Kevin Reursora",
-          "description": "To create Radio Buttons in Tkinter, use the Radiobutton() method and pass frame, value, text, variable, and command in the arguments.",
-          "link": "https://linuxhint.com/radiobutton-tkinter/",
-          "publishedOn": "2023-04-11T05:04:27.000Z",
-          "wordCount": 3815,
-          "title": "Tkinter Radiobutton",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=136178",
-          "author": "Kevin Reursora",
-          "description": "The decode() method is used to decode an already encoded string. To do this, you need to specify the encoding format that was used on the original string.",
-          "link": "https://linuxhint.com/python-string-decode-method/",
-          "publishedOn": "2023-04-11T04:58:53.000Z",
-          "wordCount": 3700,
-          "title": "Python String Decode Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=128583",
-          "author": "Kevin Reursora",
-          "description": "The user can use various approaches to find duplicates in a list including the conversion of a list into a set, the use of the count() or the if-not condition.",
-          "link": "https://linuxhint.com/python-count-duplicate-list/",
-          "publishedOn": "2023-04-11T04:48:24.000Z",
-          "wordCount": 3920,
-          "title": "Python Count Duplicate in the List",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=135450",
-          "author": "Kevin Reursora",
-          "description": "To encrypt strings in Python, you can use the fernet module from the cryptography library. Otherwise, you can utilize the rsa library.",
-          "link": "https://linuxhint.com/encrypt-string-python/",
-          "publishedOn": "2023-04-11T04:18:52.000Z",
-          "wordCount": 3842,
-          "title": "Python Encrypt String",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=156406",
-          "author": "Kevin Reursora",
-          "description": "For the Tkinter window, set the size using the geometry() method, minimum size using the minsize() method and fullscreen it using the attributes() method.",
-          "link": "https://linuxhint.com/tkinter-set-window-size/",
-          "publishedOn": "2023-04-11T04:10:18.000Z",
-          "wordCount": 3849,
-          "title": "Tkinter Set Window Size",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=217692",
-          "author": "Dave Sumaylo",
-          "description": "The Tkinter window font can easily be configured by using the configure() method by setting the value of font argument or the option_add() method.",
-          "link": "https://linuxhint.com/tkinter-fonts/",
-          "publishedOn": "2023-04-11T03:29:33.000Z",
-          "wordCount": 4003,
-          "title": "Tkinter Fonts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=136661",
-          "author": "Dave Sumaylo",
-          "description": "To convert Python Objects into Python string, the user can make use of the str() constructor method and the repr() method.",
-          "link": "https://linuxhint.com/python-object-to-string/",
-          "publishedOn": "2023-04-10T19:02:21.000Z",
-          "wordCount": 3874,
-          "title": "Python Object to String",
-          "imageUrl": null
         }
       ]
     },
@@ -1398,6 +1498,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183478",
+          "author": "Web Webster",
+          "description": "In this post, we will cover how to set up two node high-availability Apache clusters using pacemaker on RHEL 9 and 8.\nThe post How to Set Up High Availability Apache Cluster on RHEL 9, 8 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-set-up-high-availability-apache-cluster-on-rhel-9-8/",
+          "publishedOn": "2023-05-11T00:00:28.000Z",
+          "wordCount": 17175,
+          "title": "How to Set Up High Availability Apache Cluster on RHEL 9, 8",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183477",
+          "author": "Web Webster",
+          "description": "Get the best fontsfor your terminal to improve the look and readability as well as have a fun experience with the terminal.\nThe post 10 Beautiful Fonts for Your Linux Terminal appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/10-beautiful-fonts-for-your-linux-terminal/",
+          "publishedOn": "2023-05-10T22:00:27.000Z",
+          "wordCount": 17172,
+          "title": "10 Beautiful Fonts for Your Linux Terminal",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183476",
+          "author": "Web Webster",
+          "description": "This article provides a few command-line tips on how you can delete a large directory that contains thousands of files in a Linux system.\nThe post How to Delete Large Directory With Thousands of Files in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-delete-large-directory-with-thousands-of-files-in-linux/",
+          "publishedOn": "2023-05-10T20:00:25.000Z",
+          "wordCount": 17178,
+          "title": "How to Delete Large Directory With Thousands of Files in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183475",
+          "author": "Web Webster",
+          "description": "Psensor is a GTK+-based application software used to monitor hardware temperature and plot real-time graphs from the obtained data.\nThe post Psensor: Monitor Linux Hardware Temperature appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/psensor-monitor-linux-hardware-temperature/",
+          "publishedOn": "2023-05-10T18:00:23.000Z",
+          "wordCount": 17148,
+          "title": "Psensor: Monitor Linux Hardware Temperature",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183472",
+          "author": "Web Webster",
+          "description": "Choose from a wide variety of Linux text editors, from lightweight and simple to powerful and highly customizable.\nThe post Linux Text Editors Cheat Sheet appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/linux-text-editors-cheat-sheet/",
+          "publishedOn": "2023-05-10T17:00:33.000Z",
+          "wordCount": 17143,
+          "title": "Linux Text Editors Cheat Sheet",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183466",
+          "author": "Web Webster",
+          "description": "Linux System Backup and Restore commands allow you to create a backup of important data, which can be restored in case of failure or disaster.\nThe post Linux System Backup and Restore Commands Cheat Sheet appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/linux-system-backup-and-restore-commands-cheat-sheet/",
+          "publishedOn": "2023-05-10T16:00:10.000Z",
+          "wordCount": 17170,
+          "title": "Linux System Backup and Restore Commands Cheat Sheet",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183465",
+          "author": "Web Webster",
+          "description": "Check out this overview of Kali Linux, which gives you basic information about its features, tools, and everything you need to know.\nThe post Introduction to Kali Linux: Everything You Need to Know appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/introduction-to-kali-linux-everything-you-need-to-know/",
+          "publishedOn": "2023-05-10T15:00:09.000Z",
+          "wordCount": 17171,
+          "title": "Introduction to Kali Linux: Everything You Need to Know",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183464",
+          "author": "Web Webster",
+          "description": "Are you tired of constantly waiting for releases and updates for your Linux system? If so, you might consider switching to a rolling-release distribution.\nThe post 15 Best Rolling-Release Linux Distributions for Daily Use appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/15-best-rolling-release-linux-distributions-for-daily-use/",
+          "publishedOn": "2023-05-10T14:00:08.000Z",
+          "wordCount": 17168,
+          "title": "15 Best Rolling-Release Linux Distributions for Daily Use",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183462",
+          "author": "Web Webster",
+          "description": "In this post, we will briefly discuss the package manager NPX, its usage, and how to install NPX in Linux distributions.\nThe post How to Install NPX in Linux Systems appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-npx-in-linux-systems/",
+          "publishedOn": "2023-05-10T13:00:04.000Z",
+          "wordCount": 17160,
+          "title": "How to Install NPX in Linux Systems",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183508",
+          "author": "Web Webster",
+          "description": "The Firefox 114 release, which is currently in the beta channel, promises to introduce several new security features.\nThe post Firefox 114 Beta Revamps DNS, Adds Cookie Banner Reduction appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/firefox-114-beta-revamps-dns-adds-cookie-banner-reduction/",
+          "publishedOn": "2023-05-10T02:00:20.000Z",
+          "wordCount": 17180,
+          "title": "Firefox 114 Beta Revamps DNS, Adds Cookie Banner Reduction",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=183507",
           "author": "Web Webster",
@@ -3507,96 +3707,6 @@
           "wordCount": 17106,
           "title": "trurl: Command-Line Tool for URL Parsing, Manipulation URL",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182977",
-          "author": "Web Webster",
-          "description": "DietPi is a lightweight Debian-based Linux distribution for SBCs and server systems. Check out the highlights of the latest DietPi v8.16 release.\nThe post DietPi v8.16 Release Highlights appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/dietpi-v8-16-release-highlights/",
-          "publishedOn": "2023-04-11T13:00:55.000Z",
-          "wordCount": 17081,
-          "title": "DietPi v8.16 Release Highlights",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182971",
-          "author": "Web Webster",
-          "description": "Landscape 23.03 makes managing all Ubuntu versions and derivatives, as well as Debian Bullseye, easier than ever. Learn more here.\nThe post Landscape 23.03: Streamlining Ubuntu Linux Management appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/canonical-unveils-landscape-23-03/",
-          "publishedOn": "2023-04-11T02:00:06.000Z",
-          "wordCount": 17088,
-          "title": "Landscape 23.03: Streamlining Ubuntu Linux Management",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182969",
-          "author": "Web Webster",
-          "description": "Flathub Beta is the software update that Linux users have been waiting for, including a sleek, brand-new design and exciting new features.\nThe post Flathub Beta Has a Sleek New Design and Exciting Features appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/flathub-beta/",
-          "publishedOn": "2023-04-11T00:00:09.000Z",
-          "wordCount": 17116,
-          "title": "Flathub Beta Has a Sleek New Design and Exciting Features",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182968",
-          "author": "Web Webster",
-          "description": "KDE Frameworks 5.105 looks like a small update that only improves support for Flatpak apps, so they respect the Breeze icon theme. Learn more here.\nThe post KDE Frameworks 5.105 Improves Support for Flatpak Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/kde-frameworks-5-105-release/",
-          "publishedOn": "2023-04-10T22:00:11.000Z",
-          "wordCount": 17110,
-          "title": "KDE Frameworks 5.105 Improves Support for Flatpak Apps",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182967",
-          "author": "Web Webster",
-          "description": "A test drive of the new Ubuntu minimal ISO file for the 23.04 “Lunar Lobster” release and details of its features and steps.\nThe post Ubuntu 23.04 Minimal ISO: A Test Drive appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ubuntu-23-04-minimal-iso-test-drive/",
-          "publishedOn": "2023-04-10T20:00:18.000Z",
-          "wordCount": 17096,
-          "title": "Ubuntu 23.04 Minimal ISO: A Test Drive",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182964",
-          "author": "Web Webster",
-          "description": "The OpenShot 3.1 update is mostly a bug fix and stability release, improving profiles, the Undo and Redo system, and the Preview and Split Clip dialog. Learn more here.\nThe post OpenShot 3.1 Released With Improved Profiles, More appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/openshot-3-1-release/",
-          "publishedOn": "2023-04-10T18:00:19.000Z",
-          "wordCount": 17109,
-          "title": "OpenShot 3.1 Released With Improved Profiles, More",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182936",
-          "author": "Web Webster",
-          "description": "This tutorial shows how to download and install HPLIP 3.23.3 on Ubuntu, RHEL, Linux Mint, elementary OS, Fedora, and Mx Linux.\nThe post Install HPLIP 3.23.3 on Several Linux Distros appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/install-hplip-3-23-3-on-several-linux-distros/",
-          "publishedOn": "2023-04-10T16:00:30.000Z",
-          "wordCount": 17092,
-          "title": "Install HPLIP 3.23.3 on Several Linux Distros",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182935",
-          "author": "Web Webster",
-          "description": "This tutorial explains how to create a Ubuntu bootable USB drive and how to install Ubuntu 22.04 LTS server version.\nThe post How to Install Ubuntu 22.04 LTS Server Edition appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-ubuntu-22-04-lts-server-edition/",
-          "publishedOn": "2023-04-10T15:00:12.000Z",
-          "wordCount": 17097,
-          "title": "How to Install Ubuntu 22.04 LTS Server Edition",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=182934",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install and configure Varnish with Nginx on Alma Linux 9 systems.\nThe post How to Install Varnish With Nginx on Alma Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-varnish-with-nginx-on-alma-linux-9/",
-          "publishedOn": "2023-04-10T14:00:10.000Z",
-          "wordCount": 17104,
-          "title": "How to Install Varnish With Nginx on Alma Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3606,6 +3716,156 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMihwFodHRwczovL3d3dy5jb3R0b253b29kaG9sbGFkYXlqb3VybmFsLmNvbS8yMDIzLzA1LzExLzQ1NTI2L2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXNpemUtdHJlbmRzLXNoYXJlLWdyb3d0aC1hbmQtZm9yZWNhc3QtdG8tMjAzMC_SAQA",
+          "author": null,
+          "description": "Linux Operating System Market Size, Trends, Share, Growth and ...  Cottonwood Holladay Journal",
+          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jb3R0b253b29kaG9sbGFkYXlqb3VybmFsLmNvbS8yMDIzLzA1LzExLzQ1NTI2L2xpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LXNpemUtdHJlbmRzLXNoYXJlLWdyb3d0aC1hbmQtZm9yZWNhc3QtdG8tMjAzMC_SAQA?oc=5",
+          "publishedOn": "2023-05-11T00:25:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux Operating System Market Size, Trends, Share, Growth and ... - Cottonwood Holladay Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZXNhLTIzLTEtbGludXgtZ3JhcGhpY3Mtc3RhY2stYXJyaXZlcy13aXRoLW1hbnktcmFkdi1pbXByb3ZlbWVudHMtbW9yZdIBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZXNhLTIzLTEtbGludXgtZ3JhcGhpY3Mtc3RhY2stYXJyaXZlcy13aXRoLW1hbnktcmFkdi1pbXByb3ZlbWVudHMtbW9yZS9hbXA",
+          "author": null,
+          "description": "Mesa 23.1 Linux Graphics Stack Arrives with Many RADV Improvements, More  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZXNhLTIzLTEtbGludXgtZ3JhcGhpY3Mtc3RhY2stYXJyaXZlcy13aXRoLW1hbnktcmFkdi1pbXByb3ZlbWVudHMtbW9yZdIBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9tZXNhLTIzLTEtbGludXgtZ3JhcGhpY3Mtc3RhY2stYXJyaXZlcy13aXRoLW1hbnktcmFkdi1pbXByb3ZlbWVudHMtbW9yZS9hbXA?oc=5",
+          "publishedOn": "2023-05-10T23:55:27.000Z",
+          "wordCount": 6018,
+          "title": "Mesa 23.1 Linux Graphics Stack Arrives with Many RADV Improvements, More - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXV0b21hdGUtdmlydHVhbC1tYWNoaW5lLWNyZWF0aW9uLWF6dXJlLXdpdGgtY2xvdWQtaW5pdC_SAQA",
+          "author": null,
+          "description": "How to Automate Virtual Machine Creation in Azure Using cloud-init  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXV0b21hdGUtdmlydHVhbC1tYWNoaW5lLWNyZWF0aW9uLWF6dXJlLXdpdGgtY2xvdWQtaW5pdC_SAQA?oc=5",
+          "publishedOn": "2023-05-10T21:46:00.000Z",
+          "wordCount": 6018,
+          "title": "How to Automate Virtual Machine Creation in Azure Using cloud-init - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLUZvci1SZXZpZXctTGludXjSAQA",
+          "author": null,
+          "description": "Bcachefs Submitted For Review - Next-Gen CoW File-System Aims ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLUZvci1SZXZpZXctTGludXjSAQA?oc=5",
+          "publishedOn": "2023-05-10T19:00:00.000Z",
+          "wordCount": 6018,
+          "title": "Bcachefs Submitted For Review - Next-Gen CoW File-System Aims ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3RvcnkvaW5kZXBlbmRlbnQtZGlzdHJvcy1ibGVuZC1pZGVhcy1hbmQtaW5ub3ZhdGUtdXNlci1leHBlcmllbmNlcy0xNzcwNDguaHRtbNIBAA",
+          "author": null,
+          "description": "Independent Distros Blend Ideas, Innovate User Experiences  LinuxInsider.com",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3RvcnkvaW5kZXBlbmRlbnQtZGlzdHJvcy1ibGVuZC1pZGVhcy1hbmQtaW5ub3ZhdGUtdXNlci1leHBlcmllbmNlcy0xNzcwNDguaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-05-10T16:56:00.000Z",
+          "wordCount": 6018,
+          "title": "Independent Distros Blend Ideas, Innovate User Experiences - LinuxInsider.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODg3NzU3L2hvdy10by11c2UtZ3J1Yi1yZXNjdWUtdG8tZml4LWxpbnV4L9IBSWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODg3NzU3L2hvdy10by11c2UtZ3J1Yi1yZXNjdWUtdG8tZml4LWxpbnV4L2FtcC8",
+          "author": null,
+          "description": "How to Use GRUB Rescue to Fix Linux  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODg3NzU3L2hvdy10by11c2UtZ3J1Yi1yZXNjdWUtdG8tZml4LWxpbnV4L9IBSWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODg3NzU3L2hvdy10by11c2UtZ3J1Yi1yZXNjdWUtdG8tZml4LWxpbnV4L2FtcC8?oc=5",
+          "publishedOn": "2023-05-10T16:00:41.000Z",
+          "wordCount": 6018,
+          "title": "How to Use GRUB Rescue to Fix Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW5zc2Ytd2VsY29tZXMtbmV3LW1lbWJlcnMtdmV0ZXJhbi1jeWJlcnNlY3VyaXR5LWV4cGVydC1hcy1nZW5lcmFsLW1hbmFnZXItYW5kLW5ldy1mdW5kaW5nLTMwMTgyMDI0Ni5odG1s0gEA",
+          "author": null,
+          "description": "OpenSSF Welcomes New Members, Veteran Cybersecurity Expert ...  PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL29wZW5zc2Ytd2VsY29tZXMtbmV3LW1lbWJlcnMtdmV0ZXJhbi1jeWJlcnNlY3VyaXR5LWV4cGVydC1hcy1nZW5lcmFsLW1hbmFnZXItYW5kLW5ldy1mdW5kaW5nLTMwMTgyMDI0Ni5odG1s0gEA?oc=5",
+          "publishedOn": "2023-05-10T16:00:00.000Z",
+          "wordCount": 6018,
+          "title": "OpenSSF Welcomes New Members, Veteran Cybersecurity Expert ... - PR Newswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9yYXNwYmVycnktcGktcGljby1yaXNjLXYtZW11bGF0b3LSAQA",
+          "author": null,
+          "description": "Raspberry Pi Pico RISC-V Emulator Runs Linux  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9yYXNwYmVycnktcGktcGljby1yaXNjLXYtZW11bGF0b3LSAQA?oc=5",
+          "publishedOn": "2023-05-10T15:51:51.000Z",
+          "wordCount": 6018,
+          "title": "Raspberry Pi Pico RISC-V Emulator Runs Linux - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbm93LXdvcmtzLW9uLXN0YXJmaXZlcy12aXNpb25maXZlLTItcmlzYy12LXNpbmdsZS1ib2FyZC1jb21wdXRlctIBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbm93LXdvcmtzLW9uLXN0YXJmaXZlcy12aXNpb25maXZlLTItcmlzYy12LXNpbmdsZS1ib2FyZC1jb21wdXRlci9hbXA",
+          "author": null,
+          "description": "Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V Single-Board Computer  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbm93LXdvcmtzLW9uLXN0YXJmaXZlcy12aXNpb25maXZlLTItcmlzYy12LXNpbmdsZS1ib2FyZC1jb21wdXRlctIBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbm93LXdvcmtzLW9uLXN0YXJmaXZlcy12aXNpb25maXZlLTItcmlzYy12LXNpbmdsZS1ib2FyZC1jb21wdXRlci9hbXA?oc=5",
+          "publishedOn": "2023-05-10T15:07:19.000Z",
+          "wordCount": 6018,
+          "title": "Ubuntu 23.04 Now Works on StarFive’s VisionFive 2 RISC-V Single-Board Computer - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1Bdm9pZC1Vbm5lY2Vzc2FyeS1TTVTSAQA",
+          "author": null,
+          "description": "Linux 6.5 To Boast Improved Handling For Intel Hybrid CPUs With ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1Bdm9pZC1Vbm5lY2Vzc2FyeS1TTVTSAQA?oc=5",
+          "publishedOn": "2023-05-10T14:36:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux 6.5 To Boast Improved Handling For Intel Hybrid CPUs With ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFodHRwczovL3d3dy5laW5uZXdzLmNvbS9wcl9uZXdzLzYyODk5MjAwMy9nbG9iYWwtbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtaXMtcHJvamVjdGVkLXRvLWdyb3ctYXQtYS0xOS1yYXRlLXRocm91Z2gtdGhlLWZvcmVjYXN0LXBlcmlvZNIBkAFodHRwczovL3d3dy5laW5uZXdzLmNvbS9hbXAvcHJfbmV3cy82Mjg5OTIwMDMvZ2xvYmFsLWxpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LWlzLXByb2plY3RlZC10by1ncm93LWF0LWEtMTktcmF0ZS10aHJvdWdoLXRoZS1mb3JlY2FzdC1wZXJpb2Q",
+          "author": null,
+          "description": "Global Linux Operating System Market Is Projected To Grow At A 19% Rate Through The Forecast Period  EIN News",
+          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5laW5uZXdzLmNvbS9wcl9uZXdzLzYyODk5MjAwMy9nbG9iYWwtbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtaXMtcHJvamVjdGVkLXRvLWdyb3ctYXQtYS0xOS1yYXRlLXRocm91Z2gtdGhlLWZvcmVjYXN0LXBlcmlvZNIBkAFodHRwczovL3d3dy5laW5uZXdzLmNvbS9hbXAvcHJfbmV3cy82Mjg5OTIwMDMvZ2xvYmFsLWxpbnV4LW9wZXJhdGluZy1zeXN0ZW0tbWFya2V0LWlzLXByb2plY3RlZC10by1ncm93LWF0LWEtMTktcmF0ZS10aHJvdWdoLXRoZS1mb3JlY2FzdC1wZXJpb2Q?oc=5",
+          "publishedOn": "2023-05-10T14:20:00.000Z",
+          "wordCount": 6018,
+          "title": "Global Linux Operating System Market Is Projected To Grow At A 19% Rate Through The Forecast Period - EIN News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjMwNTEwMDA1NTg5L2VuL1JlZC1IYXQtRGVsaXZlcnMtTGF0ZXN0LVJlbGVhc2VzLW9mLVJlZC1IYXQtRW50ZXJwcmlzZS1MaW51eNIBAA",
+          "author": null,
+          "description": "Red Hat Delivers Latest Releases of Red Hat Enterprise Linux  Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmJ1c2luZXNzd2lyZS5jb20vbmV3cy9ob21lLzIwMjMwNTEwMDA1NTg5L2VuL1JlZC1IYXQtRGVsaXZlcnMtTGF0ZXN0LVJlbGVhc2VzLW9mLVJlZC1IYXQtRW50ZXJwcmlzZS1MaW51eNIBAA?oc=5",
+          "publishedOn": "2023-05-10T13:00:00.000Z",
+          "wordCount": 6018,
+          "title": "Red Hat Delivers Latest Releases of Red Hat Enterprise Linux - Business Wire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvaHVtYmxlLXN0b3Jlcy1zcHJpbmctc2FsZS0yMDIzLWhhcy10b25zLW9mLWdyZWF0LWRlYWxzL9IBAA",
+          "author": null,
+          "description": "Humble Store's Spring Sale 2023 has tons of great deals  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvaHVtYmxlLXN0b3Jlcy1zcHJpbmctc2FsZS0yMDIzLWhhcy10b25zLW9mLWdyZWF0LWRlYWxzL9IBAA?oc=5",
+          "publishedOn": "2023-05-10T12:16:32.000Z",
+          "wordCount": 6018,
+          "title": "Humble Store's Spring Sale 2023 has tons of great deals - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiKmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yb2Jsb3gtbGludXgtZW5kL9IBAA",
+          "author": null,
+          "description": "Game Over for Roblox on Linux: The New Anti-Cheat Blocks Wine Usage  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yb2Jsb3gtbGludXgtZW5kL9IBAA?oc=5",
+          "publishedOn": "2023-05-10T10:19:57.000Z",
+          "wordCount": 6018,
+          "title": "Game Over for Roblox on Linux: The New Anti-Cheat Blocks Wine Usage - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUFOVi1FbmFibGUtR1BMLURlZmF1bHTSAQA",
+          "author": null,
+          "description": "Intel's Vulkan Linux Driver Enables GPL By Default While Hiding ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUFOVi1FbmFibGUtR1BMLURlZmF1bHTSAQA?oc=5",
+          "publishedOn": "2023-05-10T10:18:00.000Z",
+          "wordCount": 6018,
+          "title": "Intel's Vulkan Linux Driver Enables GPL By Default While Hiding ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FscGluZS1MaW51eC0zLjE40gEA",
           "author": null,
           "description": "Alpine Linux 3.18 Released - Powered By Linux 6.1 LTS, Musl Libc ...  Phoronix",
@@ -3613,6 +3873,16 @@
           "publishedOn": "2023-05-09T23:03:00.000Z",
           "wordCount": 6018,
           "title": "Alpine Linux 3.18 Released - Powered By Linux 6.1 LTS, Musl Libc ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hbHBpbmUtbGludXgtMy0xOC1pcy1vdXQtd2l0aC1saW51eC02LTEtbHRzLWV4cGVyaW1lbnRhbC1zdXBwb3J0LWZvci11bmF0dGVuZGVkLWluc3RhbGxz0gFyaHR0cHM6Ly85dG81bGludXguY29tL2FscGluZS1saW51eC0zLTE4LWlzLW91dC13aXRoLWxpbnV4LTYtMS1sdHMtZXhwZXJpbWVudGFsLXN1cHBvcnQtZm9yLXVuYXR0ZW5kZWQtaW5zdGFsbHMvYW1w",
+          "author": null,
+          "description": "Alpine Linux 3.18 Is Out with Linux 6.1 LTS, Experimental Support for Unattended Installs  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hbHBpbmUtbGludXgtMy0xOC1pcy1vdXQtd2l0aC1saW51eC02LTEtbHRzLWV4cGVyaW1lbnRhbC1zdXBwb3J0LWZvci11bmF0dGVuZGVkLWluc3RhbGxz0gFyaHR0cHM6Ly85dG81bGludXguY29tL2FscGluZS1saW51eC0zLTE4LWlzLW91dC13aXRoLWxpbnV4LTYtMS1sdHMtZXhwZXJpbWVudGFsLXN1cHBvcnQtZm9yLXVuYXR0ZW5kZWQtaW5zdGFsbHMvYW1w?oc=5",
+          "publishedOn": "2023-05-09T22:03:27.000Z",
+          "wordCount": 6018,
+          "title": "Alpine Linux 3.18 Is Out with Linux 6.1 LTS, Experimental Support for Unattended Installs - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7036,6 +7306,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiSmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNC9wYWtpc3RhbmktaGFja2Vycy11c2UtbGludXgtbWFsd2FyZS5odG1s0gFSaHR0cHM6Ly9hbXAudGhlaGFja2VybmV3cy5jb20vdGhuLzIwMjMvMDQvcGFraXN0YW5pLWhhY2tlcnMtdXNlLWxpbnV4LW1hbHdhcmUuaHRtbA",
+          "author": null,
+          "description": "Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNC9wYWtpc3RhbmktaGFja2Vycy11c2UtbGludXgtbWFsd2FyZS5odG1s0gFSaHR0cHM6Ly9hbXAudGhlaGFja2VybmV3cy5jb20vdGhuLzIwMjMvMDQvcGFraXN0YW5pLWhhY2tlcnMtdXNlLWxpbnV4LW1hbHdhcmUuaHRtbA?oc=5",
+          "publishedOn": "2023-04-19T07:00:00.000Z",
+          "wordCount": 6018,
+          "title": "Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies - The Hacker News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMimQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2RlbnQtbmV0d29yay1vcGVyYXRpbmctc3lzdGVtLWNvbGxhYm9yYXRlcy13aXRoLW9jcC10by1pbnRlZ3JhdGUtc3dpdGNoLWFic3RyYWN0aW9uLWludGVyZmFjZS1zYWktMzAxODAxMTk1Lmh0bWzSAQA",
           "author": null,
           "description": "DENT Network Operating System Collaborates with OCP to ...  PR Newswire",
@@ -8414,206 +8694,6 @@
           "wordCount": 6053,
           "title": "Linux and Steam Deck compatibility tool helper ProtonUp-Qt v2.8.0 ... - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvb3Blbi1oZXhhZ29uLWdldHMtbmV3LWNvbnRlbnQtcGx1cy1saW51eC1hbmQtc3RlYW0tZGVjay1pbXByb3ZlbWVudHMv0gEA",
-          "author": null,
-          "description": "Open Hexagon gets new content plus Linux and Steam Deck improvements  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvb3Blbi1oZXhhZ29uLWdldHMtbmV3LWNvbnRlbnQtcGx1cy1saW51eC1hbmQtc3RlYW0tZGVjay1pbXByb3ZlbWVudHMv0gEA?oc=5",
-          "publishedOn": "2023-04-11T13:12:07.000Z",
-          "wordCount": 6053,
-          "title": "Open Hexagon gets new content plus Linux and Steam Deck improvements - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJmh0dHBzOi8vYmVlYm9tLmNvbS9iZXN0LWxpbnV4LWRpc3Ryb3Mv0gEqaHR0cHM6Ly9iZWVib20uY29tL2Jlc3QtbGludXgtZGlzdHJvcy9hbXAv",
-          "author": null,
-          "description": "10 Best Linux Distros You Should Use  Beebom",
-          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vYmVlYm9tLmNvbS9iZXN0LWxpbnV4LWRpc3Ryb3Mv0gEqaHR0cHM6Ly9iZWVib20uY29tL2Jlc3QtbGludXgtZGlzdHJvcy9hbXAv?oc=5",
-          "publishedOn": "2023-04-11T12:34:39.000Z",
-          "wordCount": 6053,
-          "title": "10 Best Linux Distros You Should Use - Beebom",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUtleS1Mb2NrZXItTGludXgtMjAyM9IBAA",
-          "author": null,
-          "description": "Intel Back To Working On Key Locker For Linux After Tackling Big Performance Issue  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUtleS1Mb2NrZXItTGludXgtMjAyM9IBAA?oc=5",
-          "publishedOn": "2023-04-11T12:30:00.000Z",
-          "wordCount": 6053,
-          "title": "Intel Back To Working On Key Locker For Linux After Tackling Big Performance Issue - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2RlbGluZWFzLWxhdGVzdC1wcm9kdWN0LXVwZGF0ZS1yZWR1Y2VzLXRoZS1yaXNrLW9mLWJhY2tkb29yLXRocmVhdHMtb24tc2VydmVycy0zMDE3OTM3MzQuaHRtbNIBAA",
-          "author": null,
-          "description": "Delinea's Latest Product Update Reduces the Risk of Backdoor ...  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2RlbGluZWFzLWxhdGVzdC1wcm9kdWN0LXVwZGF0ZS1yZWR1Y2VzLXRoZS1yaXNrLW9mLWJhY2tkb29yLXRocmVhdHMtb24tc2VydmVycy0zMDE3OTM3MzQuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-04-11T12:00:00.000Z",
-          "wordCount": 6053,
-          "title": "Delinea's Latest Product Update Reduces the Risk of Backdoor ... - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifmh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9uZXdzL2lvdC1hbmQtYmxvY2tjaGFpbi1tYXJrZXQtc3dvdC1hbmFseXNpcy1ieS1rZXktcGxheWVycy1saW51eC1mb3VuZGF0aW9uLW1pY3Jvc29mdC1pbnRlbNIBAA",
-          "author": null,
-          "description": "IoT and Blockchain Market SWOT Analysis by Key Players Linux ...  Digital Journal",
-          "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9uZXdzL2lvdC1hbmQtYmxvY2tjaGFpbi1tYXJrZXQtc3dvdC1hbmFseXNpcy1ieS1rZXktcGxheWVycy1saW51eC1mb3VuZGF0aW9uLW1pY3Jvc29mdC1pbnRlbNIBAA?oc=5",
-          "publishedOn": "2023-04-11T11:45:15.000Z",
-          "wordCount": 6053,
-          "title": "IoT and Blockchain Market SWOT Analysis by Key Players Linux ... - Digital Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMipQFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy8yMDIzLTIwMjktbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtc2l6ZS1kZXRhaWxlZC1yZXBvcnQtd2l0aC1jb21wZXRpdGl2ZS1hbmFseXNpcy1hbmQtc3RhdHVzLXJlc2VhcmNoLWJ5LWFic29sdXRlLXJlcG9ydHPSAQA",
-          "author": null,
-          "description": "2023-2029 Linux Operating System Market Size Detailed Report ...  Digital Journal",
-          "link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy8yMDIzLTIwMjktbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtc2l6ZS1kZXRhaWxlZC1yZXBvcnQtd2l0aC1jb21wZXRpdGl2ZS1hbmFseXNpcy1hbmQtc3RhdHVzLXJlc2VhcmNoLWJ5LWFic29sdXRlLXJlcG9ydHPSAQA?oc=5",
-          "publishedOn": "2023-04-11T10:47:01.000Z",
-          "wordCount": 6053,
-          "title": "2023-2029 Linux Operating System Market Size Detailed Report ... - Digital Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1QZW5zYW5kby1FbGJhLUxpbnV4LTEz0gEA",
-          "author": null,
-          "description": "Lucky 13? AMD Pensando Elba SoC Linux Enablement Revised The 13th Time  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1QZW5zYW5kby1FbGJhLUxpbnV4LTEz0gEA?oc=5",
-          "publishedOn": "2023-04-11T10:20:00.000Z",
-          "wordCount": 6053,
-          "title": "Lucky 13? AMD Pensando Elba SoC Linux Enablement Revised The 13th Time - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NlbnRPUy1FT0wtMjAyMy03LVN0cmVhbS040gEA",
-          "author": null,
-          "description": "CentOS Reminds Everyone End-Of-Life Is Coming For CentOS Linux 7, CentOS Stream 8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0NlbnRPUy1FT0wtMjAyMy03LVN0cmVhbS040gEA?oc=5",
-          "publishedOn": "2023-04-11T10:02:00.000Z",
-          "wordCount": 6053,
-          "title": "CentOS Reminds Everyone End-Of-Life Is Coming For CentOS Linux 7, CentOS Stream 8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctemlwLXVuemlwLWZpbGVzLWxpbnV4L9IBMWh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctemlwLXVuemlwLWZpbGVzLWxpbnV4L2FtcC8",
-          "author": null,
-          "description": "How to Zip and Unzip Files in Linux  Beebom",
-          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctemlwLXVuemlwLWZpbGVzLWxpbnV4L9IBMWh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctemlwLXVuemlwLWZpbGVzLWxpbnV4L2FtcC8?oc=5",
-          "publishedOn": "2023-04-11T07:19:00.000Z",
-          "wordCount": 6053,
-          "title": "How to Zip and Unzip Files in Linux - Beebom",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkzMDkwL3VzaW5nLXRoZS1saW51eC1uY2R1LWNvbW1hbmQtdG8tdmlldy15b3VyLWRpc2stdXNhZ2UuaHRtbNIBamh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkzMDkwL3VzaW5nLXRoZS1saW51eC1uY2R1LWNvbW1hbmQtdG8tdmlldy15b3VyLWRpc2stdXNhZ2UuYW1wLmh0bWw",
-          "author": null,
-          "description": "Using the Linux ncdu command to view your disk usage  Network World",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkzMDkwL3VzaW5nLXRoZS1saW51eC1uY2R1LWNvbW1hbmQtdG8tdmlldy15b3VyLWRpc2stdXNhZ2UuaHRtbNIBamh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjkzMDkwL3VzaW5nLXRoZS1saW51eC1uY2R1LWNvbW1hbmQtdG8tdmlldy15b3VyLWRpc2stdXNhZ2UuYW1wLmh0bWw?oc=5",
-          "publishedOn": "2023-04-11T07:00:00.000Z",
-          "wordCount": 6018,
-          "title": "Using the Linux ncdu command to view your disk usage - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20va2V5LXR5cGVzLW9mLWxpbnV4LWRpc3RyaWJ1dGlvbnMv0gEA",
-          "author": null,
-          "description": "The 3 Key Types of Linux Distributions You Should Know About  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20va2V5LXR5cGVzLW9mLWxpbnV4LWRpc3RyaWJ1dGlvbnMv0gEA?oc=5",
-          "publishedOn": "2023-04-10T22:00:00.000Z",
-          "wordCount": 6047,
-          "title": "The 3 Key Types of Linux Distributions You Should Know About - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbmRlcGVuZGVudC1kaXN0cm8tNG1saW51eC00Mi1yZWxlYXNlZC13aXRoLWxpbnV4LWtlcm5lbC02LTEtbHRz0gFaaHR0cHM6Ly85dG81bGludXguY29tL2luZGVwZW5kZW50LWRpc3Ryby00bWxpbnV4LTQyLXJlbGVhc2VkLXdpdGgtbGludXgta2VybmVsLTYtMS1sdHMvYW1w",
-          "author": null,
-          "description": "Independent Distro 4MLinux 42 Released with Linux Kernel 6.1 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pbmRlcGVuZGVudC1kaXN0cm8tNG1saW51eC00Mi1yZWxlYXNlZC13aXRoLWxpbnV4LWtlcm5lbC02LTEtbHRz0gFaaHR0cHM6Ly85dG81bGludXguY29tL2luZGVwZW5kZW50LWRpc3Ryby00bWxpbnV4LTQyLXJlbGVhc2VkLXdpdGgtbGludXgta2VybmVsLTYtMS1sdHMvYW1w?oc=5",
-          "publishedOn": "2023-04-10T20:39:52.000Z",
-          "wordCount": 6047,
-          "title": "Independent Distro 4MLinux 42 Released with Linux Kernel 6.1 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1TSElFTEQtQ29udHJvbGxlci1MaW51eNIBAA",
-          "author": null,
-          "description": "NVIDIA Finally Working On A Linux Driver For Their 2017 SHIELD Controller  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1TSElFTEQtQ29udHJvbGxlci1MaW51eNIBAA?oc=5",
-          "publishedOn": "2023-04-10T19:00:00.000Z",
-          "wordCount": 6048,
-          "title": "NVIDIA Finally Working On A Linux Driver For Their 2017 SHIELD Controller - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwta3JpdGEtb24tbGludXgv0gEA",
-          "author": null,
-          "description": "How to Install Krita on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwta3JpdGEtb24tbGludXgv0gEA?oc=5",
-          "publishedOn": "2023-04-10T18:45:00.000Z",
-          "wordCount": 6048,
-          "title": "How to Install Krita on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1MaW51eC1MMi1DbHVzdGVyLVNjaGVkdWxlctIBAA",
-          "author": null,
-          "description": "Linux Cluster-Aware Scheduling Being Extended To AMD Processors  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1MaW51eC1MMi1DbHVzdGVyLVNjaGVkdWxlctIBAA?oc=5",
-          "publishedOn": "2023-04-10T17:00:00.000Z",
-          "wordCount": 6048,
-          "title": "Linux Cluster-Aware Scheduling Being Extended To AMD Processors - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by11c2Uta2RlLXBsYXNtYS1wbGFjZXMtZm9yLWEtbXVjaC1tb3JlLWVmZmljaWVudC1kZXNrdG9wL9IBaGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaG93LXRvLXVzZS1rZGUtcGxhc21hLXBsYWNlcy1mb3ItYS1tdWNoLW1vcmUtZWZmaWNpZW50LWRlc2t0b3Av",
-          "author": null,
-          "description": "How to use KDE Plasma Places for a much more efficient desktop  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by11c2Uta2RlLXBsYXNtYS1wbGFjZXMtZm9yLWEtbXVjaC1tb3JlLWVmZmljaWVudC1kZXNrdG9wL9IBaGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaG93LXRvLXVzZS1rZGUtcGxhc21hLXBsYWNlcy1mb3ItYS1tdWNoLW1vcmUtZWZmaWNpZW50LWRlc2t0b3Av?oc=5",
-          "publishedOn": "2023-04-10T16:04:08.000Z",
-          "wordCount": 6048,
-          "title": "How to use KDE Plasma Places for a much more efficient desktop - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcGxheS1jaGVzcy1saW51eC10ZXJtaW5hbC1tdWx0aXBsYXllci1vdmVyLXNzaC_SAQA",
-          "author": null,
-          "description": "How to Play Chess in Your Linux Terminal (With Multiplayer Support ...  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcGxheS1jaGVzcy1saW51eC10ZXJtaW5hbC1tdWx0aXBsYXllci1vdmVyLXNzaC_SAQA?oc=5",
-          "publishedOn": "2023-04-10T15:30:00.000Z",
-          "wordCount": 6047,
-          "title": "How to Play Chess in Your Linux Terminal (With Multiplayer Support ... - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVmh0dHBzOi8vd3d3LmhvdzJzaG91dC5jb20vaG93LXRvL2hvdy10by1maW5kLXdzbC1ob21lLWRpcmVjdG9yeS11c2luZy13aW5kb3dzLWd1aS5odG1s0gEA",
-          "author": null,
-          "description": "How to find WSL home directory using Windows GUI?  H2S Media",
-          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmhvdzJzaG91dC5jb20vaG93LXRvL2hvdy10by1maW5kLXdzbC1ob21lLWRpcmVjdG9yeS11c2luZy13aW5kb3dzLWd1aS5odG1s0gEA?oc=5",
-          "publishedOn": "2023-04-10T15:23:36.000Z",
-          "wordCount": 6047,
-          "title": "How to find WSL home directory using Windows GUI? - H2S Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS90dXhlZG8taW5maW5pdHlib29rLXByby0xNi1yZXZpZXcv0gEA",
-          "author": null,
-          "description": "TUXEDO InfinityBook Pro 16 Review: The Best Linux Laptop You Can Get (If You can Afford it)  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS90dXhlZG8taW5maW5pdHlib29rLXByby0xNi1yZXZpZXcv0gEA?oc=5",
-          "publishedOn": "2023-04-10T15:22:14.000Z",
-          "wordCount": 6048,
-          "title": "TUXEDO InfinityBook Pro 16 Review: The Best Linux Laptop You Can Get (If You can Afford it) - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFodHRwczovL2xpbGlwdXRpbmcuY29tL3BsYW5ldHBjLXhyLW1pbmktcGMtZHJhbWF0aWNhbGx5LWZhaWxzLXRvLW1lZXQtY3Jvd2RmdW5kaW5nLWdvYWxzLWxpbnV4LXBjLXdpdGgtYXJtLWJhc2VkLXByb2Nlc3Nvci1hbmQtaW50ZWdyYXRlZC10b3VjaC1wYW5lbC_SAQA",
-          "author": null,
-          "description": "PlanetPC XR mini PC dramatically fails to meet crowdfunding goals (Linux PC with ARM-based processor and ...  Liliputing",
-          "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2xpbGlwdXRpbmcuY29tL3BsYW5ldHBjLXhyLW1pbmktcGMtZHJhbWF0aWNhbGx5LWZhaWxzLXRvLW1lZXQtY3Jvd2RmdW5kaW5nLWdvYWxzLWxpbnV4LXBjLXdpdGgtYXJtLWJhc2VkLXByb2Nlc3Nvci1hbmQtaW50ZWdyYXRlZC10b3VjaC1wYW5lbC_SAQA?oc=5",
-          "publishedOn": "2023-04-10T14:27:54.000Z",
-          "wordCount": 6047,
-          "title": "PlanetPC XR mini PC dramatically fails to meet crowdfunding goals (Linux PC with ARM-based processor and ... - Liliputing",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8639,6 +8719,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+          "author": "hello@smashingmagazine.com (Deepak Kumar)",
+          "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
+          "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+          "publishedOn": "2023-05-10T10:00:00.000Z",
+          "wordCount": 5973,
+          "title": "A Guide To Redux Toolkit With TypeScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "author": "hello@smashingmagazine.com (Shane Duggan)",
@@ -8886,6 +8981,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
+          "author": "Edem Gold",
+          "description": "Artificial Intelligence and Machine Learning are two terms that are commonly used interchangeably. But they are not the same thing. Artificial Intelligence is a field which contains a lot of sub-fields, including Machine Learning. In this article I hope to comprehensively differentiate between AI and Machine Learning. I'll explain how",
+          "link": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
+          "publishedOn": "2023-05-10T22:37:37.000Z",
+          "wordCount": 3345,
+          "title": "The Difference Between AI and Machine Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tara-winstead-8386440--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
+          "author": "Faith Oyama",
+          "description": "PostgreSQL is a powerful open-source relational database management system (RDBMS). It was initially created as a successor to the Ingres database system and was later named \"PostgreSQL\" (short for \"Post-Ingres SQL\"). PostgreSQL is known for its robustness, reliability, and scalability, making it a popular choice for large and complex database",
+          "link": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
+          "publishedOn": "2023-05-10T20:02:00.000Z",
+          "wordCount": 2308,
+          "title": "PostgreSQL and JSON – How to Use JSON Data in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/PostgreSQL-and-JSON-Using-JSON-Data-in-PostgreSQL.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
+          "author": "David Clinton",
+          "description": "Are you responsible for the safety and reliability of IT infrastructure and applications? You'll absolutely need regular and accurate assessments.  Effective risk assessments are about establishing how far your organization's IT stack can be stretched before it breaks.  From a big-picture perspective, you'll need to think about how",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
+          "publishedOn": "2023-05-10T19:39:51.000Z",
+          "wordCount": 1728,
+          "title": "How to Build an Accurate Cybersecurity Risk Assessment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-jonathan-petersson-965879.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
+          "author": "Dionysia Lemonaki",
+          "description": "Full-stack engineering roles have been growing in popularity over the last decade and are among the most sought-after positions in the tech job market. But what exactly are full-stack engineers? What do they do on a day-to-day basis? And how can you become a full-stack engineer yourself? In this article,",
+          "link": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
+          "publishedOn": "2023-05-10T17:27:43.000Z",
+          "wordCount": 2542,
+          "title": "Full Stack Engineer – Career Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
+          "author": "Beau Carnes",
+          "description": "Transform your development approach and embrace the power of Elixir and functional programming with our new beginner's course. It is designed to help you build scalable, maintainable applications like never before. We just published a new course on the freeCodeCamp channel that will teach you how to build your own",
+          "link": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
+          "publishedOn": "2023-05-10T15:59:36.000Z",
+          "wordCount": 979,
+          "title": "Discover the Power of Functional Programming with Elixir",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/elixir.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-sql-full-course/",
+          "author": "Beau Carnes",
+          "description": "Unlock the power of data with SQL! Master one of the most in-demand skill in the data-driven world and supercharge your career with our new video course. We just released a comprehensive video course on the freeCodeCamp.org YouTube channel that will take you on a journey from understanding the basics",
+          "link": "https://www.freecodecamp.org/news/learn-sql-full-course/",
+          "publishedOn": "2023-05-10T15:50:13.000Z",
+          "wordCount": 1008,
+          "title": "Learn SQL for Efficient Data Storage and Retrieval",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sql.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
+          "author": "Kolade Chris",
+          "description": "Smart quotes are commonly used punctuation marks in HTML and in writing. Knowing how to use them correctly can make a significant difference in the clarity and professionalism of your writing. So in this article, you will get access to the commonly used quotation marks out there that you can",
+          "link": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
+          "publishedOn": "2023-05-10T14:31:24.000Z",
+          "wordCount": 1296,
+          "title": "Smart Quotes – Single Quote and Double Quotation Mark for Copy + Paste",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/smartQuotes-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-wireframing/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "What are Wireframes? Wireframes are visual representations of the structure, layout, and functionality of a website, application, or other digital product.  You typically create them during the early stages of the design process, and they provide a simplified and focused view of the user interface and user experience. You",
+          "link": "https://www.freecodecamp.org/news/what-is-wireframing/",
+          "publishedOn": "2023-05-09T22:06:49.000Z",
+          "wordCount": 3043,
+          "title": "What is Wireframing? How to Go from Paper Sketches to High Fidelity Wireframes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/unsplash_Pa0I38PfNPs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
           "author": "Arunachalam B",
@@ -10195,66 +10370,6 @@
           "wordCount": 5592,
           "title": "Learn JavaScript Object-Oriented Programming by Building a Timer Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/---.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
-          "author": "Shittu Olumide",
-          "description": "In this article, you will learn how to convert a bytestring. I know the word bytestring might sound technical and difficult to understand. But trust me – we will break the process down and understand everything about bytestrings before writing the Python code that converts bytes to a string. So",
-          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
-          "publishedOn": "2023-04-10T22:52:41.000Z",
-          "wordCount": 1888,
-          "title": "Python Bytes to String – How to Convert a Bytestring",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Bytes-to-String---How-to-Convert-a-Bytestring.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at two very useful tools we can use to make our lives easier when writing code: linting tools and code formatters. We're going to talk about what these tools are, how they work, why are they useful, and finally",
-          "link": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
-          "publishedOn": "2023-04-10T22:02:17.000Z",
-          "wordCount": 2504,
-          "title": "How to Use Linters and Code Formatters in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/alysa-bajenaru-88IV5AtWjB8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "When you're working with React, you will often times need to render lists of items. With the map() method, you can create new results from your current lists or even showcase all the items in your lists. In this tutorial, you will learn how to use this method to access",
-          "link": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "publishedOn": "2023-04-10T21:39:53.000Z",
-          "wordCount": 1581,
-          "title": "How to Render Lists in React using array.map()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Lists-in-React.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "author": "Edem Gold",
-          "description": "Humans have always been interested in making machines that display intelligence.  The Ancient Egyptians and Romans were awe-struck by religious statues that were manipulated by priests behind the scenes. Medieval lore is packed with tales of items which could move and talk like their human masters. And there have",
-          "link": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "publishedOn": "2023-04-10T21:35:22.000Z",
-          "wordCount": 4403,
-          "title": "The History of Artificial Intelligence from the 1950s to Today",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tara-winstead-8386440.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "author": "Ashutosh Krishna",
-          "description": "Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "publishedOn": "2023-04-10T16:44:45.000Z",
-          "wordCount": 3773,
-          "title": "How to Build a Currency Converter GUI with Tkinter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/currency-converter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is",
-          "link": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "publishedOn": "2023-04-10T15:37:07.000Z",
-          "wordCount": 1138,
-          "title": "Unleash the Power of React Native to Build Mobile Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactnative.png"
         }
       ]
     }
