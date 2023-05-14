@@ -12,6 +12,76 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=146816",
+          "author": "Kevin Reursora",
+          "description": "The terms encode and decode are used to compress or decompress or convert the input to some other not understandable format. These techniques are usually used for security purposes. In this article, we will discuss the use and examples of gzip.decompress(s), the decompressing function of the gzip library in Python.",
+          "link": "https://linuxhint.com/python-gzip-decompress-function/",
+          "publishedOn": "2023-05-13T13:33:20.000Z",
+          "wordCount": 4029,
+          "title": "Python Gzip Decompress Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=167179",
+          "author": "Kevin Reursora",
+          "description": "“Matplotlib” provides functions such as “plt.plot()” to plot multiple lines on same plot. These lines can also be plotted via different line styles and colors.",
+          "link": "https://linuxhint.com/matplotlib-plot-multiple-lines/",
+          "publishedOn": "2023-05-13T13:11:56.000Z",
+          "wordCount": 4075,
+          "title": "Matplotlib Plot Multiple Lines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=135055",
+          "author": "Kevin Reursora",
+          "description": "The “find()” method, “index()” method, and “rfind()” and “rindex()” functions are used to find the first occurrence in a string in Python.",
+          "link": "https://linuxhint.com/python-find-first-occurrence-string/",
+          "publishedOn": "2023-05-13T12:51:10.000Z",
+          "wordCount": 4052,
+          "title": "Python Find First Occurrence in String",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=136376",
+          "author": "Kevin Reursora",
+          "description": "To remove newline from a string in Python, “strip()” method, “replace()” method, “List Comprehension” with “join()” method, or “re.sub()” function can be used.",
+          "link": "https://linuxhint.com/python-removes-newline-from-a-string/",
+          "publishedOn": "2023-05-13T10:58:25.000Z",
+          "wordCount": 4223,
+          "title": "Python Removes Newline From a String",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=258009",
+          "author": "Kevin Reursora",
+          "description": "“Cosine similarity” is a useful metric for comparing the similarity of two vectors in high-dimensional space and can be calculated via Python's “scipy” library.",
+          "link": "https://linuxhint.com/scipy-cosine-similarity/",
+          "publishedOn": "2023-05-13T10:37:30.000Z",
+          "wordCount": 3780,
+          "title": "SciPy Cosine Similarity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=218371",
+          "author": "Kevin Reursora",
+          "description": "“Python Networking” allows developers to create server and client applications, send and receive data over network, and manage network protocols effortlessly.",
+          "link": "https://linuxhint.com/python-networking/",
+          "publishedOn": "2023-05-13T10:15:04.000Z",
+          "wordCount": 4403,
+          "title": "Python Networking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=203264",
+          "author": "Kevin Reursora",
+          "description": "In Python, the “urlparse()” function is used to parse URLs and extract specific parts of the URL such as the scheme, network location, path, etc.",
+          "link": "https://linuxhint.com/pytho-urlparse/",
+          "publishedOn": "2023-05-13T09:45:46.000Z",
+          "wordCount": 4009,
+          "title": "Python Urlparse()",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=191996",
           "author": "Dave Sumaylo",
           "description": "The “sb.clustermap()” function is used for plotting statistical visuals based on the matplotlib software that is connected with “pandas” data structures.",
@@ -1528,6 +1598,36 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183555",
+          "author": "Web Webster",
+          "description": "KDE Gear 23.04.1 improves the Kdenlive video editor by fixing an issue causing project files to be corrupted when opened. Learn more here.\nThe post KDE Gear 23.04.1 Improves Kdenlive, Spectacle, Dolphin, More appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/kde-gear-23-04-1-improves-kdenlive-spectacle-dolphin-more/",
+          "publishedOn": "2023-05-13T21:00:21.000Z",
+          "wordCount": 17174,
+          "title": "KDE Gear 23.04.1 Improves Kdenlive, Spectacle, Dolphin, More",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183552",
+          "author": "Web Webster",
+          "description": "KDE Plasma 6 is a massive update to the Plasma desktop environment that will bring numerous new features and improvements.\nThe post KDE Plasma 6 to Ship With Floating Panel, Double-Click for Opening Files appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/kde-plasma-6-to-ship-with-floating-panel-double-click-for-opening-files/",
+          "publishedOn": "2023-05-13T15:00:12.000Z",
+          "wordCount": 17195,
+          "title": "KDE Plasma 6 to Ship With Floating Panel, Double-Click for Opening Files",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183550",
+          "author": "Web Webster",
+          "description": "GNOME’s new console app may go away so soon. Learn why GNOME is thinking of potentially bringing back the Terminal app.\nThe post GNOME Considers Bringing Back Terminal App to Replace New Console appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/gnome-considers-bringing-back-terminal-app-to-replace-new-console/",
+          "publishedOn": "2023-05-13T02:00:03.000Z",
+          "wordCount": 17186,
+          "title": "GNOME Considers Bringing Back Terminal App to Replace New Console",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=183547",
           "author": "Web Webster",
@@ -3637,106 +3737,6 @@
           "wordCount": 17133,
           "title": "How to Inspect and Visualize Disk Usage on Linux With Duc",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183017",
-          "author": "Web Webster",
-          "description": "Learn about KVM, how to install KVM on Ubuntu 22.04 server, how to create bridge networking for KVM, and more in this complete guide.\nThe post How to Install KVM on Ubuntu 22.04 Server [A Complete Guide] appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-kvm-on-ubuntu-22-04-server-a-complete-guide/",
-          "publishedOn": "2023-04-14T13:00:09.000Z",
-          "wordCount": 17141,
-          "title": "How to Install KVM on Ubuntu 22.04 Server [A Complete Guide]",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183016",
-          "author": "Web Webster",
-          "description": "In this tutorial, I’ll show you how to set up a VPN on Linux if your VPN provider doesn’t have a native app built for Linux.\nThe post How to Set Up a VPN on Linux Without a Native Linux Client appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-set-up-a-vpn-on-linux-without-a-native-linux-client/",
-          "publishedOn": "2023-04-14T02:00:08.000Z",
-          "wordCount": 17153,
-          "title": "How to Set Up a VPN on Linux Without a Native Linux Client",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183015",
-          "author": "Web Webster",
-          "description": "In this tutorial, we’ll show you how to install the boost library in Ubuntu or any other Debian-based distribution.\nThe post How to Install the Boost Library in C++ on Ubuntu, Other Linux Distros appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-the-boost-library-in-c-on-ubuntu-other-linux-distros/",
-          "publishedOn": "2023-04-14T00:00:07.000Z",
-          "wordCount": 17136,
-          "title": "How to Install the Boost Library in C++ on Ubuntu, Other Linux Distros",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183014",
-          "author": "Web Webster",
-          "description": "A Linux man page is divided into several parts. In this guide, we will learn some simple tips and tricks to read man pages effectively in Linux.\nThe post A Beginner Guide to Using Man Pages in Linux Effectively appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/a-beginner-guide-to-using-man-pages-in-linux-effectively/",
-          "publishedOn": "2023-04-13T22:00:06.000Z",
-          "wordCount": 17131,
-          "title": "A Beginner Guide to Using Man Pages in Linux Effectively",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183028",
-          "author": "Web Webster",
-          "description": "What’s going on with Solus? DistroWatch has marked it as “dormant.” Learn why this Linux distribution has been given this status.\nThe post Solus Linux Loses Active Status on DistroWatch appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/solus-linux-loses-active-status-on-distrowatch/",
-          "publishedOn": "2023-04-13T20:00:16.000Z",
-          "wordCount": 17108,
-          "title": "Solus Linux Loses Active Status on DistroWatch",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183027",
-          "author": "Web Webster",
-          "description": "Zigbee PRO 2023 brings several enhancements and new features, allowing mesh networks to have a universal language that enables smart objects to work together.\nThe post Zigbee PRO 2023 Introduces New Security Mechanisms, Feature Enhancements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/zigbee-pro-2023-introduces-new-security-mechanisms-feature-enhancements/",
-          "publishedOn": "2023-04-13T18:00:14.000Z",
-          "wordCount": 17123,
-          "title": "Zigbee PRO 2023 Introduces New Security Mechanisms, Feature Enhancements",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183012",
-          "author": "Web Webster",
-          "description": "Need help with rolling versus point releases on Linux? We’ve got you covered with our comprehensive guide to help you choose the right distro.\nThe post Rolling vs. Point Releases: Which Linux Distro is Right for You? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/rolling-vs-point-releases-which-linux-distro-is-right-for-you/",
-          "publishedOn": "2023-04-13T17:00:29.000Z",
-          "wordCount": 17125,
-          "title": "Rolling vs. Point Releases: Which Linux Distro is Right for You?",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183010",
-          "author": "Web Webster",
-          "description": "This article shows you how to install OpenSearch, an open-source search, analytics, and visualization suite, on the Rocky Linux 9 server.\nThe post How to Install OpenSearch on Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-opensearch-on-rocky-linux-9/",
-          "publishedOn": "2023-04-13T16:00:28.000Z",
-          "wordCount": 17127,
-          "title": "How to Install OpenSearch on Rocky Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183009",
-          "author": "Web Webster",
-          "description": "Docker is one of the most popular and widely used containerization platforms. Here’s how to check Docker container RAM and CPU usage.\nThe post How to Check Docker Container RAM and CPU Usage appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-check-docker-container-ram-and-cpu-usage/",
-          "publishedOn": "2023-04-13T15:00:26.000Z",
-          "wordCount": 17137,
-          "title": "How to Check Docker Container RAM and CPU Usage",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183008",
-          "author": "Web Webster",
-          "description": "In this step-by-step tutorial, we will demonstrate how to install a LOMP server on a Rocky Linux 9 machine.\nThe post How to Install LOMP Stack on Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-lomp-stack-on-rocky-linux-9/",
-          "publishedOn": "2023-04-13T14:00:25.000Z",
-          "wordCount": 17110,
-          "title": "How to Install LOMP Stack on Rocky Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3745,6 +3745,96 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiIWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yaXNpLW9zL9IBAA",
+          "author": null,
+          "description": "risiOS: An Easy-to-Use Fedora-based Linux Distribution  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yaXNpLW9zL9IBAA?oc=5",
+          "publishedOn": "2023-05-13T16:15:20.000Z",
+          "wordCount": 6015,
+          "title": "risiOS: An Easy-to-Use Fedora-based Linux Distribution - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbW9uaXRvci11c2VyLWxvZ2lucy1vbi1saW51eC_SAQA",
+          "author": null,
+          "description": "How to Monitor User Logins on Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbW9uaXRvci11c2VyLWxvZ2lucy1vbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2023-05-13T14:45:00.000Z",
+          "wordCount": 6015,
+          "title": "How to Monitor User Logins on Linux - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1zZXQtdXAtYS1wb3N0Z3Jlc3FsLWRhdGFiYXNlLW9uLXVidW50dS_SAWJodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8tc2V0LXVwLWEtcG9zdGdyZXNxbC1kYXRhYmFzZS1vbi11YnVudHUvYW1wLw",
+          "author": null,
+          "description": "How to Set Up a PostgreSQL Database on Ubuntu  AddictiveTips",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1zZXQtdXAtYS1wb3N0Z3Jlc3FsLWRhdGFiYXNlLW9uLXVidW50dS_SAWJodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9ob3ctdG8tc2V0LXVwLWEtcG9zdGdyZXNxbC1kYXRhYmFzZS1vbi11YnVudHUvYW1wLw?oc=5",
+          "publishedOn": "2023-05-13T13:29:31.000Z",
+          "wordCount": 6015,
+          "title": "How to Set Up a PostgreSQL Database on Ubuntu - AddictiveTips",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LmluZHJhc3RyYS5jb20vMjAyMy8wNS93ZWItcGVuZXRyYXRpb24tdGVzdGluZy13aXRoLWthbGktbGludXguaHRtbNIBAA",
+          "author": null,
+          "description": "Web Penetration Testing with Kali Linux: A Comprehensive ...  IndraStra Global",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmluZHJhc3RyYS5jb20vMjAyMy8wNS93ZWItcGVuZXRyYXRpb24tdGVzdGluZy13aXRoLWthbGktbGludXguaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-05-13T13:04:00.000Z",
+          "wordCount": 6015,
+          "title": "Web Penetration Testing with Kali Linux: A Comprehensive ... - IndraStra Global",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01TLUxpbnV4LVNjcmlwdC1FeGVjLUNvbnRyb2zSAQA",
+          "author": null,
+          "description": "Microsoft Aims For Greater Script Execution Control On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01TLUxpbnV4LVNjcmlwdC1FeGVjLUNvbnRyb2zSAQA?oc=5",
+          "publishedOn": "2023-05-13T12:24:00.000Z",
+          "wordCount": 6015,
+          "title": "Microsoft Aims For Greater Script Execution Control On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvcmV1cy0yLWFubm91bmNlZC1sZXR0aW5nLXlvdS1zaGFwZS1odW1hbml0eS1hZ2Fpbi_SAQA",
+          "author": null,
+          "description": "Reus 2 announced letting you shape humanity again  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvcmV1cy0yLWFubm91bmNlZC1sZXR0aW5nLXlvdS1zaGFwZS1odW1hbml0eS1hZ2Fpbi_SAQA?oc=5",
+          "publishedOn": "2023-05-13T10:17:00.000Z",
+          "wordCount": 6015,
+          "title": "Reus 2 announced letting you shape humanity again - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvd2luZS04OC1pcy1vdXQtbm93LXdpdGgtbW9yZS1wZS13b3JrLWluaXRpYWwtc3VwcG9ydC1mb3ItYXJtNjRlYy1tb2R1bGVzL9IBAA",
+          "author": null,
+          "description": "Wine 8.8 is out now with more PE work, initial support for ARM64EC ...  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvd2luZS04OC1pcy1vdXQtbm93LXdpdGgtbW9yZS1wZS13b3JrLWluaXRpYWwtc3VwcG9ydC1mb3ItYXJtNjRlYy1tb2R1bGVzL9IBAA?oc=5",
+          "publishedOn": "2023-05-13T10:07:55.000Z",
+          "wordCount": 6015,
+          "title": "Wine 8.8 is out now with more PE work, initial support for ARM64EC ... - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FzYWhpLUxpbnV4LVN0b3AtWC5PcmfSAQA",
+          "author": null,
+          "description": "Asahi Linux To Users: Please Stop Using X.Org  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FzYWhpLUxpbnV4LVN0b3AtWC5PcmfSAQA?oc=5",
+          "publishedOn": "2023-05-13T09:58:00.000Z",
+          "wordCount": 6015,
+          "title": "Asahi Linux To Users: Please Stop Using X.Org - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zMDUyNTA4L2tub3ctZnV0dXJlLW91dGxvb2stb2YtaW90LWFuZC1ibG9ja2NoYWluLW1hcmtldC1rZXktcGxheWVyc9IBX2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzMwNTI1MDgva25vdy1mdXR1cmUtb3V0bG9vay1vZi1pb3QtYW5kLWJsb2NrY2hhaW4tbWFya2V0LWtleS1wbGF5ZXJz",
+          "author": null,
+          "description": "Know Future Outlook of IoT and Blockchain Market: Key Players Factom, Linux Foundation, Microsoft  openPR",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm9wZW5wci5jb20vbmV3cy8zMDUyNTA4L2tub3ctZnV0dXJlLW91dGxvb2stb2YtaW90LWFuZC1ibG9ja2NoYWluLW1hcmtldC1rZXktcGxheWVyc9IBX2h0dHBzOi8vd3d3Lm9wZW5wci5jb20vYW1wLzMwNTI1MDgva25vdy1mdXR1cmUtb3V0bG9vay1vZi1pb3QtYW5kLWJsb2NrY2hhaW4tbWFya2V0LWtleS1wbGF5ZXJz?oc=5",
+          "publishedOn": "2023-05-13T07:57:00.000Z",
+          "wordCount": 6015,
+          "title": "Know Future Outlook of IoT and Blockchain Market: Key Players Factom, Linux Foundation, Microsoft - openPR",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMihwFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL2Nhbm9uaWNhbC1zLW5hdGhhbi1oYXJ0LXdhbnRzLXRvLWdldC15b3Utc3RhcnRlZC13aXRoLW1hdHRlci1vbi1hLXJhc3BiZXJyeS1waS1ydW5uaW5nLXVidW50dS0wYWNiZDk0MzMwMDPSAYsBaHR0cHM6Ly93d3cuaGFja3N0ZXIuaW8vbmV3cy9jYW5vbmljYWwtcy1uYXRoYW4taGFydC13YW50cy10by1nZXQteW91LXN0YXJ0ZWQtd2l0aC1tYXR0ZXItb24tYS1yYXNwYmVycnktcGktcnVubmluZy11YnVudHUtMGFjYmQ5NDMzMDAzLmFtcA",
           "author": null,
@@ -3803,6 +3893,16 @@
           "publishedOn": "2023-05-12T15:00:00.000Z",
           "wordCount": 6015,
           "title": "Linux Developers Still Working To Retire Intel Itanium/IA-64 Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvbmludGVuZG8tc3dpdGNoLWVtdWxhdG9yLXl1enUtZ2V0cy1hLWh1Z2UtcGVyZm9ybWFuY2UtYm9vc3Qv0gEA",
+          "author": null,
+          "description": "Nintendo Switch emulator yuzu gets a huge performance boost  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvbmludGVuZG8tc3dpdGNoLWVtdWxhdG9yLXl1enUtZ2V0cy1hLWh1Z2UtcGVyZm9ybWFuY2UtYm9vc3Qv0gEA?oc=5",
+          "publishedOn": "2023-05-12T14:21:05.000Z",
+          "wordCount": 6015,
+          "title": "Nintendo Switch emulator yuzu gets a huge performance boost - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8534,196 +8634,6 @@
           "wordCount": 6053,
           "title": "8 Touch-Friendly Linux Apps for Your Steam Deck - MUO - MakeUseOf",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9maXJzdC1sb29rLWF0LWVkdWJ1bnR1LTIzLTA0LXVidW50dS1kZXNrdG9wLXBhY2tlZC13aXRoLWVkdWNhdGlvbmFsLXNvZnR3YXJl0gFmaHR0cHM6Ly85dG81bGludXguY29tL2ZpcnN0LWxvb2stYXQtZWR1YnVudHUtMjMtMDQtdWJ1bnR1LWRlc2t0b3AtcGFja2VkLXdpdGgtZWR1Y2F0aW9uYWwtc29mdHdhcmUvYW1w",
-          "author": null,
-          "description": "First Look at Edubuntu 23.04: Ubuntu Desktop Packed with Educational Software  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9maXJzdC1sb29rLWF0LWVkdWJ1bnR1LTIzLTA0LXVidW50dS1kZXNrdG9wLXBhY2tlZC13aXRoLWVkdWNhdGlvbmFsLXNvZnR3YXJl0gFmaHR0cHM6Ly85dG81bGludXguY29tL2ZpcnN0LWxvb2stYXQtZWR1YnVudHUtMjMtMDQtdWJ1bnR1LWRlc2t0b3AtcGFja2VkLXdpdGgtZWR1Y2F0aW9uYWwtc29mdHdhcmUvYW1w?oc=5",
-          "publishedOn": "2023-04-14T13:07:39.000Z",
-          "wordCount": 6053,
-          "title": "First Look at Edubuntu 23.04: Ubuntu Desktop Packed with Educational Software - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L3JldHVybl9mbHlpbmdfdG9hc3RlcnMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzE0L3JldHVybl9mbHlpbmdfdG9hc3RlcnMv",
-          "author": null,
-          "description": "The return of the classic Flying Toasters screensaver  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L3JldHVybl9mbHlpbmdfdG9hc3RlcnMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzE0L3JldHVybl9mbHlpbmdfdG9hc3RlcnMv?oc=5",
-          "publishedOn": "2023-04-14T12:32:00.000Z",
-          "wordCount": 6053,
-          "title": "The return of the classic Flying Toasters screensaver - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL29mZmVyL2RlYWxzL2hvbmUteW91ci1saW51eC1za2lsbHMtd2l0aC10aGlzLW9uLXNhbGUtdHJhaW5pbmctYnVuZGxlLWRlYWwv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vb2ZmZXIvZGVhbHMvaG9uZS15b3VyLWxpbnV4LXNraWxscy13aXRoLXRoaXMtb24tc2FsZS10cmFpbmluZy1idW5kbGUtZGVhbC9hbXAv",
-          "author": null,
-          "description": "Hone your Linux skills with this on-sale training bundle deal  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL29mZmVyL2RlYWxzL2hvbmUteW91ci1saW51eC1za2lsbHMtd2l0aC10aGlzLW9uLXNhbGUtdHJhaW5pbmctYnVuZGxlLWRlYWwv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vb2ZmZXIvZGVhbHMvaG9uZS15b3VyLWxpbnV4LXNraWxscy13aXRoLXRoaXMtb24tc2FsZS10cmFpbmluZy1idW5kbGUtZGVhbC9hbXAv?oc=5",
-          "publishedOn": "2023-04-14T11:17:34.000Z",
-          "wordCount": 6053,
-          "title": "Hone your Linux skills with this on-sale training bundle deal - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9uZXdzL2Nob2ljZS1vZi1saW51eC1hbmQtd2luZG93cy1vcy13aXRoLWhvbmcta29uZy12cHMtc2VydmVyLWhvc3RpbmctYnktdGhlc2VydmVyaG9zdNIBAA",
-          "author": null,
-          "description": "Choice of Linux and Windows OS with Hong Kong VPS Server ...  Digital Journal",
-          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRpZ2l0YWxqb3VybmFsLmNvbS9wci9uZXdzL2Nob2ljZS1vZi1saW51eC1hbmQtd2luZG93cy1vcy13aXRoLWhvbmcta29uZy12cHMtc2VydmVyLWhvc3RpbmctYnktdGhlc2VydmVyaG9zdNIBAA?oc=5",
-          "publishedOn": "2023-04-14T11:15:09.000Z",
-          "wordCount": 6053,
-          "title": "Choice of Linux and Windows OS with Hong Kong VPS Server ... - Digital Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1TRkgtTGludXgtNi400gEA",
-          "author": null,
-          "description": "AMD SFH Linux Driver Adding Ambient Color Sensor Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1TRkgtTGludXgtNi400gEA?oc=5",
-          "publishedOn": "2023-04-14T10:46:00.000Z",
-          "wordCount": 6053,
-          "title": "AMD SFH Linux Driver Adding Ambient Color Sensor Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLXphYmJpeC1vbi11YnVudHUtc2VydmVyL9IBW2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLXphYmJpeC1vbi11YnVudHUtc2VydmVyL2FtcC8",
-          "author": null,
-          "description": "How to install Zabbix on Ubuntu Server  AddictiveTips",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLXphYmJpeC1vbi11YnVudHUtc2VydmVyL9IBW2h0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1pbnN0YWxsLXphYmJpeC1vbi11YnVudHUtc2VydmVyL2FtcC8?oc=5",
-          "publishedOn": "2023-04-14T10:27:40.000Z",
-          "wordCount": 6053,
-          "title": "How to install Zabbix on Ubuntu Server - AddictiveTips",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS0zOC1SZWxlYXNlLU5leHQtV2Vla9IBAA",
-          "author": null,
-          "description": "Fedora 38 Being Released Next Tuesday  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS0zOC1SZWxlYXNlLU5leHQtV2Vla9IBAA?oc=5",
-          "publishedOn": "2023-04-14T10:26:00.000Z",
-          "wordCount": 6053,
-          "title": "Fedora 38 Being Released Next Tuesday - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L2NvbHVtbi_SATJodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDQvMTQvY29sdW1uLw",
-          "author": null,
-          "description": "Red Hat at 30: Biggest Linux company of them all still pushing to become cloud power  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L2NvbHVtbi_SATJodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMDQvMTQvY29sdW1uLw?oc=5",
-          "publishedOn": "2023-04-14T08:31:32.000Z",
-          "wordCount": 6053,
-          "title": "Red Hat at 30: Biggest Linux company of them all still pushing to become cloud power - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L2xpbnV4X2tlcm5lbF9zcGVjdHJlX2ZsYXdfZml4ZWQv0gFLaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzE0L2xpbnV4X2tlcm5lbF9zcGVjdHJlX2ZsYXdfZml4ZWQv",
-          "author": null,
-          "description": "Linux kernel logic allowed Spectre attack on 'major cloud provider'  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzE0L2xpbnV4X2tlcm5lbF9zcGVjdHJlX2ZsYXdfZml4ZWQv0gFLaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzE0L2xpbnV4X2tlcm5lbF9zcGVjdHJlX2ZsYXdfZml4ZWQv?oc=5",
-          "publishedOn": "2023-04-14T06:27:00.000Z",
-          "wordCount": 6053,
-          "title": "Linux kernel logic allowed Spectre attack on 'major cloud provider' - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNC8xNC9lbWJlZGRlZC1vcGVuLXNvdXJjZS1zdW1taXQtMjAyMy1zY2hlZHVsZS16ZXBoeXItb3Mtc2VjdXJpdHktaW90LWVtYmVkZGVkLWxpbnV4L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNC8xNC9lbWJlZGRlZC1vcGVuLXNvdXJjZS1zdW1taXQtMjAyMy1zY2hlZHVsZS16ZXBoeXItb3Mtc2VjdXJpdHktaW90LWVtYmVkZGVkLWxpbnV4Lz9hbXA9MQ",
-          "author": null,
-          "description": "Embedded Open Source Summit 2023 schedule – Zephyr OS, Security, IoT, Embedded Linux, and more  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNC8xNC9lbWJlZGRlZC1vcGVuLXNvdXJjZS1zdW1taXQtMjAyMy1zY2hlZHVsZS16ZXBoeXItb3Mtc2VjdXJpdHktaW90LWVtYmVkZGVkLWxpbnV4L9IBfmh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNC8xNC9lbWJlZGRlZC1vcGVuLXNvdXJjZS1zdW1taXQtMjAyMy1zY2hlZHVsZS16ZXBoeXItb3Mtc2VjdXJpdHktaW90LWVtYmVkZGVkLWxpbnV4Lz9hbXA9MQ?oc=5",
-          "publishedOn": "2023-04-14T04:56:33.000Z",
-          "wordCount": 6053,
-          "title": "Embedded Open Source Summit 2023 schedule – Zephyr OS, Security, IoT, Embedded Linux, and more - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVNpZXJyYS1Gb3Jlc3QtRURBQy1MaW51eNIBAA",
-          "author": null,
-          "description": "Intel Sierra Forest EDAC Support Coming With Linux 6.4  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVNpZXJyYS1Gb3Jlc3QtRURBQy1MaW51eNIBAA?oc=5",
-          "publishedOn": "2023-04-13T18:55:00.000Z",
-          "wordCount": 6053,
-          "title": "Intel Sierra Forest EDAC Support Coming With Linux 6.4 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy91YnVudHUtbGl2ZXBhdGNoLWZvci1od2UtbGludXgta2VybmVscy1jb21pbmctc29vbi_SAU5odHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC91YnVudHUtbGl2ZXBhdGNoLWZvci1od2UtbGludXgta2VybmVscy1jb21pbmctc29vbi8",
-          "author": null,
-          "description": "Ubuntu Livepatch for HWE Linux kernels coming soon  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy91YnVudHUtbGl2ZXBhdGNoLWZvci1od2UtbGludXgta2VybmVscy1jb21pbmctc29vbi_SAU5odHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC91YnVudHUtbGl2ZXBhdGNoLWZvci1od2UtbGludXgta2VybmVscy1jb21pbmctc29vbi8?oc=5",
-          "publishedOn": "2023-04-13T17:16:00.000Z",
-          "wordCount": 6053,
-          "title": "Ubuntu Livepatch for HWE Linux kernels coming soon - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL3RzcGx1cy1yZWxlYXNlcy1zZXJ2ZXItbW9uaXRvcmluZy01LTQtd2l0aC1saW51eC1zZXJ2ZXItbW9uaXRvcmluZy0yMjAxMDMwOdIBAA",
-          "author": null,
-          "description": "TSplus Releases Server Monitoring 5.4 With Linux Server Monitoring  Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5ld3N3aXJlLmNvbS9uZXdzL3RzcGx1cy1yZWxlYXNlcy1zZXJ2ZXItbW9uaXRvcmluZy01LTQtd2l0aC1saW51eC1zZXJ2ZXItbW9uaXRvcmluZy0yMjAxMDMwOdIBAA?oc=5",
-          "publishedOn": "2023-04-13T17:00:00.000Z",
-          "wordCount": 6053,
-          "title": "TSplus Releases Server Monitoring 5.4 With Linux Server Monitoring - Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1vcGVyYS1icm93c2VyLW9uLWRlYmlhbi0xMi0xMS0xMC1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Install Opera Browser on Debian 12/11/10 Linux  H2S Media",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1vcGVyYS1icm93c2VyLW9uLWRlYmlhbi0xMi0xMS0xMC1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-04-13T16:12:00.000Z",
-          "wordCount": 6053,
-          "title": "How to Install Opera Browser on Debian 12/11/10 Linux - H2S Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvbGFuZG5hbWEtZ2l2ZXMtYS1ub24tdmlvbGVudC1leHBsb3JhdGlvbi1jaXR5LWJ1aWxkZXItcm9ndWVsaWtlL9IBAA",
-          "author": null,
-          "description": "Landnama gives a non-violent exploration city-builder roguelike  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvbGFuZG5hbWEtZ2l2ZXMtYS1ub24tdmlvbGVudC1leHBsb3JhdGlvbi1jaXR5LWJ1aWxkZXItcm9ndWVsaWtlL9IBAA?oc=5",
-          "publishedOn": "2023-04-13T14:43:34.000Z",
-          "wordCount": 6053,
-          "title": "Landnama gives a non-violent exploration city-builder roguelike - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzEzL2ZyZWVic2RfMTMyX29wZW5ic2RfNzMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzEzL2ZyZWVic2RfMTMyX29wZW5ic2RfNzMv",
-          "author": null,
-          "description": "Double BSD birthday bash beckons – or triple, if you count MidnightBSD 3.0  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA0LzEzL2ZyZWVic2RfMTMyX29wZW5ic2RfNzMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA0LzEzL2ZyZWVic2RfMTMyX29wZW5ic2RfNzMv?oc=5",
-          "publishedOn": "2023-04-13T14:41:00.000Z",
-          "wordCount": 6053,
-          "title": "Double BSD birthday bash beckons – or triple, if you count MidnightBSD 3.0 - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tZW5lcmd5LWFubm91bmNlcy1jb25mZXJlbmNlLXNjaGVkdWxlLWZvci1sZi1lbmVyZ3ktZW1iZWRkZWQtc3VtbWl0LTMwMTc5NjkwNS5odG1s0gEA",
-          "author": null,
-          "description": "Linux Foundation Energy Announces Conference Schedule for LF ...  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tZW5lcmd5LWFubm91bmNlcy1jb25mZXJlbmNlLXNjaGVkdWxlLWZvci1sZi1lbmVyZ3ktZW1iZWRkZWQtc3VtbWl0LTMwMTc5NjkwNS5odG1s0gEA?oc=5",
-          "publishedOn": "2023-04-13T14:32:00.000Z",
-          "wordCount": 6041,
-          "title": "Linux Foundation Energy Announces Conference Schedule for LF ... - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL3NldHRpbmctdXAtYS1saW51eC1maXJld2FsbC13aXRoLWlwdGFibGVzL9IBXmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL3NldHRpbmctdXAtYS1saW51eC1maXJld2FsbC13aXRoLWlwdGFibGVzL2FtcC8",
-          "author": null,
-          "description": "Setting up a Linux firewall with iptables  AddictiveTips",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL3NldHRpbmctdXAtYS1saW51eC1maXJld2FsbC13aXRoLWlwdGFibGVzL9IBXmh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL3NldHRpbmctdXAtYS1saW51eC1maXJld2FsbC13aXRoLWlwdGFibGVzL2FtcC8?oc=5",
-          "publishedOn": "2023-04-13T13:41:15.000Z",
-          "wordCount": 6053,
-          "title": "Setting up a Linux firewall with iptables - AddictiveTips",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvdGhlLWxhdGVzdC1zdGVhbS1zdXJ2ZXktaGFkLWEtaHVnZS1zdXJnZS1vZi1zaW1wbGlmaWVkLWNoaW5lc2Uv0gEA",
-          "author": null,
-          "description": "The latest Steam Survey had a huge surge of Simplified Chinese  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDQvdGhlLWxhdGVzdC1zdGVhbS1zdXJ2ZXktaGFkLWEtaHVnZS1zdXJnZS1vZi1zaW1wbGlmaWVkLWNoaW5lc2Uv0gEA?oc=5",
-          "publishedOn": "2023-04-13T13:31:09.000Z",
-          "wordCount": 6053,
-          "title": "The latest Steam Survey had a huge surge of Simplified Chinese - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -10314,76 +10224,6 @@
           "wordCount": 1952,
           "title": "How to Initialize a Java List – List of String Initialization in Java",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-Initialize-a-Java-List---List-of-String-Initialization-in-Java.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
-          "author": "Rajdeep Singh",
-          "description": "Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be",
-          "link": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
-          "publishedOn": "2023-04-13T21:14:46.000Z",
-          "wordCount": 9282,
-          "title": "How to Build a Blog with the Ghost API and Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Ghost-API-and-Nextjs--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
-          "author": "Dillion Megida",
-          "description": "In JavaScript, there are two types of functions. You have normal functions and arrow functions. Let's explore the difference between them in this article. Arrow functions was introduced in ES6. And it introduced a simple and shorter way to create functions. Here's how to create a normal function, with arguments,",
-          "link": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
-          "publishedOn": "2023-04-13T21:04:00.000Z",
-          "wordCount": 2569,
-          "title": "The difference between Arrow functions and Normal functions in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/25-arrow-normal-functions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
-          "author": "Mihail Gaberov",
-          "description": "Welcome to yet another tutorial [https://www.mihailgaberov.com/] where you will learn how to build a ⚽ scoreboard app in React. This time we will use Vite as our next generation frontend tooling [https://vitejs.dev/] and Vitest [https://vitest.dev/] as a Vite-native unit testing framework.  You will also learn how to leverage React",
-          "link": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
-          "publishedOn": "2023-04-13T20:41:33.000Z",
-          "wordCount": 4303,
-          "title": "How to Create a Live Football Scoreboard in React with Vite and Vitest",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article we'll build a dashboard inspired by the recipes in Zelda: Breath of the Wild.  Our dashboard will have multiple data validation dropdown selections for us to choose ingredients. By using a =Query() function, we'll then display the recipes that contain any combination of the selected ingredients.",
-          "link": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
-          "publishedOn": "2023-04-13T17:31:52.000Z",
-          "wordCount": 2212,
-          "title": "Google Sheets – Learn Advanced Functions by Building a Zelda Dashboard",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Zelda-Walkthrough.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in learning how to create a social networking site like LinkedIn using React and Firebase? We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to build a LinkedIn clone from start to finish, using the popular front-end library React and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
-          "publishedOn": "2023-04-13T17:24:40.000Z",
-          "wordCount": 944,
-          "title": "How to Create a LinkedIn Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linkedinclone.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
-          "author": "Dionysia Lemonaki",
-          "description": "Software engineers are in high demand these days. They generally command comfortable salaries, and can have a good work-life balance. But what do software engineers do? And how can you become one yourself? In this article, I will explain the tasks and responsibilities of software engineers, and I will go",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
-          "publishedOn": "2023-04-13T16:15:24.000Z",
-          "wordCount": 3531,
-          "title": "How to Become a Software Engineer – 2023 Roadmap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-christina-morillo-1181675.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
-          "author": "Joel Olawanle",
-          "description": "The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.",
-          "link": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
-          "publishedOn": "2023-04-13T14:59:18.000Z",
-          "wordCount": 1944,
-          "title": "Call vs Put vs Post – HTTP Request Methods Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
         }
       ]
     }
