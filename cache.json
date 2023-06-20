@@ -12,6 +12,26 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=269029",
+          "author": "Dave Sumaylo",
+          "description": "Understanding the pinout is important to work with the ESP32 board. This article is a complete guide on ESP32 pinout.",
+          "link": "https://linuxhint.com/esp32-pinout-reference/",
+          "publishedOn": "2023-06-19T05:21:12.000Z",
+          "wordCount": 6918,
+          "title": "ESP32 Pinout Reference – A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=336485",
+          "author": "Shahriar Shovon",
+          "description": "Comprehensive guide on the new features and upgrade of the newly released version of the Debian operating system which is the Debian 12 code named Bookworm.",
+          "link": "https://linuxhint.com/new-debian-12-code-named-bookworm/",
+          "publishedOn": "2023-06-17T22:13:28.000Z",
+          "wordCount": 4072,
+          "title": "What’s New in Debian 12 Code Named Bookworm?",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=334677",
           "author": "Kalsoom Bibi",
           "description": "Guide on how to log into your Kubernetes cluster by implementing a Minikube virtual environment and set and name the context to switch between the namespaces.",
@@ -2070,36 +2090,6 @@
           "wordCount": 3889,
           "title": "How to Use unsigned char in C With Examples",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=116813",
-          "author": "Linux Explorer",
-          "description": "Comprehensive tutorial on the various methods of using the =~ operator in Bash to search the string values with different types of regular expressions.",
-          "link": "https://linuxhint.com/equal-tilde-bash/",
-          "publishedOn": "2023-05-21T03:37:50.000Z",
-          "wordCount": 4294,
-          "title": "Using the =~ Operator in Bash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=117017",
-          "author": "Linux Explorer",
-          "description": "The purposes of using the single quotes in the Bash script using single quotes with both echo and printf commands to define a string data or execute a command.",
-          "link": "https://linuxhint.com/escape-single-quote-bash/",
-          "publishedOn": "2023-05-20T21:34:10.000Z",
-          "wordCount": 4181,
-          "title": "Escape a Single Quote in Bash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=144034",
-          "author": "Linux Explorer",
-          "description": "The simple uses of the logical AND operator in Bash script to define the logical expressions in any programming language and check two or more conditions.",
-          "link": "https://linuxhint.com/bash-logical-and-operator/",
-          "publishedOn": "2023-05-20T15:01:26.000Z",
-          "wordCount": 4353,
-          "title": "Bash Logical AND (&&) Operator",
-          "imageUrl": null
         }
       ]
     },
@@ -2108,6 +2098,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184114",
+          "author": "Web Webster",
+          "description": "Etcher, also known as balenaEtcher, is an open-source and cross-platform software used for creating bootable USB drives or even Micro SD cards. Learn more here.\nThe post Etcher: The Ultimate USB and SD Card Image Writer Tool appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/etcher-the-ultimate-usb-and-sd-card-image-writer-tool/",
+          "publishedOn": "2023-06-20T00:00:13.000Z",
+          "wordCount": 17183,
+          "title": "Etcher: The Ultimate USB and SD Card Image Writer Tool",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184113",
+          "author": "Web Webster",
+          "description": "This comprehensive guide explains what a cron job is as well as provides examples commands for how to use cron jobs in Linux.\nThe post Schedule Tasks With Cron Jobs in Linux and Unix-Based OSes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/schedule-tasks-with-cron-jobs-in-linux-and-unix-based-oses/",
+          "publishedOn": "2023-06-19T22:00:12.000Z",
+          "wordCount": 17185,
+          "title": "Schedule Tasks With Cron Jobs in Linux and Unix-Based OSes",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184112",
+          "author": "Web Webster",
+          "description": "Fiddler Auditor is an open-source tool that helps developers and researchers identify weaknesses and improve performance of LLMs. Learn more here.\nThe post Fiddler Auditor: Open-source Tool Evaluates Robustness of LLMs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/fiddler-auditor-open-source-tool-evaluates-robustness-of-llms/",
+          "publishedOn": "2023-06-19T20:00:11.000Z",
+          "wordCount": 17179,
+          "title": "Fiddler Auditor: Open-source Tool Evaluates Robustness of LLMs",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184111",
+          "author": "Web Webster",
+          "description": "Through this guide, you will learn the process of redirecting output to a file and stdout in Linux. Follow along here.\nThe post How to Redirect Output to a File and stdout in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-redirect-output-to-a-file-and-stdout-in-linux/",
+          "publishedOn": "2023-06-19T18:00:10.000Z",
+          "wordCount": 17183,
+          "title": "How to Redirect Output to a File and stdout in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184110",
+          "author": "Web Webster",
+          "description": "In this comprehensive guide, we will walk you through the process of setting the $PATH variable in Linux. Follow along here.\nThe post How to Permanently Set $PATH in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-permanently-set-path-in-linux/",
+          "publishedOn": "2023-06-19T17:00:09.000Z",
+          "wordCount": 17169,
+          "title": "How to Permanently Set $PATH in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184109",
+          "author": "Web Webster",
+          "description": "In this tutorial, we’ll guide you on how to set up a static IP address on Ubuntu distribution using three methods.\nThe post How to Set Static IP Address in Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-set-static-ip-address-in-ubuntu/",
+          "publishedOn": "2023-06-19T16:00:08.000Z",
+          "wordCount": 17168,
+          "title": "How to Set Static IP Address in Ubuntu",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184108",
+          "author": "Web Webster",
+          "description": "Check out this list of the 10 best Xfce-based Linux distributions with their features, advantages, and freshness.\nThe post 10 Best Linux Distributions for Xfce Desktop appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/10-best-linux-distributions-for-xfce-desktop/",
+          "publishedOn": "2023-06-19T15:00:06.000Z",
+          "wordCount": 17153,
+          "title": "10 Best Linux Distributions for Xfce Desktop",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184087",
+          "author": "Web Webster",
+          "description": "Flemozi is an open-source, simple, fast, and lightweight emoji picker for desktop operating systems. Learn more here.\nThe post Flemozi: Lightweight Emoji Picker appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/flemozi-lightweight-emoji-picker/",
+          "publishedOn": "2023-06-19T14:00:06.000Z",
+          "wordCount": 17149,
+          "title": "Flemozi: Lightweight Emoji Picker",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184086",
+          "author": "Web Webster",
+          "description": "In this article, you will get to check out a list of some of the best ways to play retro games on Linux systems.\nThe post 4 Best Ways to Play Retro Games on Linux Systems appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/4-best-ways-to-play-retro-games-on-linux-systems/",
+          "publishedOn": "2023-06-19T13:00:02.000Z",
+          "wordCount": 17186,
+          "title": "4 Best Ways to Play Retro Games on Linux Systems",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184084",
           "author": "Web Webster",
@@ -4096,6 +4176,156 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1OQ1Q2Nzk5RNIBAA",
+          "author": null,
+          "description": "Linux 6.5 Adding Support For NCT6799D Sensors Found In Various ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1OQ1Q2Nzk5RNIBAA?oc=5",
+          "publishedOn": "2023-06-19T22:56:00.000Z",
+          "wordCount": 5999,
+          "title": "Linux 6.5 Adding Support For NCT6799D Sensors Found In Various ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiogFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy9nZXRuZXdzL2xpbnV4LWNoYXQtc2V0LXRvLWRpc3J1cHQtdGhlLW1hcmtldC1ieS1sYXVuY2hpbmctbGludXgtY2hhdC1zdXBwb3J0LWZvcnVtcy1leHBhbmRpbmctdGhlLW11bHRpLXBsYXRmb3JtLWNvbW11bml0eS3SAQA",
+          "author": null,
+          "description": "Linux.Chat Set to Disrupt the Market by Launching Linux.Chat ...  Digital Journal",
+          "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy9nZXRuZXdzL2xpbnV4LWNoYXQtc2V0LXRvLWRpc3J1cHQtdGhlLW1hcmtldC1ieS1sYXVuY2hpbmctbGludXgtY2hhdC1zdXBwb3J0LWZvcnVtcy1leHBhbmRpbmctdGhlLW11bHRpLXBsYXRmb3JtLWNvbW11bml0eS3SAQA?oc=5",
+          "publishedOn": "2023-06-19T21:19:34.000Z",
+          "wordCount": 5999,
+          "title": "Linux.Chat Set to Disrupt the Market by Launching Linux.Chat ... - Digital Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTItYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTUtONIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTItYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTUtOC9hbXA",
+          "author": null,
+          "description": "Linux Mint 21.2 Beta Is Now Available for Download with Cinnamon 5.8  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTItYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTUtONIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTItYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTUtOC9hbXA?oc=5",
+          "publishedOn": "2023-06-19T19:50:04.000Z",
+          "wordCount": 5999,
+          "title": "Linux Mint 21.2 Beta Is Now Available for Download with Cinnamon 5.8 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0YyRlMtQXN5bmMtQnVmZmVyZWQtV3JpdGVz0gEA",
+          "author": null,
+          "description": "F2FS Preparing To Land Async Buffered Write Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0YyRlMtQXN5bmMtQnVmZmVyZWQtV3JpdGVz0gEA?oc=5",
+          "publishedOn": "2023-06-19T19:16:00.000Z",
+          "wordCount": 5999,
+          "title": "F2FS Preparing To Land Async Buffered Write Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvc3RlYW0tbmV4dC1mZXN0LWp1bmUtMjAyMy1pcy1saXZlLW5vdy13aXRoLWxvdHMtb2YtZ2FtZXMv0gEA",
+          "author": null,
+          "description": "Steam Next Fest June 2023 is live now with lots of games  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvc3RlYW0tbmV4dC1mZXN0LWp1bmUtMjAyMy1pcy1saXZlLW5vdy13aXRoLWxvdHMtb2YtZ2FtZXMv0gEA?oc=5",
+          "publishedOn": "2023-06-19T17:56:03.000Z",
+          "wordCount": 5999,
+          "title": "Steam Next Fest June 2023 is live now with lots of games - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZ29nLWdpdmluZy1hd2F5LWNsYXNzaWMtcnBnLWVzY2hhbG9uLWJvb2staWktcGx1cy15YWt1emEtc2VyaWVzLW5vdy1vbi1nb2cv0gEA",
+          "author": null,
+          "description": "GOG giving away classic RPG Eschalon: Book II - plus Yakuza ...  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZ29nLWdpdmluZy1hd2F5LWNsYXNzaWMtcnBnLWVzY2hhbG9uLWJvb2staWktcGx1cy15YWt1emEtc2VyaWVzLW5vdy1vbi1nb2cv0gEA?oc=5",
+          "publishedOn": "2023-06-19T16:17:53.000Z",
+          "wordCount": 5999,
+          "title": "GOG giving away classic RPG Eschalon: Book II - plus Yakuza ... - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZGFyay1jaGVzcy1ub3ctaGFzLWEtbmF0aXZlLWxpbnV4LXZlcnNpb24tYXZhaWxhYmxlL9IBAA",
+          "author": null,
+          "description": "Dark Chess now has a Native Linux version available  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZGFyay1jaGVzcy1ub3ctaGFzLWEtbmF0aXZlLWxpbnV4LXZlcnNpb24tYXZhaWxhYmxlL9IBAA?oc=5",
+          "publishedOn": "2023-06-19T15:44:46.000Z",
+          "wordCount": 5999,
+          "title": "Dark Chess now has a Native Linux version available - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1mZi1pbi11YnVudHUtbGludXgv0gEA",
+          "author": null,
+          "description": "How to install FF in Ubuntu Linux?  H2S Media",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1mZi1pbi11YnVudHUtbGludXgv0gEA?oc=5",
+          "publishedOn": "2023-06-19T14:46:50.000Z",
+          "wordCount": 5999,
+          "title": "How to install FF in Ubuntu Linux? - H2S Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03NnMtb3J5eC1wcm8tYW5kLWJvbm9iby13cy1saW51eC1sYXB0b3BzLWdldC1yYXB0b3ItbGFrZS1jcHVz0gFdaHR0cHM6Ly85dG81bGludXguY29tL3N5c3RlbTc2cy1vcnl4LXByby1hbmQtYm9ub2JvLXdzLWxpbnV4LWxhcHRvcHMtZ2V0LXJhcHRvci1sYWtlLWNwdXMvYW1w",
+          "author": null,
+          "description": "System76’s Oryx Pro and Bonobo WS Linux Laptops Get “Raptor Lake” CPUs  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zeXN0ZW03NnMtb3J5eC1wcm8tYW5kLWJvbm9iby13cy1saW51eC1sYXB0b3BzLWdldC1yYXB0b3ItbGFrZS1jcHVz0gFdaHR0cHM6Ly85dG81bGludXguY29tL3N5c3RlbTc2cy1vcnl4LXByby1hbmQtYm9ub2JvLXdzLWxpbnV4LWxhcHRvcHMtZ2V0LXJhcHRvci1sYWtlLWNwdXMvYW1w?oc=5",
+          "publishedOn": "2023-06-19T13:57:42.000Z",
+          "wordCount": 5999,
+          "title": "System76’s Oryx Pro and Bonobo WS Linux Laptops Get “Raptor Lake” CPUs - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JldmlzZWQtU2hhZG93LVN0YWNrLUxpbnV4LTYuNdIBAA",
+          "author": null,
+          "description": "Revised Intel Shadow Stack Support May Be Ready For Linux 6.5  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JldmlzZWQtU2hhZG93LVN0YWNrLUxpbnV4LTYuNdIBAA?oc=5",
+          "publishedOn": "2023-06-19T11:55:00.000Z",
+          "wordCount": 5999,
+          "title": "Revised Intel Shadow Stack Support May Be Ready For Linux 6.5 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3Lml0cHJvLmNvbS9zb2Z0d2FyZS9saW51eC9rYWxpLWxpbnV4LXJldmlldy1hLXN3aXNzLWFybXkta25pZmUtZm9yLWN5YmVyLXNlY3VyaXR5LXByb3PSAQA",
+          "author": null,
+          "description": "Kali Linux review: A swiss army knife for cyber security pros  ITPro",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lml0cHJvLmNvbS9zb2Z0d2FyZS9saW51eC9rYWxpLWxpbnV4LXJldmlldy1hLXN3aXNzLWFybXkta25pZmUtZm9yLWN5YmVyLXNlY3VyaXR5LXByb3PSAQA?oc=5",
+          "publishedOn": "2023-06-19T11:00:00.000Z",
+          "wordCount": 5999,
+          "title": "Kali Linux review: A swiss army knife for cyber security pros - ITPro",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtRm9yLUxpbnV4LTYuNdIBAA",
+          "author": null,
+          "description": "Linux 6.5 Upgrading The Rust Toolchain, New Modules Added  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtRm9yLUxpbnV4LTYuNdIBAA?oc=5",
+          "publishedOn": "2023-06-19T10:12:00.000Z",
+          "wordCount": 5999,
+          "title": "Linux 6.5 Upgrading The Rust Toolchain, New Modules Added - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiImh0dHBzOi8vYmVlYm9tLmNvbS9iZXN0LXZwbi1saW51eC_SASZodHRwczovL2JlZWJvbS5jb20vYmVzdC12cG4tbGludXgvYW1wLw",
+          "author": null,
+          "description": "5 Best VPNs for Linux in 2023 (Free and Paid)  Beebom",
+          "link": "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vYmVlYm9tLmNvbS9iZXN0LXZwbi1saW51eC_SASZodHRwczovL2JlZWJvbS5jb20vYmVzdC12cG4tbGludXgvYW1wLw?oc=5",
+          "publishedOn": "2023-06-19T08:26:06.000Z",
+          "wordCount": 5999,
+          "title": "5 Best VPNs for Linux in 2023 (Free and Paid) - Beebom",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVuZS0xOHRoLTIwMjPSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWp1bmUtMTh0aC0yMDIzL2FtcA",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: June 18th, 2023  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVuZS0xOHRoLTIwMjPSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWp1bmUtMTh0aC0yMDIzL2FtcA?oc=5",
+          "publishedOn": "2023-06-19T07:59:06.000Z",
+          "wordCount": 5999,
+          "title": "9to5Linux Weekly Roundup: June 18th, 2023 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNi8xOS9nZWVrb20tYXMtNi1taW5pLXBjLXJldmlldy13aXRoLXVidW50dS0yMi0wNC1saW51eC_SAWFodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMDYvMTkvZ2Vla29tLWFzLTYtbWluaS1wYy1yZXZpZXctd2l0aC11YnVudHUtMjItMDQtbGludXgvP2FtcD0x",
+          "author": null,
+          "description": "GEEKOM AS 6 mini PC review – Part 3: Ubuntu 22.04 Linux  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8wNi8xOS9nZWVrb20tYXMtNi1taW5pLXBjLXJldmlldy13aXRoLXVidW50dS0yMi0wNC1saW51eC_SAWFodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMDYvMTkvZ2Vla29tLWFzLTYtbWluaS1wYy1yZXZpZXctd2l0aC11YnVudHUtMjItMDQtbGludXgvP2FtcD0x?oc=5",
+          "publishedOn": "2023-06-19T02:00:32.000Z",
+          "wordCount": 5999,
+          "title": "GEEKOM AS 6 mini PC review – Part 3: Ubuntu 22.04 Linux - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1yYzctUmVsZWFzZWTSAQA",
           "author": null,
           "description": "Linux 6.4-rc7 Released With The Quiet Cycle Continuing  Phoronix",
@@ -4146,6 +4376,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiYWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzA2LzE3LzIxNDAyNTgvZGV2LWJvb3RzLWxpbnV4LTI5MjYxMi10aW1lcy10by1maW5kLWtlcm5lbC1idWfSAQA",
+          "author": null,
+          "description": "Dev Boots Linux 292,612 Times to Find Kernel Bug  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzA2LzE3LzIxNDAyNTgvZGV2LWJvb3RzLWxpbnV4LTI5MjYxMi10aW1lcy10by1maW5kLWtlcm5lbC1idWfSAQA?oc=5",
+          "publishedOn": "2023-06-18T01:47:32.000Z",
+          "wordCount": 5999,
+          "title": "Dev Boots Linux 292,612 Times to Find Kernel Bug - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiVWh0dHBzOi8vYW1iY3J5cHRvLmNvbS9ibG9nL2hvdy10by11cHNjYWxlLWFpLWltYWdlcy11c2luZy11cHNjYXlsLXRoZS11bHRpbWF0ZS1ndWlkZS_SAVlodHRwczovL2FtYmNyeXB0by5jb20vYmxvZy9ob3ctdG8tdXBzY2FsZS1haS1pbWFnZXMtdXNpbmctdXBzY2F5bC10aGUtdWx0aW1hdGUtZ3VpZGUvYW1wLw",
           "author": null,
           "description": "How to Upscale AI Images Using Upscayl: The Ultimate Guide  AMBCrypto Blog",
@@ -4193,6 +4433,16 @@
           "publishedOn": "2023-06-17T10:56:00.000Z",
           "wordCount": 5999,
           "title": "Distrobox 1.5 Released With NVIDIA GPU Containers Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL21hbmFnZS1ib29rbWFya3Mtb3V0c2lkZS1vZi10aGUtYnJvd3Nlci1vbi1saW51eC_SAWVodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9tYW5hZ2UtYm9va21hcmtzLW91dHNpZGUtb2YtdGhlLWJyb3dzZXItb24tbGludXgvYW1wLw",
+          "author": null,
+          "description": "Manage bookmarks outside of the browser on Linux  AddictiveTips",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL21hbmFnZS1ib29rbWFya3Mtb3V0c2lkZS1vZi10aGUtYnJvd3Nlci1vbi1saW51eC_SAWVodHRwczovL3d3dy5hZGRpY3RpdmV0aXBzLmNvbS91YnVudHUtbGludXgtdGlwcy9tYW5hZ2UtYm9va21hcmtzLW91dHNpZGUtb2YtdGhlLWJyb3dzZXItb24tbGludXgvYW1wLw?oc=5",
+          "publishedOn": "2023-06-17T10:27:11.000Z",
+          "wordCount": 5999,
+          "title": "Manage bookmarks outside of the browser on Linux - AddictiveTips",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4423,6 +4673,16 @@
           "publishedOn": "2023-06-15T11:30:00.000Z",
           "wordCount": 5976,
           "title": "Linux Operating System Market Size, Share, Price, Trends, Growth, Analysis, Outlook, Report and Forecast - EIN News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikQFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy9za3lxdWVzdC10ZWNobm9sb2d5LWNvbnN1bHRpbmctcHZ0LWx0ZC0vbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtYW5hbHlzaXMtYW5kLWZ1dHVyZS1ncm93dGgtcHJvc3BlY3Rz0gEA",
+          "author": null,
+          "description": "Linux Operating System: Market Analysis and Future Growth Prospects  Digital Journal",
+          "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kaWdpdGFsam91cm5hbC5jb20vcHIvbmV3cy9za3lxdWVzdC10ZWNobm9sb2d5LWNvbnN1bHRpbmctcHZ0LWx0ZC0vbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtYW5hbHlzaXMtYW5kLWZ1dHVyZS1ncm93dGgtcHJvc3BlY3Rz0gEA?oc=5",
+          "publishedOn": "2023-06-15T11:18:22.000Z",
+          "wordCount": 6001,
+          "title": "Linux Operating System: Market Analysis and Future Growth Prospects - Digital Journal",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8494,56 +8754,6 @@
           "wordCount": 5995,
           "title": "How to remove Software Center App on Ubuntu 22.04 or 20.04? - H2S Media",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FyY2gtTGludXgtR2l0LU1pZ3JhdGlvbi1PdmVy0gEA",
-          "author": null,
-          "description": "Arch Linux Completes Its Git Migration  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FyY2gtTGludXgtR2l0LU1pZ3JhdGlvbi1PdmVy0gEA?oc=5",
-          "publishedOn": "2023-05-21T12:42:00.000Z",
-          "wordCount": 5996,
-          "title": "Arch Linux Completes Its Git Migration - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FxdWFjb21wdXRlci1MZWFrc2hpZWxkLUxpbnV40gEA",
-          "author": null,
-          "description": "Linux Adding Leakshield Driver Support For Reporting Liquid Cooling System Leaks  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FxdWFjb21wdXRlci1MZWFrc2hpZWxkLUxpbnV40gEA?oc=5",
-          "publishedOn": "2023-05-21T09:51:00.000Z",
-          "wordCount": 5995,
-          "title": "Linux Adding Leakshield Driver Support For Reporting Liquid Cooling System Leaks - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA1L2JvZGhpLWxpbnV4LTctMC1iZXRh0gE8aHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDUvYm9kaGktbGludXgtNy0wLWJldGEvYW1w",
-          "author": null,
-          "description": "Bodhi Linux 7.0 Beta is Now Available for Testing  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA1L2JvZGhpLWxpbnV4LTctMC1iZXRh0gE8aHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDUvYm9kaGktbGludXgtNy0wLWJldGEvYW1w?oc=5",
-          "publishedOn": "2023-05-20T23:09:17.000Z",
-          "wordCount": 5996,
-          "title": "Bodhi Linux 7.0 Beta is Now Available for Testing - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcHJldmVudC1icnV0ZS1mb3JjZS1vbi1saW51eC11c2luZy1mYWlsMmJhbi_SAQA",
-          "author": null,
-          "description": "How to Prevent Brute-Force Attacks on Linux Using Fail2ban  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vcHJldmVudC1icnV0ZS1mb3JjZS1vbi1saW51eC11c2luZy1mYWlsMmJhbi_SAQA?oc=5",
-          "publishedOn": "2023-05-20T15:30:00.000Z",
-          "wordCount": 5995,
-          "title": "How to Prevent Brute-Force Attacks on Linux Using Fail2ban - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvZ2V0LXNvbWUtcXVhbGl0eS1kZWNrYnVpbGRpbmctaW4tdGhpcy1nYW1lLWJ1bmRsZS_SAQA",
-          "author": null,
-          "description": "Get some quality deck-building in this game bundle  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvZ2V0LXNvbWUtcXVhbGl0eS1kZWNrYnVpbGRpbmctaW4tdGhpcy1nYW1lLWJ1bmRsZS_SAQA?oc=5",
-          "publishedOn": "2023-05-20T14:48:50.000Z",
-          "wordCount": 5995,
-          "title": "Get some quality deck-building in this game bundle - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8558,6 +8768,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
+          "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
+          "publishedOn": "2023-06-19T17:00:00.000Z",
+          "wordCount": 6918,
+          "title": "Gatsby Headaches And How To Cure Them: i18n (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-2/gatsby-headaches-i18n-part-2.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/06/smashingconf-sanfrancisco2023-recap/",
           "author": "hello@smashingmagazine.com (Ren Chen)",
@@ -8835,6 +9060,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS transform allows you to translate, rotate, skew, scale, or add perspective effects to HTML elements. This tutorial discusses everything you need to know to transform HTML elements like a pro. Table of Contents  1.  What is the CSS transform Property?  2.  What is the CSS",
+          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
+          "publishedOn": "2023-06-19T21:13:33.000Z",
+          "wordCount": 7756,
+          "title": "CSS Transform Handbook – Complete Guide to CSS Transform Functions and Properties",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/css-transform-image-by-efes-from-pixabay-codesweetly.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Hi! If you speak Spanish and you want to learn JavaScript for DOM manipulation, you are in the right place. In this article, you will find a brief introduction to JavaScript for DOM manipulation. You will learn why this is a very powerful tool for developing interactive web applications and",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-for-dom-manipulation-in-spanish-course-for-beginners/",
+          "publishedOn": "2023-06-19T15:12:59.000Z",
+          "wordCount": 2740,
+          "title": "Learn JavaScript for DOM Manipulation in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/course-image.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
           "author": "Tim Kleier",
