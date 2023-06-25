@@ -12,6 +12,36 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=265868",
+          "author": "Cherry Mae Barolo",
+          "description": "The “scipy.stats.pearsonr()” function in Python is a powerful tool for calculating the Pearson correlation coefficient between variables.",
+          "link": "https://linuxhint.com/scipy-stats-pearsonr/",
+          "publishedOn": "2023-06-24T02:33:26.000Z",
+          "wordCount": 3903,
+          "title": "SciPy Stats Pearsonr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=148336",
+          "author": "Cherry Mae Barolo",
+          "description": "The “numpy.append()” method and the “numpy.concatenate()” method of the “Numpy” module are used to append the NumPy array in Python.",
+          "link": "https://linuxhint.com/numpy-array-append/",
+          "publishedOn": "2023-06-23T13:04:22.000Z",
+          "wordCount": 4242,
+          "title": "Numpy Array Append",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=161161",
+          "author": "Cherry Mae Barolo",
+          "description": "In Python, the “numpy.loadtxt()” function of the “Numpy” module is utilized to load the data from the text file and retrieve it as “ndarray”.",
+          "link": "https://linuxhint.com/numpy-loadtxt/",
+          "publishedOn": "2023-06-23T12:53:36.000Z",
+          "wordCount": 4456,
+          "title": "Numpy Loadtxt",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=246572",
           "author": "Linux Explorer",
           "description": "The “NumPy Indexing” in Python allows you to access and manipulate elements of a NumPy array based on their positions or index values.",
@@ -1780,226 +1810,6 @@
           "wordCount": 4087,
           "title": "Python readlines()",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328379",
-          "author": "Muhammad Farhan",
-          "description": "The “Set-Acl” cmdlet changes the security descriptor of a specified item or file. It uses the “-AclObject” parameter to specify the security descriptor.",
-          "link": "https://linuxhint.com/use-set-acl-cmdlet-in-powershell/",
-          "publishedOn": "2023-05-26T06:46:42.000Z",
-          "wordCount": 3950,
-          "title": "How to Use the Set-Acl Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328318",
-          "author": "Muhammad Farhan",
-          "description": "PowerShell’s “Rename-Computer” cmdlet is particularly designed to rename a local computer and a remote computer. However, it cannot rename computers in bulk.",
-          "link": "https://linuxhint.com/use-rename-computer-cmdlet-in-powershell/",
-          "publishedOn": "2023-05-26T06:40:09.000Z",
-          "wordCount": 3904,
-          "title": "How to use the Rename-Computer (Microsoft.PowerShell.Management) Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328362",
-          "author": "Hafsa Javed",
-          "description": "To zip two different arrays in JavaScript, various methods can be invoked, such as “map()”, “Array.from()”, and “Array.prototype.fill()”.",
-          "link": "https://linuxhint.com/how-to-zip-two-arrays-in-javascript/",
-          "publishedOn": "2023-05-26T05:29:20.000Z",
-          "wordCount": 3914,
-          "title": "How to Zip Two Arrays in JavaScript?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328355",
-          "author": "Muhammad Farhan",
-          "description": "The “Stop-Process” cmdlet is used to stop or kill one or more processes. It uses the process ID or name to terminate it in PowerShell.",
-          "link": "https://linuxhint.com/use-stop-process-cmdlet/",
-          "publishedOn": "2023-05-26T05:17:00.000Z",
-          "wordCount": 3768,
-          "title": "How to Use the Stop-Process (Microsoft.PowerShell.Management) Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328347",
-          "author": "Hafsa Javed",
-          "description": "To stop a JavaScript function when a certain condition is met, the “try catch” statement, “break” and the “return” statement can be utilized.",
-          "link": "https://linuxhint.com/stopping-javascript-function-when-certain-condition-is-met/",
-          "publishedOn": "2023-05-26T05:07:23.000Z",
-          "wordCount": 3926,
-          "title": "Stopping a JavaScript Function When a Certain Condition is Met",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328295",
-          "author": "Muhammad Farhan",
-          "description": "PowerShell’s “Set-Location” cmdlet is used to set the current working directory to a specified location that includes a directory or registry.",
-          "link": "https://linuxhint.com/use-set-location-cmdlet-in-powershell/",
-          "publishedOn": "2023-05-26T04:56:03.000Z",
-          "wordCount": 3727,
-          "title": "How to Use the Set-Location (Microsoft.PowerShell.Management) Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=190134",
-          "author": "Dave Sumaylo",
-          "description": "In Python, the “sns.set_theme()” method can be used along with the “style” parameter and its value to customize the seaborn theme.",
-          "link": "https://linuxhint.com/seaborn-theme/",
-          "publishedOn": "2023-05-26T04:51:37.000Z",
-          "wordCount": 3963,
-          "title": "Seaborn Theme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328325",
-          "author": "Talha Saif Malik",
-          "description": "The “reset()” method resets all the values of the input fields by clicking on the “Reset” button. It acts the same as the “Reset” button.",
-          "link": "https://linuxhint.com/use-the-html-dom-form-reset-method-in-javascript/",
-          "publishedOn": "2023-05-26T04:51:36.000Z",
-          "wordCount": 3821,
-          "title": "How to Use the HTML DOM Form reset() Method in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=188601",
-          "author": "Dave Sumaylo",
-          "description": "To set the seaborn legend location in Python, the “plt.legend()” method can be used along with the “loc= ‘value’” parameter.",
-          "link": "https://linuxhint.com/seaborn-legend-location/",
-          "publishedOn": "2023-05-26T04:51:19.000Z",
-          "wordCount": 3925,
-          "title": "Seaborn Legend Location",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=143332",
-          "author": "Dave Sumaylo",
-          "description": "To remove the substring from a string, the “replace()”, “for” loop with “replace()”, “translate()”, and the “Index” methods are used in Python.",
-          "link": "https://linuxhint.com/remove-substring-python/",
-          "publishedOn": "2023-05-26T04:51:07.000Z",
-          "wordCount": 4201,
-          "title": "Remove Substring from String in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328257",
-          "author": "Talha Saif Malik",
-          "description": "The “removeChild()” method removes the specified child node of the HTML element. It also allows the removal of a child node present at a particular index.",
-          "link": "https://linuxhint.com/html-dom-element-removechild-method-in-javascript/",
-          "publishedOn": "2023-05-26T04:49:11.000Z",
-          "wordCount": 4158,
-          "title": "How to Use the HTML DOM Element removeChild Method in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328246",
-          "author": "Talha Saif Malik",
-          "description": "The HTML DOM(Document Object Model) “images” property retrieves the collection of images present in the current HTML document.",
-          "link": "https://linuxhint.com/use-of-html-dom-document-images-property-in-javascript/",
-          "publishedOn": "2023-05-26T04:44:48.000Z",
-          "wordCount": 4202,
-          "title": "How to Use the HTML DOM Document images Property in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328236",
-          "author": "Muhammad Farhan",
-          "description": "The “Get-NetIPAddress” cmdlet is used to get the IP address configuration in PowerShell. It gets IP address configurations IPv4 and IPv6.",
-          "link": "https://linuxhint.com/use-get-netipaddress-cmdlet-powershell/",
-          "publishedOn": "2023-05-26T04:41:35.000Z",
-          "wordCount": 3741,
-          "title": "How to Use the Get-NetIPAddress (NetTCPIP) Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328231",
-          "author": "Talha Saif Malik",
-          "description": "JavaScript offers the “location.reload()” method that works on the built-in “location” object for reloading the present working URL.",
-          "link": "https://linuxhint.com/use-location-reload-method-in-javascript/",
-          "publishedOn": "2023-05-26T04:37:30.000Z",
-          "wordCount": 3773,
-          "title": "How to Use Location reload() Method in JavaScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328213",
-          "author": "Talha Saif Malik",
-          "description": "The inbuilt String “match()” method in JavaScript searches the string against a specified pattern and returns it. Also, it returns “NULL” if no match is found.",
-          "link": "https://linuxhint.com/use-of-javascript-string-match-method/",
-          "publishedOn": "2023-05-26T04:33:02.000Z",
-          "wordCount": 4199,
-          "title": "How to Use JavaScript String match() Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328208",
-          "author": "Muhammad Farhan",
-          "description": "In PowerShell, the cmdlet “Add-Member” is used to add a member to an instance of an object, such as methods and properties.",
-          "link": "https://linuxhint.com/how-to-use-add-member-cmdlet/",
-          "publishedOn": "2023-05-26T04:25:51.000Z",
-          "wordCount": 3858,
-          "title": "How to Use Add-Member (Microsoft.PowerShell.Utility) Cmdlet in PowerShell?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328201",
-          "author": "Hafsa Javed",
-          "description": "To reset the submodule: move to the local repository, go to the submodule directory. Reset the submodule directory and checkout the state of the cloned repository.",
-          "link": "https://linuxhint.com/reset-submodule-to-checkout-state-in-git/",
-          "publishedOn": "2023-05-26T04:23:07.000Z",
-          "wordCount": 3934,
-          "title": "How to Reset Submodule to Checkout State in Git",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328192",
-          "author": "Hafsa Javed",
-          "description": "To make amazing commits using “git add --interactive”, make files and view status. Then, use the “git add --interactive” command to add files and perform changes.",
-          "link": "https://linuxhint.com/make-amazing-commits-using-git-add-interactive-command/",
-          "publishedOn": "2023-05-26T04:20:12.000Z",
-          "wordCount": 4160,
-          "title": "How to Make Amazing Commits Using “git add –interactive” Command",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328183",
-          "author": "Hiba Shafqat",
-          "description": "There are different functions to find the size of a file in C, which are stat(), fstat(), fseek()/ftell(), and the filelength().",
-          "link": "https://linuxhint.com/find-file-size-c/",
-          "publishedOn": "2023-05-26T04:16:41.000Z",
-          "wordCount": 4493,
-          "title": "How to Find the Size of a File in C Programming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328178",
-          "author": "Maria Naz",
-          "description": "The “matplotlib” library contains multiple methods for data visualization, such as graphs, plots, and images. The “imshow()” method is one of them.",
-          "link": "https://linuxhint.com/display-image-using-matplotlib-imshow-method/",
-          "publishedOn": "2023-05-26T04:13:32.000Z",
-          "wordCount": 3850,
-          "title": "How to Display Image using Matplotlib “imshow()” Method",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=328171",
-          "author": "Hafsa Javed",
-          "description": "The “git log” command can be used to create work reports along with different options, such as “--author”, “--since” and “--until” options.",
-          "link": "https://linuxhint.com/create-your-work-report-using-git-log/",
-          "publishedOn": "2023-05-26T04:09:43.000Z",
-          "wordCount": 3974,
-          "title": "How to Create Your Work Report Using “git log” (Example)?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=202287",
-          "author": "Dave Sumaylo",
-          "description": "Complex numbers in Python consists of a “real” and an “imaginary” component that represent the quantities that cannot be described solely with real numbers.",
-          "link": "https://linuxhint.com/complex-numbers-python/",
-          "publishedOn": "2023-05-25T16:30:13.000Z",
-          "wordCount": 4109,
-          "title": "Complex Numbers in Python",
-          "imageUrl": null
         }
       ]
     },
@@ -2008,6 +1818,36 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184229",
+          "author": "Lizz Edelstein",
+          "description": "Forgot your Portainer admin password? Learn how to use a handy tool to help you reset it with a tutorial from Jack Wallen.\nThe post How to Reset Your Portainer Admin Password appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-reset-your-portainer-admin-password/",
+          "publishedOn": "2023-06-24T21:00:24.000Z",
+          "wordCount": 17172,
+          "title": "How to Reset Your Portainer Admin Password",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184220",
+          "author": "Web Webster",
+          "description": "Textual is an open-source Python framework created by Will McGugan, which is intended for rapid application development.\nThe post Textual: The Python Library for Creating TUI’s and CLI’s Apps appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/textual-the-python-library-for-creating-tuis-and-clis-apps/",
+          "publishedOn": "2023-06-24T15:00:03.000Z",
+          "wordCount": 17188,
+          "title": "Textual: The Python Library for Creating TUI’s and CLI’s Apps",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184223",
+          "author": "Web Webster",
+          "description": "Voice Memos is a proprietary audio recording app. Here, we recommend the best free and open-source alternatives.\nThe post Best Free and Open-Source Alternatives to Apple Voice Memos appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-apple-voice-memos/",
+          "publishedOn": "2023-06-24T02:00:03.000Z",
+          "wordCount": 17174,
+          "title": "Best Free and Open-Source Alternatives to Apple Voice Memos",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184227",
           "author": "Lizz Edelstein",
@@ -4107,66 +3947,6 @@
           "wordCount": 17178,
           "title": "10 Awesome Things You Can Do with ChatGPT",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183740",
-          "author": "Web Webster",
-          "description": "In this guide, we will review some differences and similarities between Ubuntu Desktop and Ubuntu Server.\nThe post Ubuntu Desktop vs Ubuntu Server: What’s the Difference? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/ubuntu-desktop-vs-ubuntu-server-whats-the-difference/",
-          "publishedOn": "2023-05-26T14:00:16.000Z",
-          "wordCount": 17164,
-          "title": "Ubuntu Desktop vs Ubuntu Server: What’s the Difference?",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183735",
-          "author": "Web Webster",
-          "description": "In this guide, you’ll learn how to install the open-source version control platform Gitea on a Debian 11 system.\nThe post How to install Gitea on Debian 11 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-gitea-on-debian-11/",
-          "publishedOn": "2023-05-26T13:00:12.000Z",
-          "wordCount": 17188,
-          "title": "How to install Gitea on Debian 11",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183754",
-          "author": "Web Webster",
-          "description": "A new Firefox 115 feature will enable middle-click paste of clipboard contents, whether it’s an URL or plain text, on the New Tab button.\nThe post Firefox 115 Will Let You Open Links or Search With Middle-Click on New Tab Button appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/firefox-115-will-let-you-open-links-or-search-with-middle-click-on-new-tab-button/",
-          "publishedOn": "2023-05-25T17:00:50.000Z",
-          "wordCount": 17221,
-          "title": "Firefox 115 Will Let You Open Links or Search With Middle-Click on New Tab Button",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183752",
-          "author": "Web Webster",
-          "description": "The Fedora KDE Plasma spin will boldly move to go all-in on Wayland, dropping X11 when Plasma 6 comes out. Here’s why.\nThe post Fedora Plans to Drop X11 Support in Plasma 6 Completely appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/fedora-plans-to-drop-x11-support-in-plasma-6-completely/",
-          "publishedOn": "2023-05-25T16:00:45.000Z",
-          "wordCount": 17192,
-          "title": "Fedora Plans to Drop X11 Support in Plasma 6 Completely",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183751",
-          "author": "Web Webster",
-          "description": "CrowdSec Engine 1.5 brings you new features, major enhancements, and more control of your security management.\nThe post CrowdSec Engine 1.5 is officially here! appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/crowdsec-engine-1-5-is-officially-here/",
-          "publishedOn": "2023-05-25T15:00:42.000Z",
-          "wordCount": 17178,
-          "title": "CrowdSec Engine 1.5 is officially here!",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183737",
-          "author": "Web Webster",
-          "description": "PayPal’s JunoDB, the cutting-edge distributed key-value store and critical part of the platform’s infrastructure, is now open source.\nThe post PayPal’s Key-Value Store JunoDB Goes Open Source appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/paypals-key-value-store-junodb-goes-open-source/",
-          "publishedOn": "2023-05-25T14:00:40.000Z",
-          "wordCount": 17176,
-          "title": "PayPal’s Key-Value Store JunoDB Goes Open Source",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4175,6 +3955,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUNvcnNhaXItUFNVLURyaXZlci0yMDIz0gEA",
+          "author": null,
+          "description": "Linux's Corsair PSU Driver Being Updated For Newer Power Supplies  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUNvcnNhaXItUFNVLURyaXZlci0yMDIz0gEA?oc=5",
+          "publishedOn": "2023-06-24T23:20:00.000Z",
+          "wordCount": 6017,
+          "title": "Linux's Corsair PSU Driver Being Updated For Newer Power Supplies - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMisgFodHRwczovL2ZvcnVtcy5tYWNydW1vcnMuY29tL3RocmVhZHMvcG9zc2libGUtdG8tZm9yY2UtZmxhc2gtc2NhcC1maXJtd2FyZS1maWxlcy1mbGFzaHJvbS1pbi1saW51eC1jb3JlYm9vdC11bmxvY2tlZC1iaW9zLWNhbnQtZmxhc2gtaXQtYmVjYXVzZS10aGUtc2l6ZS1pcy1kaWZmZXJlbnQtdGh4LjIzOTQwNjEv0gEA",
+          "author": null,
+          "description": "possible to force flash scap firmware files? flashrom in linux ...  MacRumors",
+          "link": "https://news.google.com/rss/articles/CBMisgFodHRwczovL2ZvcnVtcy5tYWNydW1vcnMuY29tL3RocmVhZHMvcG9zc2libGUtdG8tZm9yY2UtZmxhc2gtc2NhcC1maXJtd2FyZS1maWxlcy1mbGFzaHJvbS1pbi1saW51eC1jb3JlYm9vdC11bmxvY2tlZC1iaW9zLWNhbnQtZmxhc2gtaXQtYmVjYXVzZS10aGUtc2l6ZS1pcy1kaWZmZXJlbnQtdGh4LjIzOTQwNjEv0gEA?oc=5",
+          "publishedOn": "2023-06-24T18:52:26.000Z",
+          "wordCount": 6017,
+          "title": "possible to force flash scap firmware files? flashrom in linux ... - MacRumors",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1GZWF0dXJlLVJlY2Fw0gEA",
+          "author": null,
+          "description": "Linux 6.4 Bringing Great Improvements From AMD G.A.M. To Early ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1GZWF0dXJlLVJlY2Fw0gEA?oc=5",
+          "publishedOn": "2023-06-24T16:17:00.000Z",
+          "wordCount": 6017,
+          "title": "Linux 6.4 Bringing Great Improvements From AMD G.A.M. To Early ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODk2NDEwL3doeS1pLWhvcHBlZC1mcm9tLW1hbmphcm8tbGludXgtdG8tZW5kZWF2b3Vyb3Mv0gFUaHR0cHM6Ly93d3cuaG93dG9nZWVrLmNvbS84OTY0MTAvd2h5LWktaG9wcGVkLWZyb20tbWFuamFyby1saW51eC10by1lbmRlYXZvdXJvcy9hbXAv",
+          "author": null,
+          "description": "Why I Hopped from Manjaro Linux to EndeavourOS  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODk2NDEwL3doeS1pLWhvcHBlZC1mcm9tLW1hbmphcm8tbGludXgtdG8tZW5kZWF2b3Vyb3Mv0gFUaHR0cHM6Ly93d3cuaG93dG9nZWVrLmNvbS84OTY0MTAvd2h5LWktaG9wcGVkLWZyb20tbWFuamFyby1saW51eC10by1lbmRlYXZvdXJvcy9hbXAv?oc=5",
+          "publishedOn": "2023-06-24T15:00:35.000Z",
+          "wordCount": 6017,
+          "title": "Why I Hopped from Manjaro Linux to EndeavourOS - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9pbnRlbC1hcmMtZHJpdmVyLWxpbnV4LWJvb3N00gEA",
+          "author": null,
+          "description": "New Intel Arc Driver Delivers 11% Gaming Boost in Linux  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9pbnRlbC1hcmMtZHJpdmVyLWxpbnV4LWJvb3N00gEA?oc=5",
+          "publishedOn": "2023-06-24T13:56:57.000Z",
+          "wordCount": 6019,
+          "title": "New Intel Arc Driver Delivers 11% Gaming Boost in Linux - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL25ld3MvaG93LWktdXNlLWxpbnV4LW9uLW15LWNocm9tZWJvb2stMjAyMy_SAQA",
+          "author": null,
+          "description": "How and why I use Linux on my Chromebook  About Chromebooks",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL25ld3MvaG93LWktdXNlLWxpbnV4LW9uLW15LWNocm9tZWJvb2stMjAyMy_SAQA?oc=5",
+          "publishedOn": "2023-06-24T10:37:52.000Z",
+          "wordCount": 6017,
+          "title": "How and why I use Linux on my Chromebook - About Chromebooks",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiGGh0dHBzOi8vbm5uLm5nL2ZhcS84MjQ3L9IBAA",
+          "author": null,
+          "description": "Chrome for Linux: A Comprehensive Guide - Nigeria News June 24 ...  NNN NEWS NIGERIA",
+          "link": "https://news.google.com/rss/articles/CBMiGGh0dHBzOi8vbm5uLm5nL2ZhcS84MjQ3L9IBAA?oc=5",
+          "publishedOn": "2023-06-24T06:07:16.000Z",
+          "wordCount": 6017,
+          "title": "Chrome for Linux: A Comprehensive Guide - Nigeria News June 24 ... - NNN NEWS NIGERIA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dpbmUtOC4xMS1SZWxlYXNlZNIBAA",
+          "author": null,
+          "description": "Wine 8.11 Brings Various Improvements For Windows Apps On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dpbmUtOC4xMS1SZWxlYXNlZNIBAA?oc=5",
+          "publishedOn": "2023-06-24T04:00:00.000Z",
+          "wordCount": 6017,
+          "title": "Wine 8.11 Brings Various Improvements For Windows Apps On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMTAtbWFudGljLW1pbm90YXVyLWlzLW5vdy1wb3dlcmVkLWJ5LWxpbnV4LWtlcm5lbC02LTPSAVlodHRwczovLzl0bzVsaW51eC5jb20vdWJ1bnR1LTIzLTEwLW1hbnRpYy1taW5vdGF1ci1pcy1ub3ctcG93ZXJlZC1ieS1saW51eC1rZXJuZWwtNi0zL2FtcA",
           "author": null,
@@ -4193,6 +4053,16 @@
           "publishedOn": "2023-06-23T17:14:02.000Z",
           "wordCount": 6017,
           "title": "How to install Docker on Linux - TechRepublic",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vdmlzdWFsc3R1ZGlvbWFnYXppbmUuY29tL2FydGljbGVzLzIwMjMvMDYvMjMvY3NoYXJwLWRldi1raXQuYXNweD9tPTHSAQA",
+          "author": null,
+          "description": "What's in Microsoft's New C# Dev Kit for Visual Studio Code  Visual Studio Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdmlzdWFsc3R1ZGlvbWFnYXppbmUuY29tL2FydGljbGVzLzIwMjMvMDYvMjMvY3NoYXJwLWRldi1raXQuYXNweD9tPTHSAQA?oc=5",
+          "publishedOn": "2023-06-23T17:12:47.000Z",
+          "wordCount": 6017,
+          "title": "What's in Microsoft's New C# Dev Kit for Visual Studio Code - Visual Studio Magazine",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8524,166 +8394,6 @@
           "wordCount": 5993,
           "title": "Those Using The XFS File-System Will Want To Avoid Linux 6.3 For Now - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUFyYy1HcmFwaGljcy1NZXNhLTIzLjLSAQA",
-          "author": null,
-          "description": "Intel Arc Graphics A750/A770 Quick Linux Competition With The ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUFyYy1HcmFwaGljcy1NZXNhLTIzLjLSAQA?oc=5",
-          "publishedOn": "2023-05-26T13:13:00.000Z",
-          "wordCount": 5993,
-          "title": "Intel Arc Graphics A750/A770 Quick Linux Competition With The ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiggFodHRwczovL3d3dy5laW5uZXdzLmNvbS9wcl9uZXdzLzYzNjAxOTUyMi9hY2UtY2xvdWQtaW50cm9kdWNlcy1hZHZhbmNlZC1saW51eC12ZGktc2VydmljZXMtZm9yLWVuaGFuY2VkLXZpcnR1YWwtZGVza3RvcC1leHBlcmllbmNl0gEA",
-          "author": null,
-          "description": "Ace Cloud Introduces Advanced Linux VDI Services for Enhanced ...  EIN News",
-          "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5laW5uZXdzLmNvbS9wcl9uZXdzLzYzNjAxOTUyMi9hY2UtY2xvdWQtaW50cm9kdWNlcy1hZHZhbmNlZC1saW51eC12ZGktc2VydmljZXMtZm9yLWVuaGFuY2VkLXZpcnR1YWwtZGVza3RvcC1leHBlcmllbmNl0gEA?oc=5",
-          "publishedOn": "2023-05-26T12:57:00.000Z",
-          "wordCount": 5993,
-          "title": "Ace Cloud Introduces Advanced Linux VDI Services for Enhanced ... - EIN News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMigQFodHRwOi8vd3d3LmVpbm5ld3MuY29tL3ByX25ld3MvNjM2MDE5NTIyL2FjZS1jbG91ZC1pbnRyb2R1Y2VzLWFkdmFuY2VkLWxpbnV4LXZkaS1zZXJ2aWNlcy1mb3ItZW5oYW5jZWQtdmlydHVhbC1kZXNrdG9wLWV4cGVyaWVuY2XSAQA",
-          "author": null,
-          "description": "Ace Cloud Introduces Advanced Linux VDI Services for Enhanced ...  EIN News",
-          "link": "https://news.google.com/rss/articles/CBMigQFodHRwOi8vd3d3LmVpbm5ld3MuY29tL3ByX25ld3MvNjM2MDE5NTIyL2FjZS1jbG91ZC1pbnRyb2R1Y2VzLWFkdmFuY2VkLWxpbnV4LXZkaS1zZXJ2aWNlcy1mb3ItZW5oYW5jZWQtdmlydHVhbC1kZXNrdG9wLWV4cGVyaWVuY2XSAQA?oc=5",
-          "publishedOn": "2023-05-26T12:57:00.000Z",
-          "wordCount": 5993,
-          "title": "Ace Cloud Introduces Advanced Linux VDI Services for Enhanced ... - EIN News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUh5YnJpZC1TTVAtVG9wb2xvZ3ktTVRM0gEA",
-          "author": null,
-          "description": "Linux Preps Hybrid SMP Fix To Avoid Upcoming Laptops Appearing As 11 Socket Monsters  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUh5YnJpZC1TTVAtVG9wb2xvZ3ktTVRM0gEA?oc=5",
-          "publishedOn": "2023-05-26T12:17:00.000Z",
-          "wordCount": 5993,
-          "title": "Linux Preps Hybrid SMP Fix To Avoid Upcoming Laptops Appearing As 11 Socket Monsters - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODkwMzc5L2Jlc3QtdmlydHVhbC1tYWNoaW5lLXByb2dyYW1zLWZvci1lbXVsYXRpbmctYW5vdGhlci1vcy_SAVxodHRwczovL3d3dy5ob3d0b2dlZWsuY29tLzg5MDM3OS9iZXN0LXZpcnR1YWwtbWFjaGluZS1wcm9ncmFtcy1mb3ItZW11bGF0aW5nLWFub3RoZXItb3MvYW1wLw",
-          "author": null,
-          "description": "6 Best Virtual Machine Programs for Windows, macOS, and Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODkwMzc5L2Jlc3QtdmlydHVhbC1tYWNoaW5lLXByb2dyYW1zLWZvci1lbXVsYXRpbmctYW5vdGhlci1vcy_SAVxodHRwczovL3d3dy5ob3d0b2dlZWsuY29tLzg5MDM3OS9iZXN0LXZpcnR1YWwtbWFjaGluZS1wcm9ncmFtcy1mb3ItZW11bGF0aW5nLWFub3RoZXItb3MvYW1wLw?oc=5",
-          "publishedOn": "2023-05-26T12:00:11.000Z",
-          "wordCount": 5993,
-          "title": "6 Best Virtual Machine Programs for Windows, macOS, and Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L3JlZF9oYXRfYWkv0gE2aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L3JlZF9oYXRfYWkv",
-          "author": null,
-          "description": "Red Hat promises AI trained on 'curated' and 'domain-specific' data  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L3JlZF9oYXRfYWkv0gE2aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L3JlZF9oYXRfYWkv?oc=5",
-          "publishedOn": "2023-05-26T11:13:00.000Z",
-          "wordCount": 5993,
-          "title": "Red Hat promises AI trained on 'curated' and 'domain-specific' data - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1jc3VtX3BhcnRpYWwtT3B0aW1pemXSAQA",
-          "author": null,
-          "description": "Big Throughput Boost & Lower Latency With New Patch For Linux ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1jc3VtX3BhcnRpYWwtT3B0aW1pemXSAQA?oc=5",
-          "publishedOn": "2023-05-26T10:21:00.000Z",
-          "wordCount": 5993,
-          "title": "Big Throughput Boost & Lower Latency With New Patch For Linux ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L3dpbmRvd3NfeHBfYWN0aXZhdGlvbl9rZXlnZW4v0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L3dpbmRvd3NfeHBfYWN0aXZhdGlvbl9rZXlnZW4v",
-          "author": null,
-          "description": "Windows XP activation algorithm cracked, keygen now works on Linux  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L3dpbmRvd3NfeHBfYWN0aXZhdGlvbl9rZXlnZW4v0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L3dpbmRvd3NfeHBfYWN0aXZhdGlvbl9rZXlnZW4v?oc=5",
-          "publishedOn": "2023-05-26T09:33:00.000Z",
-          "wordCount": 5993,
-          "title": "Windows XP activation algorithm cracked, keygen now works on Linux - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC10aGUtYXdzLWNsaS1vbi1saW51eC11c2luZy1waXAtb2YtcHl0aG9uL9IBAA",
-          "author": null,
-          "description": "How to install the AWS CLI on Linux using PIP of Python  H2S Media",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC10aGUtYXdzLWNsaS1vbi1saW51eC11c2luZy1waXAtb2YtcHl0aG9uL9IBAA?oc=5",
-          "publishedOn": "2023-05-26T07:12:49.000Z",
-          "wordCount": 5993,
-          "title": "How to install the AWS CLI on Linux using PIP of Python - H2S Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ob3ctdHJhY2UtZmlsZXMtbGludXgtdGFpbC1jb21tYW5k0gEA",
-          "author": null,
-          "description": "How to Trace Files with the Linux Tail Command  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ob3ctdHJhY2UtZmlsZXMtbGludXgtdGFpbC1jb21tYW5k0gEA?oc=5",
-          "publishedOn": "2023-05-26T07:00:00.000Z",
-          "wordCount": 5988,
-          "title": "How to Trace Files with the Linux Tail Command - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJmh0dHBzOi8vYmVlYm9tLmNvbS9maW5kLWNvbW1hbmQtbGludXgv0gEqaHR0cHM6Ly9iZWVib20uY29tL2ZpbmQtY29tbWFuZC1saW51eC9hbXAv",
-          "author": null,
-          "description": "10+ Ways to Use the find Command in Linux  Beebom",
-          "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vYmVlYm9tLmNvbS9maW5kLWNvbW1hbmQtbGludXgv0gEqaHR0cHM6Ly9iZWVib20uY29tL2ZpbmQtY29tbWFuZC1saW51eC9hbXAv?oc=5",
-          "publishedOn": "2023-05-26T04:43:58.000Z",
-          "wordCount": 5993,
-          "title": "10+ Ways to Use the find Command in Linux - Beebom",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGl0b3BlcmF0aW9ucy9vcGluaW9uL0F1dG9tYXRpbmctbW9kZXJuaXphdGlvbi1UYWtlYXdheXMtZnJvbS1SZWQtSGF0LVN1bW1pdC0yMDIz0gEA",
-          "author": null,
-          "description": "Automating modernization: Takeaways from Red Hat Summit 2023  TechTarget",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGl0b3BlcmF0aW9ucy9vcGluaW9uL0F1dG9tYXRpbmctbW9kZXJuaXphdGlvbi1UYWtlYXdheXMtZnJvbS1SZWQtSGF0LVN1bW1pdC0yMDIz0gEA?oc=5",
-          "publishedOn": "2023-05-25T21:25:02.000Z",
-          "wordCount": 5993,
-          "title": "Automating modernization: Takeaways from Red Hat Summit 2023 - TechTarget",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjk3NzMxL3Jlc2l6aW5nLWltYWdlcy1vbi10aGUtbGludXgtY29tbWFuZC1saW5lLmh0bWzSAV9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMzY5NzczMS9yZXNpemluZy1pbWFnZXMtb24tdGhlLWxpbnV4LWNvbW1hbmQtbGluZS5hbXAuaHRtbA",
-          "author": null,
-          "description": "Resizing images on the Linux command line  Network World",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNjk3NzMxL3Jlc2l6aW5nLWltYWdlcy1vbi10aGUtbGludXgtY29tbWFuZC1saW5lLmh0bWzSAV9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMzY5NzczMS9yZXNpemluZy1pbWFnZXMtb24tdGhlLWxpbnV4LWNvbW1hbmQtbGluZS5hbXAuaHRtbA?oc=5",
-          "publishedOn": "2023-05-25T17:31:00.000Z",
-          "wordCount": 5993,
-          "title": "Resizing images on the Linux command line - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmhwY3dpcmUuY29tL29mZi10aGUtd2lyZS9jaXEtZXh0ZW5kcy1lbnRlcnByaXNlLWdyYWRlLXN1cHBvcnQtZm9yLXJvY2t5LWxpbnV4LTktMi1hbmQtOC04L9IBAA",
-          "author": null,
-          "description": "CIQ Extends Enterprise-Grade Support for Rocky Linux 9.2 and 8.8  HPCwire",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmhwY3dpcmUuY29tL29mZi10aGUtd2lyZS9jaXEtZXh0ZW5kcy1lbnRlcnByaXNlLWdyYWRlLXN1cHBvcnQtZm9yLXJvY2t5LWxpbnV4LTktMi1hbmQtOC04L9IBAA?oc=5",
-          "publishedOn": "2023-05-25T16:37:02.000Z",
-          "wordCount": 5993,
-          "title": "CIQ Extends Enterprise-Grade Support for Rocky Linux 9.2 and 8.8 - HPCwire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vZGV2Y2xhc3MuY29tLzIwMjMvMDUvMjUvYXp1cmUtbGludXgtcmVsZWFzZWQtYXQtYnVpbGQtd2hlcmUtbWljcm9zb2Z0LXJldmVhbGVkLXdoeS1pdC1kaWQtbm90LWZvcmstZmVkb3JhL9IBAA",
-          "author": null,
-          "description": "Azure Linux released at Build – where Microsoft revealed why it did not fork Fedora • DEVCLASS  DevClass",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZGV2Y2xhc3MuY29tLzIwMjMvMDUvMjUvYXp1cmUtbGludXgtcmVsZWFzZWQtYXQtYnVpbGQtd2hlcmUtbWljcm9zb2Z0LXJldmVhbGVkLXdoeS1pdC1kaWQtbm90LWZvcmstZmVkb3JhL9IBAA?oc=5",
-          "publishedOn": "2023-05-25T16:22:32.000Z",
-          "wordCount": 5993,
-          "title": "Azure Linux released at Build – where Microsoft revealed why it did not fork Fedora • DEVCLASS - DevClass",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9pbnN0YWxsLWJ1cnAtc3VpdGUtbGludXgv0gEA",
-          "author": null,
-          "description": "How to Install Burp Suite on Linux  Make Tech Easier",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9pbnN0YWxsLWJ1cnAtc3VpdGUtbGludXgv0gEA?oc=5",
-          "publishedOn": "2023-05-25T15:25:00.000Z",
-          "wordCount": 5993,
-          "title": "How to Install Burp Suite on Linux - Make Tech Easier",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8982,21 +8692,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.",
-          "link": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
-          "publishedOn": "2023-05-25T20:00:00.000Z",
-          "wordCount": 3278,
-          "title": "Meet Success At Scale, A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png"
         }
       ]
     },
@@ -9674,116 +9369,6 @@
           "wordCount": 1797,
           "title": "What does the \"Maximum call stack exceeded\" error mean?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/29-maximum-call-stack-exceeded.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
-          "author": "Deborah Kurata",
-          "description": "Much of what we work with in our code are strings. Let's look at some of the newish things about C# strings ... including raw string literals and raw string interpolation that are new in C# 11. Raw string literals make it easy to build complex, multi-line strings, including JSON,",
-          "link": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
-          "publishedOn": "2023-05-26T13:49:06.000Z",
-          "wordCount": 2460,
-          "title": "Strings in C# – What's New, Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/things-about-strings.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
-          "author": "Otavio Ehrenberger",
-          "description": "In this article, we'll explore the differences between the traditional GOPATH  environment and the go.mod based environment for Go programming.  This distinction has significant implications for how Go developers structure and manage their project workspaces and dependencies. We'll start by understanding the GOPATH environment, its organization and its",
-          "link": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
-          "publishedOn": "2023-05-26T00:23:11.000Z",
-          "wordCount": 2424,
-          "title": "Golang Environment – GOPATH vs go.mod",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-james-wheeler-1578750.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
-          "author": "Faith Oyama",
-          "description": "Data validation is a feature in Excel used in restricting data entry in specific cells. It can also prompt the user to enter valid data into the cells based on the rules and restrictions provided by the creator of the Excel worksheet.  When setting up a workbook, you might",
-          "link": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
-          "publishedOn": "2023-05-26T00:07:47.000Z",
-          "wordCount": 1314,
-          "title": "How to Create Data Validation Rules in Excel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-262438.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
-          "author": "Shittu Olumide",
-          "description": "Sorting is a fundamental operation in computer programming that involves arranging elements in a specific order.  Whether you're working with numbers, strings, or complex data structures, sorting plays a crucial role in organizing and manipulating data efficiently.  From small arrays to large datasets, sorting algorithms allow programmers to",
-          "link": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
-          "publishedOn": "2023-05-25T23:57:54.000Z",
-          "wordCount": 1329,
-          "title": "Python Sort Dictionary by Key – How to Sort a Dict with Keys",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Python-Sort-Dictionary-by-Key---How-to-Sort-a-Dict-with-Keys.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
-          "author": "Amazing Enyichi Agu",
-          "description": "If you're thinking about doing back-end development using JavaScript, you will hear the term ‘Node.js’. Node is often associated with developing powerful web servers. But what exactly is Node.js? Is it a JavaScript framework just like Angular [https://angular.io/]? Is it a programming language? Is it a JavaScript Library? Is it",
-          "link": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
-          "publishedOn": "2023-05-25T23:08:59.000Z",
-          "wordCount": 3349,
-          "title": "What Exactly is Node.js? A Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/revised_node.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-golang-handbook/",
-          "author": "Lane Wagner",
-          "description": "The Go programming languagehas been exploding in popularity. Tons of companies are using Go to build scalable, modern, backend infrastructure.  If you're looking to learn a new programming language, Go is a great choice. It's fast, lightweight, has an amazing open source community, and is actually quite easy to",
-          "link": "https://www.freecodecamp.org/news/learn-golang-handbook/",
-          "publishedOn": "2023-05-25T18:11:18.000Z",
-          "wordCount": 13539,
-          "title": "The Golang Handbook – A Beginner's Guide to Learning Go",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxresdefault.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
-          "author": "Beau Carnes",
-          "description": "Solving coding challenges on the LeetCode website is a great way to improve your developer skills. But an even better way to improve your skills is to develop your own LeetCode website. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build and",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
-          "publishedOn": "2023-05-25T15:09:01.000Z",
-          "wordCount": 1177,
-          "title": "Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/leetcode.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
-          "author": "Valentine Gatwiri",
-          "description": "In React, components have a lifecycle that consists of different phases. Each phase has a set of lifecycle methods that are called at specific points in the component's lifecycle. These methods allow you to control the component's behavior and perform specific actions at different stages of its lifecycle. A component's",
-          "link": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
-          "publishedOn": "2023-05-25T14:28:35.000Z",
-          "wordCount": 3383,
-          "title": "React Component Lifecycle Methods – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Screenshot-from-2023-05-23-10-50-48.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
-          "author": "Satyam Tripathi",
-          "description": "To create an application like WhatsApp or Facebook, you'd need many servers (30-40), operating system licenses, routers, cables, switches, gateways, air conditioning units, and employees for maintenance.  All this can be expensive and time-consuming, and there is no guarantee that the application will be successful in the market. But",
-          "link": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
-          "publishedOn": "2023-05-25T14:26:19.000Z",
-          "wordCount": 2081,
-          "title": "AWS Basics for DevOps – How to Setup a Linux Machine",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Getting-Started-With-DevOps.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/socket-programming-in-python/",
-          "author": "P S Mohammed Ali",
-          "description": "In this article, you will learn how to code a socket program in Python. But before that, let's understand what a socket is and where you might use it. We can define a socket as a quick connection which allows the transmission of data between two processes on the same",
-          "link": "https://www.freecodecamp.org/news/socket-programming-in-python/",
-          "publishedOn": "2023-05-25T14:25:40.000Z",
-          "wordCount": 1792,
-          "title": "What is Socket Programming in Python?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ab_networks_network_8uds-1030x438-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "Accessibility is a word that is often thrown around in the design field. As a UI/UX/Web Designer, you might have heard this word a few times and you might wonder why it's important.  In this article, you will learn:  * What accessibility means  * Some myths surrounding",
-          "link": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
-          "publishedOn": "2023-05-25T14:18:24.000Z",
-          "wordCount": 1751,
-          "title": "Why Accessibility Matters in UI/UX Design",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels--------------3077882.jpg"
         }
       ]
     }
