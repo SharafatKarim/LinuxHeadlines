@@ -12,6 +12,136 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=336416",
+          "author": "John Otieno",
+          "description": "Practical tutorial on how to implement the case-insensitive searches in the PostgreSQL databases using the citext data type and by changing the collation.",
+          "link": "https://linuxhint.com/postgres-case-insensitive/",
+          "publishedOn": "2023-06-25T21:29:16.000Z",
+          "wordCount": 3752,
+          "title": "Postgres Case-Insensitive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338777",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on understanding the role of the work_mem parameter in PostgreSQL, its effects on the database engine and operations, and more.",
+          "link": "https://linuxhint.com/postgresql-work-mem/",
+          "publishedOn": "2023-06-24T22:11:10.000Z",
+          "wordCount": 3899,
+          "title": "PostgreSQL Work_Mem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338771",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on how how to create and work with the Common Table Expressions in PostgreSQL using the PostgreSQL WITH keyword using various techniques.",
+          "link": "https://linuxhint.com/postgres-with/",
+          "publishedOn": "2023-06-24T22:06:17.000Z",
+          "wordCount": 3809,
+          "title": "Postgres With",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338767",
+          "author": "John Otieno",
+          "description": "Practical tutorial on how to work with PostgreSQL variables and how to to define, reference, and use these variables in a PL/SQL block using various examples.",
+          "link": "https://linuxhint.com/postgres-variables/",
+          "publishedOn": "2023-06-24T22:01:06.000Z",
+          "wordCount": 3820,
+          "title": "Postgres Variables",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338762",
+          "author": "John Otieno",
+          "description": "Tutorial on switching users in PostgreSQL using the command-line and graphical user interface methods to manage the databases and perform administrative tasks.",
+          "link": "https://linuxhint.com/postgres-switch-user/",
+          "publishedOn": "2023-06-24T21:56:05.000Z",
+          "wordCount": 3959,
+          "title": "Postgres Switch User",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338759",
+          "author": "John Otieno",
+          "description": "Compehensive tutorial on the fundamental methods to switch the databases in the PostgreSQL server using the PSQL utility, SET command, and connection clients.",
+          "link": "https://linuxhint.com/postgresql-switch-database/",
+          "publishedOn": "2023-06-24T21:49:09.000Z",
+          "wordCount": 3844,
+          "title": "PostgreSQL Switch Database",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338755",
+          "author": "John Otieno",
+          "description": "Tutorial on the role of extensions in PostgreSQL and how to install and view the installed extensions in PostgreSQL server using various commands and methods.",
+          "link": "https://linuxhint.com/postgresql-show-extensions/",
+          "publishedOn": "2023-06-24T21:43:39.000Z",
+          "wordCount": 3989,
+          "title": "PostgreSQL Show Extensions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338748",
+          "author": "John Otieno",
+          "description": "Practical tutorial on the fundamentals of working with the row_number() function in PostgreSQL to assign a unique integer value to each row in the result set.",
+          "link": "https://linuxhint.com/postgresql-row-number-function/",
+          "publishedOn": "2023-06-24T21:36:50.000Z",
+          "wordCount": 3878,
+          "title": "Postgres Row_Number Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338740",
+          "author": "John Otieno",
+          "description": "Guide on the various methods and techniques that we can use to reset a user password in PostgreSQL server using the PSQL utility, pgAdmin, and editing password.",
+          "link": "https://linuxhint.com/postgres-reset-password/",
+          "publishedOn": "2023-06-24T16:05:06.000Z",
+          "wordCount": 4089,
+          "title": "Postgres Reset Password",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338736",
+          "author": "John Otieno",
+          "description": "Practical guide on on how we can work with the NOT NOLL constraint in PostgreSQL and how to drop or remove an existing NOT NULL constraint from a given column.",
+          "link": "https://linuxhint.com/postgres-remove-not-null-constraint/",
+          "publishedOn": "2023-06-24T15:58:10.000Z",
+          "wordCount": 3936,
+          "title": "Remove the NOT NULL Constraint in Postgres",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338733",
+          "author": "John Otieno",
+          "description": "Simple guide on what the \"Postgres relation does not exist\" error means, the possible causes, and the potential solutions or techniques to resolve this error.",
+          "link": "https://linuxhint.com/postgres-relation-does-not-exist/",
+          "publishedOn": "2023-06-24T15:52:28.000Z",
+          "wordCount": 3904,
+          "title": "PostgreSQL  “Relation Doe Not Exist” Error",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338728",
+          "author": "John Otieno",
+          "description": "How to work with rank() function in PostgreSQL to fetch the rank of a given row from a result set based on the defined conditions and create complex queries.",
+          "link": "https://linuxhint.com/postgres-rank/",
+          "publishedOn": "2023-06-24T15:48:31.000Z",
+          "wordCount": 4082,
+          "title": "Postgres Rank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338045",
+          "author": "John Otieno",
+          "description": "Random numbers are crucial in various aspects of database management and analysis. For example, in databases, random numbers are fundamental to generate the test data, select random records, distribute the workloads, and enhance the data security. This tutorial explores the different techniques to generate random numbers in PostgreSQL, ranging from basic functions to more advanced […]",
+          "link": "https://linuxhint.com/postgres-random-number/",
+          "publishedOn": "2023-06-24T15:42:03.000Z",
+          "wordCount": 3974,
+          "title": "Postgres Random Number",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=265868",
           "author": "Cherry Mae Barolo",
           "description": "The “scipy.stats.pearsonr()” function in Python is a powerful tool for calculating the Pearson correlation coefficient between variables.",
@@ -39,6 +169,86 @@
           "publishedOn": "2023-06-23T12:53:36.000Z",
           "wordCount": 4456,
           "title": "Numpy Loadtxt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338631",
+          "author": "Komal Batool Batool",
+          "description": "The reshape() is a built-in MATLAB function used to reshape a matrix or vector in MATLAB. For more details, follow this guide.",
+          "link": "https://linuxhint.com/reshape-matrix-vector-matlab/",
+          "publishedOn": "2023-06-22T20:43:48.000Z",
+          "wordCount": 4126,
+          "title": "How to Reshape a Matrix or Vector in MATLAB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338623",
+          "author": "Komal Batool Batool",
+          "description": "We can read data from a table using the readtable() function that allows us to read data into tables programmatically.",
+          "link": "https://linuxhint.com/read-table-matlab/",
+          "publishedOn": "2023-06-22T20:31:16.000Z",
+          "wordCount": 3947,
+          "title": "How to Read a Table in MATLAB?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338614",
+          "author": "Hafsa Javed",
+          "description": "To join Discord Fortnite server, visit its official website and accept the invitation. Then, enter your Discord credentials and mark box to agree with the term.",
+          "link": "https://linuxhint.com/join-discord-fortnite-server/",
+          "publishedOn": "2023-06-22T20:08:16.000Z",
+          "wordCount": 3839,
+          "title": "How to Join Discord Fortnite Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338607",
+          "author": "Abdul Moeed",
+          "description": "In Java, the iteration over a set happens using the “Iterator” interface, enhanced “for” loop, and by utilizing the “forEachRemaining()” method.",
+          "link": "https://linuxhint.com/how-to-iterate-over-a-set-in-java-program/",
+          "publishedOn": "2023-06-22T19:55:16.000Z",
+          "wordCount": 4179,
+          "title": "How to Iterate over a Set in a Java Program?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338601",
+          "author": "Abdul Moeed",
+          "description": "Multiple inheritance specifically inherits the methods, functions, etc. from multiple parent classes or interfaces at once. It is not supported by OOP languages.",
+          "link": "https://linuxhint.com/how-to-implement-multiple-inheritance-in-java/",
+          "publishedOn": "2023-06-22T19:37:40.000Z",
+          "wordCount": 4221,
+          "title": "How to Implement Multiple Inheritance in Java?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338592",
+          "author": "Aaliyan Javaid",
+          "description": "To get the voice chat feature on Roblox mobile, verify the age and enable the voice chat feature in the “Privacy” section of account settings.",
+          "link": "https://linuxhint.com/get-voice-chat-roblox-mobile/",
+          "publishedOn": "2023-06-22T19:24:02.000Z",
+          "wordCount": 3761,
+          "title": "How to Get Voice Chat on Roblox Mobile?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338580",
+          "author": "Aaliyan Javaid",
+          "description": "To get the preview image of clothing items, go to the “Marketplace” of Roblox, choose the “Clothing” category, and click on the desired item.",
+          "link": "https://linuxhint.com/get-preview-image-clothing-item-roblox/",
+          "publishedOn": "2023-06-22T19:17:42.000Z",
+          "wordCount": 3939,
+          "title": "How to Get the Preview Image of a Clothing Item?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=338559",
+          "author": "Muhammad Farhan",
+          "description": "To get clients for “Microsoft Teams”, first, visit its website and select platform “Desktop”. After that, select a community type, such as home or organization.",
+          "link": "https://linuxhint.com/get-clients-for-microsoft-teams/",
+          "publishedOn": "2023-06-22T19:08:20.000Z",
+          "wordCount": 4262,
+          "title": "How to Get Clients for Microsoft Teams?",
           "imageUrl": null
         },
         {
@@ -1780,36 +1990,6 @@
           "wordCount": 3911,
           "title": "Python List -1 Index",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=128591",
-          "author": "Cherry Mae Barolo",
-          "description": "To print the list various methods such as the “for” loop, “join()”, “List Comprehension”, “str()” function, and “asterisk” ‘*’ operators are used in Python.",
-          "link": "https://linuxhint.com/python-print-list-without-brackets/",
-          "publishedOn": "2023-05-27T06:05:17.000Z",
-          "wordCount": 4115,
-          "title": "Python Print List Without Brackets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=133910",
-          "author": "Cherry Mae Barolo",
-          "description": "To remove spaces from the string various methods such as “replace()”, “translate()”, “Regex Expression”, “strip()”, “isspace()” method, etc. are used in Python.",
-          "link": "https://linuxhint.com/remove-spaces-from-string-python/",
-          "publishedOn": "2023-05-27T00:33:53.000Z",
-          "wordCount": 5111,
-          "title": "Python Remove Spaces from String",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=150385",
-          "author": "Cherry Mae Barolo",
-          "description": "Python \"readlines()\" method is used to read all lines from a text file and return them as a list. It is used to read specific bytes from a file or whole file.",
-          "link": "https://linuxhint.com/python-readlines/",
-          "publishedOn": "2023-05-26T23:02:09.000Z",
-          "wordCount": 4087,
-          "title": "Python readlines()",
-          "imageUrl": null
         }
       ]
     },
@@ -1818,6 +1998,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184230",
+          "author": "Lizz Edelstein",
+          "description": "Jack Wallen demonstrates how to attach and remove nodes from clusters in Docker Swarm to scale your services up and down as needed.\nThe post How to Scale Docker Swarm Services appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-scale-docker-swarm-services/",
+          "publishedOn": "2023-06-25T21:00:51.000Z",
+          "wordCount": 17162,
+          "title": "How to Scale Docker Swarm Services",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184222",
+          "author": "Lizz Edelstein",
+          "description": "Controlling services in Linux doesn’t have to be a confounding experience. Here’s how the process works and why it is often seen as an overly complicated task.\nThe post How to Start, Stop, and Restart Services in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-start-stop-and-restart-services-in-linux/",
+          "publishedOn": "2023-06-25T15:00:33.000Z",
+          "wordCount": 17176,
+          "title": "How to Start, Stop, and Restart Services in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184229",
           "author": "Lizz Edelstein",
@@ -3917,36 +4117,6 @@
           "wordCount": 17166,
           "title": "How to Stress Test CPU in Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183743",
-          "author": "Web Webster",
-          "description": "Learn the key differences between the var and let keywords in JavaScript, and explore the best practices regarding their usage.\nThe post What is the Difference Between ‘let’ and ‘var’ in JavaScript appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/what-is-the-difference-between-let-and-var-in-javascript/",
-          "publishedOn": "2023-05-26T17:00:00.000Z",
-          "wordCount": 17193,
-          "title": "What is the Difference Between ‘let’ and ‘var’ in JavaScript",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183742",
-          "author": "Web Webster",
-          "description": "Learn how to iterate over two lists in parallel in Python, so you can combine and process data from different sources.\nThe post How to Iterate Through Two Lists in Parallel in Python appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-iterate-through-two-lists-in-parallel-in-python/",
-          "publishedOn": "2023-05-26T16:00:46.000Z",
-          "wordCount": 17202,
-          "title": "How to Iterate Through Two Lists in Parallel in Python",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183741",
-          "author": "Web Webster",
-          "description": "In this article, we’ll look at the most remarkable things you can do with ChatGPT to improve your efficiency.\nThe post 10 Awesome Things You Can Do with ChatGPT appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/10-awesome-things-you-can-do-with-chatgpt/",
-          "publishedOn": "2023-05-26T15:00:18.000Z",
-          "wordCount": 17178,
-          "title": "10 Awesome Things You Can Do with ChatGPT",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3955,6 +4125,126 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA2LzI2L2xpbnV4X2tlcm5lbF82XzRfcmVsZWFzZWQv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA2LzI2L2xpbnV4X2tlcm5lbF82XzRfcmVsZWFzZWQv",
+          "author": null,
+          "description": "Linux 6.4 debuts after literally unremarkable development push  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA2LzI2L2xpbnV4X2tlcm5lbF82XzRfcmVsZWFzZWQv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA2LzI2L2xpbnV4X2tlcm5lbF82XzRfcmVsZWFzZWQv?oc=5",
+          "publishedOn": "2023-06-26T00:59:00.000Z",
+          "wordCount": 6019,
+          "title": "Linux 6.4 debuts after literally unremarkable development push - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA2L2xpbnV4LWtlcm5lbC02LTQtZmVhdHVyZXPSAUFodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyMy8wNi9saW51eC1rZXJuZWwtNi00LWZlYXR1cmVzL2FtcA",
+          "author": null,
+          "description": "Linux Kernel 6.4 Released with Varied Set of Changes  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA2L2xpbnV4LWtlcm5lbC02LTQtZmVhdHVyZXPSAUFodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyMy8wNi9saW51eC1rZXJuZWwtNi00LWZlYXR1cmVzL2FtcA?oc=5",
+          "publishedOn": "2023-06-26T00:11:51.000Z",
+          "wordCount": 6017,
+          "title": "Linux Kernel 6.4 Released with Varied Set of Changes - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkcmlhbmJyaWRnd2F0ZXIvMjAyMy8wNi8yNS9wYXRjaC13b3JrLXN1c2Utc3RpdGNoZXMtZGlnaXRhbC1pbmZyYXN0cnVjdHVyZS10aHJlYWRzLXRpZ2h0ZXIvP3NzPWNsb3Vk0gF9aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9hZHJpYW5icmlkZ3dhdGVyLzIwMjMvMDYvMjUvcGF0Y2gtd29yay1zdXNlLXN0aXRjaGVzLWRpZ2l0YWwtaW5mcmFzdHJ1Y3R1cmUtdGhyZWFkcy10aWdodGVyL2FtcC8",
+          "author": null,
+          "description": "Patch Work, SUSE Stitches Digital Infrastructure Threads Tighter  Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2FkcmlhbmJyaWRnd2F0ZXIvMjAyMy8wNi8yNS9wYXRjaC13b3JrLXN1c2Utc3RpdGNoZXMtZGlnaXRhbC1pbmZyYXN0cnVjdHVyZS10aHJlYWRzLXRpZ2h0ZXIvP3NzPWNsb3Vk0gF9aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9hZHJpYW5icmlkZ3dhdGVyLzIwMjMvMDYvMjUvcGF0Y2gtd29yay1zdXNlLXN0aXRjaGVzLWRpZ2l0YWwtaW5mcmFzdHJ1Y3R1cmUtdGhyZWFkcy10aWdodGVyL2FtcC8?oc=5",
+          "publishedOn": "2023-06-26T00:09:30.000Z",
+          "wordCount": 6019,
+          "title": "Patch Work, SUSE Stitches Digital Infrastructure Threads Tighter - Forbes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1SZWxlYXNlZNIBAA",
+          "author": null,
+          "description": "Linux 6.4 Released With Early Apple M2 Code, More WiFi 7, AMD ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1SZWxlYXNlZNIBAA?oc=5",
+          "publishedOn": "2023-06-25T23:38:00.000Z",
+          "wordCount": 6017,
+          "title": "Linux 6.4 Released With Early Apple M2 Code, More WiFi 7, AMD ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi00LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV3L2FtcA",
+          "author": null,
+          "description": "Linux Kernel 6.4 Officially Released, This Is What’s New  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi00LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtNC1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV3L2FtcA?oc=5",
+          "publishedOn": "2023-06-25T23:35:09.000Z",
+          "wordCount": 6017,
+          "title": "Linux Kernel 6.4 Officially Released, This Is What’s New - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvcHJvdG9uLWV4cGVyaW1lbnRhbC1maXhlcy11cC1lYS1hcHAtZ3JvdW5kZWQtdGhlLXdpdGNoZXItMy_SAQA",
+          "author": null,
+          "description": "Proton Experimental fixes up EA App, Grounded, The Witcher 3  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvcHJvdG9uLWV4cGVyaW1lbnRhbC1maXhlcy11cC1lYS1hcHAtZ3JvdW5kZWQtdGhlLXdpdGNoZXItMy_SAQA?oc=5",
+          "publishedOn": "2023-06-25T19:42:20.000Z",
+          "wordCount": 6017,
+          "title": "Proton Experimental fixes up EA App, Grounded, The Witcher 3 - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2FsbWFsaW51eC1yZXNwb25kcy10by1yZWQtaGF0LWdvaW5nLWNsb3NlZC1zb3VyY2Uv0gEA",
+          "author": null,
+          "description": "AlmaLinux Responds to Red Hat Going Closed-Source  WebProNews",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL2FsbWFsaW51eC1yZXNwb25kcy10by1yZWQtaGF0LWdvaW5nLWNsb3NlZC1zb3VyY2Uv0gEA?oc=5",
+          "publishedOn": "2023-06-25T17:36:22.000Z",
+          "wordCount": 6017,
+          "title": "AlmaLinux Responds to Red Hat Going Closed-Source - WebProNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9uZXctaXZlbnRveS1hbGxvd3MtaW5zdGFsbGF0aW9uLW9mLXdpbmRvd3Mtd2lucGUtbGludXgtYW5kLW1vcmUtdmlhLW5ldHdvcmsv0gFnaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvbmV3LWl2ZW50b3ktYWxsb3dzLWluc3RhbGxhdGlvbi1vZi13aW5kb3dzLXdpbnBlLWxpbnV4LWFuZC1tb3JlLXZpYS1uZXR3b3JrLw",
+          "author": null,
+          "description": "New iVentoy allows installation of Windows, WinPE, Linux, and more, via network  Neowin",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9uZXctaXZlbnRveS1hbGxvd3MtaW5zdGFsbGF0aW9uLW9mLXdpbmRvd3Mtd2lucGUtbGludXgtYW5kLW1vcmUtdmlhLW5ldHdvcmsv0gFnaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvbmV3LWl2ZW50b3ktYWxsb3dzLWluc3RhbGxhdGlvbi1vZi13aW5kb3dzLXdpbnBlLWxpbnV4LWFuZC1tb3JlLXZpYS1uZXR3b3JrLw?oc=5",
+          "publishedOn": "2023-06-25T14:30:00.000Z",
+          "wordCount": 6017,
+          "title": "New iVentoy allows installation of Windows, WinPE, Linux, and more, via network - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1FYXJseS1GZWF0dXJlc9IBAA",
+          "author": null,
+          "description": "Linux 6.5 Features Expected: Parallel CPU Bring-Up, Intel Shadow Stack, MIDI 2.0 & More  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1FYXJseS1GZWF0dXJlc9IBAA?oc=5",
+          "publishedOn": "2023-06-25T13:28:00.000Z",
+          "wordCount": 6017,
+          "title": "Linux 6.5 Features Expected: Parallel CPU Bring-Up, Intel Shadow Stack, MIDI 2.0 & More - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNi8yNC8xNzUyMjU5L3JlZC1oYXQtZW50ZXJwcmlzZS1saW51eC1zb3VyY2VzLXdpbGwtbm93LWJlLWF2YWlsYWJsZS10by1wYXlpbmctY3VzdG9tZXJzLW9ubHnSAQA",
+          "author": null,
+          "description": "Red Hat Enterprise Linux Sources Will Now Be Available To Paying ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNi8yNC8xNzUyMjU5L3JlZC1oYXQtZW50ZXJwcmlzZS1saW51eC1zb3VyY2VzLXdpbGwtbm93LWJlLWF2YWlsYWJsZS10by1wYXlpbmctY3VzdG9tZXJzLW9ubHnSAQA?oc=5",
+          "publishedOn": "2023-06-25T10:41:15.000Z",
+          "wordCount": 6017,
+          "title": "Red Hat Enterprise Linux Sources Will Now Be Available To Paying ... - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1DbGFuZy1MaW51eC1CdWlsZHPSAQA",
+          "author": null,
+          "description": "New Patches Allow LoongArch ClangBuiltLinux Builds  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1DbGFuZy1MaW51eC1CdWlsZHPSAQA?oc=5",
+          "publishedOn": "2023-06-25T09:42:00.000Z",
+          "wordCount": 6017,
+          "title": "New Patches Allow LoongArch ClangBuiltLinux Builds - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDYvMjUvZXhwbG9yaW5nLXRoZS1hbmF0b215LW9mLWEtbGludXgta2VybmVsLWV4cGxvaXQv0gEA",
+          "author": null,
+          "description": "Exploring The Anatomy Of A Linux Kernel Exploit  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDYvMjUvZXhwbG9yaW5nLXRoZS1hbmF0b215LW9mLWEtbGludXgta2VybmVsLWV4cGxvaXQv0gEA?oc=5",
+          "publishedOn": "2023-06-25T08:00:00.000Z",
+          "wordCount": 6017,
+          "title": "Exploring The Anatomy Of A Linux Kernel Exploit - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUNvcnNhaXItUFNVLURyaXZlci0yMDIz0gEA",
           "author": null,
@@ -5153,6 +5443,16 @@
           "publishedOn": "2023-06-16T08:55:22.000Z",
           "wordCount": 5999,
           "title": "How to vastly improve sound on Linux with EasyEffects - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9jaGFtZWxkb2gtbmV3LWxpbnV4LWJhY2tkb29yLXV0aWxpemluZy5odG1s0gEA",
+          "author": null,
+          "description": "ChamelDoH: New Linux Backdoor Utilizing DNS-over-HTTPS ...  The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9jaGFtZWxkb2gtbmV3LWxpbnV4LWJhY2tkb29yLXV0aWxpemluZy5odG1s0gEA?oc=5",
+          "publishedOn": "2023-06-16T07:00:00.000Z",
+          "wordCount": 6017,
+          "title": "ChamelDoH: New Linux Backdoor Utilizing DNS-over-HTTPS ... - The Hacker News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8234,166 +8534,6 @@
           "wordCount": 5988,
           "title": "How to Reset IP Address: Mac, Windows, Linux & More - eXputer",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXVzZS1rZWVwYXNzeGMtdG8tc2VjdXJlLXlvdXItcGFzc3dvcmRzL9IBAA",
-          "author": null,
-          "description": "How to Use KeePassXC to Secure Your Passwords  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXVzZS1rZWVwYXNzeGMtdG8tc2VjdXJlLXlvdXItcGFzc3dvcmRzL9IBAA?oc=5",
-          "publishedOn": "2023-05-27T13:00:00.000Z",
-          "wordCount": 5993,
-          "title": "How to Use KeePassXC to Secure Your Passwords - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JldHRlci1HdWVzdC1Gb3ItSG9zdC1SQU0tUHJlc3PSAQA",
-          "author": null,
-          "description": "Linux Patches Improve VM Guest Performance When The Host Encounters Memory Pressure  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JldHRlci1HdWVzdC1Gb3ItSG9zdC1SQU0tUHJlc3PSAQA?oc=5",
-          "publishedOn": "2023-05-27T12:22:00.000Z",
-          "wordCount": 5993,
-          "title": "Linux Patches Improve VM Guest Performance When The Host Encounters Memory Pressure - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVJGQy1EUk0tTmV0bGluay1SQVPSAQA",
-          "author": null,
-          "description": "Intel Proposes Using Netlink For Linux Graphics Driver RAS & Telemetry  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVJGQy1EUk0tTmV0bGluay1SQVPSAQA?oc=5",
-          "publishedOn": "2023-05-27T10:20:00.000Z",
-          "wordCount": 5993,
-          "title": "Intel Proposes Using Netlink For Linux Graphics Driver RAS & Telemetry - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1hd3MtdG9vbGtpdC1vbi1saW51eC1mb3ItaW50ZWxsaWotaWRlYS_SAQA",
-          "author": null,
-          "description": "How to install AWS Toolkit on Linux for IntelliJ IDEA  H2S Media",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1hd3MtdG9vbGtpdC1vbi1saW51eC1mb3ItaW50ZWxsaWotaWRlYS_SAQA?oc=5",
-          "publishedOn": "2023-05-27T07:08:01.000Z",
-          "wordCount": 5993,
-          "title": "How to install AWS Toolkit on Linux for IntelliJ IDEA - H2S Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1idWlsZC15b3VyLW93bi1kb2NrZXItaW1hZ2Utb24tbGludXgv0gFgaHR0cHM6Ly93d3cuYWRkaWN0aXZldGlwcy5jb20vdWJ1bnR1LWxpbnV4LXRpcHMvaG93LXRvLWJ1aWxkLXlvdXItb3duLWRvY2tlci1pbWFnZS1vbi1saW51eC9hbXAv",
-          "author": null,
-          "description": "How to build your own Docker image on Linux  AddictiveTips",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFkZGljdGl2ZXRpcHMuY29tL3VidW50dS1saW51eC10aXBzL2hvdy10by1idWlsZC15b3VyLW93bi1kb2NrZXItaW1hZ2Utb24tbGludXgv0gFgaHR0cHM6Ly93d3cuYWRkaWN0aXZldGlwcy5jb20vdWJ1bnR1LWxpbnV4LXRpcHMvaG93LXRvLWJ1aWxkLXlvdXItb3duLWRvY2tlci1pbWFnZS1vbi1saW51eC9hbXAv?oc=5",
-          "publishedOn": "2023-05-27T07:00:00.000Z",
-          "wordCount": 6017,
-          "title": "How to build your own Docker image on Linux - AddictiveTips",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv0gEA",
-          "author": null,
-          "description": "Microsoft's Azure Linux distro is now generally available  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv0gEA?oc=5",
-          "publishedOn": "2023-05-26T22:22:00.000Z",
-          "wordCount": 5988,
-          "title": "Microsoft's Azure Linux distro is now generally available - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv0gFLaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv",
-          "author": null,
-          "description": "Microsoft has made Azure Linux generally available. Repeat, Azure Linux  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv0gFLaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA1LzI2L21pY3Jvc29mdF9henVyZV9saW51eF9jb250YWluZXIv?oc=5",
-          "publishedOn": "2023-05-26T22:22:00.000Z",
-          "wordCount": 5993,
-          "title": "Microsoft has made Azure Linux generally available. Repeat, Azure Linux - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvdmFsdmUtdXBncmFkZXMtcHJvdG9uLWV4cGVyaW1lbnRhbC13aXRoLWEtbnVtYmVyLW9mLWJ1Zy1maXhlcy_SAQA",
-          "author": null,
-          "description": "Valve upgrades Proton Experimental with a number of bug fixes  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvdmFsdmUtdXBncmFkZXMtcHJvdG9uLWV4cGVyaW1lbnRhbC13aXRoLWEtbnVtYmVyLW9mLWJ1Zy1maXhlcy_SAQA?oc=5",
-          "publishedOn": "2023-05-26T19:43:41.000Z",
-          "wordCount": 5993,
-          "title": "Valve upgrades Proton Experimental with a number of bug fixes - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvbWFueS15ZWFycy1sYXRlci1uZXZlcndpbnRlci1uaWdodHMtZW5oYW5jZWQtZWRpdGlvbi1pcy1zdGlsbC1nZXR0aW5nLWJldHRlci_SAQA",
-          "author": null,
-          "description": "Many years later Neverwinter Nights: Enhanced Edition is still ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDUvbWFueS15ZWFycy1sYXRlci1uZXZlcndpbnRlci1uaWdodHMtZW5oYW5jZWQtZWRpdGlvbi1pcy1zdGlsbC1nZXR0aW5nLWJldHRlci_SAQA?oc=5",
-          "publishedOn": "2023-05-26T19:39:29.000Z",
-          "wordCount": 5993,
-          "title": "Many years later Neverwinter Nights: Enhanced Edition is still ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1RRE1BLUxpbnV4LURyaXZlctIBAA",
-          "author": null,
-          "description": "AMD Posts QDMA Linux Driver For Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1RRE1BLUxpbnV4LURyaXZlctIBAA?oc=5",
-          "publishedOn": "2023-05-26T18:00:00.000Z",
-          "wordCount": 5993,
-          "title": "AMD Posts QDMA Linux Driver For Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdXNlLWNoYXRncHQtb24tbGludXgtd2l0aC1iYXZhcmRlci_SAQA",
-          "author": null,
-          "description": "The Easiest Way to Use ChatGPT on Linux: Install Bavarder  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdXNlLWNoYXRncHQtb24tbGludXgtd2l0aC1iYXZhcmRlci_SAQA?oc=5",
-          "publishedOn": "2023-05-26T17:45:00.000Z",
-          "wordCount": 5993,
-          "title": "The Easiest Way to Use ChatGPT on Linux: Install Bavarder - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiT2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vcmVkLWhhdC1oYXMtZmluYWxseS1naXZlbi1jZW50b3MtNy1hLWNsb3VkLXVwZ3JhZGUtcGxhbi_SAQA",
-          "author": null,
-          "description": "Red Hat Has Finally Given CentOS 7 a Cloud Upgrade Plan  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGhlbmV3c3RhY2suaW8vcmVkLWhhdC1oYXMtZmluYWxseS1naXZlbi1jZW50b3MtNy1hLWNsb3VkLXVwZ3JhZGUtcGxhbi_SAQA?oc=5",
-          "publishedOn": "2023-05-26T16:45:50.000Z",
-          "wordCount": 5993,
-          "title": "Red Hat Has Finally Given CentOS 7 a Cloud Upgrade Plan - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDUvMjYvbWFnZWlhLTktYmV0YTItbGludXgtZGlzdHJpYnV0aW9uLXJldmlldy_SAQA",
-          "author": null,
-          "description": "Mageia 9 Beta 2 Linux distro raises the bar  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDUvMjYvbWFnZWlhLTktYmV0YTItbGludXgtZGlzdHJpYnV0aW9uLXJldmlldy_SAQA?oc=5",
-          "publishedOn": "2023-05-26T15:42:53.000Z",
-          "wordCount": 5993,
-          "title": "Mageia 9 Beta 2 Linux distro raises the bar - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9jb25jYXRlbmF0ZS1maWxlcy1pbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Concatenate Files in Linux  Make Tech Easier",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9jb25jYXRlbmF0ZS1maWxlcy1pbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-05-26T15:25:58.000Z",
-          "wordCount": 5993,
-          "title": "How to Concatenate Files in Linux - Make Tech Easier",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikQFodHRwczovL3NjZW5lZm9yZHVtbWllcy5jb20vdW5jYXRlZ29yaXNlZC9saW51eC1zb2Z0d2FyZS1tYXJrZXQtcmVzZWFyY2gtMjAyMy1nbG9iYWwtc2l6ZS1ncm93dGgtdHJlbmRzLW91dGxvb2stYW5kLWZ1dHVyZS1zY29wZS1hbmFseXNpcy8xNzEzMDgv0gEA",
-          "author": null,
-          "description": "Linux Software Market Research 2023: Global Size, Growth, Trends ...  Scene for Dummies: Everything Hollywood Undead",
-          "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3NjZW5lZm9yZHVtbWllcy5jb20vdW5jYXRlZ29yaXNlZC9saW51eC1zb2Z0d2FyZS1tYXJrZXQtcmVzZWFyY2gtMjAyMy1nbG9iYWwtc2l6ZS1ncm93dGgtdHJlbmRzLW91dGxvb2stYW5kLWZ1dHVyZS1zY29wZS1hbmFseXNpcy8xNzEzMDgv0gEA?oc=5",
-          "publishedOn": "2023-05-26T14:57:23.000Z",
-          "wordCount": 5993,
-          "title": "Linux Software Market Research 2023: Global Size, Growth, Trends ... - Scene for Dummies: Everything Hollywood Undead",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1YRlMtTWV0YWRhdGEtQ29ycnVwdNIBAA",
-          "author": null,
-          "description": "Those Using The XFS File-System Will Want To Avoid Linux 6.3 For Now  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuMy1YRlMtTWV0YWRhdGEtQ29ycnVwdNIBAA?oc=5",
-          "publishedOn": "2023-05-26T14:23:00.000Z",
-          "wordCount": 5993,
-          "title": "Those Using The XFS File-System Will Want To Avoid Linux 6.3 For Now - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8677,21 +8817,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
-          "author": "hello@smashingmagazine.com (Ben Shih)",
-          "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
-          "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
-          "publishedOn": "2023-05-26T15:30:00.000Z",
-          "wordCount": 5874,
-          "title": "Designing A Better Design Handoff File In Figma",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg"
         }
       ]
     },
