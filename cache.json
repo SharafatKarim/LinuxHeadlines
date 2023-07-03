@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=201252",
+          "author": "Cherry Mae Barolo",
+          "description": "The \"datetime.timedelta()\" function of the “datetime” module is utilized to create a “timedelta” object representing a period of time.",
+          "link": "https://linuxhint.com/python-datetime-timedelta/",
+          "publishedOn": "2023-07-01T06:13:40.000Z",
+          "wordCount": 4208,
+          "title": "Python Datetime.Timedelta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=135438",
+          "author": "Cherry Mae Barolo",
+          "description": "The “replace()” method, “translate()” method, “re.sub()” method, and the “for” loop is used to remove/delete the characters from the input string.",
+          "link": "https://linuxhint.com/python-remove-character-from-string/",
+          "publishedOn": "2023-07-01T05:21:45.000Z",
+          "wordCount": 4132,
+          "title": "How Python Functions Remove Characters From A String",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=130009",
+          "author": "Cherry Mae Barolo",
+          "description": "The “len()” function, “for” loop, and the “length_hint()” method are utilized in Python to determine/get the length of the list.",
+          "link": "https://linuxhint.com/python-list-length/",
+          "publishedOn": "2023-07-01T04:57:39.000Z",
+          "wordCount": 3846,
+          "title": "Python List Length",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=146771",
+          "author": "Cherry Mae Barolo",
+          "description": "The “file.seek()” method is utilized in Python to move or change the position of the file handle pointer according to the specified offset value.",
+          "link": "https://linuxhint.com/python-file-seek/",
+          "publishedOn": "2023-07-01T04:23:55.000Z",
+          "wordCount": 4070,
+          "title": "Python File Seek",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=134209",
           "author": "Cherry Mae Barolo",
           "description": "The “random.choices()” method of the random “module” and the “secrets.choice()” method of the “secrets” module is used to retrieve the random string in Python.",
@@ -19,6 +59,66 @@
           "publishedOn": "2023-06-30T21:17:14.000Z",
           "wordCount": 3836,
           "title": "Python random string generation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=218289",
+          "author": "Cherry Mae Barolo",
+          "description": "The “setdefault()” method retrieves the dictionary key value that is present in the dictionary or inserts a key with a default value if the key is not present.",
+          "link": "https://linuxhint.com/python-dict-setdefault/",
+          "publishedOn": "2023-06-30T13:33:01.000Z",
+          "wordCount": 4007,
+          "title": "Python dict setdefault",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=218373",
+          "author": "Cherry Mae Barolo",
+          "description": "The “dict.keys()” method, “dictionary.items()” method, “List Comprehension” and “itemgetter()” function is used to print dictionary keys in Python.",
+          "link": "https://linuxhint.com/python-print-dict-keys/",
+          "publishedOn": "2023-06-30T13:23:44.000Z",
+          "wordCount": 4174,
+          "title": "Python Print Dict Keys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=243906",
+          "author": "Cherry Mae Barolo",
+          "description": "In Python, the “hash()” function takes the hashable object such as str, int, float, etc. as an argument and retrieves the integer type hash value.",
+          "link": "https://linuxhint.com/python-hash-method/",
+          "publishedOn": "2023-06-30T12:55:14.000Z",
+          "wordCount": 4146,
+          "title": "Python hash() Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=133110",
+          "author": "Cherry Mae Barolo",
+          "description": "The “random.choice()”, “random.randrange()”, “random.sample()”, and “random.shuffle()” methods are used to randomly select an item from the list in Python.",
+          "link": "https://linuxhint.com/python-randomly-select-from-list/",
+          "publishedOn": "2023-06-30T11:02:09.000Z",
+          "wordCount": 3966,
+          "title": "Python Randomly Select From List",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=133266",
+          "author": "Cherry Mae Barolo",
+          "description": "The “List Comprehension”, “itertools” module, “reduce()” function, “sum()” function, and nested “for” loops are used to flatten a list of lists.",
+          "link": "https://linuxhint.com/python-flatten-list-of-lists/",
+          "publishedOn": "2023-06-30T10:49:53.000Z",
+          "wordCount": 4281,
+          "title": "Python Flatten List of Lists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=192573",
+          "author": "Cherry Mae Barolo",
+          "description": "In Python programming language, the “Data Types” indicate what type of data can be stored or assigned to the specified variables.",
+          "link": "https://linuxhint.com/python-data-types/",
+          "publishedOn": "2023-06-30T08:06:03.000Z",
+          "wordCount": 4446,
+          "title": "Python Data Types",
           "imageUrl": null
         },
         {
@@ -1978,6 +2078,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184317",
+          "author": "Lizz Edelstein",
+          "description": "Discover the best free alternatives to Microsoft Excel to help you more effectively create comprehensive spreadsheets and analyze data.\nThe post 6 Best Free Alternatives to Microsoft Excel in 2023 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/6-best-free-alternatives-to-microsoft-excel-in-2023/",
+          "publishedOn": "2023-07-02T21:00:42.000Z",
+          "wordCount": 17175,
+          "title": "6 Best Free Alternatives to Microsoft Excel in 2023",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184316",
+          "author": "Lizz Edelstein",
+          "description": "Looking for Linux project management software? Our comprehensive guide covers the list of best Linux project management software, features, pricing, and more.\nThe post 6 Best Linux Project Management Software in 2023 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/6-best-linux-project-management-software-in-2023-2/",
+          "publishedOn": "2023-07-02T15:00:56.000Z",
+          "wordCount": 17178,
+          "title": "6 Best Linux Project Management Software in 2023",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184315",
           "author": "Lizz Edelstein",
@@ -4057,86 +4177,6 @@
           "wordCount": 17208,
           "title": "Galago Pro Linux Laptop Gets 13th Gen Intel H-Class CPUs",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183831",
-          "author": "Web Webster",
-          "description": "PhotoPrism is an AI-powered photos app for the decentralized web. It uses modern technologies to tag and find pictures. Learn more here.\nThe post PhotoPrism: AI-Powered Photos App appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/photoprism-ai-powered-photos-app/",
-          "publishedOn": "2023-06-03T02:00:45.000Z",
-          "wordCount": 17154,
-          "title": "PhotoPrism: AI-Powered Photos App",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183830",
-          "author": "Web Webster",
-          "description": "Follow this tutorial to learn how to install Linux Mint 21.1 ISO on your computer, server, or even virtualbox.\nThe post How to install Linux Mint 21.1 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-linux-mint-21-1/",
-          "publishedOn": "2023-06-03T00:00:43.000Z",
-          "wordCount": 17149,
-          "title": "How to install Linux Mint 21.1",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183828",
-          "author": "Web Webster",
-          "description": "This article will explore some of the top WordPress alternatives, helping you discover the best CMS platforms for your website.\nThe post Top WordPress Alternatives: Find the Best CMS for Your Website appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/top-wordpress-alternatives-find-the-best-cms-for-your-website/",
-          "publishedOn": "2023-06-02T22:00:42.000Z",
-          "wordCount": 17187,
-          "title": "Top WordPress Alternatives: Find the Best CMS for Your Website",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183827",
-          "author": "Web Webster",
-          "description": "Learn how to lock a system user’s account after a specifiable number of failed SSH login attempts in Red Hat-based distributions.\nThe post How to Lock and Unlock User After Failed SSH Logins appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-lock-and-unlock-user-after-failed-ssh-logins/",
-          "publishedOn": "2023-06-02T20:00:40.000Z",
-          "wordCount": 17193,
-          "title": "How to Lock and Unlock User After Failed SSH Logins",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183826",
-          "author": "Web Webster",
-          "description": "Learn why you might encounter the error Client_loop: send disconnect: Broken pipe when connecting a remote system via SSH and how to fix it.\nThe post How to Fix SSH Client_loop: send disconnect: Broken pipe Error appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-fix-ssh-client_loop-send-disconnect-broken-pipe-error/",
-          "publishedOn": "2023-06-02T18:00:39.000Z",
-          "wordCount": 17187,
-          "title": "How to Fix SSH Client_loop: send disconnect: Broken pipe Error",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183806",
-          "author": "Web Webster",
-          "description": "Learn how to enable fractional scaling in Fedora Linux Workstation with GNOME edition with additional instructions.\nThe post Enable Fractional Scaling in Fedora with GNOME appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/enable-fractional-scaling-in-fedora-with-gnome/",
-          "publishedOn": "2023-06-02T17:00:57.000Z",
-          "wordCount": 17153,
-          "title": "Enable Fractional Scaling in Fedora with GNOME",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183804",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install the open-source web application framework CakePHP on Ubuntu 22.04.\nThe post How to Install CakePHP on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-cakephp-on-ubuntu-22-04/",
-          "publishedOn": "2023-06-02T16:00:55.000Z",
-          "wordCount": 17154,
-          "title": "How to Install CakePHP on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183801",
-          "author": "Web Webster",
-          "description": "In this tutorial, you will learn the cause of the Termux package management issue as well as several ways to solve it.\nThe post [Solved] Termux Package Management Issue appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/solved-termux-package-management-issue/",
-          "publishedOn": "2023-06-02T15:00:51.000Z",
-          "wordCount": 17154,
-          "title": "[Solved] Termux Package Management Issue",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4145,6 +4185,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiUGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDcvMDIvcGVwcGVybWludC1vcy1uZXctcmVsZWFzZS1mZWF0dXJlcy11cGRhdGVzLTIwMjMv0gEA",
+          "author": null,
+          "description": "Debian 12 Bookworm-based Peppermint OS Linux distribution now ...  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDcvMDIvcGVwcGVybWludC1vcy1uZXctcmVsZWFzZS1mZWF0dXJlcy11cGRhdGVzLTIwMjMv0gEA?oc=5",
+          "publishedOn": "2023-07-02T21:08:46.000Z",
+          "wordCount": 6029,
+          "title": "Debian 12 Bookworm-based Peppermint OS Linux distribution now ... - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVzdC12aW0taW5zcGlyZWQtdGV4dC1lZGl0b3JzLWZvci1saW51eC_SAQA",
+          "author": null,
+          "description": "The 5 Best Vim-Inspired Text Editors for Linux  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYmVzdC12aW0taW5zcGlyZWQtdGV4dC1lZGl0b3JzLWZvci1saW51eC_SAQA?oc=5",
+          "publishedOn": "2023-07-02T19:45:00.000Z",
+          "wordCount": 6029,
+          "title": "The 5 Best Vim-Inspired Text Editors for Linux - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1DUFUtTGludXgtR2FtaW5nLTY3cNIBAA",
+          "author": null,
+          "description": "AMD CPU Use Among Linux Gamers Approaching 70% Marketshare  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1DUFUtTGludXgtR2FtaW5nLTY3cNIBAA?oc=5",
+          "publishedOn": "2023-07-02T17:10:00.000Z",
+          "wordCount": 6029,
+          "title": "AMD CPU Use Among Linux Gamers Approaching 70% Marketshare - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vOXRvNWxpbnV4LmNvbS95b3UtY2FuLW5vdy1pbnN0YWxsLWxpbnV4LWtlcm5lbC02LTQtb24tdWJ1bnR1LWhlcmVzLWhvd9IBUmh0dHBzOi8vOXRvNWxpbnV4LmNvbS95b3UtY2FuLW5vdy1pbnN0YWxsLWxpbnV4LWtlcm5lbC02LTQtb24tdWJ1bnR1LWhlcmVzLWhvdy9hbXA",
+          "author": null,
+          "description": "You Can Now Install Linux Kernel 6.4 on Ubuntu, Here’s How  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vOXRvNWxpbnV4LmNvbS95b3UtY2FuLW5vdy1pbnN0YWxsLWxpbnV4LWtlcm5lbC02LTQtb24tdWJ1bnR1LWhlcmVzLWhvd9IBUmh0dHBzOi8vOXRvNWxpbnV4LmNvbS95b3UtY2FuLW5vdy1pbnN0YWxsLWxpbnV4LWtlcm5lbC02LTQtb24tdWJ1bnR1LWhlcmVzLWhvdy9hbXA?oc=5",
+          "publishedOn": "2023-07-02T15:42:41.000Z",
+          "wordCount": 6029,
+          "title": "You Can Now Install Linux Kernel 6.4 on Ubuntu, Here’s How - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1QT1dFUtIBAA",
+          "author": null,
+          "description": "IBM POWER10 Receives DEXCR Support In Linux 6.5, Big Endian Improvements  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1QT1dFUtIBAA?oc=5",
+          "publishedOn": "2023-07-02T10:17:00.000Z",
+          "wordCount": 6029,
+          "title": "IBM POWER10 Receives DEXCR Support In Linux 6.5, Big Endian Improvements - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbWFuYWdlLWJsdWV0b290aC1kZXZpY2VzLW9uLWxpbnV4LXdpdGgtYmx1ZXR1aXRoL9IBAA",
+          "author": null,
+          "description": "Easily Manage Bluetooth Devices From the Linux Terminal With ...  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbWFuYWdlLWJsdWV0b290aC1kZXZpY2VzLW9uLWxpbnV4LXdpdGgtYmx1ZXR1aXRoL9IBAA?oc=5",
+          "publishedOn": "2023-07-01T18:46:00.000Z",
+          "wordCount": 6029,
+          "title": "Easily Manage Bluetooth Devices From the Linux Terminal With ... - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiVmh0dHBzOi8vd3d3LndlYnByb25ld3MuY29tL3N1c2UtdGFrZXMtc3dpcGUtYXQtcmVkLWhhdC1zYXlzLXdlLWFyZS1hbGwtaW50ZXJkZXBlbmRlbnQv0gEA",
           "author": null,
@@ -4283,6 +4383,16 @@
           "publishedOn": "2023-07-01T02:00:00.000Z",
           "wordCount": 6029,
           "title": "Rocky Strikes Back At Red Hat - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNy8wMS8wMDQ2MjI0L2Zvcm1lci1jYW5vbmljYWwtZGV2ZWxvcGVyLWlzLXdvcmtpbmctb24tYS1zY3JpcHQtdGhhdC1yZXBsYWNlcy1zbmFwcy13aXRoLWZsYXRwYWtz0gEA",
+          "author": null,
+          "description": "Former Canonical Developer is Working on a Script that Replaces ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNy8wMS8wMDQ2MjI0L2Zvcm1lci1jYW5vbmljYWwtZGV2ZWxvcGVyLWlzLXdvcmtpbmctb24tYS1zY3JpcHQtdGhhdC1yZXBsYWNlcy1zbmFwcy13aXRoLWZsYXRwYWtz0gEA?oc=5",
+          "publishedOn": "2023-07-01T01:09:58.000Z",
+          "wordCount": 6029,
+          "title": "Former Canonical Developer is Working on a Script that Replaces ... - Slashdot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4606,6 +4716,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiqQFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMy8wNi8yOS8yNjk3MDEyLzAvZW4vTGludXgtT3BlcmF0aW5nLVN5c3RlbS1NYXJrZXQtU2l6ZS10by1TdXJwYXNzLVVTRC02Ni0yOC1CaWxsaW9uLWJ5LTIwMzAtZXhoaWJpdGluZy1hLUNBR1Itb2YtMjAtMS5odG1s0gEA",
+          "author": null,
+          "description": "Linux Operating System Market Size to Surpass USD 66.28 Billion ...  GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMy8wNi8yOS8yNjk3MDEyLzAvZW4vTGludXgtT3BlcmF0aW5nLVN5c3RlbS1NYXJrZXQtU2l6ZS10by1TdXJwYXNzLVVTRC02Ni0yOC1CaWxsaW9uLWJ5LTIwMzAtZXhoaWJpdGluZy1hLUNBR1Itb2YtMjAtMS5odG1s0gEA?oc=5",
+          "publishedOn": "2023-06-29T12:43:22.000Z",
+          "wordCount": 6029,
+          "title": "Linux Operating System Market Size to Surpass USD 66.28 Billion ... - GlobeNewswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9saW51eC1vcGVyYXRpbmctc3lzdGVtLW1hcmtldC1zaXplLTEyNDMwMDQ4OC5odG1s0gFYaHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvbGludXgtb3BlcmF0aW5nLXN5c3RlbS1tYXJrZXQtc2l6ZS0xMjQzMDA0ODguaHRtbA",
           "author": null,
           "description": "Linux Operating System Market Size to Surpass USD 66.28 Billion by 2030, exhibiting a CAGR of 20.1%  Yahoo Finance",
@@ -4723,6 +4843,16 @@
           "publishedOn": "2023-06-29T09:04:20.000Z",
           "wordCount": 6029,
           "title": "Dwarf Fortress getting close to a Linux release on Steam - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vbXlob3N0Lm56L2Jsb2cvY2VudG9zLWxpbnV4LXVwZGF0ZS1yZWJ1aWxkc9IBAA",
+          "author": null,
+          "description": "CentOS Linux end of life and rebuilding  MyHost",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vbXlob3N0Lm56L2Jsb2cvY2VudG9zLWxpbnV4LXVwZGF0ZS1yZWJ1aWxkc9IBAA?oc=5",
+          "publishedOn": "2023-06-29T07:00:00.000Z",
+          "wordCount": 6029,
+          "title": "CentOS Linux end of life and rebuilding - MyHost",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8684,176 +8814,6 @@
           "wordCount": 5986,
           "title": "The Steam Deck isn't going anywhere because of the ROG Ally - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1MaW51eC02LjUtSW1wcm92ZW1lbnRz0gEA",
-          "author": null,
-          "description": "AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1MaW51eC02LjUtSW1wcm92ZW1lbnRz0gEA?oc=5",
-          "publishedOn": "2023-06-03T13:00:00.000Z",
-          "wordCount": 5986,
-          "title": "AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VFRkktVW5hY2NlcHRlZC1NZW1vcnktdjEz0gEA",
-          "author": null,
-          "description": "Intel Continues Finalizing UEFI Unaccepted Memory Support For ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VFRkktVW5hY2NlcHRlZC1NZW1vcnktdjEz0gEA?oc=5",
-          "publishedOn": "2023-06-03T12:34:00.000Z",
-          "wordCount": 5986,
-          "title": "Intel Continues Finalizing UEFI Unaccepted Memory Support For ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NlcnBlbnQtT1MtU29sdXMtRGV0YWlsc9IBAA",
-          "author": null,
-          "description": "Serpent OS Shines New Light On Solus Partnership, Pushing More ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NlcnBlbnQtT1MtU29sdXMtRGV0YWlsc9IBAA?oc=5",
-          "publishedOn": "2023-06-03T10:18:00.000Z",
-          "wordCount": 5986,
-          "title": "Serpent OS Shines New Light On Solus Partnership, Pushing More ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWzSAVRodHRwczovL2FtcC50aGVoYWNrZXJuZXdzLmNvbS90aG4vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWw",
-          "author": null,
-          "description": "New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWzSAVRodHRwczovL2FtcC50aGVoYWNrZXJuZXdzLmNvbS90aG4vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWw?oc=5",
-          "publishedOn": "2023-06-03T08:20:00.000Z",
-          "wordCount": 5986,
-          "title": "New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWzSAQA",
-          "author": null,
-          "description": "New Linux Ransomware Strain BlackSuit Shows Striking Similarities ...  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wNi9uZXctbGludXgtcmFuc29td2FyZS1zdHJhaW4tYmxhY2tzdWl0Lmh0bWzSAQA?oc=5",
-          "publishedOn": "2023-06-03T07:00:00.000Z",
-          "wordCount": 6017,
-          "title": "New Linux Ransomware Strain BlackSuit Shows Striking Similarities ... - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vb3Blbi1zb3VyY2Utc29mdHdhcmUtdW5kZXItdGhyZWF0LWZyb20tcGF0ZW50LXRyb2xscy_SAQA",
-          "author": null,
-          "description": "Open source software under threat from patent trolls ...  eeNews Europe",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmVlbmV3c2V1cm9wZS5jb20vZW4vb3Blbi1zb3VyY2Utc29mdHdhcmUtdW5kZXItdGhyZWF0LWZyb20tcGF0ZW50LXRyb2xscy_SAQA?oc=5",
-          "publishedOn": "2023-06-03T06:34:08.000Z",
-          "wordCount": 5986,
-          "title": "Open source software under threat from patent trolls ... - eeNews Europe",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1hZGQtdGhlLXBvd2VyLW9mLWR1Y2tkdWNrZ28tdG8teW91ci1saW51eC10ZXJtaW5hbC_SAWNodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2hvdy10by1hZGQtdGhlLXBvd2VyLW9mLWR1Y2tkdWNrZ28tdG8teW91ci1saW51eC10ZXJtaW5hbC8",
-          "author": null,
-          "description": "How to add the power of DuckDuckGo to your Linux terminal  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy10by1hZGQtdGhlLXBvd2VyLW9mLWR1Y2tkdWNrZ28tdG8teW91ci1saW51eC10ZXJtaW5hbC_SAWNodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2hvdy10by1hZGQtdGhlLXBvd2VyLW9mLWR1Y2tkdWNrZ28tdG8teW91ci1saW51eC10ZXJtaW5hbC8?oc=5",
-          "publishedOn": "2023-06-02T21:08:36.000Z",
-          "wordCount": 5986,
-          "title": "How to add the power of DuckDuckGo to your Linux terminal - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vd3d3LnBpbmt2aWxsYS5jb20vdGVjaC9ob3ctdG8vaG93LXRvLWluc3RhbGwtbGludXgtb24td2luZG93cy0xMC0xMjI0MDc30gEA",
-          "author": null,
-          "description": "How to Install Linux on Windows 10 | PINKVILLA  PINKVILLA",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBpbmt2aWxsYS5jb20vdGVjaC9ob3ctdG8vaG93LXRvLWluc3RhbGwtbGludXgtb24td2luZG93cy0xMC0xMjI0MDc30gEA?oc=5",
-          "publishedOn": "2023-06-02T18:40:34.000Z",
-          "wordCount": 5986,
-          "title": "How to Install Linux on Windows 10 | PINKVILLA - PINKVILLA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmhhcmR3YXJldGltZXMuY29tL2ludGVsLTE0dGgtZ2VuLW1ldGVvci1sYWtlLXMtc3VwcG9ydC1heGVkLWZyb20tbGludXgta2VybmVsLW9mZmljaWFsbHktZGVhZC_SAW5odHRwczovL3d3dy5oYXJkd2FyZXRpbWVzLmNvbS9pbnRlbC0xNHRoLWdlbi1tZXRlb3ItbGFrZS1zLXN1cHBvcnQtYXhlZC1mcm9tLWxpbnV4LWtlcm5lbC1vZmZpY2lhbGx5LWRlYWQvYW1wLw",
-          "author": null,
-          "description": "Intel 14th Gen Meteor Lake-S Support Axed from Linux Kernel: Officially Dead?  Hardware Times",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmhhcmR3YXJldGltZXMuY29tL2ludGVsLTE0dGgtZ2VuLW1ldGVvci1sYWtlLXMtc3VwcG9ydC1heGVkLWZyb20tbGludXgta2VybmVsLW9mZmljaWFsbHktZGVhZC_SAW5odHRwczovL3d3dy5oYXJkd2FyZXRpbWVzLmNvbS9pbnRlbC0xNHRoLWdlbi1tZXRlb3ItbGFrZS1zLXN1cHBvcnQtYXhlZC1mcm9tLWxpbnV4LWtlcm5lbC1vZmZpY2lhbGx5LWRlYWQvYW1wLw?oc=5",
-          "publishedOn": "2023-06-02T18:05:29.000Z",
-          "wordCount": 5986,
-          "title": "Intel 14th Gen Meteor Lake-S Support Axed from Linux Kernel: Officially Dead? - Hardware Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDYvMDIvdHV4ZWRvLWdlbWluaS1nYW1pbmctd29ya3N0YXRpb24tbGFwdG9wcy1wb3dlci1wZXJmb3JtYW5jZS_SAQA",
-          "author": null,
-          "description": "TUXEDO's new Gemini gaming laptops come with Linux or Windows ...  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDYvMDIvdHV4ZWRvLWdlbWluaS1nYW1pbmctd29ya3N0YXRpb24tbGFwdG9wcy1wb3dlci1wZXJmb3JtYW5jZS_SAQA?oc=5",
-          "publishedOn": "2023-06-02T16:00:36.000Z",
-          "wordCount": 5986,
-          "title": "TUXEDO's new Gemini gaming laptops come with Linux or Windows ... - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1oYXNoY2F0LW9uLXVidW50dS0yMi0wNC0yMC0wNC1sdHMv0gEA",
-          "author": null,
-          "description": "How to install Hashcat on Ubuntu 22.04 | 20.04 LTS  H2S Media",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbGludXguaG93MnNob3V0LmNvbS9ob3ctdG8taW5zdGFsbC1oYXNoY2F0LW9uLXVidW50dS0yMi0wNC0yMC0wNC1sdHMv0gEA?oc=5",
-          "publishedOn": "2023-06-02T15:43:48.000Z",
-          "wordCount": 5986,
-          "title": "How to install Hashcat on Ubuntu 22.04 | 20.04 LTS - H2S Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9pbnN0YWxsLWVjbGlwc2UtaWRlLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "How to Install Eclipse IDE on Linux  Make Tech Easier",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1ha2V0ZWNoZWFzaWVyLmNvbS9pbnN0YWxsLWVjbGlwc2UtaWRlLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2023-06-02T15:25:00.000Z",
-          "wordCount": 5986,
-          "title": "How to Install Eclipse IDE on Linux - Make Tech Easier",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvc3lzdGVtNzYtd29ya2luZy1vbi1hLXN0YW5kYWxvbmUtcGMtY2FzZS1wbHVzLWEtYmlnLW9wZW4tZmlybXdhcmUtdXBncmFkZS_SAQA",
-          "author": null,
-          "description": "System76 working on a standalone PC case, plus a big Open ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvc3lzdGVtNzYtd29ya2luZy1vbi1hLXN0YW5kYWxvbmUtcGMtY2FzZS1wbHVzLWEtYmlnLW9wZW4tZmlybXdhcmUtdXBncmFkZS_SAQA?oc=5",
-          "publishedOn": "2023-06-02T15:17:40.000Z",
-          "wordCount": 5986,
-          "title": "System76 working on a standalone PC case, plus a big Open ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvaGFsbHMtb2YtdG9ybWVudC1oaXRzLW92ZXItNzBrLXNhbGVzLWluLXRoZS1maXJzdC13ZWVrL9IBAA",
-          "author": null,
-          "description": "Halls of Torment hits over 70K sales in the first week  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvaGFsbHMtb2YtdG9ybWVudC1oaXRzLW92ZXItNzBrLXNhbGVzLWluLXRoZS1maXJzdC13ZWVrL9IBAA?oc=5",
-          "publishedOn": "2023-06-02T14:50:19.000Z",
-          "wordCount": 5986,
-          "title": "Halls of Torment hits over 70K sales in the first week - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL2hlcmVzLWhvdy10by16aXAtZmlsZXMtYW5kLXNhdmUtc3BhY2Utb24td2luZG93cy1tYWMtY2hyb21lYm9vay1saW51eC1hLWNvbXBsZXRlLXN0ZXAtYnktc3RlcC1ndWlkZS9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z0gGzAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvaGVyZXMtaG93LXRvLXppcC1maWxlcy1hbmQtc2F2ZS1zcGFjZS1vbi13aW5kb3dzLW1hYy1jaHJvbWVib29rLWxpbnV4LWEtY29tcGxldGUtc3RlcC1ieS1zdGVwLWd1aWRlL2FtcF9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z",
-          "author": null,
-          "description": "Here's how to ZIP files and save space on Windows, Mac, Chromebook, Linux: A complete step-by-step guide  The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL2hlcmVzLWhvdy10by16aXAtZmlsZXMtYW5kLXNhdmUtc3BhY2Utb24td2luZG93cy1tYWMtY2hyb21lYm9vay1saW51eC1hLWNvbXBsZXRlLXN0ZXAtYnktc3RlcC1ndWlkZS9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z0gGzAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvaGVyZXMtaG93LXRvLXppcC1maWxlcy1hbmQtc2F2ZS1zcGFjZS1vbi13aW5kb3dzLW1hYy1jaHJvbWVib29rLWxpbnV4LWEtY29tcGxldGUtc3RlcC1ieS1zdGVwLWd1aWRlL2FtcF9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z?oc=5",
-          "publishedOn": "2023-06-02T14:15:00.000Z",
-          "wordCount": 5986,
-          "title": "Here's how to ZIP files and save space on Windows, Mac, Chromebook, Linux: A complete step-by-step guide - The Economic Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiuAFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL2hlcmVzLWhvdy10by16aXAtZmlsZXMtYW5kLXNhdmUtc3BhY2Utb24td2luZG93cy1tYWMtY2hyb21lYm9vay1saW51eC1hLWNvbXBsZXRlLXN0ZXAtYnktc3RlcC1ndWlkZS9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z0gGzAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvaGVyZXMtaG93LXRvLXppcC1maWxlcy1hbmQtc2F2ZS1zcGFjZS1vbi13aW5kb3dzLW1hYy1jaHJvbWVib29rLWxpbnV4LWEtY29tcGxldGUtc3RlcC1ieS1zdGVwLWd1aWRlL2FtcF9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z",
-          "author": null,
-          "description": "Here's how to ZIP files and save space on Windows, Mac, Chromebook, Linux: A complete step-by-step guide  Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbmV3cy9pbnRlcm5hdGlvbmFsL3VzL2hlcmVzLWhvdy10by16aXAtZmlsZXMtYW5kLXNhdmUtc3BhY2Utb24td2luZG93cy1tYWMtY2hyb21lYm9vay1saW51eC1hLWNvbXBsZXRlLXN0ZXAtYnktc3RlcC1ndWlkZS9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z0gGzAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS9uZXdzL2ludGVybmF0aW9uYWwvdXMvaGVyZXMtaG93LXRvLXppcC1maWxlcy1hbmQtc2F2ZS1zcGFjZS1vbi13aW5kb3dzLW1hYy1jaHJvbWVib29rLWxpbnV4LWEtY29tcGxldGUtc3RlcC1ieS1zdGVwLWd1aWRlL2FtcF9hcnRpY2xlc2hvdy8xMDA3MDg5NzkuY21z?oc=5",
-          "publishedOn": "2023-06-02T14:15:00.000Z",
-          "wordCount": 5986,
-          "title": "Here's how to ZIP files and save space on Windows, Mac, Chromebook, Linux: A complete step-by-step guide - Economic Times",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RoZXJlcy1hLW5ldy11YnVudHUtbGludXgtZGVza3RvcC1vbi1pdHMtd2F5L9IBVmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvdGhlcmVzLWEtbmV3LXVidW50dS1saW51eC1kZXNrdG9wLW9uLWl0cy13YXkv",
-          "author": null,
-          "description": "There's a new Ubuntu Linux desktop on its way  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3RoZXJlcy1hLW5ldy11YnVudHUtbGludXgtZGVza3RvcC1vbi1pdHMtd2F5L9IBVmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvdGhlcmVzLWEtbmV3LXVidW50dS1saW51eC1kZXNrdG9wLW9uLWl0cy13YXkv?oc=5",
-          "publishedOn": "2023-06-02T14:08:25.000Z",
-          "wordCount": 5986,
-          "title": "There's a new Ubuntu Linux desktop on its way - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9122,21 +9082,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/primitive-objects-javascript-part-2/primitive-objects-javascript-part-2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
-          "author": "hello@smashingmagazine.com (Hannah Kühne & Madlaina Kalunder)",
-          "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
-          "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
-          "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5512,
-          "title": "How To Enable Collaboration In A Multiparty Setting",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg"
         }
       ]
     },
