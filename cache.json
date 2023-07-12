@@ -12,6 +12,26 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=124640",
+          "author": "Dave Sumaylo",
+          "description": "In Python, the os.rename() function is utilized to change the names of both files and directories. Using this function, we can also change the file extension.",
+          "link": "https://linuxhint.com/rename-file-python/",
+          "publishedOn": "2023-07-11T17:00:41.000Z",
+          "wordCount": 4352,
+          "title": "How to Rename File in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=128285",
+          "author": "Kevin Reursora",
+          "description": "In Python, various functions/methods, such as the “index()”, and “find()” methods are used for getting the exact position of an element.",
+          "link": "https://linuxhint.com/get-position-element-python/",
+          "publishedOn": "2023-07-11T05:08:48.000Z",
+          "wordCount": 3928,
+          "title": "How to Get a Position of Element in Python?",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=199441",
           "author": "Linux Explorer",
           "description": "In Python, the “seaborn.catplot()” method of the “seaborn” module is used to create a variety of categorical plots, including strip plots, swarm plots, etc.",
@@ -1320,366 +1340,6 @@
           "wordCount": 4689,
           "title": "Copying Files and Directories in Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334962",
-          "author": "Komal Batool Batool",
-          "description": "The cal_to_jd() is a built-in PHP function that determines the Julian day count for a given date in the selected calendar.",
-          "link": "https://linuxhint.com/cal-to-jd-function-php/",
-          "publishedOn": "2023-06-12T07:28:59.000Z",
-          "wordCount": 3821,
-          "title": "How to Use cal_to_jd() Function in PHP?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334955",
-          "author": "Komal Batool Batool",
-          "description": "The base_convert() function in PHP is an effective tool for converting numbers between different number systems or bases.",
-          "link": "https://linuxhint.com/base-convert-php/",
-          "publishedOn": "2023-06-12T07:25:49.000Z",
-          "wordCount": 3806,
-          "title": "How to Use base_convert Function in PHP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334949",
-          "author": "Aaliyan Javaid",
-          "description": "Taking string input in MATLAB can be done by using: input() function, strtrim() for trimming whitespace, or file I/O functions for reading from files.",
-          "link": "https://linuxhint.com/take-string-input-matlab/",
-          "publishedOn": "2023-06-12T07:21:16.000Z",
-          "wordCount": 3888,
-          "title": "How To Take String Input in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334825",
-          "author": "Aaliyan Javaid",
-          "description": "To solve ax = b in MATLAB, you can use either the matrix left division operator \\ (or the mldivide() function) or the explicit matrix inverse inv() function.",
-          "link": "https://linuxhint.com/solve-linear-equation-ax-b-matlab/",
-          "publishedOn": "2023-06-12T07:17:52.000Z",
-          "wordCount": 4026,
-          "title": "How To Solve Ax=B in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334807",
-          "author": "Kashif",
-          "description": "The vector can be reversed using the flip() function. It reverses the element's order and prints a new vector. We can also use For loop to manually reverse a vector.",
-          "link": "https://linuxhint.com/reverse-vector-matlab/",
-          "publishedOn": "2023-06-12T07:14:45.000Z",
-          "wordCount": 4006,
-          "title": "How to Reverse a Vector in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334713",
-          "author": "Aaliyan Javaid",
-          "description": "Removing elements from an array in MATLAB can be accomplished using different techniques such as indexing, logical indexing, or utilizing built-in functions.",
-          "link": "https://linuxhint.com/remove-element-from-array-matlab/",
-          "publishedOn": "2023-06-12T07:07:15.000Z",
-          "wordCount": 3891,
-          "title": "How To Remove an Element From an Array in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334647",
-          "author": "Aaliyan Javaid",
-          "description": "To plot multiple functions in MATLAB there are several ways: sequential plotting, vectorized operations, or function handles.",
-          "link": "https://linuxhint.com/plot-multiple-functions-matlab/",
-          "publishedOn": "2023-06-12T07:01:22.000Z",
-          "wordCount": 4335,
-          "title": "How To Plot Multiple Functions in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334591",
-          "author": "Aaliyan Javaid",
-          "description": "Ellipses in MATLAB can be plotted using parametric equations. Read this guide for more details.",
-          "link": "https://linuxhint.com/plot-ellipse-matlab/",
-          "publishedOn": "2023-06-12T06:58:35.000Z",
-          "wordCount": 3712,
-          "title": "How To Plot an Ellipse in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334343",
-          "author": "Kashif",
-          "description": "The plot() function can plot vectors in MATLAB. It can also customize the plot by adding labels and titles. We can also plot multiple vectors using it.",
-          "link": "https://linuxhint.com/plot-vector-matlab/",
-          "publishedOn": "2023-06-12T06:56:36.000Z",
-          "wordCount": 4232,
-          "title": "How to Plot a Vector in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334332",
-          "author": "Aaliyan Javaid",
-          "description": "By using manual entry, special matrix creation functions, and functions to generate matrices with specific ranges and patterns.",
-          "link": "https://linuxhint.com/make-matrix-matlab/",
-          "publishedOn": "2023-06-12T06:46:27.000Z",
-          "wordCount": 3933,
-          "title": "How to Make a Matrix in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334815",
-          "author": "Aaliyan Javaid",
-          "description": "By using format specifiers, the vpa() function, or custom functions, you can get more decimals places in MATLAB.",
-          "link": "https://linuxhint.com/get-more-decimals-matlab/",
-          "publishedOn": "2023-06-12T04:59:51.000Z",
-          "wordCount": 3838,
-          "title": "How To Get More Decimal Places in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334809",
-          "author": "Komal Batool Batool",
-          "description": "In MATLAB, a row can be easily deleted from a matrix by setting it equal to two empty square brackets [].",
-          "link": "https://linuxhint.com/delete-rows-matlab/",
-          "publishedOn": "2023-06-12T04:55:11.000Z",
-          "wordCount": 3960,
-          "title": "How to Delete Rows in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334804",
-          "author": "Aaliyan Javaid",
-          "description": "To create a matrix in MATLAB using for loop is by iterating over each element with a for loop, and assigning values based on the desired pattern or calculation",
-          "link": "https://linuxhint.com/create-matrix-using-for-loop-matlab/",
-          "publishedOn": "2023-06-12T04:51:41.000Z",
-          "wordCount": 3694,
-          "title": "How To Create a Matrix in MATLAB Using for Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334794",
-          "author": "Aaliyan Javaid",
-          "description": "To Concatenate Arrays in MATLAB there are several ways: including the [ ] operator, cat() function, and specialized functions like vertcat() and horzcat().",
-          "link": "https://linuxhint.com/concatenate-arrays-matlab/",
-          "publishedOn": "2023-06-12T04:49:00.000Z",
-          "wordCount": 3935,
-          "title": "How to Concatenate Arrays in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334784",
-          "author": "Hiba Shafqat",
-          "description": "There are several ways to check if SQLite is installed on macOS or not: using the terminal, “which” command, SQLite library file, and packager manager.",
-          "link": "https://linuxhint.com/sqlite-installed-or-not-macos/",
-          "publishedOn": "2023-06-12T04:44:08.000Z",
-          "wordCount": 4162,
-          "title": "How To Check if SQLite Is Installed on macOS or Not?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334777",
-          "author": "Aaliyan Javaid",
-          "description": "To check if a number is an integer in MATLAB there are several ways: isinteger() function, floor function, checking the remainder, or using the mod () function,",
-          "link": "https://linuxhint.com/check-if-number-is-integer-matlab/",
-          "publishedOn": "2023-06-12T04:37:59.000Z",
-          "wordCount": 4084,
-          "title": "How To Check if a Number Is an Integer in Matlab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334705",
-          "author": "Aaliyan Javaid",
-          "description": "To change the axis range in MATLAB there are several ways: the axis() function, xlim(), and ylim() function. Read this guide for more details.",
-          "link": "https://linuxhint.com/change-axis-range-matlab/",
-          "publishedOn": "2023-06-12T04:23:01.000Z",
-          "wordCount": 3753,
-          "title": "How to Change Axis Range in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334659",
-          "author": "Hafsa Javed",
-          "description": "The “git apply” command is used to apply patches to the codebase. To do so, make a patch using “git diff” command and apply patch using “git apply” command.",
-          "link": "https://linuxhint.com/git-apply-command-in-git/",
-          "publishedOn": "2023-06-12T03:58:10.000Z",
-          "wordCount": 4402,
-          "title": "“git apply” Command in Git | Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334649",
-          "author": "Kaynat Asif",
-          "description": "In C#, an exponential (\"E\") format specifier is used for representing large or small numbers in a concise and standardized way using scientific notation.",
-          "link": "https://linuxhint.com/exponential-format-specifier-c-sharp/",
-          "publishedOn": "2023-06-12T03:38:15.000Z",
-          "wordCount": 4045,
-          "title": "Exponential (“E”) Format Specifier in C#",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=334633",
-          "author": "Hiba Shafqat",
-          "description": "Excel can import SQLite Files data from external sources into its worksheets using Microsoft Query or ODBC drivers.",
-          "link": "https://linuxhint.com/can-excel-open-sqlite-files/",
-          "publishedOn": "2023-06-12T03:31:11.000Z",
-          "wordCount": 4184,
-          "title": "Can Excel Open SQLite Files?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=161386",
-          "author": "Dave Sumaylo",
-          "description": "The min() function in MATLAB is used to find the minimum value from the given array and matrix.",
-          "link": "https://linuxhint.com/min-in-matlab/",
-          "publishedOn": "2023-06-12T01:39:14.000Z",
-          "wordCount": 4066,
-          "title": "How to Use min() Function in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=129100",
-          "author": "Dave Sumaylo",
-          "description": "When a new value is assigned to an index that does not exist in the list, Python raises the “list assignment index out of range” error.",
-          "link": "https://linuxhint.com/indexerror-out-of-range-solved/",
-          "publishedOn": "2023-06-12T01:24:04.000Z",
-          "wordCount": 3962,
-          "title": "IndexError List Assignment Index Out of Range Solved",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=135625",
-          "author": "Dave Sumaylo",
-          "description": "A “Raw String” provides a convenient way to work with strings containing special characters in Python. It is created by prefixing the string literals with \"r\".",
-          "link": "https://linuxhint.com/r-string-in-python/",
-          "publishedOn": "2023-06-12T01:00:57.000Z",
-          "wordCount": 4128,
-          "title": "What is R String in Python?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=206807",
-          "author": "Dave Sumaylo",
-          "description": "In MATLAB, the ceil() function is used to round a decimal value toward its nearest greatest integer value. For more detail, follow this guide.",
-          "link": "https://linuxhint.com/ceil-matlab/",
-          "publishedOn": "2023-06-12T01:00:38.000Z",
-          "wordCount": 4001,
-          "title": "Ceiling in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=189040",
-          "author": "Dave Sumaylo",
-          "description": "In Python, to display the distribution of quantitative data across different levels of one or multiple categorical variables, “seaborn.violin()” method is used.",
-          "link": "https://linuxhint.com/seaborn-violin-plot/",
-          "publishedOn": "2023-06-12T01:00:35.000Z",
-          "wordCount": 3773,
-          "title": "Seaborn Violin Plot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=167729",
-          "author": "Dave Sumaylo",
-          "description": "The mod() function in MATLAB is used to find the remainder of the two numbers after division.",
-          "link": "https://linuxhint.com/matlab-mod-function/",
-          "publishedOn": "2023-06-12T01:00:34.000Z",
-          "wordCount": 3835,
-          "title": "mod function in Matlab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=206879",
-          "author": "Dave Sumaylo",
-          "description": "You can call a function in MATLAB through command windows or a script file. Follow this guide for more detail.",
-          "link": "https://linuxhint.com/call-function-matlab/",
-          "publishedOn": "2023-06-12T01:00:29.000Z",
-          "wordCount": 3897,
-          "title": "How To Call a Function in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=184062",
-          "author": "Dave Sumaylo",
-          "description": "Python “2.x” used the symbol \"u\" before the string notation in order to handle Unicode strings, but Python “3.x” uses Unicode by default.",
-          "link": "https://linuxhint.com/python-u-before-string-meaning/",
-          "publishedOn": "2023-06-12T01:00:25.000Z",
-          "wordCount": 3897,
-          "title": "Python U Before String Meaning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=205290",
-          "author": "Dave Sumaylo",
-          "description": "The mean() function in MATLAB is used for finding the average value of elements in an array. Follow this guide for more details.",
-          "link": "https://linuxhint.com/average-matlab/",
-          "publishedOn": "2023-06-12T01:00:22.000Z",
-          "wordCount": 5069,
-          "title": "Average in MATLAB (Mean Function)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=260707",
-          "author": "Dave Sumaylo",
-          "description": "The \"scipy.integrate.nquad()\" function of the “Scipy” library is used to determine the numerical integration of functions of any dimension.",
-          "link": "https://linuxhint.com/scipy-nquad/",
-          "publishedOn": "2023-06-12T01:00:18.000Z",
-          "wordCount": 3856,
-          "title": "Scipy Nquad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=167812",
-          "author": "Dave Sumaylo",
-          "description": "MATLAB provides several functions to find the square root of a value. Follow this guide to learn to perform square root in MATLAB.",
-          "link": "https://linuxhint.com/matlab-square-root/",
-          "publishedOn": "2023-06-12T01:00:15.000Z",
-          "wordCount": 3996,
-          "title": "Square root in MatLab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=207049",
-          "author": "Dave Sumaylo",
-          "description": "The isempty() function is a built-in function in the MATLAB programming language, which is used to check if a variable is empty or not.",
-          "link": "https://linuxhint.com/isempty-function-matlab/",
-          "publishedOn": "2023-06-12T01:00:08.000Z",
-          "wordCount": 3914,
-          "title": "The isempty Function in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=159742",
-          "author": "Dave Sumaylo",
-          "description": "In MATLAB, the strcat() function is used to concatenate strings. It combines multiple strings into a single string by appending them together.",
-          "link": "https://linuxhint.com/strcat-in-matlab/",
-          "publishedOn": "2023-06-12T00:58:00.000Z",
-          "wordCount": 3868,
-          "title": "strcat() in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=206819",
-          "author": "Dave Sumaylo",
-          "description": "MATLAB has three different methods to add rows in a matrix: square brackets and concatenation, utilizing the vertcat() function, and employing matrix assignment.",
-          "link": "https://linuxhint.com/add-rows-matrix-matlab/",
-          "publishedOn": "2023-06-11T19:13:59.000Z",
-          "wordCount": 3995,
-          "title": "How to Add Rows to Matrix in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=166919",
-          "author": "Dave Sumaylo",
-          "description": "The cat() is a built-in function in MATLAB that allows you to concatenate two or more single and multidirectional arrays into a single array.",
-          "link": "https://linuxhint.com/matlab-cat-function/",
-          "publishedOn": "2023-06-11T15:54:44.000Z",
-          "wordCount": 3943,
-          "title": "cat Function in MATLAB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=134632",
-          "author": "Dave Sumaylo",
-          "description": "The “datetime.strptime()” method, the “dateutil” module, or the “pandas.to_datetime()” method is used to convert a Python string to a datetime object.",
-          "link": "https://linuxhint.com/python-string-date/",
-          "publishedOn": "2023-06-11T15:02:32.000Z",
-          "wordCount": 3873,
-          "title": "Converting Python String to Date",
-          "imageUrl": null
         }
       ]
     },
@@ -1688,6 +1348,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184459",
+          "author": "Web Webster",
+          "description": "This guide provides three step-by-step methods on how to install Ruby on Ubuntu 22.04, Ubuntu 20.04, or later LTS versions.\nThe post How to Install Ruby on Ubuntu Using Apt, RVM, rbenv appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-ruby-on-ubuntu-using-apt-rvm-rbenv/",
+          "publishedOn": "2023-07-12T00:00:31.000Z",
+          "wordCount": 17160,
+          "title": "How to Install Ruby on Ubuntu Using Apt, RVM, rbenv",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184435",
+          "author": "Web Webster",
+          "description": "In this tutorial, we are going to show you how to install Jupyter Notebook on Ubuntu 22.04 OS. Follow along here.\nThe post How to Install Jupyter Notebook on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-jupyter-notebook-on-ubuntu-22-04/",
+          "publishedOn": "2023-07-11T22:00:27.000Z",
+          "wordCount": 17178,
+          "title": "How to Install Jupyter Notebook on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184434",
+          "author": "Web Webster",
+          "description": "Explore our guide to learn how to use the apt-get command to install, remove, upgrade, search, and manage packages on your system.\nThe post 20 Useful apt-get Commands for Ubuntu Package Management appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/20-useful-apt-get-commands-for-ubuntu-package-management/",
+          "publishedOn": "2023-07-11T20:00:25.000Z",
+          "wordCount": 17162,
+          "title": "20 Useful apt-get Commands for Ubuntu Package Management",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184433",
+          "author": "Web Webster",
+          "description": "This article explores the use of apt-cache, with examples that will help you keep track of software dependencies in your Linux system.\nThe post 6 Useful apt-cache Command Examples for Ubuntu appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/6-useful-apt-cache-command-examples-for-ubuntu/",
+          "publishedOn": "2023-07-11T18:00:23.000Z",
+          "wordCount": 17157,
+          "title": "6 Useful apt-cache Command Examples for Ubuntu",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184418",
+          "author": "Web Webster",
+          "description": "Swing Music is an open-source, self-hosted music player that bills itself as a cooler Spotify from both a visual and functionality perspective. Learn more here.\nThe post Swing Music: Web-Based, Self-Hosted Music Player appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/swing-music-web-based-self-hosted-music-player/",
+          "publishedOn": "2023-07-11T17:00:21.000Z",
+          "wordCount": 17160,
+          "title": "Swing Music: Web-Based, Self-Hosted Music Player",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184412",
+          "author": "Web Webster",
+          "description": "Use this quick and easy guide to upgrade an existing Ubuntu install that has reached end of life to the latest general available release.\nThe post Upgrade Ubuntu from EOL to GA appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/upgrade-ubuntu-from-eol-to-ga/",
+          "publishedOn": "2023-07-11T16:00:19.000Z",
+          "wordCount": 17160,
+          "title": "Upgrade Ubuntu from EOL to GA",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184410",
+          "author": "Web Webster",
+          "description": "Effortlessly analyze, track, and monitor your internet traffic in real time with Sniffnet network monitoring tool in Linux and Unix.\nThe post How to Monitor Internet Traffic Using Sniffnet in Linux, Unix appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-monitor-internet-traffic-using-sniffnet-in-linux-unix/",
+          "publishedOn": "2023-07-11T15:00:17.000Z",
+          "wordCount": 17186,
+          "title": "How to Monitor Internet Traffic Using Sniffnet in Linux, Unix",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184491",
+          "author": "Web Webster",
+          "description": "Based on Ubuntu 22.04.2 LTS, Linux Lite 6.6 promises support for 22 new languages across many UI elements. Learn more here.\nThe post Ubuntu-Based Linux Lite 6.6 Comes With an AI Helper appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/ubuntu-based-linux-lite-6-6-comes-with-an-ai-helper/",
+          "publishedOn": "2023-07-11T14:00:52.000Z",
+          "wordCount": 17171,
+          "title": "Ubuntu-Based Linux Lite 6.6 Comes With an AI Helper",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184490",
+          "author": "Web Webster",
+          "description": "The first Release Candidate is available for download for those of you who want to get an early taste of the next major release, Linux kernel 6.5.\nThe post Linus Torvalds Announces Linux Kernel 6.5 Release Candidate appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/linus-torvalds-announces-linux-kernel-6-5-release-candidate/",
+          "publishedOn": "2023-07-11T13:00:49.000Z",
+          "wordCount": 17174,
+          "title": "Linus Torvalds Announces Linux Kernel 6.5 Release Candidate",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184489",
+          "author": "Web Webster",
+          "description": "According to StatCountera, as of June 2023, Linux has achieved a 3% market share. Learn more about it here.\nThe post After 30 Years, Linux Finally Hits 3% Market Share appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/after-30-years-linux-finally-hits-3-market-share/",
+          "publishedOn": "2023-07-11T02:00:44.000Z",
+          "wordCount": 17165,
+          "title": "After 30 Years, Linux Finally Hits 3% Market Share",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184485",
           "author": "Web Webster",
@@ -3817,36 +3577,6 @@
           "wordCount": 17174,
           "title": "Boosting Open-Source: GNOME Extensions Now Support Donation",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184010",
-          "author": "Web Webster",
-          "description": "The first beta version of Thunderbird 115 offers an updated user interface designed to be more modern and customizable. Learn more here.\nThe post Thunderbird 115 Reaches Beta With Updated UI, Improved OpenPGP Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/thunderbird-115-reaches-beta-with-updated-ui-improved-openpgp-support/",
-          "publishedOn": "2023-06-12T13:00:55.000Z",
-          "wordCount": 17188,
-          "title": "Thunderbird 115 Reaches Beta With Updated UI, Improved OpenPGP Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183971",
-          "author": "Web Webster",
-          "description": "In this short article, we will demonstrate how to add or remove a user from a group in a Linux system.\nThe post How to Add or Remove Linux User From Group in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-add-or-remove-linux-user-from-group-in-linux/",
-          "publishedOn": "2023-06-11T21:00:57.000Z",
-          "wordCount": 17183,
-          "title": "How to Add or Remove Linux User From Group in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=183957",
-          "author": "Web Webster",
-          "description": "Learn how to install Rust as well as how to use the Cargo package manager for creating and managing a Rust project.\nThe post Guide to Install Rust and Use Cargo Package Manager on Alma Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/guide-to-install-rust-and-use-cargo-package-manager-on-alma-linux-9/",
-          "publishedOn": "2023-06-11T15:00:55.000Z",
-          "wordCount": 17199,
-          "title": "Guide to Install Rust and Use Cargo Package Manager on Alma Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3855,6 +3585,186 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LVZpcmdvLVBDQi1EZXNpZ27SAQA",
+          "author": null,
+          "description": "System76 Begins Publishing \"Virgo\" Laptop PCB Design Specs ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LVZpcmdvLVBDQi1EZXNpZ27SAQA?oc=5",
+          "publishedOn": "2023-07-11T23:41:00.000Z",
+          "wordCount": 6027,
+          "title": "System76 Begins Publishing \"Virgo\" Laptop PCB Design Specs ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi0zLXJlYWNoZXMtZW5kLW9mLWxpZmUtdXNlcnMtdXJnZWQtdG8tdXBncmFkZS10by1saW51eC02LTTSAWJodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtMy1yZWFjaGVzLWVuZC1vZi1saWZlLXVzZXJzLXVyZ2VkLXRvLXVwZ3JhZGUtdG8tbGludXgtNi00L2FtcA",
+          "author": null,
+          "description": "Linux Kernel 6.3 Reaches End of Life, Users Urged to Upgrade to Linux 6.4  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi0zLXJlYWNoZXMtZW5kLW9mLWxpZmUtdXNlcnMtdXJnZWQtdG8tdXBncmFkZS10by1saW51eC02LTTSAWJodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtMy1yZWFjaGVzLWVuZC1vZi1saWZlLXVzZXJzLXVyZ2VkLXRvLXVwZ3JhZGUtdG8tbGludXgtNi00L2FtcA?oc=5",
+          "publishedOn": "2023-07-11T20:21:50.000Z",
+          "wordCount": 6027,
+          "title": "Linux Kernel 6.3 Reaches End of Life, Users Urged to Upgrade to Linux 6.4 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vdGVjaGhxLmNvbS8yMDIzLzA3L3JlZC1oYXQtZ3BsLWxpY2Vuc2UtZmVkb3JhLXRlbGVtZXRyeS1vcGluaW9uLXBpZWNlLWV2ZW50cy1oaXN0b3J5LW5ld3Mv0gEA",
+          "author": null,
+          "description": "Red Hat's shame is its short-termism and dumping its FOSS ethos  TechHQ",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGVjaGhxLmNvbS8yMDIzLzA3L3JlZC1oYXQtZ3BsLWxpY2Vuc2UtZmVkb3JhLXRlbGVtZXRyeS1vcGluaW9uLXBpZWNlLWV2ZW50cy1oaXN0b3J5LW5ld3Mv0gEA?oc=5",
+          "publishedOn": "2023-07-11T19:09:58.000Z",
+          "wordCount": 6027,
+          "title": "Red Hat's shame is its short-termism and dumping its FOSS ethos - TechHQ",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDcvMTEvbGludXgtZGV2aWNlLWRyaXZlcnMtaW4tb25seS1hLWZldy15ZWFycy_SAQA",
+          "author": null,
+          "description": "Linux Device Drivers In Only A Few Years  Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDcvMTEvbGludXgtZGV2aWNlLWRyaXZlcnMtaW4tb25seS1hLWZldy15ZWFycy_SAQA?oc=5",
+          "publishedOn": "2023-07-11T18:30:00.000Z",
+          "wordCount": 6027,
+          "title": "Linux Device Drivers In Only A Few Years - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3N1c2UtdG8tZm9yay1yZWQtaGF0LWVudGVycHJpc2UtbGludXgv0gFPaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9zdXNlLXRvLWZvcmstcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4Lw",
+          "author": null,
+          "description": "SUSE will fork Red Hat Enterprise Linux  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3N1c2UtdG8tZm9yay1yZWQtaGF0LWVudGVycHJpc2UtbGludXgv0gFPaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9zdXNlLXRvLWZvcmstcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4Lw?oc=5",
+          "publishedOn": "2023-07-11T18:12:49.000Z",
+          "wordCount": 6027,
+          "title": "SUSE will fork Red Hat Enterprise Linux - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiT2h0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wNy8xMS93aHktc3VzZS1pcy1mb3JraW5nLXJlZC1oYXQtZW50ZXJwcmlzZS1saW51eC_SAVNodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjMvMDcvMTEvd2h5LXN1c2UtaXMtZm9ya2luZy1yZWQtaGF0LWVudGVycHJpc2UtbGludXgvYW1wLw",
+          "author": null,
+          "description": "Why SUSE is forking Red Hat Enterprise Linux  TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyMy8wNy8xMS93aHktc3VzZS1pcy1mb3JraW5nLXJlZC1oYXQtZW50ZXJwcmlzZS1saW51eC_SAVNodHRwczovL3RlY2hjcnVuY2guY29tLzIwMjMvMDcvMTEvd2h5LXN1c2UtaXMtZm9ya2luZy1yZWQtaGF0LWVudGVycHJpc2UtbGludXgvYW1wLw?oc=5",
+          "publishedOn": "2023-07-11T17:42:09.000Z",
+          "wordCount": 6027,
+          "title": "Why SUSE is forking Red Hat Enterprise Linux - TechCrunch",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ydW5uaW5nLWhpcC12cGxzLW5hbm9waS1yMnPSAQA",
+          "author": null,
+          "description": "Running HIP VPLS on a NanoPI R2S  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9ydW5uaW5nLWhpcC12cGxzLW5hbm9waS1yMnPSAQA?oc=5",
+          "publishedOn": "2023-07-11T17:36:20.000Z",
+          "wordCount": 6027,
+          "title": "Running HIP VPLS on a NanoPI R2S - Linux Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yMy4xMC1UYXJnZXRzLUxpbnV4LTYuNdIBAA",
+          "author": null,
+          "description": "Ubuntu 23.10 Planning To Ship With The Linux 6.5 Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1VidW50dS0yMy4xMC1UYXJnZXRzLUxpbnV4LTYuNdIBAA?oc=5",
+          "publishedOn": "2023-07-11T16:18:00.000Z",
+          "wordCount": 6027,
+          "title": "Ubuntu 23.10 Planning To Ship With The Linux 6.5 Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNzAyMTEwL3RoZS1wb3dlci1vZi1hbmQtb24tbGludXguaHRtbNIBAA",
+          "author": null,
+          "description": "The power of >, >>, &, &&, and || on Linux  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8zNzAyMTEwL3RoZS1wb3dlci1vZi1hbmQtb24tbGludXguaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-07-11T15:41:00.000Z",
+          "wordCount": 6027,
+          "title": "The power of >, >>, &, &&, and || on Linux - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9yZWtvb2JlLWJhY2tkb29yLWxpbnV4LXN5c3RlbXMv0gE1aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3Jla29vYmUtYmFja2Rvb3ItbGludXgtc3lzdGVtcy8",
+          "author": null,
+          "description": "Hackers use Rekoobe Backdoor to Attack Linux Systems  GBHackers",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vZ2JoYWNrZXJzLmNvbS9yZWtvb2JlLWJhY2tkb29yLWxpbnV4LXN5c3RlbXMv0gE1aHR0cHM6Ly9nYmhhY2tlcnMuY29tL3Jla29vYmUtYmFja2Rvb3ItbGludXgtc3lzdGVtcy8?oc=5",
+          "publishedOn": "2023-07-11T15:16:34.000Z",
+          "wordCount": 6027,
+          "title": "Hackers use Rekoobe Backdoor to Attack Linux Systems - GBHackers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvd2FyaGFtbWVyLTQwMDAwLWJvbHRndW4tbm93LWZ1bGx5LXBsYXlhYmxlLW9uLXN0ZWFtLWRlY2sv0gEA",
+          "author": null,
+          "description": "Warhammer 40000: Boltgun now fully playable on Steam Deck  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvd2FyaGFtbWVyLTQwMDAwLWJvbHRndW4tbm93LWZ1bGx5LXBsYXlhYmxlLW9uLXN0ZWFtLWRlY2sv0gEA?oc=5",
+          "publishedOn": "2023-07-11T13:54:05.000Z",
+          "wordCount": 6027,
+          "title": "Warhammer 40000: Boltgun now fully playable on Steam Deck - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURldmljZS1NZW1vcnktVENQ0gEA",
+          "author": null,
+          "description": "Google Posts Experimental Linux Code For \"Device Memory TCP\" - Network To/From Accelerator RAM  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LURldmljZS1NZW1vcnktVENQ0gEA?oc=5",
+          "publishedOn": "2023-07-11T13:18:00.000Z",
+          "wordCount": 6027,
+          "title": "Google Posts Experimental Linux Code For \"Device Memory TCP\" - Network To/From Accelerator RAM - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL29yYWNsZS10YWtlcy1vbi1yZWQtaGF0LWluLWxpbnV4LWNvZGUtZmlnaHQv0gFVaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9vcmFjbGUtdGFrZXMtb24tcmVkLWhhdC1pbi1saW51eC1jb2RlLWZpZ2h0Lw",
+          "author": null,
+          "description": "Oracle takes on Red Hat in Linux code fight  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL29yYWNsZS10YWtlcy1vbi1yZWQtaGF0LWluLWxpbnV4LWNvZGUtZmlnaHQv0gFVaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9vcmFjbGUtdGFrZXMtb24tcmVkLWhhdC1pbi1saW51eC1jb2RlLWZpZ2h0Lw?oc=5",
+          "publishedOn": "2023-07-11T13:07:40.000Z",
+          "wordCount": 6027,
+          "title": "Oracle takes on Red Hat in Linux code fight - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvdGhlLWtocm9ub3MtZ3JvdXAtc2Vla2luZy1wYWlkLWRldnMtdG8td29yay1vbi1vcGVueHItcnVudGltZS1tb25hZG8v0gEA",
+          "author": null,
+          "description": "The Khronos Group seeking paid devs to work on OpenXR runtime ...  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvdGhlLWtocm9ub3MtZ3JvdXAtc2Vla2luZy1wYWlkLWRldnMtdG8td29yay1vbi1vcGVueHItcnVudGltZS1tb25hZG8v0gEA?oc=5",
+          "publishedOn": "2023-07-11T11:57:34.000Z",
+          "wordCount": 6027,
+          "title": "The Khronos Group seeking paid devs to work on OpenXR runtime ... - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvbGludXgtaGl0LW92ZXItMy1kZXNrdG9wLXVzZXItc2hhcmUv0gEA",
+          "author": null,
+          "description": "Linux hit over 3% desktop user share according to Statcounter  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvbGludXgtaGl0LW92ZXItMy1kZXNrdG9wLXVzZXItc2hhcmUv0gEA?oc=5",
+          "publishedOn": "2023-07-11T10:07:53.000Z",
+          "wordCount": 6027,
+          "title": "Linux hit over 3% desktop user share according to Statcounter - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiKWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Z3dXBkLTEuOS4z0gEA",
+          "author": null,
+          "description": "Fwupd 1.9.3 Adds Linux Firmware Updating Support For A Few New ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Z3dXBkLTEuOS4z0gEA?oc=5",
+          "publishedOn": "2023-07-11T09:55:00.000Z",
+          "wordCount": 6027,
+          "title": "Fwupd 1.9.3 Adds Linux Firmware Updating Support For A Few New ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0zMC1pbXBlcmlhbC1wdXJwbGUv0gEA",
+          "author": null,
+          "description": "Building a Retro Linux Gaming Computer Part 30: Imperial Purple  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDcvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0zMC1pbXBlcmlhbC1wdXJwbGUv0gEA?oc=5",
+          "publishedOn": "2023-07-11T09:32:08.000Z",
+          "wordCount": 6027,
+          "title": "Building a Retro Linux Gaming Computer Part 30: Imperial Purple - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLXlvdXJlLWxvb2tpbmctdG8tdXAteW91ci1kZXNrdG9wLWNvbXB1dGVyLXNlY3VyaXR5LWxpbnV4LW1pZ2h0LWJlLXlvdXItYmVzdC1iZXQv0gF8aHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9pZi15b3VyZS1sb29raW5nLXRvLXVwLXlvdXItZGVza3RvcC1jb21wdXRlci1zZWN1cml0eS1saW51eC1taWdodC1iZS15b3VyLWJlc3QtYmV0Lw",
+          "author": null,
+          "description": "If you're looking to up your desktop computer security, Linux might be your best bet  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2lmLXlvdXJlLWxvb2tpbmctdG8tdXAteW91ci1kZXNrdG9wLWNvbXB1dGVyLXNlY3VyaXR5LWxpbnV4LW1pZ2h0LWJlLXlvdXItYmVzdC1iZXQv0gF8aHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9pZi15b3VyZS1sb29raW5nLXRvLXVwLXlvdXItZGVza3RvcC1jb21wdXRlci1zZWN1cml0eS1saW51eC1taWdodC1iZS15b3VyLWJlc3QtYmV0Lw?oc=5",
+          "publishedOn": "2023-07-11T07:44:19.000Z",
+          "wordCount": 6027,
+          "title": "If you're looking to up your desktop computer security, Linux might be your best bet - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9uZXctc3RlYW0tY2xpZW50LXN0YWJsZS11cGRhdGUtZml4ZXMtdWktaXNzdWVzLW9uLWxpbnV4LWZvci1pbnRlbC1hbWQtdXNlcnPSAWVodHRwczovLzl0bzVsaW51eC5jb20vbmV3LXN0ZWFtLWNsaWVudC1zdGFibGUtdXBkYXRlLWZpeGVzLXVpLWlzc3Vlcy1vbi1saW51eC1mb3ItaW50ZWwtYW1kLXVzZXJzL2FtcA",
           "author": null,
@@ -5943,6 +5853,16 @@
           "publishedOn": "2023-06-28T09:53:00.000Z",
           "wordCount": 6029,
           "title": "EXT4 With Linux 6.5 Will See Much Faster Parallel Direct I/O ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA2LzI4L3JvY2t5X2xpbnV4X3JoZWxfcmlwcGxlcy_SAQA",
+          "author": null,
+          "description": "Rocky Linux first to recover from CentOS source purge  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA2LzI4L3JvY2t5X2xpbnV4X3JoZWxfcmlwcGxlcy_SAQA?oc=5",
+          "publishedOn": "2023-06-28T07:00:00.000Z",
+          "wordCount": 6027,
+          "title": "Rocky Linux first to recover from CentOS source purge - The Register",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8474,116 +8394,6 @@
           "wordCount": 5977,
           "title": "2 ways to install Element Desktop Client on Ubuntu 22.04 | 20.04 - H2S Media",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZ29nLXN1bW1lci1zYWxlLTIwMjMtaXMtbGl2ZS13aXRoLWdpdmVhd2F5cy1hbmQtZ2FtZS1kZWFscy_SAQA",
-          "author": null,
-          "description": "GOG Summer Sale 2023 is live with giveaways and game deals  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvZ29nLXN1bW1lci1zYWxlLTIwMjMtaXMtbGl2ZS13aXRoLWdpdmVhd2F5cy1hbmQtZ2FtZS1kZWFscy_SAQA?oc=5",
-          "publishedOn": "2023-06-12T12:02:58.000Z",
-          "wordCount": 5977,
-          "title": "GOG Summer Sale 2023 is live with giveaways and game deals - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDIzLzA2L3Vuc2V0dGxpbmctZmlyc3QtcGVyc29uLWV4cGxvcmF0aW9uLWdhbWUtaW50ZXJpb3Itd29ybGRzLWdldHMtYS1saW51eC12ZXJzaW9uL2NvbW1lbnRfaWQ9MjQ1MzIx0gEA",
-          "author": null,
-          "description": "Unsettling first-person exploration game Interior Worlds gets a Linux ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5nYW1pbmdvbmxpbnV4LmNvbS8yMDIzLzA2L3Vuc2V0dGxpbmctZmlyc3QtcGVyc29uLWV4cGxvcmF0aW9uLWdhbWUtaW50ZXJpb3Itd29ybGRzLWdldHMtYS1saW51eC12ZXJzaW9uL2NvbW1lbnRfaWQ9MjQ1MzIx0gEA?oc=5",
-          "publishedOn": "2023-06-12T11:42:03.000Z",
-          "wordCount": 5976,
-          "title": "Unsettling first-person exploration game Interior Worlds gets a Linux ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvdW5zZXR0bGluZy1maXJzdC1wZXJzb24tZXhwbG9yYXRpb24tZ2FtZS1pbnRlcmlvci13b3JsZHMtZ2V0cy1hLWxpbnV4LXZlcnNpb24v0gEA",
-          "author": null,
-          "description": "Unsettling first-person exploration game Interior Worlds gets a Linux version  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvdW5zZXR0bGluZy1maXJzdC1wZXJzb24tZXhwbG9yYXRpb24tZ2FtZS1pbnRlcmlvci13b3JsZHMtZ2V0cy1hLWxpbnV4LXZlcnNpb24v0gEA?oc=5",
-          "publishedOn": "2023-06-12T11:42:03.000Z",
-          "wordCount": 5977,
-          "title": "Unsettling first-person exploration game Interior Worlds gets a Linux version - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3VzZS13aXJlbGVzcy1hZGItYW5kcm9pZC1waG9uZS_SAQA",
-          "author": null,
-          "description": "How to use wireless ADB on your Android phone  Android Police",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3VzZS13aXJlbGVzcy1hZGItYW5kcm9pZC1waG9uZS_SAQA?oc=5",
-          "publishedOn": "2023-06-12T11:29:00.000Z",
-          "wordCount": 5999,
-          "title": "How to use wireless ADB on your Android phone - Android Police",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvd2luZS04MTAtYnJpbmdzLW1vdXNlLWN1cnNvci1jbGlwcGluZy1pbXByb3ZlbWVudHMv0gEA",
-          "author": null,
-          "description": "Wine 8.10 brings mouse cursor clipping improvements ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDYvd2luZS04MTAtYnJpbmdzLW1vdXNlLWN1cnNvci1jbGlwcGluZy1pbXByb3ZlbWVudHMv0gEA?oc=5",
-          "publishedOn": "2023-06-12T11:21:40.000Z",
-          "wordCount": 5977,
-          "title": "Wine 8.10 brings mouse cursor clipping improvements ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1WZWN0b3ItSVNBLUZvci1MaW51eC02LjXSAQA",
-          "author": null,
-          "description": "RISC-V Vector ISA Support Slated For Linux 6.5  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JJU0MtVi1WZWN0b3ItSVNBLUZvci1MaW51eC02LjXSAQA?oc=5",
-          "publishedOn": "2023-06-12T10:29:00.000Z",
-          "wordCount": 5977,
-          "title": "RISC-V Vector ISA Support Slated For Linux 6.5 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1YYm94LU1vcmUtUnVtYmxl0gEA",
-          "author": null,
-          "description": "Linux 6.5 To Enable Rumble Support For Newer Microsoft Xbox Controllers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1YYm94LU1vcmUtUnVtYmxl0gEA?oc=5",
-          "publishedOn": "2023-06-12T10:10:00.000Z",
-          "wordCount": 5977,
-          "title": "Linux 6.5 To Enable Rumble Support For Newer Microsoft Xbox Controllers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVuZS0xMXRoLTIwMjPSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWp1bmUtMTF0aC0yMDIzL2FtcA",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: June 11th, 2023  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtanVuZS0xMXRoLTIwMjPSAUFodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLWp1bmUtMTF0aC0yMDIzL2FtcA?oc=5",
-          "publishedOn": "2023-06-12T09:52:50.000Z",
-          "wordCount": 5977,
-          "title": "9to5Linux Weekly Roundup: June 11th, 2023 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1yYzYtUmVsZWFzZWTSAQA",
-          "author": null,
-          "description": "Linux 6.4-rc6 Released: The Kernel Appears To Be In Good Shape  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNC1yYzYtUmVsZWFzZWTSAQA?oc=5",
-          "publishedOn": "2023-06-11T22:11:00.000Z",
-          "wordCount": 5977,
-          "title": "Linux 6.4-rc6 Released: The Kernel Appears To Be In Good Shape - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTMxMDcwOC9saW51eC1vbi1uaW50ZW5kby13aWktc2hvdWxkLXlvdS1pbnN0YWxsL9IBAA",
-          "author": null,
-          "description": "You Can Install Linux On Your Old Nintendo Wii (But You Probably ...  SlashGear",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTMxMDcwOC9saW51eC1vbi1uaW50ZW5kby13aWktc2hvdWxkLXlvdS1pbnN0YWxsL9IBAA?oc=5",
-          "publishedOn": "2023-06-11T17:55:00.000Z",
-          "wordCount": 5977,
-          "title": "You Can Install Linux On Your Old Nintendo Wii (But You Probably ... - SlashGear",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW1wcm92ZS1wZXJmb3JtYW5jZS1mcmVlLXVwLXJhbS1vbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Free Up Memory and Improve RAM Performance on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaW1wcm92ZS1wZXJmb3JtYW5jZS1mcmVlLXVwLXJhbS1vbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-06-11T17:45:00.000Z",
-          "wordCount": 5977,
-          "title": "How to Free Up Memory and Improve RAM Performance on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8598,6 +8408,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "In this article, Andy Budd, curator of UX London and Leading Design conferences, outlines some of the things that make a potentially amazing presentation, as well as a few big gotchas. If you’ve ever wondered what it takes to get a speaking slot at a conference, this article is for you.",
+          "link": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
+          "publishedOn": "2023-07-11T07:00:00.000Z",
+          "wordCount": 7087,
+          "title": "How To Become A Better Speaker At Conferences",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
@@ -8845,6 +8670,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
+          "author": "Yazdun Fadali",
+          "description": "In today's JavaScript landscape, TypeScript is gaining more and more popularity. And React developers are starting to use it more and more. If you're a React developer looking to explore TypeScript or enhance your skills with it, this handbook is just for you. I'll guide you through using TypeScript in",
+          "link": "https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/",
+          "publishedOn": "2023-07-11T16:05:08.000Z",
+          "wordCount": 8744,
+          "title": "TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/TypeScript-Handbook-for-React-Developers-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
+          "author": "Arunachalam B",
+          "description": "spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-spacy-for-nlp-use-cases/",
+          "publishedOn": "2023-07-11T14:11:02.000Z",
+          "wordCount": 2015,
+          "title": "How to Fine-Tune spaCy Models for NLP Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Fine-tune-Spacy---Banner.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
           "author": "Shittu Olumide",
