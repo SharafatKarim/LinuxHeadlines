@@ -12,6 +12,206 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=192603",
+          "author": "Dave Sumaylo",
+          "description": "By using the “os.rename()” function, “shutil.move()” function, or using the “os” module, users can rename a single or bulk of files using Python.",
+          "link": "https://linuxhint.com/python-rename-file/",
+          "publishedOn": "2023-07-30T07:55:34.000Z",
+          "wordCount": 5754,
+          "title": "Python Rename File",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=127122",
+          "author": "Dave Sumaylo",
+          "description": "In Python, the “os.path” module of the “os” library provides several functions to work with specified paths in various operating systems.",
+          "link": "https://linuxhint.com/os-path-module-python/",
+          "publishedOn": "2023-07-30T05:21:27.000Z",
+          "wordCount": 3986,
+          "title": "Python os.path example",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=245087",
+          "author": "Dave Sumaylo",
+          "description": "The “random.shuffle()” method of the “random” module is used to shuffle a list of strings or a list of integers in Python.",
+          "link": "https://linuxhint.com/python-random-shuffle-method/",
+          "publishedOn": "2023-07-30T04:20:49.000Z",
+          "wordCount": 5434,
+          "title": "Python Random Shuffle Method",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=217705",
+          "author": "Dave Sumaylo",
+          "description": "The tkinter grid is a two-dimensional table with rows and columns, where each cell can hold a widget such as buttons, labels, or entry fields.",
+          "link": "https://linuxhint.com/tkinter-grid/",
+          "publishedOn": "2023-07-30T02:46:34.000Z",
+          "wordCount": 4598,
+          "title": "Tkinter Grid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=218739",
+          "author": "Dave Sumaylo",
+          "description": "The “DataFrame.iloc[]” and the “DataFrame.loc[]” method of the “Pandas” module is used to get the Pandas DataFrame rows based on the index.",
+          "link": "https://linuxhint.com/pandas-get-row-index/",
+          "publishedOn": "2023-07-30T01:21:19.000Z",
+          "wordCount": 5680,
+          "title": "Get the Pandas DataFrame Rows Based on Index",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=190413",
+          "author": "Dave Sumaylo",
+          "description": "The “seaborn.heatmap()” function of the “Seaborn” module is utilized in Python to plot/create rectangular data in the color-coded matrix form.",
+          "link": "https://linuxhint.com/seaborn-heatmap-colors/",
+          "publishedOn": "2023-07-29T19:39:10.000Z",
+          "wordCount": 5654,
+          "title": "Seaborn HeatMap Colors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=107024",
+          "author": "Dave Sumaylo",
+          "description": "The “try” and “except” statement, the “raise” exception, and the “logger.exception” method is used to catch all exceptions in Python.",
+          "link": "https://linuxhint.com/catch-all-exceptions-python/",
+          "publishedOn": "2023-07-29T17:36:00.000Z",
+          "wordCount": 5479,
+          "title": "How to Catch All Exceptions in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=257901",
+          "author": "Dave Sumaylo",
+          "description": "The “os.environ” is a mapping object or built-in dictionary in Python that represents all the user’s environment variable values in key-value pairs set.",
+          "link": "https://linuxhint.com/python-os-environ/",
+          "publishedOn": "2023-07-29T17:07:59.000Z",
+          "wordCount": 5379,
+          "title": "Python OS Environ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=216456",
+          "author": "Dave Sumaylo",
+          "description": "The relational operators, “df.isin()”, “&” operator, and “df.loc[]” methods, are used to select DataFrame rows based on particular conditions.",
+          "link": "https://linuxhint.com/pandas-dataframe-select-rows-by-condition/",
+          "publishedOn": "2023-07-29T15:53:08.000Z",
+          "wordCount": 4162,
+          "title": "Pandas DataFrame Select Rows By Condition",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=256476",
+          "author": "Dave Sumaylo",
+          "description": "The “traceback” or “logging“ module provides several functions that are used in Python to log the error message and the Stacktrace.",
+          "link": "https://linuxhint.com/print-stacktrace-python-log/",
+          "publishedOn": "2023-07-29T15:29:24.000Z",
+          "wordCount": 5392,
+          "title": "Print Stacktrace in Pyhton Log",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=215589",
+          "author": "Dave Sumaylo",
+          "description": "The “pandas.unique()”, “Series.unique()”, “Numpy.unique()”, and “pandas.concat()” methods are used to get distinct values of the Pandas DataFrame column.",
+          "link": "https://linuxhint.com/pandas-distinct-values-column/",
+          "publishedOn": "2023-07-29T14:25:50.000Z",
+          "wordCount": 5521,
+          "title": "Pandas Distinct Values Column",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=219607",
+          "author": "Dave Sumaylo",
+          "description": "“Tkinter-treeview” is a specialized widget in “Tkinter” that presents hierarchical data structures in a tree-like format.",
+          "link": "https://linuxhint.com/tkinter-treeview/",
+          "publishedOn": "2023-07-29T13:27:49.000Z",
+          "wordCount": 5472,
+          "title": "Tkinter Treeview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=128329",
+          "author": "Dave Sumaylo",
+          "description": "In Python, the “List”, “heapq”, and “queue.PriorityQueue” methods are used to implement Priority Queues and return data items based on their priority.",
+          "link": "https://linuxhint.com/priority-queue-python/",
+          "publishedOn": "2023-07-29T13:27:03.000Z",
+          "wordCount": 5376,
+          "title": "Python Priority Queue Example",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=128279",
+          "author": "Dave Sumaylo",
+          "description": "The average of a list in Python can be found using the iterative method, sum() and len() functions, reduce() and lambda() functions, numpy, or statistics modules.",
+          "link": "https://linuxhint.com/find-average-list-python/",
+          "publishedOn": "2023-07-29T13:20:39.000Z",
+          "wordCount": 6040,
+          "title": "How to find the average of a list in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=214377",
+          "author": "Dave Sumaylo",
+          "description": "The “df.to_csv()” function of the Pandas module is used to append Pandas DataFrame to CSV (Comma Separated Value) file in Python.",
+          "link": "https://linuxhint.com/pandas-append-to-csv/",
+          "publishedOn": "2023-07-29T13:00:07.000Z",
+          "wordCount": 5468,
+          "title": "Pandas Append to CSV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=262402",
+          "author": "Dave Sumaylo",
+          "description": "The “scipy.linalg” module and the “scipy.sparse” module of the Scipy library is used to perform various operations on Scipy matrices in Python.",
+          "link": "https://linuxhint.com/scipy-matrices/",
+          "publishedOn": "2023-07-29T09:39:10.000Z",
+          "wordCount": 5595,
+          "title": "SciPy Matrices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=246710",
+          "author": "Dave Sumaylo",
+          "description": "The “random.randint()” or the “random.randrange()” methods of the “random” module are utilized to generate/create a random integer in Python:",
+          "link": "https://linuxhint.com/random-integer-python/",
+          "publishedOn": "2023-07-29T08:35:07.000Z",
+          "wordCount": 4162,
+          "title": "Random Integer Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=261577",
+          "author": "Dave Sumaylo",
+          "description": "The “os.getenv()” method of the “os” module is utilized in Python to retrieve the environment variable key value if it is present.",
+          "link": "https://linuxhint.com/python-os-getenv/",
+          "publishedOn": "2023-07-29T08:10:42.000Z",
+          "wordCount": 5228,
+          "title": "Python os getenv",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=213878",
+          "author": "Dave Sumaylo",
+          "description": "The “groupby()” method splits data into groups based on columns and finds total values in a column for each group using the agg method, such as “count”.",
+          "link": "https://linuxhint.com/pandas-agg-count/",
+          "publishedOn": "2023-07-29T07:29:16.000Z",
+          "wordCount": 5716,
+          "title": "Pandas Agg Count",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=213834",
+          "author": "Dave Sumaylo",
+          "description": "The “pd.DataFrame()” columns parameter, “DataFrame.columns” method and the “DataFrame.set_axis()” method is used to add a header to Pandas DataFrame in Python.",
+          "link": "https://linuxhint.com/pandas-add-header/",
+          "publishedOn": "2023-07-29T07:28:25.000Z",
+          "wordCount": 5419,
+          "title": "Pandas Add Header",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=351439",
           "author": "Kashif",
           "description": "A PN junction diode is a two-terminal semiconductor device that conducts in forward-biased conditions and blocks current in reverse-biased conditions.",
@@ -19,6 +219,16 @@
           "publishedOn": "2023-07-27T23:47:15.000Z",
           "wordCount": 5822,
           "title": "PN Junction Theory for Semiconductor Diodes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=350542",
+          "author": "Zainab Rehman",
+          "description": "You can hide the photos on your iPhone using the built-in Photos app. The hidden photos are moved to the dedicated folder.",
+          "link": "https://linuxhint.com/how-to-hide-photos-iphone/",
+          "publishedOn": "2023-07-26T23:12:06.000Z",
+          "wordCount": 5391,
+          "title": "How to Hide Photos on iPhone",
           "imageUrl": null
         },
         {
@@ -1520,56 +1730,6 @@
           "wordCount": 4070,
           "title": "How to Install SQLite3 in the Command Prompt?",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=201252",
-          "author": "Cherry Mae Barolo",
-          "description": "The \"datetime.timedelta()\" function of the “datetime” module is utilized to create a “timedelta” object representing a period of time.",
-          "link": "https://linuxhint.com/python-datetime-timedelta/",
-          "publishedOn": "2023-07-01T06:13:40.000Z",
-          "wordCount": 4208,
-          "title": "Python Datetime.Timedelta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=135438",
-          "author": "Cherry Mae Barolo",
-          "description": "The “replace()” method, “translate()” method, “re.sub()” method, and the “for” loop is used to remove/delete the characters from the input string.",
-          "link": "https://linuxhint.com/python-remove-character-from-string/",
-          "publishedOn": "2023-07-01T05:21:45.000Z",
-          "wordCount": 4132,
-          "title": "How Python Functions Remove Characters From A String",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=130009",
-          "author": "Cherry Mae Barolo",
-          "description": "The “len()” function, “for” loop, and the “length_hint()” method are utilized in Python to determine/get the length of the list.",
-          "link": "https://linuxhint.com/python-list-length/",
-          "publishedOn": "2023-07-01T04:57:39.000Z",
-          "wordCount": 3846,
-          "title": "Python List Length",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=146771",
-          "author": "Cherry Mae Barolo",
-          "description": "The “file.seek()” method is utilized in Python to move or change the position of the file handle pointer according to the specified offset value.",
-          "link": "https://linuxhint.com/python-file-seek/",
-          "publishedOn": "2023-07-01T04:23:55.000Z",
-          "wordCount": 4070,
-          "title": "Python File Seek",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=134209",
-          "author": "Cherry Mae Barolo",
-          "description": "The “random.choices()” method of the random “module” and the “secrets.choice()” method of the “secrets” module is used to retrieve the random string in Python.",
-          "link": "https://linuxhint.com/python-random-string-generation/",
-          "publishedOn": "2023-06-30T21:17:14.000Z",
-          "wordCount": 3836,
-          "title": "Python random string generation",
-          "imageUrl": null
         }
       ]
     },
@@ -1578,6 +1738,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184785",
+          "author": "Web Webster",
+          "description": "In the following guide, you’ll learn how to install Chrony as an NTP server and client on an AlmaLinux 9 server.\nThe post Guide to Set up Chrony as NTP Server and Client on AlmaLinux 9 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/guide-to-set-up-chrony-as-ntp-server-and-client-on-almalinux-9/",
+          "publishedOn": "2023-07-30T21:00:05.000Z",
+          "wordCount": 17202,
+          "title": "Guide to Set up Chrony as NTP Server and Client on AlmaLinux 9",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184784",
+          "author": "Web Webster",
+          "description": "Learn how to install and configure the latest version of the phpBB3 platform on Debian 11 to create a free online forum website.\nThe post Create a Forum With phpBB3 on Debian appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/create-a-forum-with-phpbb3-on-debian/",
+          "publishedOn": "2023-07-30T15:00:03.000Z",
+          "wordCount": 17195,
+          "title": "Create a Forum With phpBB3 on Debian",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=184839",
           "author": "Web Webster",
@@ -3727,96 +3907,6 @@
           "wordCount": 17183,
           "title": "Top 5 Free & Reliable HDD Cloning Software for 2023",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184319",
-          "author": "Web Webster",
-          "description": "Open-source projects utilizing insecure generative AI have poor security posture, resulting in an environment with substantial risk for organizations.\nThe post Popular Generative AI Projects Pose Serious Security Threat appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/popular-generative-ai-projects-pose-serious-security-threat/",
-          "publishedOn": "2023-07-01T02:00:53.000Z",
-          "wordCount": 17166,
-          "title": "Popular Generative AI Projects Pose Serious Security Threat",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184318",
-          "author": "Web Webster",
-          "description": "Fluent Reader is a desktop news reader application built using Electron together with React and Fluent UI. Learn more here.\nThe post Fluent Reader: Modern Desktop RSS Reader appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/fluent-reader-modern-desktop-rss-reader/",
-          "publishedOn": "2023-07-01T00:00:51.000Z",
-          "wordCount": 17159,
-          "title": "Fluent Reader: Modern Desktop RSS Reader",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184326",
-          "author": "Web Webster",
-          "description": "Rocky Linux leverages UBI and cloud instances for unhindered RHEL source acquisition. Learn more about the solution here.\nThe post Rocky Linux Finds Solutions to RHEL Source Code Restrictions appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/rocky-linux-finds-solutions-to-rhel-source-code-restrictions/",
-          "publishedOn": "2023-06-30T22:00:37.000Z",
-          "wordCount": 17157,
-          "title": "Rocky Linux Finds Solutions to RHEL Source Code Restrictions",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184321",
-          "author": "Web Webster",
-          "description": "The new Ubuntu kernel security updates address CVE-2023-35788, an out-of-bounds write vulnerability. Learn more here.\nThe post Canonical Releases New Ubuntu Kernel Security Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/canonical-releases-new-ubuntu-kernel-security-updates/",
-          "publishedOn": "2023-06-30T20:00:28.000Z",
-          "wordCount": 17150,
-          "title": "Canonical Releases New Ubuntu Kernel Security Updates",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184320",
-          "author": "Web Webster",
-          "description": "Highlights of Nitrux 2.9 include the brand-new Nitrux Update Tool System (NUTS), the latest KDE software, and Linux kernel 6.3.9 Liquorix.\nThe post Nitrux 2.9 Brings New Upgrade Tool, Latest KDE Software, More appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/nitrux-2-9-brings-new-upgrade-tool-latest-kde-software-more/",
-          "publishedOn": "2023-06-30T18:00:26.000Z",
-          "wordCount": 17168,
-          "title": "Nitrux 2.9 Brings New Upgrade Tool, Latest KDE Software, More",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184313",
-          "author": "Lizz Edelstein",
-          "description": "If your data center relies on VirtualBox and your VMs rely on USB, you’ve likely noticed USB doesn’t work unless you enable it. Here’s how.\nThe post How to Enable USB in VirtualBox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-enable-usb-in-virtualbox/",
-          "publishedOn": "2023-06-30T17:00:17.000Z",
-          "wordCount": 17173,
-          "title": "How to Enable USB in VirtualBox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184305",
-          "author": "Web Webster",
-          "description": "In this guide, we’ll demonstrate how you can configure a network bond. Later, we will shift our attention to network bridging.\nThe post Beginner’s Guide to Creating a Network Bond, Bridge in Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/beginners-guide-to-creating-a-network-bond-bridge-in-ubuntu/",
-          "publishedOn": "2023-06-30T16:00:21.000Z",
-          "wordCount": 17175,
-          "title": "Beginner’s Guide to Creating a Network Bond, Bridge in Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184304",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will learn how to install the latest edition of Eclipse IDE in Ubuntu or in Debian-based Linux distributions.\nThe post How to Install Eclipse IDE in Ubuntu, Debian, and Linux Mint appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-eclipse-ide-in-ubuntu-debian-and-linux-mint/",
-          "publishedOn": "2023-06-30T15:00:20.000Z",
-          "wordCount": 17187,
-          "title": "How to Install Eclipse IDE in Ubuntu, Debian, and Linux Mint",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184303",
-          "author": "Web Webster",
-          "description": "This quick tutorial demonstrates how to change or set the default kernel in RHEL 8 and RHEL 9 using the grubby utility.\nThe post How to Change the Default Kernel in RHEL 8 and RHEL 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-change-the-default-kernel-in-rhel-8-and-rhel-9/",
-          "publishedOn": "2023-06-30T14:00:18.000Z",
-          "wordCount": 17193,
-          "title": "How to Change the Default Kernel in RHEL 8 and RHEL 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3825,6 +3915,106 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiX2h0dHBzOi8vbWVkaXVtLmNvbS9AQXVzdGluTmV3dG9uVGVjaC9jcmVhdGluZy1ob3N0LWJhc2VkLWZpcmV3YWxsLXJ1bGVzLXctaXB0YWJsZXMtN2MzYjNhOGM5MmM00gEA",
+          "author": null,
+          "description": "Creating Host-Based Firewall Rules w/ IPtables | by Austin Newton ...  Medium",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbWVkaXVtLmNvbS9AQXVzdGluTmV3dG9uVGVjaC9jcmVhdGluZy1ob3N0LWJhc2VkLWZpcmV3YWxsLXJ1bGVzLXctaXB0YWJsZXMtN2MzYjNhOGM5MmM00gEA?oc=5",
+          "publishedOn": "2023-07-31T00:01:03.000Z",
+          "wordCount": 6018,
+          "title": "Creating Host-Based Firewall Rules w/ IPtables | by Austin Newton ... - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vZmFnZW53YXNhbm5pLmNvbS9uZXdzL2V4cGxvcmluZy10aGUtZXZvbHV0aW9uLW9mLWdsb2JhbC1zZXJ2ZXItb3BlcmF0aW5nLXN5c3RlbXMvNDk4NTIv0gEA",
+          "author": null,
+          "description": "Exploring the Evolution of Global Server Operating Systems  Fagen wasanni",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZmFnZW53YXNhbm5pLmNvbS9uZXdzL2V4cGxvcmluZy10aGUtZXZvbHV0aW9uLW9mLWdsb2JhbC1zZXJ2ZXItb3BlcmF0aW5nLXN5c3RlbXMvNDk4NTIv0gEA?oc=5",
+          "publishedOn": "2023-07-30T23:18:30.000Z",
+          "wordCount": 6018,
+          "title": "Exploring the Evolution of Global Server Operating Systems - Fagen wasanni",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcmNoLWxpbnV4LWluc3RhbGxlci1ub3ctc3VwcG9ydHMtaHlwZXJsYW5kLXdtLWxpbWluZS1ib290bG9hZGVy0gFaaHR0cHM6Ly85dG81bGludXguY29tL2FyY2gtbGludXgtaW5zdGFsbGVyLW5vdy1zdXBwb3J0cy1oeXBlcmxhbmQtd20tbGltaW5lLWJvb3Rsb2FkZXIvYW1w",
+          "author": null,
+          "description": "Arch Linux Installer Now Supports Hyperland WM, Limine Bootloader  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcmNoLWxpbnV4LWluc3RhbGxlci1ub3ctc3VwcG9ydHMtaHlwZXJsYW5kLXdtLWxpbWluZS1ib290bG9hZGVy0gFaaHR0cHM6Ly85dG81bGludXguY29tL2FyY2gtbGludXgtaW5zdGFsbGVyLW5vdy1zdXBwb3J0cy1oeXBlcmxhbmQtd20tbGltaW5lLWJvb3Rsb2FkZXIvYW1w?oc=5",
+          "publishedOn": "2023-07-30T22:47:37.000Z",
+          "wordCount": 6018,
+          "title": "Arch Linux Installer Now Supports Hyperland WM, Limine Bootloader - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1yYzTSAQA",
+          "author": null,
+          "description": "Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1yYzTSAQA?oc=5",
+          "publishedOn": "2023-07-30T21:17:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux 6.5-rc4 Exposes An Interesting Numerical Coincidence - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL25ld3MvY2hyb21lb3MtMTE2LW1heS1iZWdpbi10aGUtbGFjcm9zLWJyb3dzZXItcHVzaC10by1jaHJvbWVib29rcy_SAQA",
+          "author": null,
+          "description": "ChromeOS 116 may begin the Lacros browser push to Chromebooks  About Chromebooks",
+          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL25ld3MvY2hyb21lb3MtMTE2LW1heS1iZWdpbi10aGUtbGFjcm9zLWJyb3dzZXItcHVzaC10by1jaHJvbWVib29rcy_SAQA?oc=5",
+          "publishedOn": "2023-07-30T15:37:48.000Z",
+          "wordCount": 6018,
+          "title": "ChromeOS 116 may begin the Lacros browser push to Chromebooks - About Chromebooks",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBhdGNoZXMtTm9uLUJLTC1Db25zb2xlc9IBAA",
+          "author": null,
+          "description": "Linux Patches Revised Around Non-Blocking Consoles  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LVBhdGNoZXMtTm9uLUJLTC1Db25zb2xlc9IBAA?oc=5",
+          "publishedOn": "2023-07-30T13:13:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux Patches Revised Around Non-Blocking Consoles - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiJWh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9saW51eC_SAQA",
+          "author": null,
+          "description": "What is Linux? What you need to know about distros, kernels, and more  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9saW51eC_SAQA?oc=5",
+          "publishedOn": "2023-07-30T12:00:00.000Z",
+          "wordCount": 6018,
+          "title": "What is Linux? What you need to know about distros, kernels, and more - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilQFodHRwczovL3d3dy5zY21wLmNvbS90ZWNoL3RlY2gtd2FyL2FydGljbGUvMzIyOTQwOC9odWF3ZWlzLWFuZHJvaWQtYW5kLWxpbnV4LWFsdGVybmF0aXZlcy1nZXQtYm9vc3Qtc2hlbnpoZW4tY2hpbmEtY29udGludWVzLXdlYW4taXRzZWxmLWZvcmVpZ24tdGVjaNIBlQFodHRwczovL2FtcC5zY21wLmNvbS90ZWNoL3RlY2gtd2FyL2FydGljbGUvMzIyOTQwOC9odWF3ZWlzLWFuZHJvaWQtYW5kLWxpbnV4LWFsdGVybmF0aXZlcy1nZXQtYm9vc3Qtc2hlbnpoZW4tY2hpbmEtY29udGludWVzLXdlYW4taXRzZWxmLWZvcmVpZ24tdGVjaA",
+          "author": null,
+          "description": "Huawei’s operating systems get support from home city of Shenzhen in adoption push  South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zY21wLmNvbS90ZWNoL3RlY2gtd2FyL2FydGljbGUvMzIyOTQwOC9odWF3ZWlzLWFuZHJvaWQtYW5kLWxpbnV4LWFsdGVybmF0aXZlcy1nZXQtYm9vc3Qtc2hlbnpoZW4tY2hpbmEtY29udGludWVzLXdlYW4taXRzZWxmLWZvcmVpZ24tdGVjaNIBlQFodHRwczovL2FtcC5zY21wLmNvbS90ZWNoL3RlY2gtd2FyL2FydGljbGUvMzIyOTQwOC9odWF3ZWlzLWFuZHJvaWQtYW5kLWxpbnV4LWFsdGVybmF0aXZlcy1nZXQtYm9vc3Qtc2hlbnpoZW4tY2hpbmEtY29udGludWVzLXdlYW4taXRzZWxmLWZvcmVpZ24tdGVjaA?oc=5",
+          "publishedOn": "2023-07-30T11:00:10.000Z",
+          "wordCount": 6018,
+          "title": "Huawei’s operating systems get support from home city of Shenzhen in adoption push - South China Morning Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtMS43MS1LZXJuZWwtVXBncmFkZdIBAA",
+          "author": null,
+          "description": "Linux Kernel Prepares Rust Toolchain Upgrade To v1.71  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtMS43MS1LZXJuZWwtVXBncmFkZdIBAA?oc=5",
+          "publishedOn": "2023-07-30T10:41:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux Kernel Prepares Rust Toolchain Upgrade To v1.71 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1yYzQteDg2LXVyZ2VudNIBAA",
+          "author": null,
+          "description": "Linux 6.5-rc4 Brings Change For Enabling STIBP On AMD Zen 4 Auto IBRS Systems  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1yYzQteDg2LXVyZ2VudNIBAA?oc=5",
+          "publishedOn": "2023-07-30T10:17:00.000Z",
+          "wordCount": 6018,
+          "title": "Linux 6.5-rc4 Brings Change For Enabling STIBP On AMD Zen 4 Auto IBRS Systems - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiKWh0dHBzOi8vd3d3LmluZGllc2h1ZmZsZS5jb20vZXRoL0JkUmJ0VHp00gEA",
           "author": null,
@@ -8054,186 +8244,6 @@
           "wordCount": 6029,
           "title": "4 Ways Red Hat's Source Code Restrictions Affect Other Distros - MUO - MakeUseOf",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLVN0dWRpby1EaXNwbGF5LUxpbnV4LURydtIBAA",
-          "author": null,
-          "description": "Apple Studio Display Linux Driver Published To Control The Backlight  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FwcGxlLVN0dWRpby1EaXNwbGF5LUxpbnV4LURydtIBAA?oc=5",
-          "publishedOn": "2023-07-01T12:57:00.000Z",
-          "wordCount": 6029,
-          "title": "Apple Studio Display Linux Driver Published To Control The Backlight - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LU9uLUFpcnBsYW5lcy1DaGFsbGVuZ2Vz0gEA",
-          "author": null,
-          "description": "The Current Challenges With Using Linux On Airplanes  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LU9uLUFpcnBsYW5lcy1DaGFsbGVuZ2Vz0gEA?oc=5",
-          "publishedOn": "2023-07-01T10:29:00.000Z",
-          "wordCount": 6029,
-          "title": "The Current Challenges With Using Linux On Airplanes - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTY1LVVzZXItTW9kZS1TdGFjay1FeHBhbmTSAQA",
-          "author": null,
-          "description": "Linus Torvalds Gets Coding To Improve Linux's User-Mode Stack ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTY1LVVzZXItTW9kZS1TdGFjay1FeHBhbmTSAQA?oc=5",
-          "publishedOn": "2023-07-01T10:12:00.000Z",
-          "wordCount": 6029,
-          "title": "Linus Torvalds Gets Coding To Improve Linux's User-Mode Stack ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1DWEzSAQA",
-          "author": null,
-          "description": "Linux 6.5 Adds CXL Device Sanitization, Secure Erase, CXL 3.0 ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNS1DWEzSAQA?oc=5",
-          "publishedOn": "2023-07-01T10:03:00.000Z",
-          "wordCount": 6029,
-          "title": "Linux 6.5 Adds CXL Device Sanitization, Secure Erase, CXL 3.0 ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiKGh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctY29weS1maWxlcy1saW51eC_SASxodHRwczovL2JlZWJvbS5jb20vaG93LWNvcHktZmlsZXMtbGludXgvYW1wLw",
-          "author": null,
-          "description": "How to Copy Files in Linux (2 Ways)  Beebom",
-          "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYmVlYm9tLmNvbS9ob3ctY29weS1maWxlcy1saW51eC_SASxodHRwczovL2JlZWJvbS5jb20vaG93LWNvcHktZmlsZXMtbGludXgvYW1wLw?oc=5",
-          "publishedOn": "2023-07-01T09:26:43.000Z",
-          "wordCount": 6029,
-          "title": "How to Copy Files in Linux (2 Ways) - Beebom",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiKGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yZWQtaGF0LWZpYXNjby_SAQA",
-          "author": null,
-          "description": "The Suicide Attempt by Red Hat [Opinion]  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9yZWQtaGF0LWZpYXNjby_SAQA?oc=5",
-          "publishedOn": "2023-07-01T02:19:58.000Z",
-          "wordCount": 6029,
-          "title": "The Suicide Attempt by Red Hat [Opinion] - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDYvMzAvcm9ja3ktc3RyaWtlcy1iYWNrLWF0LXJlZC1oYXQv0gEA",
-          "author": null,
-          "description": "Rocky Strikes Back At Red Hat  Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDYvMzAvcm9ja3ktc3RyaWtlcy1iYWNrLWF0LXJlZC1oYXQv0gEA?oc=5",
-          "publishedOn": "2023-07-01T02:00:00.000Z",
-          "wordCount": 6029,
-          "title": "Rocky Strikes Back At Red Hat - Hackaday",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNy8wMS8wMDQ2MjI0L2Zvcm1lci1jYW5vbmljYWwtZGV2ZWxvcGVyLWlzLXdvcmtpbmctb24tYS1zY3JpcHQtdGhhdC1yZXBsYWNlcy1zbmFwcy13aXRoLWZsYXRwYWtz0gEA",
-          "author": null,
-          "description": "Former Canonical Developer is Working on a Script that Replaces ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2xpbnV4LnNsYXNoZG90Lm9yZy9zdG9yeS8yMy8wNy8wMS8wMDQ2MjI0L2Zvcm1lci1jYW5vbmljYWwtZGV2ZWxvcGVyLWlzLXdvcmtpbmctb24tYS1zY3JpcHQtdGhhdC1yZXBsYWNlcy1zbmFwcy13aXRoLWZsYXRwYWtz0gEA?oc=5",
-          "publishedOn": "2023-07-01T01:09:58.000Z",
-          "wordCount": 6029,
-          "title": "Former Canonical Developer is Working on a Script that Replaces ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0gxLTIwMjMtUmVjYXDSAQA",
-          "author": null,
-          "description": "What's Excited Open-Source Enthusiasts & Linux Users The Most So ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0gxLTIwMjMtUmVjYXDSAQA?oc=5",
-          "publishedOn": "2023-07-01T00:00:00.000Z",
-          "wordCount": 6029,
-          "title": "What's Excited Open-Source Enthusiasts & Linux Users The Most So ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5aRlMtMi4yLXJjMdIBAA",
-          "author": null,
-          "description": "OpenZFS 2.2-rc1 Brings Linux Container Support, BLAKE3 ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5aRlMtMi4yLXJjMdIBAA?oc=5",
-          "publishedOn": "2023-06-30T21:00:00.000Z",
-          "wordCount": 6029,
-          "title": "OpenZFS 2.2-rc1 Brings Linux Container Support, BLAKE3 ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdGhpbmdzLXRvLWtub3ctYmVmb3JlLXN3aXRjaGluZy1mcm9tLXdpbmRvd3MtdG8tdWJ1bnR1L9IBAA",
-          "author": null,
-          "description": "8 Things You Need to Know Before Switching From Windows to ...  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdGhpbmdzLXRvLWtub3ctYmVmb3JlLXN3aXRjaGluZy1mcm9tLXdpbmRvd3MtdG8tdWJ1bnR1L9IBAA?oc=5",
-          "publishedOn": "2023-06-30T19:30:00.000Z",
-          "wordCount": 6029,
-          "title": "8 Things You Need to Know Before Switching From Windows to ... - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NMQUItT2ZmaWNpYWxseS1EZXByZWNhdGVk0gEA",
-          "author": null,
-          "description": "Linux's SLAB Allocator Is Officially Deprecated  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NMQUItT2ZmaWNpYWxseS1EZXByZWNhdGVk0gEA?oc=5",
-          "publishedOn": "2023-06-30T17:14:00.000Z",
-          "wordCount": 6029,
-          "title": "Linux's SLAB Allocator Is Officially Deprecated - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vYW1wLmhvdGhhcmR3YXJlLmNvbS9uZXdzL21ldGVvci1sYWtlLWRlc2t0b3AtY3B1cy1nZXQtc3VwcG9ydC1pbi1saW51eC02NdIBUWh0dHBzOi8vYW1wLmhvdGhhcmR3YXJlLmNvbS9uZXdzL21ldGVvci1sYWtlLWRlc2t0b3AtY3B1cy1nZXQtc3VwcG9ydC1pbi1saW51eC02NQ",
-          "author": null,
-          "description": "If Meteor Lake CPUs Are Cancelled On The Desktop Someone Needs To Tell Intel  HotHardware",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vYW1wLmhvdGhhcmR3YXJlLmNvbS9uZXdzL21ldGVvci1sYWtlLWRlc2t0b3AtY3B1cy1nZXQtc3VwcG9ydC1pbi1saW51eC02NdIBUWh0dHBzOi8vYW1wLmhvdGhhcmR3YXJlLmNvbS9uZXdzL21ldGVvci1sYWtlLWRlc2t0b3AtY3B1cy1nZXQtc3VwcG9ydC1pbi1saW51eC02NQ?oc=5",
-          "publishedOn": "2023-06-30T17:12:14.000Z",
-          "wordCount": 6029,
-          "title": "If Meteor Lake CPUs Are Cancelled On The Desktop Someone Needs To Tell Intel - HotHardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiemh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMy8wNi9yZWQtaGF0cy1uZXctc291cmNlLWNvZGUtcG9saWN5LWFuZC10aGUtaW50ZW5zZS1wdXNoYmFjay1leHBsYWluZWQv0gF-aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vaW5mb3JtYXRpb24tdGVjaG5vbG9neS8yMDIzLzA2L3JlZC1oYXRzLW5ldy1zb3VyY2UtY29kZS1wb2xpY3ktYW5kLXRoZS1pbnRlbnNlLXB1c2hiYWNrLWV4cGxhaW5lZC9hbXAv",
-          "author": null,
-          "description": "Red Hat’s new source code policy and the intense pushback, explained  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2luZm9ybWF0aW9uLXRlY2hub2xvZ3kvMjAyMy8wNi9yZWQtaGF0cy1uZXctc291cmNlLWNvZGUtcG9saWN5LWFuZC10aGUtaW50ZW5zZS1wdXNoYmFjay1leHBsYWluZWQv0gF-aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vaW5mb3JtYXRpb24tdGVjaG5vbG9neS8yMDIzLzA2L3JlZC1oYXRzLW5ldy1zb3VyY2UtY29kZS1wb2xpY3ktYW5kLXRoZS1pbnRlbnNlLXB1c2hiYWNrLWV4cGxhaW5lZC9hbXAv?oc=5",
-          "publishedOn": "2023-06-30T15:53:21.000Z",
-          "wordCount": 6029,
-          "title": "Red Hat’s new source code policy and the intense pushback, explained - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXVzZS1leC1saW5lLWVkaXRvci1vbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Use the ex Line Editor on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLXVzZS1leC1saW5lLWVkaXRvci1vbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-06-30T15:46:00.000Z",
-          "wordCount": 6029,
-          "title": "How to Use the ex Line Editor on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL2FuYWx5c2lzL2hvdy1saW51eC02LTQta2VybmVsLWltcHJvdmVzLXdpLWZpLTctYW5kLWlwdjYtbmV0d29ya2luZy8yMDIzLzA2L9IBAA",
-          "author": null,
-          "description": "How Linux 6.4 Kernel improves Wi-Fi 7 and IPv6 networking  SDxCentral",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL2FuYWx5c2lzL2hvdy1saW51eC02LTQta2VybmVsLWltcHJvdmVzLXdpLWZpLTctYW5kLWlwdjYtbmV0d29ya2luZy8yMDIzLzA2L9IBAA?oc=5",
-          "publishedOn": "2023-06-30T15:04:51.000Z",
-          "wordCount": 6029,
-          "title": "How Linux 6.4 Kernel improves Wi-Fi 7 and IPv6 networking - SDxCentral",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9mb3VyLXllYXJzLW9mLWxpZmUtYWRkZWQtdG8tcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LTctdmlhLWVscy_SAVpodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9mb3VyLXllYXJzLW9mLWxpZmUtYWRkZWQtdG8tcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LTctdmlhLWVscy8",
-          "author": null,
-          "description": "Four years of life added to Red Hat Enterprise Linux 7 via ELS  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9mb3VyLXllYXJzLW9mLWxpZmUtYWRkZWQtdG8tcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LTctdmlhLWVscy_SAVpodHRwczovL3d3dy5uZW93aW4ubmV0L2FtcC9mb3VyLXllYXJzLW9mLWxpZmUtYWRkZWQtdG8tcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LTctdmlhLWVscy8?oc=5",
-          "publishedOn": "2023-06-30T14:46:00.000Z",
-          "wordCount": 6029,
-          "title": "Four years of life added to Red Hat Enterprise Linux 7 via ELS - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dpRmktNy1MaW51eC02LjXSAQA",
-          "author": null,
-          "description": "Linux 6.5 Continues Making Preparations For WiFi 7, Enabling New ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dpRmktNy1MaW51eC02LjXSAQA?oc=5",
-          "publishedOn": "2023-06-30T14:18:00.000Z",
-          "wordCount": 6029,
-          "title": "Linux 6.5 Continues Making Preparations For WiFi 7, Enabling New ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9189,26 +9199,6 @@
           "wordCount": 3652,
           "title": "How to Build an Image Carousel with React and Framer Motion",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-26-at-10.45.34.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to learn MySQL, starting with a good client is super helpful – especially when you are just beginning your journey. There are a lot of clients out there for your MySQL-based needs, like XAMPP, DataGrip, and others. Among all of them, I prefer the MySQL Workbench [https://www.mysql.com/products/workbench/].",
-          "link": "https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/",
-          "publishedOn": "2023-06-30T18:23:15.000Z",
-          "wordCount": 1654,
-          "title": "How to Install MySQL and MySQL Workbench on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/boitumelo-phetla-0DJHJcpwN9Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-style-sheets-basics/",
-          "author": "David Clinton",
-          "description": "Using HTML tags like \n, , and so on can help you organize your web page content nicely, but only up to a point.  HTML-only pages can be pleasant and easy to read – which is hugely important – but, after a while, they all do tend to look",
-          "link": "https://www.freecodecamp.org/news/css-style-sheets-basics/",
-          "publishedOn": "2023-06-30T16:22:07.000Z",
-          "wordCount": 1525,
-          "title": "How to Work with CSS Style Sheets – the Basics for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-bibek-ghosh-14553706.jpg"
         }
       ]
     }
