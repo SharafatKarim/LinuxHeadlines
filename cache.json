@@ -12,6 +12,66 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=260305",
+          "author": "Jerika Parungao",
+          "description": "The Python “tarfile” module is used to perform various functions on tarfile, such as creating and reading tar files in various modes, extracting tar files, etc.",
+          "link": "https://linuxhint.com/python-tarfile/",
+          "publishedOn": "2023-09-02T06:46:49.000Z",
+          "wordCount": 5908,
+          "title": "Python Tarfile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=241378",
+          "author": "Jerika Parungao",
+          "description": "In Python, the inbuilt “min()” function retrieves the smallest item/element in an iterable such as a list, string, or dictionary.",
+          "link": "https://linuxhint.com/python-min-function/",
+          "publishedOn": "2023-09-02T06:06:58.000Z",
+          "wordCount": 5655,
+          "title": "Python Min() Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=220700",
+          "author": "Jerika Parungao",
+          "description": "In Python, the “df.apply()” method is used along with the “df.groupby()” method to apply the specified function to the DataFrame group data.",
+          "link": "https://linuxhint.com/pandas-groupby-apply/",
+          "publishedOn": "2023-09-01T23:17:27.000Z",
+          "wordCount": 5635,
+          "title": "Pandas Groupby Apply",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=260289",
+          "author": "Jerika Parungao",
+          "description": "The “df.to_csv()” method of the “pandas” module and “Openpyxl” and “CSV” modules are used to convert XLSX to CSV in Python.",
+          "link": "https://linuxhint.com/xlsx-to-csv-python/",
+          "publishedOn": "2023-09-01T16:43:45.000Z",
+          "wordCount": 5474,
+          "title": "XLSX to CSV in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=213206",
+          "author": "Jerika Parungao",
+          "description": "The “pandas.crosstab()” function of the “pandas” module determines the simple cross-tabulation of single or multiple factors.",
+          "link": "https://linuxhint.com/pandas-crosstab-function/",
+          "publishedOn": "2023-09-01T13:01:52.000Z",
+          "wordCount": 5646,
+          "title": "Pandas Crosstab() Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=213880",
+          "author": "Jerika Parungao",
+          "description": "In Python, the and “&” operator is used to combine multiple conditions and filter or select single as well as multiple DataFrame rows.",
+          "link": "https://linuxhint.com/pandas-condition/",
+          "publishedOn": "2023-09-01T07:30:14.000Z",
+          "wordCount": 5456,
+          "title": "Pandas And Condition",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=363933",
           "author": "Haris Kabir Khan",
           "description": "Smelt Cobblestone to get a Stone block, craft it into a Stone Brick block, then, in the end, smelt it to get the Cracked Stone Brick in Minecraft.",
@@ -1958,6 +2018,16 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185416",
+          "author": "Web Webster",
+          "description": "Check out the latest updates to our compilation of recommended free and open-source software.    \nThe post Best Free and Open-Source Software August 2023 Updates appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-software-august-2023-updates/",
+          "publishedOn": "2023-09-03T15:00:08.000Z",
+          "wordCount": 17206,
+          "title": "Best Free and Open-Source Software August 2023 Updates",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=185415",
           "author": "Web Webster",
@@ -4107,96 +4177,6 @@
           "wordCount": 17198,
           "title": "Open-Source Penetration Testing Tool BloodHound CE Released",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184925",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install a Debian 12 Bookworm minimal server. Follow along here.\nThe post How to Install a Debian 12 (Bookworm) Minimal Server appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-a-debian-12-bookworm-minimal-server/",
-          "publishedOn": "2023-08-05T02:00:05.000Z",
-          "wordCount": 17195,
-          "title": "How to Install a Debian 12 (Bookworm) Minimal Server",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184903",
-          "author": "Web Webster",
-          "description": "In this tutorial, you’ll learn how to set up Prometheus and Grafana on Ubuntu to monitor the PostgreSQL database server.\nThe post How to Monitor PostgreSQL With Prometheus and Grafana on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-monitor-postgresql-with-prometheus-and-grafana-on-ubuntu/",
-          "publishedOn": "2023-08-05T00:00:58.000Z",
-          "wordCount": 17215,
-          "title": "How to Monitor PostgreSQL With Prometheus and Grafana on Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184900",
-          "author": "Web Webster",
-          "description": "Here’s how to install Docker Engine on the latest Debian 12 as well as how to use it to manage images, containers, and volumes.\nThe post How to Install and Use Docker on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-and-use-docker-on-debian-12/",
-          "publishedOn": "2023-08-04T22:00:57.000Z",
-          "wordCount": 17218,
-          "title": "How to Install and Use Docker on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184899",
-          "author": "Web Webster",
-          "description": "Keepalive Connections work behind the scenes to reduce delays and load your web pages faster. Here’s how to enable them.\nThe post How to Enable Nginx Keepalive Connections appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-enable-nginx-keepalive-connections/",
-          "publishedOn": "2023-08-04T20:00:55.000Z",
-          "wordCount": 17189,
-          "title": "How to Enable Nginx Keepalive Connections",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184897",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install Webmin on Ubuntu using an Apache web server as a reverse proxy for Webmin.\nThe post How to Install Webmin on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-webmin-on-ubuntu-22-04/",
-          "publishedOn": "2023-08-04T18:00:53.000Z",
-          "wordCount": 17196,
-          "title": "How to Install Webmin on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184896",
-          "author": "Web Webster",
-          "description": "These Linux books are designed to empower you in constructing an exceptionally robust foundation for your Linux skills. Learn more here.\nThe post 10 Free Linux Books That Will Make You a Linux Master appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/10-free-linux-books-that-will-make-you-a-linux-master/",
-          "publishedOn": "2023-08-04T17:00:52.000Z",
-          "wordCount": 17231,
-          "title": "10 Free Linux Books That Will Make You a Linux Master",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184951",
-          "author": "Web Webster",
-          "description": "Get ready to embrace a harmonious blend of Linux and Apple’s hardware prowess in the soon-to-be-released Fedora Asahi Remix.\nThe post Fedora Asahi Remix to Empower Apple Silicon Users appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fedora-asahi-remix-to-empower-apple-silicon-users/",
-          "publishedOn": "2023-08-04T16:00:57.000Z",
-          "wordCount": 17194,
-          "title": "Fedora Asahi Remix to Empower Apple Silicon Users",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184944",
-          "author": "Web Webster",
-          "description": "LMDE 6 will include all the new features and changes in Linux Mint 21.2 “Victoria” but with a Debian base rather than an Ubuntu base.\nThe post LMDE 6 ‘Faye,’ Aims for a Debian 12 Bookworm Base appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/lmde-6-faye-aims-for-a-debian-12-bookworm-base/",
-          "publishedOn": "2023-08-04T15:00:39.000Z",
-          "wordCount": 17212,
-          "title": "LMDE 6 ‘Faye,’ Aims for a Debian 12 Bookworm Base",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=184939",
-          "author": "Web Webster",
-          "description": "Powered by Linux kernel 6.4.7, the rolling release distro PCLinuxOS 2023.07 ships with an updated software stack. Here’s what’s new!\nThe post PCLinuxOS 2023.07 Brings Latest Plasma, MATE, Xfce Desktops appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/pclinuxos-2023-07-brings-latest-plasma-mate-xfce-desktops/",
-          "publishedOn": "2023-08-04T14:00:14.000Z",
-          "wordCount": 17195,
-          "title": "PCLinuxOS 2023.07 Brings Latest Plasma, MATE, Xfce Desktops",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -4205,6 +4185,76 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA5L3BhcGlydXMtaWNvbi1zZXQtc2VwdGVtYmVyLXVwZGF0ZdIBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA5L3BhcGlydXMtaWNvbi1zZXQtc2VwdGVtYmVyLXVwZGF0ZS9hbXA",
+          "author": null,
+          "description": "Papirus Icon Pack Updated with New-Look LibreOffice Icons  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA5L3BhcGlydXMtaWNvbi1zZXQtc2VwdGVtYmVyLXVwZGF0ZdIBSWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA5L3BhcGlydXMtaWNvbi1zZXQtc2VwdGVtYmVyLXVwZGF0ZS9hbXA?oc=5",
+          "publishedOn": "2023-09-03T23:06:40.000Z",
+          "wordCount": 5333,
+          "title": "Papirus Icon Pack Updated with New-Look LibreOffice Icons - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1FWFQ00gEA",
+          "author": null,
+          "description": "EXT4 Lands A Nice Performance Improvement For Appending To ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1FWFQ00gEA?oc=5",
+          "publishedOn": "2023-09-03T16:24:00.000Z",
+          "wordCount": 5333,
+          "title": "EXT4 Lands A Nice Performance Improvement For Appending To ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiIWh0dHBzOi8vaS1obHMuY29tL2FyY2hpdmVzLzEyMDY4MdIBAA",
+          "author": null,
+          "description": "North Korean Malware Targets Windows, MacOS and Linux - iHLS  i-HLS - Israel Homeland Security",
+          "link": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vaS1obHMuY29tL2FyY2hpdmVzLzEyMDY4MdIBAA?oc=5",
+          "publishedOn": "2023-09-03T14:46:15.000Z",
+          "wordCount": 5333,
+          "title": "North Korean Malware Targets Windows, MacOS and Linux - iHLS - i-HLS - Israel Homeland Security",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1ISUTSAQA",
+          "author": null,
+          "description": "Stadia Controller Rumbles & New Gaming Peripherals Supported By Linux 6.6  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1ISUTSAQA?oc=5",
+          "publishedOn": "2023-09-03T14:30:00.000Z",
+          "wordCount": 5333,
+          "title": "Stadia Controller Rumbles & New Gaming Peripherals Supported By Linux 6.6 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vY2l0aXplbnNpZGUuY29tL3RlY2hub2xvZ3kvOC11bmJlbGlldmFibGUtc2luZ2xlLWJvYXJkLWNvbXB1dGVyLWxpbnV4LWZvci0yMDIzL9IBAA",
+          "author": null,
+          "description": "8 Unbelievable Single Board Computer Linux for 2023  CitizenSide",
+          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vY2l0aXplbnNpZGUuY29tL3RlY2hub2xvZ3kvOC11bmJlbGlldmFibGUtc2luZ2xlLWJvYXJkLWNvbXB1dGVyLWxpbnV4LWZvci0yMDIzL9IBAA?oc=5",
+          "publishedOn": "2023-09-03T10:51:29.000Z",
+          "wordCount": 5333,
+          "title": "8 Unbelievable Single Board Computer Linux for 2023 - CitizenSide",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi14ODYtbWljcm9jb2Rl0gEA",
+          "author": null,
+          "description": "Linux 6.6 Unconditionally Enables x86 CPU Microcode Loading Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi14ODYtbWljcm9jb2Rl0gEA?oc=5",
+          "publishedOn": "2023-09-03T10:46:00.000Z",
+          "wordCount": 5333,
+          "title": "Linux 6.6 Unconditionally Enables x86 CPU Microcode Loading Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLUZvci1MaW51eC02LjYtUFLSAQA",
+          "author": null,
+          "description": "Bcachefs File-System Re-Submitted For Linux 6.6  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLUZvci1MaW51eC02LjYtUFLSAQA?oc=5",
+          "publishedOn": "2023-09-03T10:15:00.000Z",
+          "wordCount": 4963,
+          "title": "Bcachefs File-System Re-Submitted For Linux 6.6 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiZWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMDkvMDIvd2luZG93cy0xMS12cy1uaXRydXgtMy0wLTAtbGludXgtaW5ub3ZhdGlvbi1iYXR0bGUtYWdhaW5zdC1taWNyb3NvZnQv0gEA",
           "author": null,
@@ -8233,136 +8283,6 @@
           "publishedOn": "2023-08-05T13:35:00.000Z",
           "wordCount": 6040,
           "title": "The Illusion of Privacy: Why using Linux and a Degoogled Phone ... - Techaeris",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMie2h0dHBzOi8vZmFnZW53YXNhbm5pLmNvbS9uZXdzL3RoZS1yb2xlLW9mLWxpbnV4LW9wZXJhdGluZy1zeXN0ZW0taW4tdGVsZWNvbW11bmljYXRpb25zLWEtZ2xvYmFsLWJ1c2luZXNzLXBlcnNwZWN0aXZlLzU1NzQyL9IBAA",
-          "author": null,
-          "description": "The Role of Linux Operating System in Telecommunications: A ...  Fagen wasanni",
-          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZmFnZW53YXNhbm5pLmNvbS9uZXdzL3RoZS1yb2xlLW9mLWxpbnV4LW9wZXJhdGluZy1zeXN0ZW0taW4tdGVsZWNvbW11bmljYXRpb25zLWEtZ2xvYmFsLWJ1c2luZXNzLXBlcnNwZWN0aXZlLzU1NzQyL9IBAA?oc=5",
-          "publishedOn": "2023-08-05T10:30:33.000Z",
-          "wordCount": 6040,
-          "title": "The Role of Linux Operating System in Telecommunications: A ... - Fagen wasanni",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wOC9yZXB0aWxlLXJvb3RraXQtYWR2YW5jZWQtbGludXgtbWFsd2FyZS5odG1s0gEA",
-          "author": null,
-          "description": "Reptile Rootkit: Advanced Linux Malware Targeting South Korean Systems  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8wOC9yZXB0aWxlLXJvb3RraXQtYWR2YW5jZWQtbGludXgtbWFsd2FyZS5odG1s0gEA?oc=5",
-          "publishedOn": "2023-08-05T07:52:00.000Z",
-          "wordCount": 6040,
-          "title": "Reptile Rootkit: Advanced Linux Malware Targeting South Korean Systems - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vZ2FtZWlzaGFyZC5nZy9uZXdzL21pY3Jvc29mdC11cGdyYWRlZC14Ym94LWNsb3VkLWdhbWluZy1mb3ItbGludXgtYW5kLWNocm9tZW9zLzEwNzUzL9IBAA",
-          "author": null,
-          "description": "Xbox Cloud Gaming Improves Streaming Experience for Linux and ...  Game Is Hard",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZ2FtZWlzaGFyZC5nZy9uZXdzL21pY3Jvc29mdC11cGdyYWRlZC14Ym94LWNsb3VkLWdhbWluZy1mb3ItbGludXgtYW5kLWNocm9tZW9zLzEwNzUzL9IBAA?oc=5",
-          "publishedOn": "2023-08-05T04:03:13.000Z",
-          "wordCount": 6040,
-          "title": "Xbox Cloud Gaming Improves Streaming Experience for Linux and ... - Game Is Hard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtcXQtb24tbGludXgv0gEA",
-          "author": null,
-          "description": "How to Install Qt to Develop GUI Apps on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vaG93LXRvLWluc3RhbGwtcXQtb24tbGludXgv0gEA?oc=5",
-          "publishedOn": "2023-08-04T20:45:00.000Z",
-          "wordCount": 6040,
-          "title": "How to Install Qt to Develop GUI Apps on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDgvZ2V0LXNvbWUtcmFjaW5nLXNpbXMtYW5kLXBhcnR5LWdhbWVzLXdpdGgtdGhlc2UtdHdvLWJpZy1idW5kbGVzL9IBAA",
-          "author": null,
-          "description": "Get some racing sims and party games with these two big bundles  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDgvZ2V0LXNvbWUtcmFjaW5nLXNpbXMtYW5kLXBhcnR5LWdhbWVzLXdpdGgtdGhlc2UtdHdvLWJpZy1idW5kbGVzL9IBAA?oc=5",
-          "publishedOn": "2023-08-04T19:48:42.000Z",
-          "wordCount": 6040,
-          "title": "Get some racing sims and party games with these two big bundles - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA4LzA0L21vemlsbGFfdnBuX2xpbnV4X2ZsYXcv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA4LzA0L21vemlsbGFfdnBuX2xpbnV4X2ZsYXcv",
-          "author": null,
-          "description": "Alarm raised over Mozilla VPN: Wonky authorization check lets users cause havoc  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA4LzA0L21vemlsbGFfdnBuX2xpbnV4X2ZsYXcv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA4LzA0L21vemlsbGFfdnBuX2xpbnV4X2ZsYXcv?oc=5",
-          "publishedOn": "2023-08-04T19:48:00.000Z",
-          "wordCount": 6040,
-          "title": "Alarm raised over Mozilla VPN: Wonky authorization check lets users cause havoc - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wOC9hc2FoaS1saW51eC13aWxsLW9mZmVyLWEtZmxhZ3NoaXAtZmVkb3JhLXJlbWl4LWZvci1hcHBsZS1zaWxpY29uLW1hY3Mv0gFyaHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIzLzA4L2FzYWhpLWxpbnV4LXdpbGwtb2ZmZXItYS1mbGFnc2hpcC1mZWRvcmEtcmVtaXgtZm9yLWFwcGxlLXNpbGljb24tbWFjcy9hbXAv",
-          "author": null,
-          "description": "Asahi Linux’s new “flagship” distro for M-series Macs is a Fedora Remix  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wOC9hc2FoaS1saW51eC13aWxsLW9mZmVyLWEtZmxhZ3NoaXAtZmVkb3JhLXJlbWl4LWZvci1hcHBsZS1zaWxpY29uLW1hY3Mv0gFyaHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vZ2FkZ2V0cy8yMDIzLzA4L2FzYWhpLWxpbnV4LXdpbGwtb2ZmZXItYS1mbGFnc2hpcC1mZWRvcmEtcmVtaXgtZm9yLWFwcGxlLXNpbGljb24tbWFjcy9hbXAv?oc=5",
-          "publishedOn": "2023-08-04T19:36:09.000Z",
-          "wordCount": 6040,
-          "title": "Asahi Linux’s new “flagship” distro for M-series Macs is a Fedora Remix - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1JbnRlbC1BUkwtTE5MLVNvdW5k0gEA",
-          "author": null,
-          "description": "Intel Arrow Lake & Lunar Lake Sound Support Ongoing With Linux 6.6  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1JbnRlbC1BUkwtTE5MLVNvdW5k0gEA?oc=5",
-          "publishedOn": "2023-08-04T17:31:00.000Z",
-          "wordCount": 6040,
-          "title": "Intel Arrow Lake & Lunar Lake Sound Support Ongoing With Linux 6.6 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vd3d3LnBjd29ybGQuY29tL2FydGljbGUvMjAyMDc5Ni9saW51eC1vdmVydGFrZXMtbWFjLW9zLWFtb25nLXN0ZWFtLXBsYXllcnMuaHRtbNIBAA",
-          "author": null,
-          "description": "Linux overtakes Macs on Steam thanks to the Steam Deck  PCWorld",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnBjd29ybGQuY29tL2FydGljbGUvMjAyMDc5Ni9saW51eC1vdmVydGFrZXMtbWFjLW9zLWFtb25nLXN0ZWFtLXBsYXllcnMuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-08-04T17:07:00.000Z",
-          "wordCount": 6040,
-          "title": "Linux overtakes Macs on Steam thanks to the Steam Deck - PCWorld",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ2h0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL2hvdy10by9ob3ctdG8tdXNlLXByb3Rvbi12cG4tb24tYS1jaHJvbWVib29rLXdpdGhvdXQtYW5kcm9pZC1vci1saW51eC_SAQA",
-          "author": null,
-          "description": "How to use Proton VPN on a Chromebook without Android or Linux  About Chromebooks",
-          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFib3V0Y2hyb21lYm9va3MuY29tL2hvdy10by9ob3ctdG8tdXNlLXByb3Rvbi12cG4tb24tYS1jaHJvbWVib29rLXdpdGhvdXQtYW5kcm9pZC1vci1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-08-04T15:48:45.000Z",
-          "wordCount": 6040,
-          "title": "How to use Proton VPN on a Chromebook without Android or Linux - About Chromebooks",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDgvZ2UtcHJvdG9uLTgtMTEtaXMtb3V0LW5vdy1mb3ItbGludXgtZGVza3RvcC1hbmQtc3RlYW0tZGVjay_SAQA",
-          "author": null,
-          "description": "GE-Proton 8-11 is out now for Linux desktop and Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDgvZ2UtcHJvdG9uLTgtMTEtaXMtb3V0LW5vdy1mb3ItbGludXgtZGVza3RvcC1hbmQtc3RlYW0tZGVjay_SAQA?oc=5",
-          "publishedOn": "2023-08-04T15:39:08.000Z",
-          "wordCount": 6040,
-          "title": "GE-Proton 8-11 is out now for Linux desktop and Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA4L3VidW50dS0yMi0wNC1saW51eC1rZXJuZWwtNi0y0gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDgvdWJ1bnR1LTIyLTA0LWxpbnV4LWtlcm5lbC02LTIvYW1w",
-          "author": null,
-          "description": "Ubuntu 22.04 Users Can Now Upgrade to Linux Kernel 6.2  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzA4L3VidW50dS0yMi0wNC1saW51eC1rZXJuZWwtNi0y0gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMDgvdWJ1bnR1LTIyLTA0LWxpbnV4LWtlcm5lbC02LTIvYW1w?oc=5",
-          "publishedOn": "2023-08-04T14:41:04.000Z",
-          "wordCount": 6040,
-          "title": "Ubuntu 22.04 Users Can Now Upgrade to Linux Kernel 6.2 - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA4LzA0L2xpbnV4X2Rlc2t0b3BfY2xvdWRfZGVza3RvcHMv0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA4LzA0L2xpbnV4X2Rlc2t0b3BfY2xvdWRfZGVza3RvcHMv",
-          "author": null,
-          "description": "Soon the most popular 'real' desktop will be the Linux desktop  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzA4LzA0L2xpbnV4X2Rlc2t0b3BfY2xvdWRfZGVza3RvcHMv0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzA4LzA0L2xpbnV4X2Rlc2t0b3BfY2xvdWRfZGVza3RvcHMv?oc=5",
-          "publishedOn": "2023-08-04T13:36:00.000Z",
-          "wordCount": 6040,
-          "title": "Soon the most popular 'real' desktop will be the Linux desktop - The Register",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
