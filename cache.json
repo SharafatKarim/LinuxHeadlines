@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=382060",
+          "author": "Komal Batool Batool",
+          "description": "We can compute the common logarithm of any real or complex values having the domain [0,inf] using the log10() function in MATLAB.",
+          "link": "https://linuxhint.com/find-common-logarithm-base-10-matlab/",
+          "publishedOn": "2023-10-07T21:33:02.000Z",
+          "wordCount": 5435,
+          "title": "How to Find Common Logarithm (base 10) in MATLAB Using log10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=382065",
+          "author": "Komal Batool Batool",
+          "description": "MATLAB provides us with a built-in symsum() function to compute the sum of the symbolic series. Read this guide for more details.",
+          "link": "https://linuxhint.com/find-symbolic-sum-series-matlab-using-symsum/",
+          "publishedOn": "2023-10-07T21:25:35.000Z",
+          "wordCount": 5349,
+          "title": "How to Find Symbolic Sum of Series in MATLAB Using symsum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381045",
+          "author": "Abdul Mateen",
+          "description": "To listen to the songs with friends on Spotify, click on the friend’s profile in the voice channel, and press the “Play on Spotify” option.",
+          "link": "https://linuxhint.com/collaborative-music-listening-friends-spotify-discord/",
+          "publishedOn": "2023-10-06T13:31:51.000Z",
+          "wordCount": 5281,
+          "title": "Collaborative Music Listening with Friends on Spotify Using Discord",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381046",
+          "author": "Anwar Mustafa",
+          "description": "Digital logic gates are building blocks of every electronic circuit. They are utilized for simple arithmetic operations to advanced level computing functions.",
+          "link": "https://linuxhint.com/digital-logic-gates-tutorial/",
+          "publishedOn": "2023-10-06T13:31:38.000Z",
+          "wordCount": 6424,
+          "title": "Digital Logic Gates | Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381047",
+          "author": "Abdul Mateen",
+          "description": "To set the aliases for customizing Git commands, use the “config” file available in the “.git” directory and define the aliases. See the guide for more methods.",
+          "link": "https://linuxhint.com/efficient-git-workflow-aliases-customizing-commands/",
+          "publishedOn": "2023-10-06T13:31:34.000Z",
+          "wordCount": 5574,
+          "title": "Efficient Git Workflow with Aliases: Customizing Commands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381048",
+          "author": "Abdul Mateen",
+          "description": "To edit the message in Discord, open Discord, Hover over the sent message, press the “3 dots” and hit the “Edit Message” option from the opened drop-down.",
+          "link": "https://linuxhint.com/edit-message-after-sending-them-discord/",
+          "publishedOn": "2023-10-06T13:31:20.000Z",
+          "wordCount": 5253,
+          "title": "How to Edit Messages After Sending Them on Discord?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381104",
+          "author": "Abdul Mateen",
+          "description": "Git objects are categorized into 4 types which are “commit”, “tree”, “blob” and “tag”. These objects are stored in the directory “.git/objects”.",
+          "link": "https://linuxhint.com/git-object-storage-stores-manages/",
+          "publishedOn": "2023-10-06T13:30:53.000Z",
+          "wordCount": 5979,
+          "title": "Git Object Storage: How Git Stores and Manages Objects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381049",
+          "author": "Abdul Mateen",
+          "description": "To customize the Git files behavior for line ending type, create the “.gitattributes” in a file and use this syntax “*  eol=”.",
+          "link": "https://linuxhint.com/git-attributes-customizing-behavior-metadata/",
+          "publishedOn": "2023-10-06T13:30:50.000Z",
+          "wordCount": 5625,
+          "title": "Git Attributes: Customizing Git Behavior and Metadata",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381105",
+          "author": "Abdul Mateen",
+          "description": "To add the remote connection in Git Bash, use the “git remote add” command and specify the HTTPS or SSH URL. See the guide for more details.",
+          "link": "https://linuxhint.com/git-remote-advanced-techniques-remote-repository-management/",
+          "publishedOn": "2023-10-06T13:30:30.000Z",
+          "wordCount": 5938,
+          "title": "Git Remote: Advanced Techniques for Remote Repository Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381106",
+          "author": "Anees Asghar",
+          "description": "Press the “Window + L” key or hold down the “Ctrl, Alt, Del” keys simultaneously and click on the “Lock” option to lock the computer screen in Windows.",
+          "link": "https://linuxhint.com/lock-computer-screen-in-windows/",
+          "publishedOn": "2023-10-06T13:30:07.000Z",
+          "wordCount": 5460,
+          "title": "How Can We Lock the Computer Screen in Windows?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381107",
+          "author": "Anees Asghar",
+          "description": "To access your Windows clipboard you have to enable the Clipboard History from the settings and then press the “Window + V” keys simultaneously.",
+          "link": "https://linuxhint.com/access-clipboard-on-windows-10/",
+          "publishedOn": "2023-10-06T13:29:54.000Z",
+          "wordCount": 5205,
+          "title": "How to Access Clipboard on Windows 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381322",
+          "author": "Anees Asghar",
+          "description": "Go to the official Adobe Reader download website and choose to download the freeware Adobe Acrobat Reader, the leading PDF viewer according to your system requirements.",
+          "link": "https://linuxhint.com/download-adobe-acrobat-reader-for-windows-10/",
+          "publishedOn": "2023-10-06T13:28:58.000Z",
+          "wordCount": 5299,
+          "title": "How to Download Adobe (Acrobat) Reader for Windows 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381321",
+          "author": "Saeed Raza",
+          "description": "Tutorial on how to design any recommender system in R, how a recommender system works, and how we use it in our daily life by utilizing the shiny library of R.",
+          "link": "https://linuxhint.com/design-recommender-systems-using-r/",
+          "publishedOn": "2023-10-06T13:28:44.000Z",
+          "wordCount": 6147,
+          "title": "How to Design Recommender System Using R",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381320",
+          "author": "Aaliyan Javaid",
+          "description": "Band stop filter stops the certain defined range of frequencies and attenuates the other frequencies to obtain the desired signals.",
+          "link": "https://linuxhint.com/design-bandstop-notch-filter/",
+          "publishedOn": "2023-10-06T13:28:39.000Z",
+          "wordCount": 5878,
+          "title": "How to Design Band Stop Filters and Notch Filters Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381282",
+          "author": "Omar Farooq",
+          "description": "Comprehensive tutorial on the mechanics of Pydantic's create_model function, explore its capabilities, and demonstrate how it can revolutionize the data models.",
+          "link": "https://linuxhint.com/create-dynamic-models-pydantics-create-model-function/",
+          "publishedOn": "2023-10-06T13:28:14.000Z",
+          "wordCount": 6178,
+          "title": "How to Create Dynamic Models with Pydantic’s Create_Model Function",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381319",
+          "author": "Abdul Mateen",
+          "description": "To delete a Discord channel on Android, long-press on the targeted channel, tap on the “Edit Channel” option and press the “Delete Channel”.",
+          "link": "https://linuxhint.com/delete-discord-channel-android/",
+          "publishedOn": "2023-10-06T13:28:11.000Z",
+          "wordCount": 5131,
+          "title": "How to Delete a Discord Channel on Android",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381281",
+          "author": "Abdul Mateen",
+          "description": "To fix video call issues on Discord, check the video settings, check the camera permission given to your Windows, or clear the Discord cache.",
+          "link": "https://linuxhint.com/create-channel-discord-android/",
+          "publishedOn": "2023-10-06T13:27:50.000Z",
+          "wordCount": 5189,
+          "title": "How to Create a Channel in Discord Android?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381280",
+          "author": "Anees Asghar",
+          "description": "To create a shutdown shortcut on Windows, right-click on the desktop, select New > shortcut, enter \"shutdown /s /t 0\", and specify a name for the shortcut.",
+          "link": "https://linuxhint.com/create-use-shutdown-shortcut-windows-10/",
+          "publishedOn": "2023-10-06T13:27:29.000Z",
+          "wordCount": 5580,
+          "title": "How to Create and Use Shutdown Shortcut on Windows 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381278",
+          "author": "Anees Asghar",
+          "description": "Open the image you want to convert using the Photos app and use the Save option to save it with jpg you can try this by using a web browser.",
+          "link": "https://linuxhint.com/convert-heic-to-jpg-in-windows/",
+          "publishedOn": "2023-10-06T13:27:26.000Z",
+          "wordCount": 5583,
+          "title": "How to Convert HEIC to JPG in Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381279",
+          "author": "Omar Farooq",
+          "description": "Guide on converting a Pydantic model to a dictionary using the dict() method to transform a structured data into a format that's easy to manipulate and share.",
+          "link": "https://linuxhint.com/convert-pydantic-model-dict-step-by-step-guide/",
+          "publishedOn": "2023-10-06T13:27:08.000Z",
+          "wordCount": 6017,
+          "title": "How to Convert Pydantic Model to Dict: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381239",
+          "author": "Denis Kariuki",
+          "description": "Comprehensive tutorial on the examples of implementing the PostgreSQL cast feature in PostgreSQL to change or convert the value of one data type to another.",
+          "link": "https://linuxhint.com/convert-data-types-using-cast-postgresql/",
+          "publishedOn": "2023-10-06T13:26:51.000Z",
+          "wordCount": 5690,
+          "title": "How to Convert Data Types Using CAST in PostgreSQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381238",
+          "author": "Aaliyan Javaid",
+          "description": "Access modifiers are used to manage the accessibility and the visibility of the data in a program. Read more in the article.",
+          "link": "https://linuxhint.com/control-access-modifier-cpp/",
+          "publishedOn": "2023-10-06T13:26:41.000Z",
+          "wordCount": 5739,
+          "title": "How to Control Access Modifiers in C++: Understanding Member Visibility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381237",
+          "author": "Aaliyan Javaid",
+          "description": "Electrical relays are switches which turn the electric circuit on and off through an external electrical signal.",
+          "link": "https://linuxhint.com/electromechanical-relays-and-solid-state-relays/",
+          "publishedOn": "2023-10-06T13:26:37.000Z",
+          "wordCount": 6447,
+          "title": "How to Comprehend Electrical Relays and Solid-State Relays for Switching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=381236",
+          "author": "Aaliyan Javaid",
+          "description": "Console window displays the output of the code. To clear the console window system (“cls”) is used, it clears previous output to avoid pre-filled window.",
+          "link": "https://linuxhint.com/clear-console-cpp/",
+          "publishedOn": "2023-10-06T13:26:22.000Z",
+          "wordCount": 5212,
+          "title": "How to Clear the Console in C++",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=257971",
           "author": "Linux Explorer",
           "description": "The “xmltodict” module, “ElementTree” module and the “untangle” module are utilized to convert Python XML to CSV (Comma Separated Value).",
@@ -1418,6 +1658,16 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185929",
+          "author": "Web Webster",
+          "description": "Learn how to install the open-source electronic medical record storage and retrieval system OpenMRS on Ubuntu 22.04.\nThe post How to Install OpenMRS on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-openmrs-on-ubuntu-22-04/",
+          "publishedOn": "2023-10-08T15:00:01.000Z",
+          "wordCount": 17197,
+          "title": "How to Install OpenMRS on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=185927",
           "author": "Web Webster",
@@ -3557,96 +3807,6 @@
           "wordCount": 17236,
           "title": "How to Fix the Package is in a Very Bad Inconsistent State Error",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185489",
-          "author": "Web Webster",
-          "description": "Today, we bring you a list of essential Linux applications that have been able to make it to users’ Linux installations almost all the time.\nThe post 80 Essential Linux Applications for Every User in 2023 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/80-essential-linux-applications-for-every-user-in-2023/",
-          "publishedOn": "2023-09-09T02:00:16.000Z",
-          "wordCount": 17234,
-          "title": "80 Essential Linux Applications for Every User in 2023",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185488",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install the open-source customer relationship management system Vtiger on Ubuntu 22.04.\nThe post How to Install Vtiger CRM on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-vtiger-crm-on-ubuntu-22-04/",
-          "publishedOn": "2023-09-09T00:00:56.000Z",
-          "wordCount": 17212,
-          "title": "How to Install Vtiger CRM on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185486",
-          "author": "Web Webster",
-          "description": "Follow this guide on how to install Linux kernel 6.5 on Debian 12 Bookworm using the Linux Zabbly APT repository.\nThe post Learn how to install Linux Kernel 6.5 on Debian 12 Bookworm appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/learn-how-to-install-linux-kernel-6-5-on-debian-12-bookworm/",
-          "publishedOn": "2023-09-08T22:00:54.000Z",
-          "wordCount": 17229,
-          "title": "Learn how to install Linux Kernel 6.5 on Debian 12 Bookworm",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185485",
-          "author": "Web Webster",
-          "description": "Atlas VPN has confirmed the existence of a zero-day vulnerability that may allow website owners to discover Linux users’ real IP address.\nThe post Atlas VPN Zero-Day Allows Sites to Discover Linux Users’ IP Address appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/atlas-vpn-zero-day-allows-sites-to-discover-linux-users-ip-address/",
-          "publishedOn": "2023-09-08T20:00:52.000Z",
-          "wordCount": 17243,
-          "title": "Atlas VPN Zero-Day Allows Sites to Discover Linux Users’ IP Address",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185474",
-          "author": "Web Webster",
-          "description": "Piper is free and open-source local neural text to speech system written in C++ and Python. Learn more here.\nThe post Piper: Open-Source Neural Text-to-Speech System appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/piper-open-source-neural-text-to-speech-system/",
-          "publishedOn": "2023-09-08T18:00:50.000Z",
-          "wordCount": 17220,
-          "title": "Piper: Open-Source Neural Text-to-Speech System",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185539",
-          "author": "Web Webster",
-          "description": "KDE developers decided when users might expect the final stable release of KDE Plasma 6 at their annual Akademy meeting. Here’s when it arrives!\nThe post KDE Plasma 6 Roadmap Unveiled: When Can You Expect It? appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-plasma-6-roadmap-unveiled-when-can-you-expect-it/",
-          "publishedOn": "2023-09-08T17:00:00.000Z",
-          "wordCount": 17233,
-          "title": "KDE Plasma 6 Roadmap Unveiled: When Can You Expect It?",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185537",
-          "author": "Web Webster",
-          "description": "In this guide, we will explore the new open-source e-book reader Librum, which offers users the ability to build a cloud library.\nThe post Librum: Promising E-book Reader That Lets You Create an Online Library appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/librum-promising-e-book-reader-that-lets-you-create-an-online-library/",
-          "publishedOn": "2023-09-08T16:00:57.000Z",
-          "wordCount": 17239,
-          "title": "Librum: Promising E-book Reader That Lets You Create an Online Library",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185531",
-          "author": "Web Webster",
-          "description": "Learn about the new tool from the MX Linux team, MX Service Manager, which enables you to manage system services efficiently.\nThe post MX Linux Unveils New Tool: MX Service Manager appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/mx-linux-unveils-new-tool-mx-service-manager/",
-          "publishedOn": "2023-09-08T15:00:46.000Z",
-          "wordCount": 17232,
-          "title": "MX Linux Unveils New Tool: MX Service Manager",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185530",
-          "author": "Web Webster",
-          "description": "LibreOffice 7.5.6 addresses a total of 53 bugs that have been reported by users or discovered by the LibreOffice developers.\nThe post LibreOffice 7.5.6 Office Suite Released With 50+ Bug Fixes appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/libreoffice-7-5-6-office-suite-released-with-50-bug-fixes/",
-          "publishedOn": "2023-09-08T14:00:43.000Z",
-          "wordCount": 17236,
-          "title": "LibreOffice 7.5.6 Office Suite Released With 50+ Bug Fixes",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3655,6 +3815,136 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1yYzXSAQA",
+          "author": null,
+          "description": "Linux 6.6-rc5 Released: \"Things Are Back To Normal\"  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNi1yYzXSAQA?oc=5",
+          "publishedOn": "2023-10-08T21:23:00.000Z",
+          "wordCount": 4996,
+          "title": "Linux 6.6-rc5 Released: \"Things Are Back To Normal\" - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS92bGMtMy0wLTE5LWltcHJvdmVzLWF2MS1oZHItc3VwcG9ydC13aXRoLXNvZnR3YXJlLWRlY29kaW5nLWZpeGVzLWxpbnV4LWlzc3Vlc9IBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS92bGMtMy0wLTE5LWltcHJvdmVzLWF2MS1oZHItc3VwcG9ydC13aXRoLXNvZnR3YXJlLWRlY29kaW5nLWZpeGVzLWxpbnV4LWlzc3Vlcy9hbXA",
+          "author": null,
+          "description": "VLC 3.0.19 Improves AV1 HDR Support with Software Decoding, Fixes Linux Issues  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vOXRvNWxpbnV4LmNvbS92bGMtMy0wLTE5LWltcHJvdmVzLWF2MS1oZHItc3VwcG9ydC13aXRoLXNvZnR3YXJlLWRlY29kaW5nLWZpeGVzLWxpbnV4LWlzc3Vlc9IBZ2h0dHBzOi8vOXRvNWxpbnV4LmNvbS92bGMtMy0wLTE5LWltcHJvdmVzLWF2MS1oZHItc3VwcG9ydC13aXRoLXNvZnR3YXJlLWRlY29kaW5nLWZpeGVzLWxpbnV4LWlzc3Vlcy9hbXA?oc=5",
+          "publishedOn": "2023-10-08T20:56:28.000Z",
+          "wordCount": 4996,
+          "title": "VLC 3.0.19 Improves AV1 HDR Support with Software Decoding, Fixes Linux Issues - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ByZVNvbnVzLVN0dWRpby1PbmUtT24tTGludXjSAQA",
+          "author": null,
+          "description": "PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1ByZVNvbnVzLVN0dWRpby1PbmUtT24tTGludXjSAQA?oc=5",
+          "publishedOn": "2023-10-08T17:40:00.000Z",
+          "wordCount": 4996,
+          "title": "PreSonus Studio One 6.5 Music Production Software Adds Wayland-Only Linux Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0luY3VzLTAuMS1SZWxlYXNlZNIBAA",
+          "author": null,
+          "description": "Incus 0.1 Released As Linux Containers' Fork Of LXD  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0luY3VzLTAuMS1SZWxlYXNlZNIBAA?oc=5",
+          "publishedOn": "2023-10-08T16:31:00.000Z",
+          "wordCount": 4996,
+          "title": "Incus 0.1 Released As Linux Containers' Fork Of LXD - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPmh0dHBzOi8vdHdlYWtlcnMubmV0L2Rvd25sb2Fkcy82NjEzOC9kZWJpYW4tZ251LWxpbnV4LTEyMi5odG1s0gEA",
+          "author": null,
+          "description": "Software-update: Debian GNU/Linux 12.2 - Computer - Downloads  Tweakers",
+          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vdHdlYWtlcnMubmV0L2Rvd25sb2Fkcy82NjEzOC9kZWJpYW4tZ251LWxpbnV4LTEyMi5odG1s0gEA?oc=5",
+          "publishedOn": "2023-10-08T16:24:59.000Z",
+          "wordCount": 4996,
+          "title": "Software-update: Debian GNU/Linux 12.2 - Computer - Downloads - Tweakers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjMvMTAvMDgvcnVuLXRocmVhZHMtb24tZGVza3RvcC13aXRoLW1hYy13aW5kb3dzLXBjLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "Run Threads on Desktop with Mac, Windows PC, Linux  OSXDaily",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjMvMTAvMDgvcnVuLXRocmVhZHMtb24tZGVza3RvcC13aXRoLW1hYy13aW5kb3dzLXBjLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2023-10-08T16:06:52.000Z",
+          "wordCount": 4996,
+          "title": "Run Threads on Desktop with Mac, Windows PC, Linux - OSXDaily",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiemh0dHBzOi8vd3d3LnNlZWRhbmNlLmNvbS9ibG9ja2NoYWluLXRlY2hub2xvZ3ktbWFya2V0LXRvcC10cmVuZHMtaWJtLWNvcnAtdS1zLW1pY3Jvc29mdC1jb3JwLXUtcy10aGUtbGludXgtZm91bmRhdGlvbi11LXMv0gF-aHR0cHM6Ly93d3cuc2VlZGFuY2UuY29tL2Jsb2NrY2hhaW4tdGVjaG5vbG9neS1tYXJrZXQtdG9wLXRyZW5kcy1pYm0tY29ycC11LXMtbWljcm9zb2Z0LWNvcnAtdS1zLXRoZS1saW51eC1mb3VuZGF0aW9uLXUtcy9hbXAv",
+          "author": null,
+          "description": "Blockchain Technology Market [Top Trends] | IBM Corp. (U.S.), Microsoft Corp. (U.S.), The Linux Foundation ...  SeeDance News",
+          "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnNlZWRhbmNlLmNvbS9ibG9ja2NoYWluLXRlY2hub2xvZ3ktbWFya2V0LXRvcC10cmVuZHMtaWJtLWNvcnAtdS1zLW1pY3Jvc29mdC1jb3JwLXUtcy10aGUtbGludXgtZm91bmRhdGlvbi11LXMv0gF-aHR0cHM6Ly93d3cuc2VlZGFuY2UuY29tL2Jsb2NrY2hhaW4tdGVjaG5vbG9neS1tYXJrZXQtdG9wLXRyZW5kcy1pYm0tY29ycC11LXMtbWljcm9zb2Z0LWNvcnAtdS1zLXRoZS1saW51eC1mb3VuZGF0aW9uLXUtcy9hbXAv?oc=5",
+          "publishedOn": "2023-10-08T14:39:10.000Z",
+          "wordCount": 4996,
+          "title": "Blockchain Technology Market [Top Trends] | IBM Corp. (U.S.), Microsoft Corp. (U.S.), The Linux Foundation ... - SeeDance News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvUm9ja3ktTGludXgtdWViZXJob2x0LVJIRUwtenVtaW5kZXN0LWJlaS1kZXItRVBFTC1OdXR6dW5nLTkzMjc5NDkuaHRtbNIBAA",
+          "author": null,
+          "description": "Rocky Linux überholt RHEL - zumindest bei der EPEL-Nutzung  heise online",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmhlaXNlLmRlL25ld3MvUm9ja3ktTGludXgtdWViZXJob2x0LVJIRUwtenVtaW5kZXN0LWJlaS1kZXItRVBFTC1OdXR6dW5nLTkzMjc5NDkuaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-10-08T14:24:00.000Z",
+          "wordCount": 4996,
+          "title": "Rocky Linux überholt RHEL - zumindest bei der EPEL-Nutzung - heise online",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEwL3dhcmVob3VzZS1mbGF0cGFrLXRvb2wtZm9yLWxpbnV40gFIaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTAvd2FyZWhvdXNlLWZsYXRwYWstdG9vbC1mb3ItbGludXgvYW1w",
+          "author": null,
+          "description": "Flatpak Fans Will Want to Install This Neat New Tool  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEwL3dhcmVob3VzZS1mbGF0cGFrLXRvb2wtZm9yLWxpbnV40gFIaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTAvd2FyZWhvdXNlLWZsYXRwYWstdG9vbC1mb3ItbGludXgvYW1w?oc=5",
+          "publishedOn": "2023-10-08T14:13:50.000Z",
+          "wordCount": 4996,
+          "title": "Flatpak Fans Will Want to Install This Neat New Tool - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvcnVubmluZy1saW51eC1vbi1hbi1lc3AzMi1zMy0wZDk2YzVhMjQwODHSAUpodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL3J1bm5pbmctbGludXgtb24tYW4tZXNwMzItczMtMGQ5NmM1YTI0MDgxLmFtcA",
+          "author": null,
+          "description": "Running Linux on an ESP32-S3  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvcnVubmluZy1saW51eC1vbi1hbi1lc3AzMi1zMy0wZDk2YzVhMjQwODHSAUpodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL3J1bm5pbmctbGludXgtb24tYW4tZXNwMzItczMtMGQ5NmM1YTI0MDgxLmFtcA?oc=5",
+          "publishedOn": "2023-10-08T13:33:35.000Z",
+          "wordCount": 4996,
+          "title": "Running Linux on an ESP32-S3 - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1YaWxpbngtVmVyc2FsLUVEQUMtTGludXgtNjfSAQA",
+          "author": null,
+          "description": "AMD Versal EDAC Driver Set For Introduction In Linux 6.7  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1YaWxpbngtVmVyc2FsLUVEQUMtTGludXgtNjfSAQA?oc=5",
+          "publishedOn": "2023-10-08T13:28:00.000Z",
+          "wordCount": 4996,
+          "title": "AMD Versal EDAC Driver Set For Introduction In Linux 6.7 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjItUmF6ZXItTGludXjSAQA",
+          "author": null,
+          "description": "Polychromatic 0.8.2 Released For Managing Razer Peripherals On Linux  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjItUmF6ZXItTGludXjSAQA?oc=5",
+          "publishedOn": "2023-10-08T12:46:00.000Z",
+          "wordCount": 4996,
+          "title": "Polychromatic 0.8.2 Released For Managing Razer Peripherals On Linux - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItMi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTExNy1idWctZml4ZXMtYW5kLTUyLXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTItYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xMTctYnVnLWZpeGVzLWFuZC01Mi1zZWN1cml0eS11cGRhdGVzL2FtcA",
+          "author": null,
+          "description": "Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItMi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTExNy1idWctZml4ZXMtYW5kLTUyLXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTItYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xMTctYnVnLWZpeGVzLWFuZC01Mi1zZWN1cml0eS11cGRhdGVzL2FtcA?oc=5",
+          "publishedOn": "2023-10-08T07:59:00.000Z",
+          "wordCount": 4996,
+          "title": "Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMib2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9pbnNpZGUvbWFjL3RpcHMvaG93LXRvLXR1cm4teW91ci12aW50YWdlLW1hYy1pbnRvLWEtc3RlYW0tZ2FtaW5nLW1hY2hpbmUtdXNpbmctYmF6eml0ZdIBAA",
           "author": null,
@@ -3706,6 +3996,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMijAFodHRwczovL25ld3Muc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzA3LzA1OTI1OC9zb21lLXVzLWxhd21ha2Vycy13YW50LXRvLXJlc3RyaWN0LWFtZXJpY2FuLWNvbXBhbmllcy1mcm9tLXdvcmtpbmctb24tcmlzYy12LWNoaXAtdGVjaG5vbG9nedIBAA",
+          "author": null,
+          "description": "Some US Lawmakers Want to Restrict American Companies From ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Muc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzA3LzA1OTI1OC9zb21lLXVzLWxhd21ha2Vycy13YW50LXRvLXJlc3RyaWN0LWFtZXJpY2FuLWNvbXBhbmllcy1mcm9tLXdvcmtpbmctb24tcmlzYy12LWNoaXAtdGVjaG5vbG9nedIBAA?oc=5",
+          "publishedOn": "2023-10-07T15:34:00.000Z",
+          "wordCount": 4996,
+          "title": "Some US Lawmakers Want to Restrict American Companies From ... - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL2RhdjFkLTEuMy1SZWxlYXNlZNIBAA",
           "author": null,
           "description": "dav1d 1.3 Yields Lower Memory Use, More Arm NEON Optimizations  Phoronix",
@@ -3753,6 +4053,16 @@
           "publishedOn": "2023-10-06T16:00:00.000Z",
           "wordCount": 4996,
           "title": "Download the \"Mastering Linux Security and Hardening\" eBook ... - Neowin",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbnJpbmctaXMtYS1mcmVlLXVsdGltYS1saWtlLXJwZy1mcm9tLXRoZS1mYWJsZS1jby1jcmVhdG9yL9IBAA",
+          "author": null,
+          "description": "Moonring is a free Ultima-like RPG from the Fable co-creator  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbnJpbmctaXMtYS1mcmVlLXVsdGltYS1saWtlLXJwZy1mcm9tLXRoZS1mYWJsZS1jby1jcmVhdG9yL9IBAA?oc=5",
+          "publishedOn": "2023-10-06T15:16:05.000Z",
+          "wordCount": 4996,
+          "title": "Moonring is a free Ultima-like RPG from the Fable co-creator - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -4213,6 +4523,16 @@
           "publishedOn": "2023-10-04T13:56:00.000Z",
           "wordCount": 4995,
           "title": "GNOME's VTE Seeing Improvements For Faster Terminal Performance - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUZvdWRhdGlvbi1PcGVuUHVia2V50gEA",
+          "author": null,
+          "description": "Linux Foundation's Latest Open-Source Project: OpenPubkey  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUZvdWRhdGlvbi1PcGVuUHVia2V50gEA?oc=5",
+          "publishedOn": "2023-10-04T13:47:00.000Z",
+          "wordCount": 4996,
+          "title": "Linux Foundation's Latest Open-Source Project: OpenPubkey - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -5293,6 +5613,16 @@
           "publishedOn": "2023-09-28T08:15:00.000Z",
           "wordCount": 4993,
           "title": "Software Engineer (Ubuntu Linux, C/C++) (CPT Hybrid) - IT-Online",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzA3NzI5L2J1aWxkaW5nLWZvci1saW51eC1hbmQtYW5kcm9pZC1vbi13aW5kb3dzLmh0bWzSAVxodHRwczovL3d3dy5pbmZvd29ybGQuY29tL2FydGljbGUvMzcwNzcyOS9idWlsZGluZy1mb3ItbGludXgtYW5kLWFuZHJvaWQtb24td2luZG93cy5hbXAuaHRtbA",
+          "author": null,
+          "description": "Building for Linux and Android on Windows  InfoWorld",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzA3NzI5L2J1aWxkaW5nLWZvci1saW51eC1hbmQtYW5kcm9pZC1vbi13aW5kb3dzLmh0bWzSAVxodHRwczovL3d3dy5pbmZvd29ybGQuY29tL2FydGljbGUvMzcwNzcyOS9idWlsZGluZy1mb3ItbGludXgtYW5kLWFuZHJvaWQtb24td2luZG93cy5hbXAuaHRtbA?oc=5",
+          "publishedOn": "2023-09-28T07:00:00.000Z",
+          "wordCount": 4996,
+          "title": "Building for Linux and Android on Windows - InfoWorld",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8524,106 +8854,6 @@
           "wordCount": 5338,
           "title": "KSMBD Declared Stable - No Longer \"Experimental\" - In Linux 6.6 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDkvaGVyZXMtaG93LXRvLWdldC1wYXlkYXktMy1iZXRhLXRvLXdvcmstb24tc3RlYW0tZGVjay1saW51eC_SAQA",
-          "author": null,
-          "description": "Here's how to get PAYDAY 3 Beta to work on Steam Deck & Linux  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDkvaGVyZXMtaG93LXRvLWdldC1wYXlkYXktMy1iZXRhLXRvLXdvcmstb24tc3RlYW0tZGVjay1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-09-09T07:28:07.000Z",
-          "wordCount": 5338,
-          "title": "Here's how to get PAYDAY 3 Beta to work on Steam Deck & Linux - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimQFodHRwczovL3d3dy5iZW56aW5nYS5jb20vcHJlc3NyZWxlYXNlcy8yMy8wOS8zNDM4MjUzNi9saW51eC1zb2Z0d2FyZS1tYXJrZXQtc2l6ZS0yMDIzLWRhdGEtZHJpdmVuLWluc2lnaHRzLXdpdGgtYWRhcHRpbmctdG8tcmFwaWQtY2hhbmdlcy1ieS10b3AtcGxheWVycy3SAS1odHRwczovL3d3dy5iZW56aW5nYS5jb20vYW1wL2NvbnRlbnQvMzQzODI1MzY",
-          "author": null,
-          "description": "Linux Software Market Size 2023 | Data-Driven Insights with Adapting to Rapid Changes by Top Players till  Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5iZW56aW5nYS5jb20vcHJlc3NyZWxlYXNlcy8yMy8wOS8zNDM4MjUzNi9saW51eC1zb2Z0d2FyZS1tYXJrZXQtc2l6ZS0yMDIzLWRhdGEtZHJpdmVuLWluc2lnaHRzLXdpdGgtYWRhcHRpbmctdG8tcmFwaWQtY2hhbmdlcy1ieS10b3AtcGxheWVycy3SAS1odHRwczovL3d3dy5iZW56aW5nYS5jb20vYW1wL2NvbnRlbnQvMzQzODI1MzY?oc=5",
-          "publishedOn": "2023-09-09T03:48:36.000Z",
-          "wordCount": 5338,
-          "title": "Linux Software Market Size 2023 | Data-Driven Insights with Adapting to Rapid Changes by Top Players till - Benzinga",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifmh0dHBzOi8vZ2FtZXMuc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzA5LzA4LzIxNDEyMzIvbWVldC10aGUtZ3V5LXByZXNlcnZpbmctdGhlLW5ldy1oaXN0b3J5LW9mLXBjLWdhbWVzLW9uZS1saW51eC1wb3J0LWF0LWEtdGltZdIBAA",
-          "author": null,
-          "description": "Meet the Guy Preserving the New History of PC Games, One Linux ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vZ2FtZXMuc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzA5LzA4LzIxNDEyMzIvbWVldC10aGUtZ3V5LXByZXNlcnZpbmctdGhlLW5ldy1oaXN0b3J5LW9mLXBjLWdhbWVzLW9uZS1saW51eC1wb3J0LWF0LWEtdGltZdIBAA?oc=5",
-          "publishedOn": "2023-09-09T03:26:21.000Z",
-          "wordCount": 4968,
-          "title": "Meet the Guy Preserving the New History of PC Games, One Linux ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDkvMDgvbGludXgtZnUtYnVpbGQtYS1iZXR0ZXItbHMv0gEA",
-          "author": null,
-          "description": "Linux Fu: Build A Better Ls  Hackaday",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vaGFja2FkYXkuY29tLzIwMjMvMDkvMDgvbGludXgtZnUtYnVpbGQtYS1iZXR0ZXItbHMv0gEA?oc=5",
-          "publishedOn": "2023-09-09T02:00:00.000Z",
-          "wordCount": 5338,
-          "title": "Linux Fu: Build A Better Ls - Hackaday",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDkvZ2V0LXNvbWUtc2xpY2stc3RlYWx0aC1nYW1lcy1saWtlLXNoYWRvdy10YWN0aWNzLWluLXRoaXMtbmV3LWJ1bmRsZS_SAQA",
-          "author": null,
-          "description": "Get some slick stealth games like Shadow Tactics in this new bundle  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMDkvZ2V0LXNvbWUtc2xpY2stc3RlYWx0aC1nYW1lcy1saWtlLXNoYWRvdy10YWN0aWNzLWluLXRoaXMtbmV3LWJ1bmRsZS_SAQA?oc=5",
-          "publishedOn": "2023-09-08T21:30:51.000Z",
-          "wordCount": 5338,
-          "title": "Get some slick stealth games like Shadow Tactics in this new bundle - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctcnVuLXN0ZWFtLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "How to run Steam on Linux  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctcnVuLXN0ZWFtLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2023-09-08T18:00:00.000Z",
-          "wordCount": 5338,
-          "title": "How to run Steam on Linux - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vd3d3Lmdyb292eXBvc3QuY29tL2hvd3RvL2NoYW5nZS1vd25lci1mb2xkZXJzLXN1YmZvbGRlcnMtdWJ1bnR1L9IBAA",
-          "author": null,
-          "description": "How to Change Owner of Folders and Subfolders in Ubuntu  groovyPost",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lmdyb292eXBvc3QuY29tL2hvd3RvL2NoYW5nZS1vd25lci1mb2xkZXJzLXN1YmZvbGRlcnMtdWJ1bnR1L9IBAA?oc=5",
-          "publishedOn": "2023-09-08T17:31:00.000Z",
-          "wordCount": 5338,
-          "title": "How to Change Owner of Folders and Subfolders in Ubuntu - groovyPost",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tejEtbGludXg2NdIBAA",
-          "author": null,
-          "description": "Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvcnl6ZW4tejEtbGludXg2NdIBAA?oc=5",
-          "publishedOn": "2023-09-08T15:26:18.000Z",
-          "wordCount": 4968,
-          "title": "Linux 6.5+ Bringing Some Performance/Efficiency Improvements For The AMD Ryzen Z1 Extreme / ASUS ROG Ally - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTVVMtU2NyZWVucGFkLUxpbnV4LVBhdGNoZXPSAQA",
-          "author": null,
-          "description": "Linux Driver Preparing Support For ASUS Screenpad On High-End ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTVVMtU2NyZWVucGFkLUxpbnV4LVBhdGNoZXPSAQA?oc=5",
-          "publishedOn": "2023-09-08T14:15:00.000Z",
-          "wordCount": 4968,
-          "title": "Linux Driver Preparing Support For ASUS Screenpad On High-End ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3Lm9zbmV3cy5jb20vc3RvcnkvMTM2OTg3L3RoZS1zZXJ2by1wcm9qZWN0LWlzLWpvaW5pbmctbGludXgtZm91bmRhdGlvbi1ldXJvcGUv0gEA",
-          "author": null,
-          "description": "The Servo project is joining Linux Foundation Europe – OSnews  OS News",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm9zbmV3cy5jb20vc3RvcnkvMTM2OTg3L3RoZS1zZXJ2by1wcm9qZWN0LWlzLWpvaW5pbmctbGludXgtZm91bmRhdGlvbi1ldXJvcGUv0gEA?oc=5",
-          "publishedOn": "2023-09-08T14:08:56.000Z",
-          "wordCount": 4968,
-          "title": "The Servo project is joining Linux Foundation Europe – OSnews - OS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9619,16 +9849,6 @@
           "wordCount": 1304,
           "title": "EternalBlue Explained – An In-Depth Analysis of the Notorious Windows Flaw",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/eternalblue.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
-          "author": "Quincy Larson",
-          "description": "Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His",
-          "link": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
-          "publishedOn": "2023-09-08T17:33:21.000Z",
-          "wordCount": 861,
-          "title": "Podcast: Learning to Code in your 30s with Patrick San Juan",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot_9_8_23__12_28_PM-2.png"
         }
       ]
     }
