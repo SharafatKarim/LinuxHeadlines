@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=147086",
+          "author": "Dave Sumaylo",
+          "description": "Tutorial on how to use the sigaction() function to change or restore the action of a signal and how to spot the errors that can occur when using sigaction().",
+          "link": "https://linuxhint.com/c-sigaction-function-usage/",
+          "publishedOn": "2023-11-05T04:40:13.000Z",
+          "wordCount": 6476,
+          "title": "Sigaction() Function in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=123262",
+          "author": "Dave Sumaylo",
+          "description": "A system call is a method for a software to communicate with the operating system. When software performs a system call, it sends the request to the kernel of the operating system. The read () system function in C reads data from the file referred to by the file descriptor.",
+          "link": "https://linuxhint.com/read-system-call-in-c/",
+          "publishedOn": "2023-11-04T17:40:54.000Z",
+          "wordCount": 5671,
+          "title": "Read System Call in C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=100112",
+          "author": "Dave Sumaylo",
+          "description": "Tutorial on how to use the fork() and exec() functions to create, run, or replace a process with another using its description, syntax, and calling method.",
+          "link": "https://linuxhint.com/fork-exec-coding-c/",
+          "publishedOn": "2023-11-04T10:40:19.000Z",
+          "wordCount": 5999,
+          "title": "Fork() and Exec() Functions in C Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393088",
+          "author": "Aaliyan Javaid",
+          "description": "In the Photos app, you can easily navigate media files not only stored on the local computer but also from your iCloud or OneDrive.",
+          "link": "https://linuxhint.com/get-started-photos-app-windows-11/",
+          "publishedOn": "2023-11-01T10:19:25.000Z",
+          "wordCount": 4996,
+          "title": "How to Get Started with the New Photos App on Windows 11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393059",
+          "author": "Awais Khan",
+          "description": "You can format a Pendrive causing an issue by checking for drive error, formatting the drive via cmd or disk management, or repairing bad sectors.",
+          "link": "https://linuxhint.com/format-pendrive-windows/",
+          "publishedOn": "2023-11-01T10:17:00.000Z",
+          "wordCount": 5445,
+          "title": "How to Format a Pendrive if Windows is Unable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393089",
+          "author": "Muhammad Farhan",
+          "description": "To use the text-indent with breakpoints in Tailwind, first, add the “Tailwind” in the  section. After that create a class in the element section.",
+          "link": "https://linuxhint.com/use-text-indent-with-breakpoints-tailwind/",
+          "publishedOn": "2023-11-01T10:12:14.000Z",
+          "wordCount": 4896,
+          "title": "How to Use Text Indent with Breakpoints in Tailwind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393069",
+          "author": "Muhammad Farhan",
+          "description": "To use the whitespace property, first, use any of the states including “Hover”, “Focus”, and “Active” and specify the whitespace property.",
+          "link": "https://linuxhint.com/whitespace-property-hover-focus-active-states-tailwind/",
+          "publishedOn": "2023-11-01T10:05:37.000Z",
+          "wordCount": 5004,
+          "title": "How to Use Whitespace Property with Hover, Focus, and Active States of Tailwind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393047",
+          "author": "Aaliyan Javaid",
+          "description": "Troubleshoot the Network adapter from settings or update it from the device manager. If these two methods don’t work, try reinstalling your network driver.",
+          "link": "https://linuxhint.com/fix-windows-not-detect-installed-network-adapter/",
+          "publishedOn": "2023-11-01T09:53:12.000Z",
+          "wordCount": 4986,
+          "title": "How to Fix Windows Did Not Detect a Properly Installed Network Adapter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393024",
+          "author": "Awais Khan",
+          "description": "To fix update error 0x800705b4, restart system, disable apps updates, reset update components, run Troubleshooter, start BITS service, turn off security system.",
+          "link": "https://linuxhint.com/fix-windows-10-update-error-0x800705b4/",
+          "publishedOn": "2023-11-01T09:50:25.000Z",
+          "wordCount": 5621,
+          "title": "How to Fix Windows 10 Update Error 0x800705b4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=393006",
+          "author": "Awais Khan",
+          "description": "If printer is not responding, run Troubleshooter, update and reinstall printer Driver, or Restart spooler service. Try to update Windows and check hardware issues.",
+          "link": "https://linuxhint.com/fix-windows-10-printer-not-responding/",
+          "publishedOn": "2023-11-01T09:45:47.000Z",
+          "wordCount": 5396,
+          "title": "How to Fix Windows 10 Printer Not Responding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392985",
+          "author": "Awais Khan",
+          "description": "To fix a Windows 10 microphone not working, check microphone settings, update driver, restart the audio service, troubleshoot, system restore, or uninstall updates.",
+          "link": "https://linuxhint.com/fix-windows-10-microphone-not-working-after-update/",
+          "publishedOn": "2023-11-01T09:40:01.000Z",
+          "wordCount": 5640,
+          "title": "How to Fix Windows 10 Microphone Not Working After Update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392973",
+          "author": "Awais Khan",
+          "description": "To solve keyboard typing wrong characters on Windows, check the keyboard layout, modify the Registry key, update, or uninstall the driver, or run Internet Troubleshooter.",
+          "link": "https://linuxhint.com/fix-windows-10-keyboard-typing-wrong-characters/",
+          "publishedOn": "2023-11-01T09:35:11.000Z",
+          "wordCount": 5124,
+          "title": "How to Fix Windows 10 Keyboard Typing Wrong Characters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392946",
+          "author": "Haris Kabir Khan",
+          "description": "Frogs in Minecraft can be found inside the swamp biome of the game. A player can use slimeballs to breed two frogs to get tadpoles that grow into frogs.",
+          "link": "https://linuxhint.com/find-breed-frogs-minecraft/",
+          "publishedOn": "2023-11-01T09:31:36.000Z",
+          "wordCount": 5174,
+          "title": "How to Find and Breed Frogs in Minecraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392923",
+          "author": "Abdul Mateen",
+          "description": "To create a local account in Windows 10, You can use the methods through the Windows settings, Netplwiz panel, user management, CMD, and PowerShell.",
+          "link": "https://linuxhint.com/create-local-account-windows-10/",
+          "publishedOn": "2023-11-01T09:27:25.000Z",
+          "wordCount": 5548,
+          "title": "How to Create a Local Account in Windows 10?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392890",
+          "author": "Haris Kabir Khan",
+          "description": "Dirt Block cannot be directly crafted but rather with a special in-game mechanism, which allows the players to have a way to renew dirt whenever needed.",
+          "link": "https://linuxhint.com/craft-dirt-block-minecraft/",
+          "publishedOn": "2023-11-01T09:11:35.000Z",
+          "wordCount": 5157,
+          "title": "How to Craft Dirt Blocks in Minecraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392841",
+          "author": "Muhammad Farhan",
+          "description": "The whitespace of an element can be controlled using the “whitespace” utility class. It has properties that are used to manually control the element’s space.",
+          "link": "https://linuxhint.com/control-elements-whitespace-property-tailwind/",
+          "publishedOn": "2023-11-01T08:58:48.000Z",
+          "wordCount": 5165,
+          "title": "How to Control an Element’s Whitespace Property in Tailwind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392821",
+          "author": "Haroon Javed",
+          "description": "To clear all the clipboards in Windows 11/10 using a shortcut, right-click on the desktop, create a new shortcut, type the command value, and click on it.",
+          "link": "https://linuxhint.com/clear-clipboard-in-windows-using-shortcut/",
+          "publishedOn": "2023-11-01T08:55:02.000Z",
+          "wordCount": 5256,
+          "title": "How to Clear the Clipboard in Windows 11/10 Using a Shortcut",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392789",
+          "author": "Abdul Mateen",
+          "description": "To add an out-of-office message to your Outlook, go to the account settings, turn on the “Automatic replies” option, and set the message.",
+          "link": "https://linuxhint.com/add-outlook-out-of-office-message-android/",
+          "publishedOn": "2023-11-01T08:49:28.000Z",
+          "wordCount": 4867,
+          "title": "How to Add an Outlook Out-of-Office Message on Android?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392910",
+          "author": "Aaliyan Javaid",
+          "description": "To share data, use Google Nearby Share, just select the file and search for the respective device. Read more in this guide.",
+          "link": "https://linuxhint.com/use-google-nearby-share-windows/",
+          "publishedOn": "2023-11-01T06:15:43.000Z",
+          "wordCount": 4248,
+          "title": "How to Use Google Nearby Share (Beta) with Windows PCs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392905",
+          "author": "Muhammad Farhan",
+          "description": "To use the breakpoints and media queries with “truncate”, “text-ellipsis”, and “text-clip” properties, first, specify the width of the screen.",
+          "link": "https://linuxhint.com/breakpoints-media-queries-truncate-text-ellipsis-clip/",
+          "publishedOn": "2023-11-01T05:07:07.000Z",
+          "wordCount": 4949,
+          "title": "How to Use Breakpoints and Media Queries with Truncate, Text-Ellipsis and Text-Clip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392898",
+          "author": "Aaliyan Javaid",
+          "description": "A secure folder gives an extra layer of security for your crucial files, you can find this folder directly on your mobile or may download it from the Play Store.",
+          "link": "https://linuxhint.com/use-android-secure-folder-app/",
+          "publishedOn": "2023-11-01T04:59:29.000Z",
+          "wordCount": 4682,
+          "title": "How to Use Android’s Secure Folder App To Secure Files and Folder",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392892",
+          "author": "Aaliyan Javaid",
+          "description": "By using this feature you can add any type of emergency information in your Android such as medical or accidental emergency.",
+          "link": "https://linuxhint.com/use-android-emergency-information-feature/",
+          "publishedOn": "2023-11-01T04:56:33.000Z",
+          "wordCount": 4617,
+          "title": "How to Use Android Emergency Information Feature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392873",
+          "author": "Maria Naz",
+          "description": "To turn on WhatsApp notifications on Android, there are two ways such as by using device settings and using WhatsApp settings.",
+          "link": "https://linuxhint.com/turn-on-whatsapp-notifications-on-android/",
+          "publishedOn": "2023-11-01T04:53:54.000Z",
+          "wordCount": 4878,
+          "title": "How to Turn On WhatsApp Notifications on Android",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=392856",
+          "author": "Awais Khan",
+          "description": "If camera is not working on Windows, check physical button, restart system, update Windows, update and more. For more details, read this guide.",
+          "link": "https://linuxhint.com/troubleshoot-windows-10-camera-not-working/",
+          "publishedOn": "2023-11-01T04:28:27.000Z",
+          "wordCount": 5623,
+          "title": "How to Troubleshoot Windows 10 Camera Not Working",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=227239",
           "author": "Linux Explorer",
           "description": "In Python, the “Series.str.replace()” method is utilized to replace the Series or index pattern/regex occurrences with another specified string.",
@@ -1240,226 +1480,6 @@
           "wordCount": 4913,
           "title": "How to Utilize Git-Filter-Repo to Remove Specific Files from Your Repository?",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381045",
-          "author": "Abdul Mateen",
-          "description": "To listen to the songs with friends on Spotify, click on the friend’s profile in the voice channel, and press the “Play on Spotify” option.",
-          "link": "https://linuxhint.com/collaborative-music-listening-friends-spotify-discord/",
-          "publishedOn": "2023-10-06T13:31:51.000Z",
-          "wordCount": 5281,
-          "title": "Collaborative Music Listening with Friends on Spotify Using Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381046",
-          "author": "Anwar Mustafa",
-          "description": "Digital logic gates are building blocks of every electronic circuit. They are utilized for simple arithmetic operations to advanced level computing functions.",
-          "link": "https://linuxhint.com/digital-logic-gates-tutorial/",
-          "publishedOn": "2023-10-06T13:31:38.000Z",
-          "wordCount": 6424,
-          "title": "Digital Logic Gates | Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381047",
-          "author": "Abdul Mateen",
-          "description": "To set the aliases for customizing Git commands, use the “config” file available in the “.git” directory and define the aliases. See the guide for more methods.",
-          "link": "https://linuxhint.com/efficient-git-workflow-aliases-customizing-commands/",
-          "publishedOn": "2023-10-06T13:31:34.000Z",
-          "wordCount": 5574,
-          "title": "Efficient Git Workflow with Aliases: Customizing Commands",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381048",
-          "author": "Abdul Mateen",
-          "description": "To edit the message in Discord, open Discord, Hover over the sent message, press the “3 dots” and hit the “Edit Message” option from the opened drop-down.",
-          "link": "https://linuxhint.com/edit-message-after-sending-them-discord/",
-          "publishedOn": "2023-10-06T13:31:20.000Z",
-          "wordCount": 5253,
-          "title": "How to Edit Messages After Sending Them on Discord?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381104",
-          "author": "Abdul Mateen",
-          "description": "Git objects are categorized into 4 types which are “commit”, “tree”, “blob” and “tag”. These objects are stored in the directory “.git/objects”.",
-          "link": "https://linuxhint.com/git-object-storage-stores-manages/",
-          "publishedOn": "2023-10-06T13:30:53.000Z",
-          "wordCount": 5979,
-          "title": "Git Object Storage: How Git Stores and Manages Objects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381049",
-          "author": "Abdul Mateen",
-          "description": "To customize the Git files behavior for line ending type, create the “.gitattributes” in a file and use this syntax “*  eol=”.",
-          "link": "https://linuxhint.com/git-attributes-customizing-behavior-metadata/",
-          "publishedOn": "2023-10-06T13:30:50.000Z",
-          "wordCount": 5625,
-          "title": "Git Attributes: Customizing Git Behavior and Metadata",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381105",
-          "author": "Abdul Mateen",
-          "description": "To add the remote connection in Git Bash, use the “git remote add” command and specify the HTTPS or SSH URL. See the guide for more details.",
-          "link": "https://linuxhint.com/git-remote-advanced-techniques-remote-repository-management/",
-          "publishedOn": "2023-10-06T13:30:30.000Z",
-          "wordCount": 5938,
-          "title": "Git Remote: Advanced Techniques for Remote Repository Management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381106",
-          "author": "Anees Asghar",
-          "description": "Press the “Window + L” key or hold down the “Ctrl, Alt, Del” keys simultaneously and click on the “Lock” option to lock the computer screen in Windows.",
-          "link": "https://linuxhint.com/lock-computer-screen-in-windows/",
-          "publishedOn": "2023-10-06T13:30:07.000Z",
-          "wordCount": 5460,
-          "title": "How Can We Lock the Computer Screen in Windows?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381107",
-          "author": "Anees Asghar",
-          "description": "To access your Windows clipboard you have to enable the Clipboard History from the settings and then press the “Window + V” keys simultaneously.",
-          "link": "https://linuxhint.com/access-clipboard-on-windows-10/",
-          "publishedOn": "2023-10-06T13:29:54.000Z",
-          "wordCount": 5205,
-          "title": "How to Access Clipboard on Windows 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381322",
-          "author": "Anees Asghar",
-          "description": "Go to the official Adobe Reader download website and choose to download the freeware Adobe Acrobat Reader, the leading PDF viewer according to your system requirements.",
-          "link": "https://linuxhint.com/download-adobe-acrobat-reader-for-windows-10/",
-          "publishedOn": "2023-10-06T13:28:58.000Z",
-          "wordCount": 5299,
-          "title": "How to Download Adobe (Acrobat) Reader for Windows 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381321",
-          "author": "Saeed Raza",
-          "description": "Tutorial on how to design any recommender system in R, how a recommender system works, and how we use it in our daily life by utilizing the shiny library of R.",
-          "link": "https://linuxhint.com/design-recommender-systems-using-r/",
-          "publishedOn": "2023-10-06T13:28:44.000Z",
-          "wordCount": 6147,
-          "title": "How to Design Recommender System Using R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381320",
-          "author": "Aaliyan Javaid",
-          "description": "Band stop filter stops the certain defined range of frequencies and attenuates the other frequencies to obtain the desired signals.",
-          "link": "https://linuxhint.com/design-bandstop-notch-filter/",
-          "publishedOn": "2023-10-06T13:28:39.000Z",
-          "wordCount": 5878,
-          "title": "How to Design Band Stop Filters and Notch Filters Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381282",
-          "author": "Omar Farooq",
-          "description": "Comprehensive tutorial on the mechanics of Pydantic's create_model function, explore its capabilities, and demonstrate how it can revolutionize the data models.",
-          "link": "https://linuxhint.com/create-dynamic-models-pydantics-create-model-function/",
-          "publishedOn": "2023-10-06T13:28:14.000Z",
-          "wordCount": 6178,
-          "title": "How to Create Dynamic Models with Pydantic’s Create_Model Function",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381319",
-          "author": "Abdul Mateen",
-          "description": "To delete a Discord channel on Android, long-press on the targeted channel, tap on the “Edit Channel” option and press the “Delete Channel”.",
-          "link": "https://linuxhint.com/delete-discord-channel-android/",
-          "publishedOn": "2023-10-06T13:28:11.000Z",
-          "wordCount": 5131,
-          "title": "How to Delete a Discord Channel on Android",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381281",
-          "author": "Abdul Mateen",
-          "description": "To fix video call issues on Discord, check the video settings, check the camera permission given to your Windows, or clear the Discord cache.",
-          "link": "https://linuxhint.com/create-channel-discord-android/",
-          "publishedOn": "2023-10-06T13:27:50.000Z",
-          "wordCount": 5189,
-          "title": "How to Create a Channel in Discord Android?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381280",
-          "author": "Anees Asghar",
-          "description": "To create a shutdown shortcut on Windows, right-click on the desktop, select New > shortcut, enter \"shutdown /s /t 0\", and specify a name for the shortcut.",
-          "link": "https://linuxhint.com/create-use-shutdown-shortcut-windows-10/",
-          "publishedOn": "2023-10-06T13:27:29.000Z",
-          "wordCount": 5580,
-          "title": "How to Create and Use Shutdown Shortcut on Windows 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381278",
-          "author": "Anees Asghar",
-          "description": "Open the image you want to convert using the Photos app and use the Save option to save it with jpg you can try this by using a web browser.",
-          "link": "https://linuxhint.com/convert-heic-to-jpg-in-windows/",
-          "publishedOn": "2023-10-06T13:27:26.000Z",
-          "wordCount": 5583,
-          "title": "How to Convert HEIC to JPG in Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381279",
-          "author": "Omar Farooq",
-          "description": "Guide on converting a Pydantic model to a dictionary using the dict() method to transform a structured data into a format that's easy to manipulate and share.",
-          "link": "https://linuxhint.com/convert-pydantic-model-dict-step-by-step-guide/",
-          "publishedOn": "2023-10-06T13:27:08.000Z",
-          "wordCount": 6017,
-          "title": "How to Convert Pydantic Model to Dict: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381239",
-          "author": "Denis Kariuki",
-          "description": "Comprehensive tutorial on the examples of implementing the PostgreSQL cast feature in PostgreSQL to change or convert the value of one data type to another.",
-          "link": "https://linuxhint.com/convert-data-types-using-cast-postgresql/",
-          "publishedOn": "2023-10-06T13:26:51.000Z",
-          "wordCount": 5690,
-          "title": "How to Convert Data Types Using CAST in PostgreSQL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381238",
-          "author": "Aaliyan Javaid",
-          "description": "Access modifiers are used to manage the accessibility and the visibility of the data in a program. Read more in the article.",
-          "link": "https://linuxhint.com/control-access-modifier-cpp/",
-          "publishedOn": "2023-10-06T13:26:41.000Z",
-          "wordCount": 5739,
-          "title": "How to Control Access Modifiers in C++: Understanding Member Visibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381237",
-          "author": "Aaliyan Javaid",
-          "description": "Electrical relays are switches which turn the electric circuit on and off through an external electrical signal.",
-          "link": "https://linuxhint.com/electromechanical-relays-and-solid-state-relays/",
-          "publishedOn": "2023-10-06T13:26:37.000Z",
-          "wordCount": 6447,
-          "title": "How to Comprehend Electrical Relays and Solid-State Relays for Switching",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=381236",
-          "author": "Aaliyan Javaid",
-          "description": "Console window displays the output of the code. To clear the console window system (“cls”) is used, it clears previous output to avoid pre-filled window.",
-          "link": "https://linuxhint.com/clear-console-cpp/",
-          "publishedOn": "2023-10-06T13:26:22.000Z",
-          "wordCount": 5212,
-          "title": "How to Clear the Console in C++",
-          "imageUrl": null
         }
       ]
     },
@@ -1468,6 +1488,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186448",
+          "author": "Web Webster",
+          "description": "In this tutorial, we are going to explain how to reset MySQL or MariaDB Root password on Ubuntu 22.04. MySQL is an open-source SQL database management system distributed and supported by Oracle Corporation.\nThe post How to Reset Your MySQL or MariaDB Root Password on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-reset-your-mysql-or-mariadb-root-password-on-ubuntu-22-04/",
+          "publishedOn": "2023-11-06T00:00:21.000Z",
+          "wordCount": 17247,
+          "title": "How to Reset Your MySQL or MariaDB Root Password on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186481",
+          "author": "Web Webster",
+          "description": "By following this guide, you can install Redmine with MariaDB as the database server and Apache2 as the web server.\nThe post How to Install Redmine With Apache & Let’s Encrypt SSL on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-redmine-with-apache-lets-encrypt-ssl-on-debian-12/",
+          "publishedOn": "2023-11-05T18:00:28.000Z",
+          "wordCount": 17241,
+          "title": "How to Install Redmine With Apache & Let’s Encrypt SSL on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186423",
           "author": "Web Webster",
@@ -3437,96 +3477,6 @@
           "wordCount": 17228,
           "title": "How to Configure VLAN Tagging Over Bonding on RHEL",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185925",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will demonstrate how to set up a three-node CockroachDB cluster on an Ubuntu 22.04 server.\nThe post How to Install a CockroachDB Cluster on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-a-cockroachdb-cluster-on-ubuntu-22-04/",
-          "publishedOn": "2023-10-07T02:00:50.000Z",
-          "wordCount": 17217,
-          "title": "How to Install a CockroachDB Cluster on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185924",
-          "author": "Web Webster",
-          "description": "In this step-by-step guide, we’ll show you how to install NetBox IRM on Debian 12 server for your network automation and infrastructure engineering needs.\nThe post How to Install NetBox IRM on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-netbox-irm-on-debian-12/",
-          "publishedOn": "2023-10-07T00:00:43.000Z",
-          "wordCount": 17213,
-          "title": "How to Install NetBox IRM on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185923",
-          "author": "Web Webster",
-          "description": "Enhance your remote SSH login experience by setting up a tmux session selection menu. Easily switch between or start new tmux sessions with a simple script in Linux.\nThe post Enhancing SSH Login With a tmux Session Selection Menu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/enhancing-ssh-login-with-a-tmux-session-selection-menu/",
-          "publishedOn": "2023-10-06T22:00:24.000Z",
-          "wordCount": 17229,
-          "title": "Enhancing SSH Login With a tmux Session Selection Menu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185993",
-          "author": "Web Webster",
-          "description": "Fwupd 1.9.6 introduces support for more hardware devices, including AMD dGPUs Navi3x and later. Learn more here.\nThe post Fwupd 1.9.6 Adds Support for AMD dGPUs Navi3x and Later appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fwupd-1-9-6-adds-support-for-amd-dgpus-navi3x-and-later/",
-          "publishedOn": "2023-10-06T20:00:05.000Z",
-          "wordCount": 17233,
-          "title": "Fwupd 1.9.6 Adds Support for AMD dGPUs Navi3x and Later",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185989",
-          "author": "Web Webster",
-          "description": "Proton 8.0-4 is adds official support for more Windows games to play on your Linux box. Discover which games have been added.\nThe post Proton 8.0-4 Brings Support for More Windows Games on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/proton-8-0-4-brings-support-for-more-windows-games-on-linux/",
-          "publishedOn": "2023-10-06T18:00:47.000Z",
-          "wordCount": 17233,
-          "title": "Proton 8.0-4 Brings Support for More Windows Games on Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185982",
-          "author": "Web Webster",
-          "description": "Krita 5.2 brings a completely rewritten audio playback functionality, built-in FFmpeg dependency, and improvements to the JPEG-XL image support.\nThe post Krita 5.2 Brings Animation and Text Handling Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/krita-5-2-brings-animation-and-text-handling-improvements/",
-          "publishedOn": "2023-10-06T17:00:38.000Z",
-          "wordCount": 17219,
-          "title": "Krita 5.2 Brings Animation and Text Handling Improvements",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185981",
-          "author": "Web Webster",
-          "description": "The new Slax Linux releases are here to introduce enhanced session management, allowing users to maintain multiple sessions more easily.\nThe post Slax Linux Gets Enhanced Session Management, Boot Parameter Options appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/slax-linux-gets-enhanced-session-management-boot-parameter-options/",
-          "publishedOn": "2023-10-06T16:00:36.000Z",
-          "wordCount": 17216,
-          "title": "Slax Linux Gets Enhanced Session Management, Boot Parameter Options",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185980",
-          "author": "Web Webster",
-          "description": "Get the scoop on Xubuntu 23.10: From Kernel 6.5 to the latest Xfce 4.18, learn about the exciting new features that make this release stand out.\nThe post Xubuntu 23.10 Mantic Minotaur: Best New Features appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/xubuntu-23-10-mantic-minotaur-best-new-features/",
-          "publishedOn": "2023-10-06T15:00:33.000Z",
-          "wordCount": 17215,
-          "title": "Xubuntu 23.10 Mantic Minotaur: Best New Features",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185973",
-          "author": "Web Webster",
-          "description": "Linux developers are trying, once more, to rid Linux of Microsoft’s Remote Network Driver Interface Specification (RNDIS). Here’s why it’s complicated.\nThe post Linux Tries to Dump Windows’ Notorious RNDIS Protocol appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linux-tries-to-dump-windows-notorious-rndis-protocol/",
-          "publishedOn": "2023-10-06T14:00:22.000Z",
-          "wordCount": 17209,
-          "title": "Linux Tries to Dump Windows’ Notorious RNDIS Protocol",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3535,6 +3485,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZdIBTGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZS9hbXA",
+          "author": null,
+          "description": "System Cleaner BleachBit Sees First Release in 2 Years  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZdIBTGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZS9hbXA?oc=5",
+          "publishedOn": "2023-11-06T00:22:30.000Z",
+          "wordCount": 5039,
+          "title": "System Cleaner BleachBit Sees First Release in 2 Years - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiKWh0dHBzOi8vamFwYW4uemRuZXQuY29tL2FydGljbGUvMzUyMTA5Njkv0gEA",
+          "author": null,
+          "description": "「Linux」メンテナーの燃え尽き症候群問題--業務内容の変化と支援 ...  ZDNET Japan",
+          "link": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vamFwYW4uemRuZXQuY29tL2FydGljbGUvMzUyMTA5Njkv0gEA?oc=5",
+          "publishedOn": "2023-11-05T21:30:00.000Z",
+          "wordCount": 5039,
+          "title": "「Linux」メンテナーの燃え尽き症候群問題--業務内容の変化と支援 ... - ZDNET Japan",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTEvMDUvbHhxdC0xNDAtcXQtbGludXgtZGVza3RvcC1lbnZpcm9ubWVudC1pcy1oZXJlL9IBAA",
+          "author": null,
+          "description": "LXQt 1.4.0 lightweight Qt Linux desktop environment is here  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTEvMDUvbHhxdC0xNDAtcXQtbGludXgtZGVza3RvcC1lbnZpcm9ubWVudC1pcy1oZXJlL9IBAA?oc=5",
+          "publishedOn": "2023-11-05T19:18:25.000Z",
+          "wordCount": 5039,
+          "title": "LXQt 1.4.0 lightweight Qt Linux desktop environment is here - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8wNS9yYXNwYmVycnktcGktNS1yZXZpZXctcmFzcGJlcnJ5LXBpLW9zLWJvb2t3b3JtLWJlbmNobWFya3MtcG93ZXItY29uc3VtcHRpb24v0gF6aHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDIzLzExLzA1L3Jhc3BiZXJyeS1waS01LXJldmlldy1yYXNwYmVycnktcGktb3MtYm9va3dvcm0tYmVuY2htYXJrcy1wb3dlci1jb25zdW1wdGlvbi8_YW1wPTE",
+          "author": null,
+          "description": "Raspberry Pi 5 review – Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8wNS9yYXNwYmVycnktcGktNS1yZXZpZXctcmFzcGJlcnJ5LXBpLW9zLWJvb2t3b3JtLWJlbmNobWFya3MtcG93ZXItY29uc3VtcHRpb24v0gF6aHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDIzLzExLzA1L3Jhc3BiZXJyeS1waS01LXJldmlldy1yYXNwYmVycnktcGktb3MtYm9va3dvcm0tYmVuY2htYXJrcy1wb3dlci1jb25zdW1wdGlvbi8_YW1wPTE?oc=5",
+          "publishedOn": "2023-11-05T13:50:56.000Z",
+          "wordCount": 5039,
+          "title": "Raspberry Pi 5 review – Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JlYWN0T1MtTm92ZW1iZXItMjAyM9IBAA",
+          "author": null,
+          "description": "ReactOS \"Open-Source Windows\" Improving UEFI Boot, DirectX ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JlYWN0T1MtTm92ZW1iZXItMjAyM9IBAA?oc=5",
+          "publishedOn": "2023-11-05T13:13:00.000Z",
+          "wordCount": 5039,
+          "title": "ReactOS \"Open-Source Windows\" Improving UEFI Boot, DirectX ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9zdGVwcy1tYWtlLWxpbnV4LWxvb2stbWFjb3Mv0gEA",
+          "author": null,
+          "description": "7 steps to make Linux look like macOS  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9zdGVwcy1tYWtlLWxpbnV4LWxvb2stbWFjb3Mv0gEA?oc=5",
+          "publishedOn": "2023-11-05T13:00:00.000Z",
+          "wordCount": 5039,
+          "title": "7 steps to make Linux look like macOS - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05vdXZlYXUtR1NQLU1lcmdlZC1MaW51eC02LjfSAQA",
+          "author": null,
+          "description": "Nouveau NVIDIA GSP Firmware Support Merged For Linux 6.7  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05vdXZlYXUtR1NQLU1lcmdlZC1MaW51eC02LjfSAQA?oc=5",
+          "publishedOn": "2023-11-05T11:38:00.000Z",
+          "wordCount": 5039,
+          "title": "Nouveau NVIDIA GSP Firmware Support Merged For Linux 6.7 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOT01FLVRlcm1pbmFsLUdUSzQtV0lQ0gEA",
+          "author": null,
+          "description": "GNOME Terminal Working To Migrate To GTK 4, VTE To Overcome ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOT01FLVRlcm1pbmFsLUdUSzQtV0lQ0gEA?oc=5",
+          "publishedOn": "2023-11-05T11:01:00.000Z",
+          "wordCount": 5039,
+          "title": "GNOME Terminal Working To Migrate To GTK 4, VTE To Overcome ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiP2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2F0Y2gtcnVuLWxpbnV4LXByb2dyYW0tcGVyaW9kaWNhbGx5L9IBAA",
           "author": null,
@@ -3776,6 +3806,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiMGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXJjaC1saW51eC1pbnN0YWxsLXBjL9IBAA",
+          "author": null,
+          "description": "How to Install Arch Linux on Your PC  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXJjaC1saW51eC1pbnN0YWxsLXBjL9IBAA?oc=5",
+          "publishedOn": "2023-11-03T12:00:00.000Z",
+          "wordCount": 5039,
+          "title": "How to Install Arch Linux on Your PC - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiOmh0dHBzOi8vd3d3Lm11eWxpbnV4LmNvbS8yMDIzLzExLzAzL29wZW5lbGEtY29kaWdvLWZ1ZW50ZS_SAT5odHRwczovL3d3dy5tdXlsaW51eC5jb20vMjAyMy8xMS8wMy9vcGVuZWxhLWNvZGlnby1mdWVudGUvYW1wLw",
           "author": null,
           "description": "OpenELA publica un código fuente inicial para crear derivados de (Red Hat) Enterprise Linux  MuyLinux",
@@ -3916,6 +3956,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMihwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24taXNjMi1hbmQtb3BlbnNzZi1jb2xsYWJvcmF0ZS10by10YXJnZXQtc2VjdXJlLWNvZGUtZGV2ZWxvcG1lbnQtMzAxOTc1ODkwLmh0bWzSAQA",
+          "author": null,
+          "description": "Linux Foundation, ISC2 and OpenSSF Collaborate to Target Secure ...  PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24taXNjMi1hbmQtb3BlbnNzZi1jb2xsYWJvcmF0ZS10by10YXJnZXQtc2VjdXJlLWNvZGUtZGV2ZWxvcG1lbnQtMzAxOTc1ODkwLmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-11-02T14:00:00.000Z",
+          "wordCount": 5039,
+          "title": "Linux Foundation, ISC2 and OpenSSF Collaborate to Target Secure ... - PR Newswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiV2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9saW51eC1mb3VuZGF0aW9uLWlzYzItb3BlbnNzZi1jb2xsYWJvcmF0ZS0xNDAwMDAwODMuaHRtbNIBX2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2xpbnV4LWZvdW5kYXRpb24taXNjMi1vcGVuc3NmLWNvbGxhYm9yYXRlLTE0MDAwMDA4My5odG1s",
           "author": null,
           "description": "Linux Foundation, ISC2 and OpenSSF Collaborate to Target Secure Code Development  Yahoo Finance",
@@ -4023,6 +4073,16 @@
           "publishedOn": "2023-11-02T09:57:00.000Z",
           "wordCount": 5039,
           "title": "Heavy metal Linux 6.6 has arrived - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8wMi9yb2NrY2hpcC1yb2FkbWFwLXJldmVhbHMtcmszNTc2LWFuZC1yazM1MDYtaW90LXByb2Nlc3NvcnMtbGludXgtNi0xLXNkay_SAQA",
+          "author": null,
+          "description": "Rockchip roadmap reveals RK3576 and RK3506 IoT processors ...  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8wMi9yb2NrY2hpcC1yb2FkbWFwLXJldmVhbHMtcmszNTc2LWFuZC1yazM1MDYtaW90LXByb2Nlc3NvcnMtbGludXgtNi0xLXNkay_SAQA?oc=5",
+          "publishedOn": "2023-11-02T04:25:24.000Z",
+          "wordCount": 5039,
+          "title": "Rockchip roadmap reveals RK3576 and RK3506 IoT processors ... - CNX Software",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8984,86 +9044,6 @@
           "wordCount": 4996,
           "title": "Some US Lawmakers Want to Restrict American Companies From ... - Slashdot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL2RhdjFkLTEuMy1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "dav1d 1.3 Yields Lower Memory Use, More Arm NEON Optimizations  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL2RhdjFkLTEuMy1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2023-10-07T12:28:00.000Z",
-          "wordCount": 4996,
-          "title": "dav1d 1.3 Yields Lower Memory Use, More Arm NEON Optimizations - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0tXaW4tVGFrZXMtT3Zlci1LU2NyZWVuLUR1dGllc9IBAA",
-          "author": null,
-          "description": "KWin Replaces KScreen For Handling Monitor Arrangement Under ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0tXaW4tVGFrZXMtT3Zlci1LU2NyZWVuLUR1dGllc9IBAA?oc=5",
-          "publishedOn": "2023-10-07T10:30:00.000Z",
-          "wordCount": 4996,
-          "title": "KWin Replaces KScreen For Handling Monitor Arrangement Under ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLXg4Ni1zaW1kLXNvcnQtMy4w0gEA",
-          "author": null,
-          "description": "OpenJDK Merges Intel's x86-simd-sort For Speeding Up Data ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLXg4Ni1zaW1kLXNvcnQtMy4w0gEA?oc=5",
-          "publishedOn": "2023-10-06T21:10:00.000Z",
-          "wordCount": 4996,
-          "title": "OpenJDK Merges Intel's x86-simd-sort For Speeding Up Data ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTmh0dHBzOi8vZHVvLmNvbS9kZWNpcGhlci9oaWdoLXNldmVyaXR5LWdsaWJjLWJ1Zy1pbXBhY3RzLW1ham9yLWxpbnV4LXBsYXRmb3Jtc9IBAA",
-          "author": null,
-          "description": "High-Severity Glibc Bug Impacts Major Linux Platforms  Duo Security",
-          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZHVvLmNvbS9kZWNpcGhlci9oaWdoLXNldmVyaXR5LWdsaWJjLWJ1Zy1pbXBhY3RzLW1ham9yLWxpbnV4LXBsYXRmb3Jtc9IBAA?oc=5",
-          "publishedOn": "2023-10-06T19:03:13.000Z",
-          "wordCount": 4996,
-          "title": "High-Severity Glibc Bug Impacts Major Linux Platforms - Duo Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvc3BvbnNvcmVkL2Rvd25sb2FkLXRoZS1tYXN0ZXJpbmctbGludXgtc2VjdXJpdHktYW5kLWhhcmRlbmluZy1lYm9vay13b3J0aC0zNi1mb3ItZnJlZS_SAQA",
-          "author": null,
-          "description": "Download the \"Mastering Linux Security and Hardening\" eBook ...  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvc3BvbnNvcmVkL2Rvd25sb2FkLXRoZS1tYXN0ZXJpbmctbGludXgtc2VjdXJpdHktYW5kLWhhcmRlbmluZy1lYm9vay13b3J0aC0zNi1mb3ItZnJlZS_SAQA?oc=5",
-          "publishedOn": "2023-10-06T16:00:00.000Z",
-          "wordCount": 4996,
-          "title": "Download the \"Mastering Linux Security and Hardening\" eBook ... - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbnJpbmctaXMtYS1mcmVlLXVsdGltYS1saWtlLXJwZy1mcm9tLXRoZS1mYWJsZS1jby1jcmVhdG9yL9IBAA",
-          "author": null,
-          "description": "Moonring is a free Ultima-like RPG from the Fable co-creator  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbnJpbmctaXMtYS1mcmVlLXVsdGltYS1saWtlLXJwZy1mcm9tLXRoZS1mYWJsZS1jby1jcmVhdG9yL9IBAA?oc=5",
-          "publishedOn": "2023-10-06T15:16:05.000Z",
-          "wordCount": 4996,
-          "title": "Moonring is a free Ultima-like RPG from the Fable co-creator - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihgFodHRwczovL3d3dy5waG9uYW5kcm9pZC5jb20vbGludXgtY2V0dGUtZmFpbGxlLWRlLXNlY3VyaXRlLWNyaXRpcXVlLWV4cG9zZS1kZXMtbWlsbGlvbnMtZGUtcGMtYXV4LXBpcmF0ZXMtbWlzZS1hLWpvdXItb2JsaWdhdG9pcmUuaHRtbNIBigFodHRwczovL3d3dy5waG9uYW5kcm9pZC5jb20vbGludXgtY2V0dGUtZmFpbGxlLWRlLXNlY3VyaXRlLWNyaXRpcXVlLWV4cG9zZS1kZXMtbWlsbGlvbnMtZGUtcGMtYXV4LXBpcmF0ZXMtbWlzZS1hLWpvdXItb2JsaWdhdG9pcmUuaHRtbC9hbXA",
-          "author": null,
-          "description": "Linux : cette faille de sécurité critique expose des millions de PC aux pirates, mise à jour obligatoire  Phonandroid",
-          "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5waG9uYW5kcm9pZC5jb20vbGludXgtY2V0dGUtZmFpbGxlLWRlLXNlY3VyaXRlLWNyaXRpcXVlLWV4cG9zZS1kZXMtbWlsbGlvbnMtZGUtcGMtYXV4LXBpcmF0ZXMtbWlzZS1hLWpvdXItb2JsaWdhdG9pcmUuaHRtbNIBigFodHRwczovL3d3dy5waG9uYW5kcm9pZC5jb20vbGludXgtY2V0dGUtZmFpbGxlLWRlLXNlY3VyaXRlLWNyaXRpcXVlLWV4cG9zZS1kZXMtbWlsbGlvbnMtZGUtcGMtYXV4LXBpcmF0ZXMtbWlzZS1hLWpvdXItb2JsaWdhdG9pcmUuaHRtbC9hbXA?oc=5",
-          "publishedOn": "2023-10-06T14:27:02.000Z",
-          "wordCount": 4996,
-          "title": "Linux : cette faille de sécurité critique expose des millions de PC aux pirates, mise à jour obligatoire - Phonandroid",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1PcGVuU0lMLUdsb2JhbC1PQ1AtMjAyM9IBAA",
-          "author": null,
-          "description": "AMD OpenSIL Will Be Talked About Later This Month At The 2023 ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1PcGVuU0lMLUdsb2JhbC1PQ1AtMjAyM9IBAA?oc=5",
-          "publishedOn": "2023-10-06T14:27:00.000Z",
-          "wordCount": 4996,
-          "title": "AMD OpenSIL Will Be Talked About Later This Month At The 2023 ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9969,36 +9949,6 @@
           "wordCount": 2572,
           "title": "API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/FCC-cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/",
-          "author": "Saheed Oladele",
-          "description": "The React team no longer recommends using create-react-app (CRA) [https://github.com/facebook/create-react-app] as a bundler to create a new React application. The team and community realized that even though CRA was a jump-starter, it lacked the flexibility needed to configure or manage large and complex applications. Nowadays, the team recommends using production-grade",
-          "link": "https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/",
-          "publishedOn": "2023-10-06T18:01:00.000Z",
-          "wordCount": 2441,
-          "title": "How to Migrate from create-react-app to Vite using Jest and Browserslist",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-tima-miroshnichenko-5380664.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/",
-          "author": "Jaja Ibifubara David",
-          "description": "For years, URLs have been synonymous with web navigation. But the tide is turning, especially with the emergence of single-page applications. In the React universe, URLs are stepping up to play a pivotal role in state management. This article will guide you through the transformative journey of URLs as state",
-          "link": "https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/",
-          "publishedOn": "2023-10-06T17:50:28.000Z",
-          "wordCount": 3366,
-          "title": "How to Use URLs for State Management in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Article-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/",
-          "author": "Beau Carnes",
-          "description": "The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.",
-          "link": "https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/",
-          "publishedOn": "2023-10-06T15:16:06.000Z",
-          "wordCount": 934,
-          "title": "The Ethics of AI and ML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/aiethics.png"
         }
       ]
     }
