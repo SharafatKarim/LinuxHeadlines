@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=85930",
+          "author": "Linux Explorer",
+          "description": "In Python, the “double-ended queue” named “deque” is a data structure that is utilized to append and pop items from both ends.",
+          "link": "https://linuxhint.com/python-deque/",
+          "publishedOn": "2023-11-05T18:58:10.000Z",
+          "wordCount": 4572,
+          "title": "Python Deque",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=147086",
           "author": "Dave Sumaylo",
           "description": "Tutorial on how to use the sigaction() function to change or restore the action of a signal and how to spot the errors that can occur when using sigaction().",
@@ -1290,196 +1300,6 @@
           "wordCount": 4962,
           "title": "How to Install Eclipse IDE on Fedora Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382060",
-          "author": "Komal Batool Batool",
-          "description": "We can compute the common logarithm of any real or complex values having the domain [0,inf] using the log10() function in MATLAB.",
-          "link": "https://linuxhint.com/find-common-logarithm-base-10-matlab/",
-          "publishedOn": "2023-10-07T21:33:02.000Z",
-          "wordCount": 5435,
-          "title": "How to Find Common Logarithm (base 10) in MATLAB Using log10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382081",
-          "author": "Zainab Rehman",
-          "description": "You can fix Screen Time issues on iPhone by restarting iPhone, re-enable Screen Time, turn off Low Power Mode and more. For more details, read this guide.",
-          "link": "https://linuxhint.com/fix-screen-time-issues-iphone/",
-          "publishedOn": "2023-10-07T21:26:13.000Z",
-          "wordCount": 5203,
-          "title": "How to Fix Screen Time Issues on iPhone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382065",
-          "author": "Komal Batool Batool",
-          "description": "MATLAB provides us with a built-in symsum() function to compute the sum of the symbolic series. Read this guide for more details.",
-          "link": "https://linuxhint.com/find-symbolic-sum-series-matlab-using-symsum/",
-          "publishedOn": "2023-10-07T21:25:35.000Z",
-          "wordCount": 5349,
-          "title": "How to Find Symbolic Sum of Series in MATLAB Using symsum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382070",
-          "author": "Komal Batool Batool",
-          "description": "fit() is a built-in function in MATLAB that is used to fit data to the curve or surface. Read this guide for more details.",
-          "link": "https://linuxhint.com/fit-function-matlab/",
-          "publishedOn": "2023-10-07T21:21:58.000Z",
-          "wordCount": 3979,
-          "title": "How to Fit Curve or Surface to Data in MATLAB Using fit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382076",
-          "author": "Umar Hassan",
-          "description": "The “Connection Refused” errors can be fixed by analyzing the Docker Container configuration, checking network accessibility, inspecting Docker logs.",
-          "link": "https://linuxhint.com/fix-docker-network-connection-refused-errors-containers-aws/",
-          "publishedOn": "2023-10-07T21:19:09.000Z",
-          "wordCount": 4991,
-          "title": "How to Fix “Docker Network Connection Refused” Errors When Running Docker Containers in AWS EC2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382239",
-          "author": "Syed Minhal Abbas",
-          "description": "To generate images fast with the Turbo mode in Midjourney 5.2, type /setting command in the terminal and choose the “Turbo” mode in the Midjourney settings.",
-          "link": "https://linuxhint.com/fast-turbo-mode-midjourney/",
-          "publishedOn": "2023-10-07T21:10:46.000Z",
-          "wordCount": 5135,
-          "title": "How to Generate Images Fast With the Turbo Mode in Midjourney 5.2?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382243",
-          "author": "Syed Minhal Abbas",
-          "description": "To create a transparent background image on Midjourney, add the keyword “transparent”, “cutout” or “white background” with the prompt.",
-          "link": "https://linuxhint.com/transparent-background-image-midjourney/",
-          "publishedOn": "2023-10-07T21:07:28.000Z",
-          "wordCount": 4993,
-          "title": "How to Get a Transparent Background Image on Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382226",
-          "author": "Umar Hassan",
-          "description": "A banner refers to an eye-catching extension of the site's header that comprises a large, prominent image and can be designed using HTML and CSS styling.",
-          "link": "https://linuxhint.com/handle-overflowing-text-with-css/",
-          "publishedOn": "2023-10-07T20:56:59.000Z",
-          "wordCount": 5185,
-          "title": "How to Handle Overflowing Text with CSS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382198",
-          "author": "Umar Hassan",
-          "description": "To apply a health check for a Docker container, run a container from busybox image, fetch its IP, apply a health check, and lastly clean up the image.",
-          "link": "https://linuxhint.com/implement-a-health-check-for-a-docker-container/",
-          "publishedOn": "2023-10-07T20:45:25.000Z",
-          "wordCount": 5354,
-          "title": "How to Implement a Healthcheck for a Docker Container",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382189",
-          "author": "Umar Hassan",
-          "description": "The common vulnerabilities in Docker Container Security can be mitigated by avoiding root permissions, scanning the images, or utilizing resources effectively.",
-          "link": "https://linuxhint.com/mitigate-common-vulnerabilities-in-docker-container-security/",
-          "publishedOn": "2023-10-07T20:17:07.000Z",
-          "wordCount": 4951,
-          "title": "How to Mitigate Common Vulnerabilities in Docker Container Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382179",
-          "author": "Laiba Younas",
-          "description": "To perform a tensor conversion in PyTorch, use “bool()”, “short()”, “long()”, “half()”, and “double()” functions to convert a tensor into different data types.",
-          "link": "https://linuxhint.com/perform-tensor-conversions-pytorch/",
-          "publishedOn": "2023-10-07T20:04:54.000Z",
-          "wordCount": 4826,
-          "title": "How to Perform Tensor Conversions Using PyTorch?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382165",
-          "author": "Zainab Rehman",
-          "description": "iCloud sync problems can be frustrating, but they are usually easy to fix. Read this guide to find out different ways to fix it quickly.",
-          "link": "https://linuxhint.com/resolve-icloud-syncing-problems-iphone/",
-          "publishedOn": "2023-10-07T19:55:56.000Z",
-          "wordCount": 5107,
-          "title": "How to Resolve iCloud Syncing Problems on Your iPhone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382151",
-          "author": "Syed Minhal Abbas",
-          "description": "To switch Midjourney version 4 to version 5, type the “/settings” command in the text prompt, and choose the latest version “Midjourney Model V5.2”.",
-          "link": "https://linuxhint.com/switch-midjourney-version4-version5/",
-          "publishedOn": "2023-10-07T19:38:06.000Z",
-          "wordCount": 5242,
-          "title": "How to Switch Midjourney Version 4 to Version 5?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382116",
-          "author": "Syed Minhal Abbas",
-          "description": "To use the quality parameter in Midjourney, input the --quality or --q parameter at the last of the prompt description. It controls the quality of the images.",
-          "link": "https://linuxhint.com/quality-parameter-midjourney/",
-          "publishedOn": "2023-10-07T19:24:14.000Z",
-          "wordCount": 5052,
-          "title": "How to Use the Quality Parameter in Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382144",
-          "author": "Syed Minhal Abbas",
-          "description": "To use the image weight parameter in Midjourney, type prompt with the --iw parameter. The image weight parameter is a useful feature of Midjourney.",
-          "link": "https://linuxhint.com/image-weight-parameter-midjourney/",
-          "publishedOn": "2023-10-07T19:23:22.000Z",
-          "wordCount": 4838,
-          "title": "How to Use Image Weight Parameters in Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382109",
-          "author": "Syed Minhal Abbas",
-          "description": "To use the --stop parameter in Midjourney, add it to the end of the command. It allows you to control when the Midjourney AI tool stops generating images.",
-          "link": "https://linuxhint.com/use-stop-parameter-midjourney/",
-          "publishedOn": "2023-10-07T18:59:22.000Z",
-          "wordCount": 4841,
-          "title": "How to Use the –stop Parameter in Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382100",
-          "author": "Syed Minhal Abbas",
-          "description": "To use the --tile parameter, you need to access Midjourney. After that, specify the input prompt to generate the output image, with the --tile parameter.",
-          "link": "https://linuxhint.com/use-tile-parameter-midjourney/",
-          "publishedOn": "2023-10-07T18:58:40.000Z",
-          "wordCount": 4819,
-          "title": "How to Use the Tile Parameter in Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382092",
-          "author": "Syed Minhal Abbas",
-          "description": "The weird parameter is a unique feature of Midjourney that allows users to manipulate the style, color, shape, and texture of their artwork in creative ways.",
-          "link": "https://linuxhint.com/use-weird-parameter-midjourney/",
-          "publishedOn": "2023-10-07T18:57:53.000Z",
-          "wordCount": 4974,
-          "title": "How to Use the Weird Parameter in Midjourney?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=382082",
-          "author": "Abdul Mateen",
-          "description": "To remove the specific files using the “git-filter-repo” tool, use the command syntax “git-filter-repo --force --path  --invert-paths”.",
-          "link": "https://linuxhint.com/utilize-git-filter-repo-remove-specific-files-repository/",
-          "publishedOn": "2023-10-07T18:13:52.000Z",
-          "wordCount": 4913,
-          "title": "How to Utilize Git-Filter-Repo to Remove Specific Files from Your Repository?",
-          "imageUrl": null
         }
       ]
     },
@@ -1488,6 +1308,96 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186500",
+          "author": "Web Webster",
+          "description": "In this tutorial, we will guide you step by step through the installation process of BookStack on the Debian 12 server so that you can have your own wiki-like platform for posting information.\nThe post How to Install BookStack on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-bookstack-on-debian-12/",
+          "publishedOn": "2023-11-07T01:00:07.000Z",
+          "wordCount": 17018,
+          "title": "How to Install BookStack on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186524",
+          "author": "Web Webster",
+          "description": "In this tutorial, discover the easiest and right way to run a Python script or Python code in your PHP or HTML file using two different methods with practical examples.\nThe post How to Run a Python Script on a PHP/HTML File appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-run-a-python-script-on-a-php-html-file/",
+          "publishedOn": "2023-11-06T23:00:54.000Z",
+          "wordCount": 17244,
+          "title": "How to Run a Python Script on a PHP/HTML File",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186520",
+          "author": "Web Webster",
+          "description": "Discover how to install VirtualBox on Manjaro with our comprehensive guide. Get your virtual machines up and running in no time!\nThe post Install VirtualBox on Manjaro Linux: A Step-by-Step Guide appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/install-virtualbox-on-manjaro-linux-a-step-by-step-guide/",
+          "publishedOn": "2023-11-06T21:00:05.000Z",
+          "wordCount": 17214,
+          "title": "Install VirtualBox on Manjaro Linux: A Step-by-Step Guide",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186522",
+          "author": "Web Webster",
+          "description": "This article focuses on the best open-source software for physics and physics education. Hopefully, there will be something of interest here for all budding physicists.\nThe post 19 Best Free and Open-Source Linux Physics Tools appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/19-best-free-and-open-source-linux-physics-tools/",
+          "publishedOn": "2023-11-06T19:00:48.000Z",
+          "wordCount": 17215,
+          "title": "19 Best Free and Open-Source Linux Physics Tools",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186527",
+          "author": "Web Webster",
+          "description": "This beginner’s guide explains the steps to install Debian 12 “Bookworm” with standalone and dual-boot systems.\nThe post Complete Guide to Installing Debian 12 ‘Bookworm’ With Dual Boot appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/complete-guide-to-installing-debian-12-bookworm-with-dual-boot/",
+          "publishedOn": "2023-11-06T18:00:19.000Z",
+          "wordCount": 17209,
+          "title": "Complete Guide to Installing Debian 12 ‘Bookworm’ With Dual Boot",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186503",
+          "author": "Web Webster",
+          "description": "Here’s a list of tools that you can install on your machine to sniff out vulnerabilities, viruses, and malware and prevent malicious attacks.\nThe post 22 Open-Source Linux Server Security Tools in 2023 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/security/22-open-source-linux-server-security-tools-in-2023/",
+          "publishedOn": "2023-11-06T17:00:09.000Z",
+          "wordCount": 17261,
+          "title": "22 Open-Source Linux Server Security Tools in 2023",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186523",
+          "author": "Web Webster",
+          "description": "LXQt 1.4 is here almost seven months after LXQt 1.3, and it looks like it’s the last update to be based on the Qt 5 open-source application framework. The devs are already porting it to Qt 6, and the next LXQt release should be fully ported if everything goes according to plan.\nThe post LXQt 1.4 Desktop Environment Officially Released, This Is What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/lxqt-1-4-desktop-environment-officially-released-this-is-whats-new/",
+          "publishedOn": "2023-11-06T16:00:47.000Z",
+          "wordCount": 17252,
+          "title": "LXQt 1.4 Desktop Environment Officially Released, This Is What’s New",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186514",
+          "author": "Web Webster",
+          "description": "The day has come. As promised, three major business Linux companies have released the code for OpenELA, their challenge to RHEL.\nThe post CIQ, Oracle & SUSE Unite Behind OpenELA to Take on Red Hat Enterprise Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/ciq-oracle-suse-unite-behind-openela-to-take-on-red-hat-enterprise-linux/",
+          "publishedOn": "2023-11-06T15:00:41.000Z",
+          "wordCount": 17241,
+          "title": "CIQ, Oracle & SUSE Unite Behind OpenELA to Take on Red Hat Enterprise Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186531",
+          "author": "Web Webster",
+          "description": "Your journey into Ubuntu begins here. Dive into its history, features, and benefits—a comprehensive guide for newcomers.\nThe post Ubuntu: The Flagship Distro of the Linux World appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/ubuntu-the-flagship-distro-of-the-linux-world/",
+          "publishedOn": "2023-11-06T14:00:23.000Z",
+          "wordCount": 17214,
+          "title": "Ubuntu: The Flagship Distro of the Linux World",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186448",
           "author": "Web Webster",
@@ -3457,26 +3367,6 @@
           "wordCount": 17197,
           "title": "How to Install OpenMRS on Ubuntu 22.04",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185927",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will set up and configure a local DNS Server with Dnsmasq on a Debian 12 server. Follow along here.\nThe post How to Set Up Local DNS With Dnsmasq on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-set-up-local-dns-with-dnsmasq-on-debian-12/",
-          "publishedOn": "2023-10-07T21:00:00.000Z",
-          "wordCount": 17226,
-          "title": "How to Set Up Local DNS With Dnsmasq on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185926",
-          "author": "Web Webster",
-          "description": "This quick tutorial describes how to configure VLAN tagging over LACP bonding on a RHEL system, which listens for two VLANs. Follow along here.\nThe post How to Configure VLAN Tagging Over Bonding on RHEL appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-configure-vlan-tagging-over-bonding-on-rhel/",
-          "publishedOn": "2023-10-07T15:00:59.000Z",
-          "wordCount": 17228,
-          "title": "How to Configure VLAN Tagging Over Bonding on RHEL",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3485,6 +3375,176 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LnRodXJyb3R0LmNvbS9mb3J1bXMvZ2VuZXJhbC1kaXNjdXNzaW9uL2xpbnV4L3RocmVhZC9pbnRlbC1pdGFuaXVtLXN1cHBvcnQtYmVpbmctZHJvcHBlZC1pbi1saW51eNIBAA",
+          "author": null,
+          "description": "Intel Itanium Support Being Dropped in Linux  Thurrott.com",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRodXJyb3R0LmNvbS9mb3J1bXMvZ2VuZXJhbC1kaXNjdXNzaW9uL2xpbnV4L3RocmVhZC9pbnRlbC1pdGFuaXVtLXN1cHBvcnQtYmVpbmctZHJvcHBlZC1pbi1saW51eNIBAA?oc=5",
+          "publishedOn": "2023-11-07T00:16:49.000Z",
+          "wordCount": 5039,
+          "title": "Intel Itanium Support Being Dropped in Linux - Thurrott.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2ltcHJlc3Npb24taW1hZ2Utd3JpdGVyLWZvci1saW51eC1ub3ctZG93bmxvYWRzLWlzb3MtdG9v0gFgaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTEvaW1wcmVzc2lvbi1pbWFnZS13cml0ZXItZm9yLWxpbnV4LW5vdy1kb3dubG9hZHMtaXNvcy10b28vYW1w",
+          "author": null,
+          "description": "Impression Updated  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2ltcHJlc3Npb24taW1hZ2Utd3JpdGVyLWZvci1saW51eC1ub3ctZG93bmxvYWRzLWlzb3MtdG9v0gFgaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTEvaW1wcmVzc2lvbi1pbWFnZS13cml0ZXItZm9yLWxpbnV4LW5vdy1kb3dubG9hZHMtaXNvcy10b28vYW1w?oc=5",
+          "publishedOn": "2023-11-07T00:01:20.000Z",
+          "wordCount": 5039,
+          "title": "Impression Updated - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaGFja2Vycy1leHBsb2l0LWxvb25leS10dW5hYmxlcy1saW51eC1idWctc3RlYWwtY2xvdWQtY3JlZHMv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9oYWNrZXJzLWV4cGxvaXQtbG9vbmV5LXR1bmFibGVzLWxpbnV4LWJ1Zy1zdGVhbC1jbG91ZC1jcmVkcy9hbXAv",
+          "author": null,
+          "description": "Hackers exploit Looney Tunables Linux bug, steal cloud creds  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvaGFja2Vycy1leHBsb2l0LWxvb25leS10dW5hYmxlcy1saW51eC1idWctc3RlYWwtY2xvdWQtY3JlZHMv0gFvaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9oYWNrZXJzLWV4cGxvaXQtbG9vbmV5LXR1bmFibGVzLWxpbnV4LWJ1Zy1zdGVhbC1jbG91ZC1jcmVkcy9hbXAv?oc=5",
+          "publishedOn": "2023-11-06T20:26:17.000Z",
+          "wordCount": 5039,
+          "title": "Hackers exploit Looney Tunables Linux bug, steal cloud creds - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0zNC1hYnVzaW5nLXRoZS1zeXN0ZW0v0gEA",
+          "author": null,
+          "description": "Building a Retro Linux Gaming Computer Part 34: Abusing the System  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvYnVpbGRpbmctYS1yZXRyby1saW51eC1nYW1pbmctY29tcHV0ZXItcGFydC0zNC1hYnVzaW5nLXRoZS1zeXN0ZW0v0gEA?oc=5",
+          "publishedOn": "2023-11-06T19:39:41.000Z",
+          "wordCount": 5039,
+          "title": "Building a Retro Linux Gaming Computer Part 34: Abusing the System - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1QZXJmLUV2ZW50c9IBAA",
+          "author": null,
+          "description": "Linux 6.7 Perf Adds Support For Zen 4 Unified Memory Controller Events  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1QZXJmLUV2ZW50c9IBAA?oc=5",
+          "publishedOn": "2023-11-06T19:21:00.000Z",
+          "wordCount": 5039,
+          "title": "Linux 6.7 Perf Adds Support For Zen 4 Unified Memory Controller Events - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9iZXN0LWxpbnV4LWRpc3Ryb3Mv0gEA",
+          "author": null,
+          "description": "5 best Linux distributions in 2023  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9iZXN0LWxpbnV4LWRpc3Ryb3Mv0gEA?oc=5",
+          "publishedOn": "2023-11-06T18:00:00.000Z",
+          "wordCount": 5039,
+          "title": "5 best Linux distributions in 2023 - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1zdGQtYzIzLWdudTIzLTIz0gEA",
+          "author": null,
+          "description": "GCC 14 Now Honors The -std=c23 & -std=gnu23 Compiler Options ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1zdGQtYzIzLWdudTIzLTIz0gEA?oc=5",
+          "publishedOn": "2023-11-06T17:56:00.000Z",
+          "wordCount": 5039,
+          "title": "GCC 14 Now Honors The -std=c23 & -std=gnu23 Compiler Options ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3Lm11eWxpbnV4LmNvbS8yMDIzLzExLzA2L2ZlZG9yYS0yMC1hbml2ZXJzYXJpby_SAT5odHRwczovL3d3dy5tdXlsaW51eC5jb20vMjAyMy8xMS8wNi9mZWRvcmEtMjAtYW5pdmVyc2FyaW8vYW1wLw",
+          "author": null,
+          "description": "Fedora cumple 20 años como pionero tecnológico de Linux  MuyLinux",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm11eWxpbnV4LmNvbS8yMDIzLzExLzA2L2ZlZG9yYS0yMC1hbml2ZXJzYXJpby_SAT5odHRwczovL3d3dy5tdXlsaW51eC5jb20vMjAyMy8xMS8wNi9mZWRvcmEtMjAtYW5pdmVyc2FyaW8vYW1wLw?oc=5",
+          "publishedOn": "2023-11-06T17:14:13.000Z",
+          "wordCount": 5039,
+          "title": "Fedora cumple 20 años como pionero tecnológico de Linux - MuyLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL3N5c3RlbWQtMjU1LXJjMdIBAA",
+          "author": null,
+          "description": "systemd 255-rc1 Brings \"Blue Screen of Death\" Support & New Tool ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL3N5c3RlbWQtMjU1LXJjMdIBAA?oc=5",
+          "publishedOn": "2023-11-06T14:04:00.000Z",
+          "wordCount": 5039,
+          "title": "systemd 255-rc1 Brings \"Blue Screen of Death\" Support & New Tool ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZGbXBlZy1DTEktTXVsdGktVGhyZWFkZWTSAQA",
+          "author": null,
+          "description": "FFmpeg Patches Allow For \"Fully Functional\" Multi-Threaded CLI  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZGbXBlZy1DTEktTXVsdGktVGhyZWFkZWTSAQA?oc=5",
+          "publishedOn": "2023-11-06T13:28:00.000Z",
+          "wordCount": 5039,
+          "title": "FFmpeg Patches Allow For \"Fully Functional\" Multi-Threaded CLI - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLTItMTAtMC1yZWxlYXNlZC13aXRoLXBsZW50eS1vZi1lc3NlbnRpYWwtZml4ZXMv0gEA",
+          "author": null,
+          "description": "Heroic Games Launcher 2.10.0 released with plenty of essential fixes  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvaGVyb2ljLWdhbWVzLWxhdW5jaGVyLTItMTAtMC1yZWxlYXNlZC13aXRoLXBsZW50eS1vZi1lc3NlbnRpYWwtZml4ZXMv0gEA?oc=5",
+          "publishedOn": "2023-11-06T13:23:55.000Z",
+          "wordCount": 5039,
+          "title": "Heroic Games Launcher 2.10.0 released with plenty of essential fixes - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZpcmVmb3gtR29pbmctR2l00gEA",
+          "author": null,
+          "description": "Mozilla Firefox Development Finally Moving Entirely To Git  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZpcmVmb3gtR29pbmctR2l00gEA?oc=5",
+          "publishedOn": "2023-11-06T13:13:00.000Z",
+          "wordCount": 5039,
+          "title": "Mozilla Firefox Development Finally Moving Entirely To Git - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbmdvdmVyLTguMTnSAQA",
+          "author": null,
+          "description": "Hangover 8.19 Improves Box64 Integration For Running Windows ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbmdvdmVyLTguMTnSAQA?oc=5",
+          "publishedOn": "2023-11-06T11:20:00.000Z",
+          "wordCount": 5039,
+          "title": "Hangover 8.19 Improves Box64 Integration For Running Windows ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbm92ZW1iZXItNXRoLTIwMjPSAURodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLW5vdmVtYmVyLTV0aC0yMDIzL2FtcA",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: November 5th, 2023  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbm92ZW1iZXItNXRoLTIwMjPSAURodHRwczovLzl0bzVsaW51eC5jb20vOXRvNWxpbnV4LXdlZWtseS1yb3VuZHVwLW5vdmVtYmVyLTV0aC0yMDIzL2FtcA?oc=5",
+          "publishedOn": "2023-11-06T11:01:43.000Z",
+          "wordCount": 5039,
+          "title": "9to5Linux Weekly Roundup: November 5th, 2023 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1WQUFQSS1Ecml2ZXItMC4wLjEx0gEA",
+          "author": null,
+          "description": "NVIDIA-VAAPI-Driver 0.0.11 Delivers Various Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL05WSURJQS1WQUFQSS1Ecml2ZXItMC4wLjEx0gEA?oc=5",
+          "publishedOn": "2023-11-06T10:59:00.000Z",
+          "wordCount": 5039,
+          "title": "NVIDIA-VAAPI-Driver 0.0.11 Delivers Various Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LnBjZ2FtZXNoYXJkd2FyZS5kZS9MaW51eC1Tb2Z0d2FyZS0yNjc2MS9OZXdzL0dhcnVkYS1MaW51eC1taXQtWmVuLUtlcm5lbC0xNDMzMDg3L9IBAA",
+          "author": null,
+          "description": "Garuda Linux: Für Spieler optimierte und kuratierte Distribution mit ...  PC Games Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnBjZ2FtZXNoYXJkd2FyZS5kZS9MaW51eC1Tb2Z0d2FyZS0yNjc2MS9OZXdzL0dhcnVkYS1MaW51eC1taXQtWmVuLUtlcm5lbC0xNDMzMDg3L9IBAA?oc=5",
+          "publishedOn": "2023-11-06T05:30:00.000Z",
+          "wordCount": 5039,
+          "title": "Garuda Linux: Für Spieler optimierte und kuratierte Distribution mit ... - PC Games Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzA2LzAxNTMyMDMvaG93LXJlZC1oYXQtZGl2aWRlZC10aGUtb3Blbi1zb3VyY2UtY29tbXVuaXR50gEA",
+          "author": null,
+          "description": "How Red Hat Divided the Open Source Community  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzA2LzAxNTMyMDMvaG93LXJlZC1oYXQtZGl2aWRlZC10aGUtb3Blbi1zb3VyY2UtY29tbXVuaXR50gEA?oc=5",
+          "publishedOn": "2023-11-06T03:42:07.000Z",
+          "wordCount": 5039,
+          "title": "How Red Hat Divided the Open Source Community - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiSGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZdIBTGh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2JlYWNoYml0LTQtNi0wLXN5c3RlbS1jbGVhbmVyLXVwZGF0ZS9hbXA",
           "author": null,
@@ -3563,6 +3623,16 @@
           "publishedOn": "2023-11-05T11:01:00.000Z",
           "wordCount": 5039,
           "title": "GNOME Terminal Working To Migrate To GTK 4, VTE To Overcome ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiemh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzA1LzA0NjI0Ny93aGVuLWxpbnV4LXNwb29rZWQtbWljcm9zb2Z0LXJlbWVtYmVyaW5nLTE5OThzLWxlYWtlZC1oYWxsb3dlZW4tZG9jdW1lbnRz0gEA",
+          "author": null,
+          "description": "When Linux Spooked Microsoft: Remembering 1998's Leaked ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzA1LzA0NjI0Ny93aGVuLWxpbnV4LXNwb29rZWQtbWljcm9zb2Z0LXJlbWVtYmVyaW5nLTE5OThzLWxlYWtlZC1oYWxsb3dlZW4tZG9jdW1lbnRz0gEA?oc=5",
+          "publishedOn": "2023-11-05T04:15:52.000Z",
+          "wordCount": 5039,
+          "title": "When Linux Spooked Microsoft: Remembering 1998's Leaked ... - Slashdot",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -3703,6 +3773,16 @@
           "publishedOn": "2023-11-03T17:00:00.000Z",
           "wordCount": 5039,
           "title": "Wayland no Linux Mint e a data de lançamento do KDE Plasma 6.0 - Diolinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2NpcS1vcmFjbGUtYW5kLXN1c2UtdW5pdGUtYmVoaW5kLW9wZW5lbGEtdG8tdGFrZS1vbi1yZWQtaGF0LWVudGVycHJpc2UtbGludXgv0gEA",
+          "author": null,
+          "description": "CIQ, Oracle, and SUSE unite behind OpenELA to take on Red Hat Enterprise Linux  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2NpcS1vcmFjbGUtYW5kLXN1c2UtdW5pdGUtYmVoaW5kLW9wZW5lbGEtdG8tdGFrZS1vbi1yZWQtaGF0LWVudGVycHJpc2UtbGludXgv0gEA?oc=5",
+          "publishedOn": "2023-11-03T16:28:00.000Z",
+          "wordCount": 5039,
+          "title": "CIQ, Oracle, and SUSE unite behind OpenELA to take on Red Hat Enterprise Linux - ZDNet",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -3933,6 +4013,16 @@
           "publishedOn": "2023-11-02T16:19:00.000Z",
           "wordCount": 5039,
           "title": "KDE Plasma 6.0 Approved For Fedora 40 - Including Dropping The ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmhwY3dpcmUuY29tLzIwMjMvMTEvMDIvaW50ZWwtaXRhbml1bS1pYS02NC1zdXBwb3J0LXJlbW92ZWQtZnJvbS10aGUtbGludXgtNi03LWtlcm5lbC_SAQA",
+          "author": null,
+          "description": "Intel Itanium IA-64 Support Removed From The Linux 6.7 Kernel  HPCwire",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmhwY3dpcmUuY29tLzIwMjMvMTEvMDIvaW50ZWwtaXRhbml1bS1pYS02NC1zdXBwb3J0LXJlbW92ZWQtZnJvbS10aGUtbGludXgtNi03LWtlcm5lbC_SAQA?oc=5",
+          "publishedOn": "2023-11-02T14:47:01.000Z",
+          "wordCount": 5039,
+          "title": "Intel Itanium IA-64 Support Removed From The Linux 6.7 Kernel - HPCwire",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8964,86 +9054,6 @@
           "wordCount": 4996,
           "title": "AMD Versal EDAC Driver Set For Introduction In Linux 6.7 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjItUmF6ZXItTGludXjSAQA",
-          "author": null,
-          "description": "Polychromatic 0.8.2 Released For Managing Razer Peripherals On Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjItUmF6ZXItTGludXjSAQA?oc=5",
-          "publishedOn": "2023-10-08T12:46:00.000Z",
-          "wordCount": 4996,
-          "title": "Polychromatic 0.8.2 Released For Managing Razer Peripherals On Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItMi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTExNy1idWctZml4ZXMtYW5kLTUyLXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTItYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xMTctYnVnLWZpeGVzLWFuZC01Mi1zZWN1cml0eS11cGRhdGVzL2FtcA",
-          "author": null,
-          "description": "Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kZWJpYW4tMTItMi1ib29rd29ybS1yZWxlYXNlZC13aXRoLTExNy1idWctZml4ZXMtYW5kLTUyLXNlY3VyaXR5LXVwZGF0ZXPSAWJodHRwczovLzl0bzVsaW51eC5jb20vZGViaWFuLTEyLTItYm9va3dvcm0tcmVsZWFzZWQtd2l0aC0xMTctYnVnLWZpeGVzLWFuZC01Mi1zZWN1cml0eS11cGRhdGVzL2FtcA?oc=5",
-          "publishedOn": "2023-10-08T07:59:00.000Z",
-          "wordCount": 4996,
-          "title": "Debian 12.2 “Bookworm” Released with 117 Bug Fixes and 52 Security Updates - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9pbnNpZGUvbWFjL3RpcHMvaG93LXRvLXR1cm4teW91ci12aW50YWdlLW1hYy1pbnRvLWEtc3RlYW0tZ2FtaW5nLW1hY2hpbmUtdXNpbmctYmF6eml0ZdIBAA",
-          "author": null,
-          "description": "How to turn a vintage Mac into a Steam gaming machine with Bazzite  AppleInsider",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9pbnNpZGUvbWFjL3RpcHMvaG93LXRvLXR1cm4teW91ci12aW50YWdlLW1hYy1pbnRvLWEtc3RlYW0tZ2FtaW5nLW1hY2hpbmUtdXNpbmctYmF6eml0ZdIBAA?oc=5",
-          "publishedOn": "2023-10-07T22:54:38.000Z",
-          "wordCount": 4996,
-          "title": "How to turn a vintage Mac into a Steam gaming machine with Bazzite - AppleInsider",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdG9vbHMtdG8tcmVtZW1iZXItbGludXgtY29tbWFuZHMv0gEA",
-          "author": null,
-          "description": "5 Essential Tools to Remember Linux Commands  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vdG9vbHMtdG8tcmVtZW1iZXItbGludXgtY29tbWFuZHMv0gEA?oc=5",
-          "publishedOn": "2023-10-07T19:45:00.000Z",
-          "wordCount": 4996,
-          "title": "5 Essential Tools to Remember Linux Commands - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5aRlMtMi4yLXJjNS1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL09wZW5aRlMtMi4yLXJjNS1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2023-10-07T17:44:00.000Z",
-          "wordCount": 4996,
-          "title": "OpenZFS 2.2-rc5 Released With More Fixes & Linux 6.5 Compatibility - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif2h0dHBzOi8vbWVkaXVtLmNvbS9AbHVtaW5hZ2FvOTgvZGVteXN0aWZ5aW5nLWxpbnV4LW11c3Qta25vdy1jb21tYW5kcy1hbmQtdGlwcy1mb3ItZGF0YWJhc2UtbWFuYWdlbWVudC1wYXJ0LTMtb2YtMy1kOWY0MDMzMzM4MDTSAQA",
-          "author": null,
-          "description": "Demystifying Linux: Must-Know Commands and Tips for Database ...  Medium",
-          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vbWVkaXVtLmNvbS9AbHVtaW5hZ2FvOTgvZGVteXN0aWZ5aW5nLWxpbnV4LW11c3Qta25vdy1jb21tYW5kcy1hbmQtdGlwcy1mb3ItZGF0YWJhc2UtbWFuYWdlbWVudC1wYXJ0LTMtb2YtMy1kOWY0MDMzMzM4MDTSAQA?oc=5",
-          "publishedOn": "2023-10-07T17:14:01.000Z",
-          "wordCount": 4996,
-          "title": "Demystifying Linux: Must-Know Commands and Tips for Database ... - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Nocm9tZS0xMTktQmV0YdIBAA",
-          "author": null,
-          "description": "Chrome 119 Beta Released With CSS Relative Color Syntax ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Nocm9tZS0xMTktQmV0YdIBAA?oc=5",
-          "publishedOn": "2023-10-07T16:24:00.000Z",
-          "wordCount": 4996,
-          "title": "Chrome 119 Beta Released With CSS Relative Color Syntax ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFodHRwczovL25ld3Muc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzA3LzA1OTI1OC9zb21lLXVzLWxhd21ha2Vycy13YW50LXRvLXJlc3RyaWN0LWFtZXJpY2FuLWNvbXBhbmllcy1mcm9tLXdvcmtpbmctb24tcmlzYy12LWNoaXAtdGVjaG5vbG9nedIBAA",
-          "author": null,
-          "description": "Some US Lawmakers Want to Restrict American Companies From ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Muc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzA3LzA1OTI1OC9zb21lLXVzLWxhd21ha2Vycy13YW50LXRvLXJlc3RyaWN0LWFtZXJpY2FuLWNvbXBhbmllcy1mcm9tLXdvcmtpbmctb24tcmlzYy12LWNoaXAtdGVjaG5vbG9nedIBAA?oc=5",
-          "publishedOn": "2023-10-07T15:34:00.000Z",
-          "wordCount": 4996,
-          "title": "Some US Lawmakers Want to Restrict American Companies From ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9320,6 +9330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "author": "Andrico Karoulla",
+          "description": "The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of",
+          "link": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "publishedOn": "2023-11-06T20:25:12.000Z",
+          "wordCount": 3089,
+          "title": "How to Write Components that Work in Any Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/og-button.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/",
           "author": "Quincy Larson",
