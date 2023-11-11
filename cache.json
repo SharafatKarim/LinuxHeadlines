@@ -12,6 +12,46 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=125595",
+          "author": "Linux Explorer",
+          "description": "To install Docker on Debian, download the Docker gpg key and add it to APT source repository. Then, use “sudo apt install docker-ce” command to install Docker.",
+          "link": "https://linuxhint.com/install-docker-debian/",
+          "publishedOn": "2023-11-10T06:22:23.000Z",
+          "wordCount": 5721,
+          "title": "How to Install Docker on Debian 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=280173",
+          "author": "Linux Explorer",
+          "description": "To install docker on AWS Ubuntu, launch and connect to the EC2 instance and install prerequisite packages. Install the Docker using “install docker-ce” command.",
+          "link": "https://linuxhint.com/install-docker-aws-docker/",
+          "publishedOn": "2023-11-09T21:08:03.000Z",
+          "wordCount": 5863,
+          "title": "How to Install Docker on AWS Ubuntu?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=142388",
+          "author": "Linux Explorer",
+          "description": "To attach the running container to standard I/O and error stream, utilize the “docker attach ” command.",
+          "link": "https://linuxhint.com/attach-docker-running-container/",
+          "publishedOn": "2023-11-09T17:27:57.000Z",
+          "wordCount": 4650,
+          "title": "Docker Attach to Running Container",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=331371",
+          "author": "Linux Explorer",
+          "description": "“Microsoft PowerToys and utilities” requires installation first. There is a detailed view of all the utilities, including their use and shortcut keys.",
+          "link": "https://linuxhint.com/how-to-use-microsoft-powertoys-and-its-utilities-to-customize-windows/",
+          "publishedOn": "2023-11-09T09:17:36.000Z",
+          "wordCount": 8071,
+          "title": "How to Use Microsoft PowerToys and its Utilities to Customize Windows?",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=85930",
           "author": "Linux Explorer",
           "description": "In Python, the “double-ended queue” named “deque” is a data structure that is utilized to append and pop items from both ends.",
@@ -1298,6 +1338,86 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186390",
+          "author": "Web Webster",
+          "description": "Cockpit is a free and open-source server management console that makes it easy to administer your Linux servers via a web browser. In this tutorial, we will show you how to install and use Cockpit on Ubuntu 22.04.\nThe post How to Install Cockpit Web Console on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-cockpit-web-console-on-ubuntu-22-04/",
+          "publishedOn": "2023-11-11T01:00:29.000Z",
+          "wordCount": 16913,
+          "title": "How to Install Cockpit Web Console on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185990",
+          "author": "Web Webster",
+          "description": "In this article, you will find a brief description of the best collaborative platforms for Linux in 2023 so that you can compare their potential and features and make the perfect choice.\nThe post Top 5 Open-Source Collaboration Platforms for Linux in 2023 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/top-5-open-source-collaboration-platforms-for-linux-in-2023/",
+          "publishedOn": "2023-11-10T21:30:57.000Z",
+          "wordCount": 16914,
+          "title": "Top 5 Open-Source Collaboration Platforms for Linux in 2023",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186580",
+          "author": "Web Webster",
+          "description": "This guide highlights 11 Linux distributions and aims to shed light on who their targeted users are.\nThe post 11 Linux Distributions and Their Targeted Users appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/11-linux-distributions-and-their-targeted-users-2/",
+          "publishedOn": "2023-11-10T18:00:30.000Z",
+          "wordCount": 16892,
+          "title": "11 Linux Distributions and Their Targeted Users",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186628",
+          "author": "Web Webster",
+          "description": "This guide will walk you through how to install Pale Moon Browser on Debian 12 Bookworm, Debian 11 Bullseye, or Debian 10 Buster using the command line terminal.\nThe post How to Install Pale Moon Browser on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-pale-moon-browser-on-debian-12/",
+          "publishedOn": "2023-11-10T17:00:41.000Z",
+          "wordCount": 16918,
+          "title": "How to Install Pale Moon Browser on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186623",
+          "author": "Web Webster",
+          "description": "Java is a popular programming language and computing platform used for building applications and software solutions. This guide describes how to install various versions of Java on Ubuntu 22.04.\nThe post How to Install Java on Ubuntu 22.04 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-java-on-ubuntu-22-04/",
+          "publishedOn": "2023-11-10T16:00:43.000Z",
+          "wordCount": 16906,
+          "title": "How to Install Java on Ubuntu 22.04",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186627",
+          "author": "Web Webster",
+          "description": "GNOME gets €1 million from Sovereign Tech Fund to enhance tools, accessibility, and public-benefit features. Here’s more on that!\nThe post GNOME’s Giant Leap: Open-Source Project Receives €1 Million Boost appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/gnomes-giant-leap-open-source-project-receives-e1-million-boost/",
+          "publishedOn": "2023-11-10T15:00:23.000Z",
+          "wordCount": 16895,
+          "title": "GNOME’s Giant Leap: Open-Source Project Receives €1 Million Boost",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186622",
+          "author": "Web Webster",
+          "description": "The KDE Gear 23.08.3 app collection is here! Improved mime compatibility in Ark & crash-free Kate. Update your software suite now!\nThe post KDE Gear 23.08.3 Update Rolls Out With Essential Bug Fixes appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kde-gear-23-08-3-update-rolls-out-with-essential-bug-fixes/",
+          "publishedOn": "2023-11-10T14:00:14.000Z",
+          "wordCount": 16904,
+          "title": "KDE Gear 23.08.3 Update Rolls Out With Essential Bug Fixes",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186494",
+          "author": "Web Webster",
+          "description": "MLBench, a new, versatile machine learning tool, enables developers and maintainers to effortlessly gauge how their frameworks perform compared to other implementations, prior code versions, or across different boards, with respect to both runtime performance and other metrics.\nThe post Benchmarking Machine Learning Frameworks appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/benchmarking-machine-learning-frameworks/",
+          "publishedOn": "2023-11-10T03:00:28.000Z",
+          "wordCount": 16897,
+          "title": "Benchmarking Machine Learning Frameworks",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186611",
           "author": "Web Webster",
@@ -3327,126 +3447,6 @@
           "wordCount": 17212,
           "title": "How to Install Miniconda on Ubuntu 22.04",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186107",
-          "author": "Web Webster",
-          "description": "KDE Gear 23.08.2 is here a month after KDE Gear 23.08.1, and it’s packed with more bug fixes and improvements for your favorite KDE apps.\nThe post KDE Gear 23.08.2 Released With More Fixes for Your Favorite KDE Apps appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/kde-gear-23-08-2-released-with-more-fixes-for-your-favorite-kde-apps/",
-          "publishedOn": "2023-10-12T14:00:58.000Z",
-          "wordCount": 17241,
-          "title": "KDE Gear 23.08.2 Released With More Fixes for Your Favorite KDE Apps",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186102",
-          "author": "Web Webster",
-          "description": "SparkyLinux 2023.10 advances the SparkyLinux Rolling series and stands as a snapshot of the next stable SparkyLinux release, SparkyLinux 8 “The Seven Sisters,” which will be based on the upcoming Debian GNU/Linux 13 “Trixie” operating system series, due out sometime in 2025.\nThe post SparkyLinux 2023.10 Brings Linux Kernel 6.5, Latest Debian 13 “Trixie” Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparkylinux-2023-10-brings-linux-kernel-6-5-latest-debian-13-trixie-updates/",
-          "publishedOn": "2023-10-12T13:01:23.000Z",
-          "wordCount": 17274,
-          "title": "SparkyLinux 2023.10 Brings Linux Kernel 6.5, Latest Debian 13 “Trixie” Updates",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185985",
-          "author": "Web Webster",
-          "description": "In this tutorial, you will learn how to install and configure Zammad Helpdesk on AlmaLinux 8 or Rocky Linux 8.\nThe post How to Install Zammad Helpdesk on AlmaLinux or Rocky Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-zammad-helpdesk-on-almalinux-or-rocky-linux/",
-          "publishedOn": "2023-10-12T02:00:12.000Z",
-          "wordCount": 17249,
-          "title": "How to Install Zammad Helpdesk on AlmaLinux or Rocky Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185983",
-          "author": "Web Webster",
-          "description": "This tutorial will walk you through the steps in installing PHP, PostgreSQL, and the Apache Web server to create an Apache configuration file for phpPgAdmin.\nThe post How to Install phpPgAdmin on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-phppgadmin-on-debian-12/",
-          "publishedOn": "2023-10-12T00:00:06.000Z",
-          "wordCount": 17214,
-          "title": "How to Install phpPgAdmin on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186066",
-          "author": "Web Webster",
-          "description": "If you’re running GNOME on you Linux system(s), you are probably open to remote code execution attacks via a booby-trapped file, thanks to a memory corruption vulnerability (CVE-2023-43641) in the libcue library.\nThe post GNOME Users at risk of RCE Attack appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/gnome-users-at-risk-of-rce-attack/",
-          "publishedOn": "2023-10-11T22:00:01.000Z",
-          "wordCount": 17233,
-          "title": "GNOME Users at risk of RCE Attack",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186021",
-          "author": "Web Webster",
-          "description": "Arriving two and a half months after Debian 12.1, the Debian 12.2 release is here to provide those who want to deploy the operating system on new hardware with up-to-date installation media so they won’t have to download hundreds of updates from the repositories after the installation.\nThe post Debian 12.2 “Bookworm” Released With 117 Bug Fixes, 52 Security Updates appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/debian-12-2-bookworm-released-with-117-bug-fixes-52-security-updates/",
-          "publishedOn": "2023-10-11T20:00:51.000Z",
-          "wordCount": 17264,
-          "title": "Debian 12.2 “Bookworm” Released With 117 Bug Fixes, 52 Security Updates",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186075",
-          "author": "Web Webster",
-          "description": "This tutorial will explain how to install OpenLiteSpeed with MariaDB and PHP 8 on Debian 11.\nThe post How to Install OpenLiteSpeed Server With PHP 8.x on Debian appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-openlitespeed-server-with-php-8-x-on-debian/",
-          "publishedOn": "2023-10-11T18:00:03.000Z",
-          "wordCount": 17233,
-          "title": "How to Install OpenLiteSpeed Server With PHP 8.x on Debian",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186081",
-          "author": "Web Webster",
-          "description": "Ardour 8.0 is a big upgrade with new hardware support, improved automation creation, and more.\nThe post Ardour 8.0 Is an Apple-Friendly Update With Novation Launchpad Pro Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ardour-8-0-is-an-apple-friendly-update-with-novation-launchpad-pro-support/",
-          "publishedOn": "2023-10-11T17:00:35.000Z",
-          "wordCount": 17226,
-          "title": "Ardour 8.0 Is an Apple-Friendly Update With Novation Launchpad Pro Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186083",
-          "author": "Web Webster",
-          "description": "Curl v8.4.0 is out and fixes — among other things — a high-severity SOCKS5 heap buffer overflow vulnerability (CVE-2023-38545). Appropriate patches for some older curl versions have been released, too.\nThe post Curl Project Squashes High-Severity Bug in Omnipresent libcurl Library appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/curl-project-squashes-high-severity-bug-in-omnipresent-libcurl-library/",
-          "publishedOn": "2023-10-11T16:00:42.000Z",
-          "wordCount": 17239,
-          "title": "Curl Project Squashes High-Severity Bug in Omnipresent libcurl Library",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186080",
-          "author": "Web Webster",
-          "description": "The biggest change in the new Raspberry Pi OS release is that it’s now based on the latest Debian GNU/Linux 12 “Bookworm” operating system series.\nThe post Raspberry Pi OS Is Now Based on Debian Bookworm, Supports Raspberry Pi 5 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/raspberry-pi-os-is-now-based-on-debian-bookworm-supports-raspberry-pi-5/",
-          "publishedOn": "2023-10-11T15:00:45.000Z",
-          "wordCount": 17233,
-          "title": "Raspberry Pi OS Is Now Based on Debian Bookworm, Supports Raspberry Pi 5",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186076",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show how to install October CMS, a content management system written in PHP, using the LEMP stack.\nThe post How to Install October CMS on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-october-cms-on-debian-12/",
-          "publishedOn": "2023-10-11T14:00:20.000Z",
-          "wordCount": 17223,
-          "title": "How to Install October CMS on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186084",
-          "author": "Web Webster",
-          "description": "Intel i7-12700H and NVIDIA RTX 3050Ti power the new Slimbook 16, additionally optimized for Fedora’s specific hardware configurations.\nThe post Fedora & Slimbook Announce a New Intel i7 Linux Ultrabook appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fedora-slimbook-announce-a-new-intel-i7-linux-ultrabook/",
-          "publishedOn": "2023-10-11T13:19:51.000Z",
-          "wordCount": 17221,
-          "title": "Fedora & Slimbook Announce a New Intel i7 Linux Ultrabook",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3455,6 +3455,56 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBhcGVybWFnLmNvbS9saW51eC13aGF0LXlvdS1taXNzZWQtaGFsbG93ZWVu0gEA",
+          "author": null,
+          "description": "What You Missed This Halloween in NYC (According to Linux)  Papermag",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBhcGVybWFnLmNvbS9saW51eC13aGF0LXlvdS1taXNzZWQtaGFsbG93ZWVu0gEA?oc=5",
+          "publishedOn": "2023-11-10T20:05:13.000Z",
+          "wordCount": 5022,
+          "title": "What You Missed This Halloween in NYC (According to Linux) - Papermag",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZ2Vhci0yMy0wOC0zLWFycml2ZXMtd2l0aC1tb3JlLWZpeGVzLWZvci15b3VyLWZhdm9yaXRlLWtkZS1hcHBz0gFdaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1nZWFyLTIzLTA4LTMtYXJyaXZlcy13aXRoLW1vcmUtZml4ZXMtZm9yLXlvdXItZmF2b3JpdGUta2RlLWFwcHMvYW1w",
+          "author": null,
+          "description": "KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9rZGUtZ2Vhci0yMy0wOC0zLWFycml2ZXMtd2l0aC1tb3JlLWZpeGVzLWZvci15b3VyLWZhdm9yaXRlLWtkZS1hcHBz0gFdaHR0cHM6Ly85dG81bGludXguY29tL2tkZS1nZWFyLTIzLTA4LTMtYXJyaXZlcy13aXRoLW1vcmUtZml4ZXMtZm9yLXlvdXItZmF2b3JpdGUta2RlLWFwcHMvYW1w?oc=5",
+          "publishedOn": "2023-11-10T18:54:50.000Z",
+          "wordCount": 5022,
+          "title": "KDE Gear 23.08.3 Arrives with More Fixes for Your Favorite KDE Apps - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy14ODYtTWljcm9jb2Rl0gEA",
+          "author": null,
+          "description": "Linux 6.7 Overhauls x86 CPU Microcode Loading  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy14ODYtTWljcm9jb2Rl0gEA?oc=5",
+          "publishedOn": "2023-11-10T13:55:00.000Z",
+          "wordCount": 5022,
+          "title": "Linux 6.7 Overhauls x86 CPU Microcode Loading - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZyZWVCU0QtSW4tUTMtMjAyM9IBAA",
+          "author": null,
+          "description": "FreeBSD Adding More AMD64 SIMD, Continues Improving Linux ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZyZWVCU0QtSW4tUTMtMjAyM9IBAA?oc=5",
+          "publishedOn": "2023-11-10T11:19:00.000Z",
+          "wordCount": 5022,
+          "title": "FreeBSD Adding More AMD64 SIMD, Continues Improving Linux ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzEwL3NuYXBfd2l0aG91dF91YnVudHVfdG9vbHMv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzExLzEwL3NuYXBfd2l0aG91dF91YnVudHVfdG9vbHMv",
+          "author": null,
+          "description": "Canonical shows how to use Snaps without the Snap Store  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzEwL3NuYXBfd2l0aG91dF91YnVudHVfdG9vbHMv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzExLzEwL3NuYXBfd2l0aG91dF91YnVudHVfdG9vbHMv?oc=5",
+          "publishedOn": "2023-11-10T08:28:00.000Z",
+          "wordCount": 5022,
+          "title": "Canonical shows how to use Snaps without the Snap Store - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiYWh0dHBzOi8vd3d3LmluZm93b3JsZC5jb20vYXJ0aWNsZS8zNzEwMzg4L3JlZC1oYXQtbGludXgtcmV2cy1zdHJlYW1saW5lLWNvbnRhaW5lci1tYW5hZ2VtZW50Lmh0bWzSAWVodHRwczovL3d3dy5pbmZvd29ybGQuY29tL2FydGljbGUvMzcxMDM4OC9yZWQtaGF0LWxpbnV4LXJldnMtc3RyZWFtbGluZS1jb250YWluZXItbWFuYWdlbWVudC5hbXAuaHRtbA",
           "author": null,
@@ -3483,6 +3533,16 @@
           "publishedOn": "2023-11-09T20:50:20.000Z",
           "wordCount": 5022,
           "title": "How to Monitor Your System with Zabbix - Linux Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RlcmFrYW4tRG9lcy1UcmlhbmdsZXMtSEQtNjAwMNIBAA",
+          "author": null,
+          "description": "Terakan Driver Continues Working To Bring Vulkan To The Radeon ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RlcmFrYW4tRG9lcy1UcmlhbmdsZXMtSEQtNjAwMNIBAA?oc=5",
+          "publishedOn": "2023-11-09T20:34:00.000Z",
+          "wordCount": 5022,
+          "title": "Terakan Driver Continues Working To Bring Vulkan To The Radeon ... - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -3613,6 +3673,16 @@
           "publishedOn": "2023-11-09T11:02:00.000Z",
           "wordCount": 5022,
           "title": "Shields Ready campaign, AI rules for the election, ADA to Linux ... - CISO Series",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSmh0dHBzOi8vZmVkb3JhbWFnYXppbmUub3JnL2hvdy10by1yZWJhc2UtdG8tZmVkb3JhLWxpbnV4LTM5LW9uLXNpbHZlcmJsdWUv0gEA",
+          "author": null,
+          "description": "How to rebase to Fedora Linux 39 on Silverblue  Fedora Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZmVkb3JhbWFnYXppbmUub3JnL2hvdy10by1yZWJhc2UtdG8tZmVkb3JhLWxpbnV4LTM5LW9uLXNpbHZlcmJsdWUv0gEA?oc=5",
+          "publishedOn": "2023-11-09T10:11:27.000Z",
+          "wordCount": 5022,
+          "title": "How to rebase to Fedora Linux 39 on Silverblue - Fedora Magazine",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8814,276 +8884,6 @@
           "wordCount": 5002,
           "title": "FDBuild 0.1 Released To Make It Easier To Quickly Build Multiple ... - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdmFsdmUtbG9ja2luZy1kb3duLXB1Ymxpc2hpbmctc3RlYW0tYnVpbGRzLXdpdGgtc21zLWNvZGVzLWR1ZS10by1tYWx3YXJlL9IBAA",
-          "author": null,
-          "description": "Valve locking down publishing Steam builds with SMS codes due to ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdmFsdmUtbG9ja2luZy1kb3duLXB1Ymxpc2hpbmctc3RlYW0tYnVpbGRzLXdpdGgtc21zLWNvZGVzLWR1ZS10by1tYWx3YXJlL9IBAA?oc=5",
-          "publishedOn": "2023-10-12T13:52:41.000Z",
-          "wordCount": 5002,
-          "title": "Valve locking down publishing Steam builds with SMS codes due to ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvc3RlYW0tZGVjay1nZXRzLWEtbGFzZXItcG9pbnRlci1neXJvLW1vZGUtcGx1cy1tb3JlLWRlc2t0b3AtYW5kLXN0ZWFtdnItd29yay_SAQA",
-          "author": null,
-          "description": "Steam Deck gets a 'Laser Pointer' Gyro mode, plus more desktop ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvc3RlYW0tZGVjay1nZXRzLWEtbGFzZXItcG9pbnRlci1neXJvLW1vZGUtcGx1cy1tb3JlLWRlc2t0b3AtYW5kLXN0ZWFtdnItd29yay_SAQA?oc=5",
-          "publishedOn": "2023-10-12T12:55:16.000Z",
-          "wordCount": 5002,
-          "title": "Steam Deck gets a 'Laser Pointer' Gyro mode, plus more desktop ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1UTC1MaW51eC02LjctTmVhcnPSAQA",
-          "author": null,
-          "description": "Intel Racing Toward The Finish Line For Stable Meteor Lake ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1UTC1MaW51eC02LjctTmVhcnPSAQA?oc=5",
-          "publishedOn": "2023-10-12T12:37:00.000Z",
-          "wordCount": 5002,
-          "title": "Intel Racing Toward The Finish Line For Stable Meteor Lake ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvd2VsY29tZS10by1vcHBvc2l0ZS1sYW5kLXdoZXJlLW1pY3Jvc29mdC1oYXMtYS1saW51eC1pbnN0YWxsLXR1dG9yaWFsL9IBAA",
-          "author": null,
-          "description": "Welcome to opposite land where Microsoft has a Linux install tutorial  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvd2VsY29tZS10by1vcHBvc2l0ZS1sYW5kLXdoZXJlLW1pY3Jvc29mdC1oYXMtYS1saW51eC1pbnN0YWxsLXR1dG9yaWFsL9IBAA?oc=5",
-          "publishedOn": "2023-10-12T11:40:19.000Z",
-          "wordCount": 5002,
-          "title": "Welcome to opposite land where Microsoft has a Linux install tutorial - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8xMC9zaGVsbGJvdC11c2VzLWhleC1pcHMtdG8tZXZhZGUuaHRtbNIBAA",
-          "author": null,
-          "description": "ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH ...  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8xMC9zaGVsbGJvdC11c2VzLWhleC1pcHMtdG8tZXZhZGUuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-10-12T11:27:00.000Z",
-          "wordCount": 5002,
-          "title": "ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH ... - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzExLzE1MjEyNDkvbWljcm9zb2Z0LWdpdmVzLXVuZXhwZWN0ZWQtdHV0b3JpYWwtb24taG93LXRvLWluc3RhbGwtbGludXjSAQA",
-          "author": null,
-          "description": "Microsoft Gives Unexpected Tutorial on How To Install Linux ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzEwLzExLzE1MjEyNDkvbWljcm9zb2Z0LWdpdmVzLXVuZXhwZWN0ZWQtdHV0b3JpYWwtb24taG93LXRvLWluc3RhbGwtbGludXjSAQA?oc=5",
-          "publishedOn": "2023-10-12T10:43:35.000Z",
-          "wordCount": 5002,
-          "title": "Microsoft Gives Unexpected Tutorial on How To Install Linux ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMid2h0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3MvbmFjaC11cGdyYWRlLWF1cy1taWNyb3NvZnQtdmVyb2VmZmVudGxpY2h0LWluc3RhbGxhdGlvbnNhbmxlaXR1bmctZnVlci1saW51eC0yMzEwLTE3ODQzNi5odG1s0gF7aHR0cHM6Ly93d3cuZ29sZW0uZGUvbmV3cy9uYWNoLXVwZ3JhZGUtYXVzLW1pY3Jvc29mdC12ZXJvZWZmZW50bGljaHQtaW5zdGFsbGF0aW9uc2FubGVpdHVuZy1mdWVyLWxpbnV4LTIzMTAtMTc4NDM2LmFtcC5odG1s",
-          "author": null,
-          "description": "Nach Upgrade-Aus: Microsoft veröffentlicht Installationsanleitung für Linux - Golem.de  Golem.de",
-          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmdvbGVtLmRlL25ld3MvbmFjaC11cGdyYWRlLWF1cy1taWNyb3NvZnQtdmVyb2VmZmVudGxpY2h0LWluc3RhbGxhdGlvbnNhbmxlaXR1bmctZnVlci1saW51eC0yMzEwLTE3ODQzNi5odG1s0gF7aHR0cHM6Ly93d3cuZ29sZW0uZGUvbmV3cy9uYWNoLXVwZ3JhZGUtYXVzLW1pY3Jvc29mdC12ZXJvZWZmZW50bGljaHQtaW5zdGFsbGF0aW9uc2FubGVpdHVuZy1mdWVyLWxpbnV4LTIzMTAtMTc4NDM2LmFtcC5odG1s?oc=5",
-          "publishedOn": "2023-10-12T08:12:01.000Z",
-          "wordCount": 5002,
-          "title": "Nach Upgrade-Aus: Microsoft veröffentlicht Installationsanleitung für Linux - Golem.de - Golem.de",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidmh0dHBzOi8vd3d3LjI0LTdwcmVzc3JlbGVhc2UuY29tL3ByZXNzLXJlbGVhc2UvNTA1MTQwL2NlcmVzLXRlY2hub2xvZ3ktYWNoaWV2ZXMtcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LWNlcnRpZmljYXRpb27SAQA",
-          "author": null,
-          "description": "Ceres Technology Achieves Red Hat Enterprise Linux Certification  24-7 Press Release",
-          "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LjI0LTdwcmVzc3JlbGVhc2UuY29tL3ByZXNzLXJlbGVhc2UvNTA1MTQwL2NlcmVzLXRlY2hub2xvZ3ktYWNoaWV2ZXMtcmVkLWhhdC1lbnRlcnByaXNlLWxpbnV4LWNlcnRpZmljYXRpb27SAQA?oc=5",
-          "publishedOn": "2023-10-12T07:30:00.000Z",
-          "wordCount": 5002,
-          "title": "Ceres Technology Achieves Red Hat Enterprise Linux Certification - 24-7 Press Release",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9ob3ctdG8tdXBncmFkZS1yYXNwYmVycnktcGktb3MtdG8tZGViaWFuLWJvb2t3b3JtLWZyb20tYnVsbHNleWXSAVlodHRwczovLzl0bzVsaW51eC5jb20vaG93LXRvLXVwZ3JhZGUtcmFzcGJlcnJ5LXBpLW9zLXRvLWRlYmlhbi1ib29rd29ybS1mcm9tLWJ1bGxzZXllL2FtcA",
-          "author": null,
-          "description": "How To Upgrade Raspberry Pi OS to Debian Bookworm from Bullseye  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9ob3ctdG8tdXBncmFkZS1yYXNwYmVycnktcGktb3MtdG8tZGViaWFuLWJvb2t3b3JtLWZyb20tYnVsbHNleWXSAVlodHRwczovLzl0bzVsaW51eC5jb20vaG93LXRvLXVwZ3JhZGUtcmFzcGJlcnJ5LXBpLW9zLXRvLWRlYmlhbi1ib29rd29ybS1mcm9tLWJ1bGxzZXllL2FtcA?oc=5",
-          "publishedOn": "2023-10-12T07:09:48.000Z",
-          "wordCount": 5002,
-          "title": "How To Upgrade Raspberry Pi OS to Debian Bookworm from Bullseye - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3Lml0cHJvLmNvbS90ZWNobm9sb2d5L2hvdy10by13b3JrLW9uLXdpbmRvd3MtbWFjb3MtYW5kLWxpbnV4LWF0LXRoZS1zYW1lLXRpbWXSAQA",
-          "author": null,
-          "description": "How to work on Windows, macOS, and Linux at the same time  ITPro",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lml0cHJvLmNvbS90ZWNobm9sb2d5L2hvdy10by13b3JrLW9uLXdpbmRvd3MtbWFjb3MtYW5kLWxpbnV4LWF0LXRoZS1zYW1lLXRpbWXSAQA?oc=5",
-          "publishedOn": "2023-10-12T07:00:03.000Z",
-          "wordCount": 5002,
-          "title": "How to work on Windows, macOS, and Linux at the same time - ITPro",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3dhbnQtYS1zZWN1cmUtYW5kLXNpbXBsZS1saW51eC1leHBlcmllbmNlLWktY2FudC1yZWNvbW1lbmQtZWxlbWVudGFyeS1vcy03LTEtaGlnaGx5LWVub3VnaC_SAQA",
-          "author": null,
-          "description": "Want a secure and simple Linux experience? I can't recommend ...  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3dhbnQtYS1zZWN1cmUtYW5kLXNpbXBsZS1saW51eC1leHBlcmllbmNlLWktY2FudC1yZWNvbW1lbmQtZWxlbWVudGFyeS1vcy03LTEtaGlnaGx5LWVub3VnaC_SAQA?oc=5",
-          "publishedOn": "2023-10-12T07:00:00.000Z",
-          "wordCount": 5003,
-          "title": "Want a secure and simple Linux experience? I can't recommend ... - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTAvMTEvZmVkb3JhLXNsaW1ib29rLWxpbnV4LXVsdHJhYm9vay_SAQA",
-          "author": null,
-          "description": "Fedora Project and Slimbook launch Linux ultrabook  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTAvMTEvZmVkb3JhLXNsaW1ib29rLWxpbnV4LXVsdHJhYm9vay_SAQA?oc=5",
-          "publishedOn": "2023-10-12T01:48:53.000Z",
-          "wordCount": 5002,
-          "title": "Fedora Project and Slimbook launch Linux ultrabook - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zcGFya3lsaW51eC0yMDIzLTEwLWJyaW5ncy1saW51eC1rZXJuZWwtNi01LWxhdGVzdC1kZWJpYW4tMTMtdHJpeGllLXVwZGF0ZXPSAWVodHRwczovLzl0bzVsaW51eC5jb20vc3Bhcmt5bGludXgtMjAyMy0xMC1icmluZ3MtbGludXgta2VybmVsLTYtNS1sYXRlc3QtZGViaWFuLTEzLXRyaXhpZS11cGRhdGVzL2FtcA",
-          "author": null,
-          "description": "SparkyLinux 2023.10 Brings Linux Kernel 6.5, Latest Debian 13 “Trixie” Updates  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9zcGFya3lsaW51eC0yMDIzLTEwLWJyaW5ncy1saW51eC1rZXJuZWwtNi01LWxhdGVzdC1kZWJpYW4tMTMtdHJpeGllLXVwZGF0ZXPSAWVodHRwczovLzl0bzVsaW51eC5jb20vc3Bhcmt5bGludXgtMjAyMy0xMC1icmluZ3MtbGludXgta2VybmVsLTYtNS1sYXRlc3QtZGViaWFuLTEzLXRyaXhpZS11cGRhdGVzL2FtcA?oc=5",
-          "publishedOn": "2023-10-12T00:51:46.000Z",
-          "wordCount": 5002,
-          "title": "SparkyLinux 2023.10 Brings Linux Kernel 6.5, Latest Debian 13 “Trixie” Updates - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicWh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9lc3BvcnRzL3doaWNoLWRldmljZXMtY2FuLXN1cHBvcnQtY291bnRlci1zdHJpa2UtMi13aW5kb3dzLW1hYy1saW51eC1vcHRpb25zLWV4cGxvcmVk0gF1aHR0cHM6Ly93d3cuc3BvcnRza2VlZGEuY29tL2FtcC9lc3BvcnRzL3doaWNoLWRldmljZXMtY2FuLXN1cHBvcnQtY291bnRlci1zdHJpa2UtMi13aW5kb3dzLW1hYy1saW51eC1vcHRpb25zLWV4cGxvcmVk",
-          "author": null,
-          "description": "Which devices can support Counter-Strike 2? Windows, Mac, and Linux options explored  Sportskeeda",
-          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnNwb3J0c2tlZWRhLmNvbS9lc3BvcnRzL3doaWNoLWRldmljZXMtY2FuLXN1cHBvcnQtY291bnRlci1zdHJpa2UtMi13aW5kb3dzLW1hYy1saW51eC1vcHRpb25zLWV4cGxvcmVk0gF1aHR0cHM6Ly93d3cuc3BvcnRza2VlZGEuY29tL2FtcC9lc3BvcnRzL3doaWNoLWRldmljZXMtY2FuLXN1cHBvcnQtY291bnRlci1zdHJpa2UtMi13aW5kb3dzLW1hYy1saW51eC1vcHRpb25zLWV4cGxvcmVk?oc=5",
-          "publishedOn": "2023-10-12T00:11:00.000Z",
-          "wordCount": 5002,
-          "title": "Which devices can support Counter-Strike 2? Windows, Mac, and Linux options explored - Sportskeeda",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vamFwYW4uemRuZXQuY29tL2FydGljbGUvMzUyMDk4MTMv0gEA",
-          "author": null,
-          "description": "「Linux」でターミナルを使ってファイルをコピーして名前を変更 ...  ZDNET Japan",
-          "link": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vamFwYW4uemRuZXQuY29tL2FydGljbGUvMzUyMDk4MTMv0gEA?oc=5",
-          "publishedOn": "2023-10-11T22:45:00.000Z",
-          "wordCount": 5002,
-          "title": "「Linux」でターミナルを使ってファイルをコピーして名前を変更 ... - ZDNET Japan",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUGh0dHBzOi8vZ2l6bW9kby5jb20vbWljcm9zb2Z0LXdhbnRzLXRvLXRlYWNoLXlvdS1ob3ctdG8taW5zdGFsbC1saW51eC0xODUwOTE5NTYw0gEA",
-          "author": null,
-          "description": "Microsoft Wants to Teach You How to Install Linux  Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZ2l6bW9kby5jb20vbWljcm9zb2Z0LXdhbnRzLXRvLXRlYWNoLXlvdS1ob3ctdG8taW5zdGFsbC1saW51eC0xODUwOTE5NTYw0gEA?oc=5",
-          "publishedOn": "2023-10-11T20:50:00.000Z",
-          "wordCount": 5002,
-          "title": "Microsoft Wants to Teach You How to Install Linux - Gizmodo",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9taWNyb3NvZnQtd2FudHMtdGVhY2gtaW5zdGFsbC1saW51eC0yMDUwMDA5NDUuaHRtbNIBWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL21pY3Jvc29mdC13YW50cy10ZWFjaC1pbnN0YWxsLWxpbnV4LTIwNTAwMDk0NS5odG1s",
-          "author": null,
-          "description": "Microsoft Wants to Teach You How to Install Linux  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9taWNyb3NvZnQtd2FudHMtdGVhY2gtaW5zdGFsbC1saW51eC0yMDUwMDA5NDUuaHRtbNIBWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL21pY3Jvc29mdC13YW50cy10ZWFjaC1pbnN0YWxsLWxpbnV4LTIwNTAwMDk0NS5odG1s?oc=5",
-          "publishedOn": "2023-10-11T20:50:00.000Z",
-          "wordCount": 5002,
-          "title": "Microsoft Wants to Teach You How to Install Linux - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMTAvb25lLWNsaWNrLXJlbW90ZS1jb2RlLWV4cGxvaXQtaW4tY2QtY3VlLWZpbGVzLWFmZmVjdHMtbW9zdC1nbm9tZS1iYXNlZC1saW51eC1kaXN0cm9zL9IBkAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMTAvb25lLWNsaWNrLXJlbW90ZS1jb2RlLWV4cGxvaXQtaW4tY2QtY3VlLWZpbGVzLWFmZmVjdHMtbW9zdC1nbm9tZS1iYXNlZC1saW51eC1kaXN0cm9zL2FtcC8",
-          "author": null,
-          "description": "CD-indexing cue files are the core of a serious Linux remote code exploit  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMTAvb25lLWNsaWNrLXJlbW90ZS1jb2RlLWV4cGxvaXQtaW4tY2QtY3VlLWZpbGVzLWFmZmVjdHMtbW9zdC1nbm9tZS1iYXNlZC1saW51eC1kaXN0cm9zL9IBkAFodHRwczovL2Fyc3RlY2huaWNhLmNvbS9pbmZvcm1hdGlvbi10ZWNobm9sb2d5LzIwMjMvMTAvb25lLWNsaWNrLXJlbW90ZS1jb2RlLWV4cGxvaXQtaW4tY2QtY3VlLWZpbGVzLWFmZmVjdHMtbW9zdC1nbm9tZS1iYXNlZC1saW51eC1kaXN0cm9zL2FtcC8?oc=5",
-          "publishedOn": "2023-10-11T20:04:35.000Z",
-          "wordCount": 5002,
-          "title": "CD-indexing cue files are the core of a serious Linux remote code exploit - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdGVra2VuLTctY29kZS12ZWluLWdvZC1lYXRlci0zLWFuZC1tb3JlLWluLXRoaXMtZ3JlYXQtYnVuZGxlL9IBAA",
-          "author": null,
-          "description": "TEKKEN 7, CODE VEIN, GOD EATER 3 and more in this great bundle  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdGVra2VuLTctY29kZS12ZWluLWdvZC1lYXRlci0zLWFuZC1tb3JlLWluLXRoaXMtZ3JlYXQtYnVuZGxlL9IBAA?oc=5",
-          "publishedOn": "2023-10-11T18:48:56.000Z",
-          "wordCount": 5002,
-          "title": "TEKKEN 7, CODE VEIN, GOD EATER 3 and more in this great bundle - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3NlY3VyaXR5LXVwZGF0ZXMtcmVsZWFzZWQtZm9yLXdpZGVseS11c2VkLWxpbnV4LXV0aWxpdHktY3VybC_SAWZodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL3NlY3VyaXR5LXVwZGF0ZXMtcmVsZWFzZWQtZm9yLXdpZGVseS11c2VkLWxpbnV4LXV0aWxpdHktY3VybC8",
-          "author": null,
-          "description": "Nasty bug discovered in widely used Linux utility curl, and patches already rolled out  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL3NlY3VyaXR5LXVwZGF0ZXMtcmVsZWFzZWQtZm9yLXdpZGVseS11c2VkLWxpbnV4LXV0aWxpdHktY3VybC_SAWZodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL3NlY3VyaXR5LXVwZGF0ZXMtcmVsZWFzZWQtZm9yLXdpZGVseS11c2VkLWxpbnV4LXV0aWxpdHktY3VybC8?oc=5",
-          "publishedOn": "2023-10-11T18:42:04.000Z",
-          "wordCount": 5002,
-          "title": "Nasty bug discovered in widely used Linux utility curl, and patches already rolled out - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LVRoZWxpby1PY3RvYmVyLVVwZGF0ZXPSAQA",
-          "author": null,
-          "description": "System76 Unveils Latest Improvements To Their Thelio Linux Computers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LVRoZWxpby1PY3RvYmVyLVVwZGF0ZXPSAQA?oc=5",
-          "publishedOn": "2023-10-11T18:30:00.000Z",
-          "wordCount": 5002,
-          "title": "System76 Unveils Latest Improvements To Their Thelio Linux Computers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvaXoxaDktbWlyYWktY2FtcGFpZ24tbGF1bmNoZXMtZGRvcy1hdHRhY2tzLW9uLWxpbnV4LWJhc2VkLXJvdXRlcnPSAQA",
-          "author": null,
-          "description": "IZ1H9 Mirai campaign launches DDoS attacks on Linux-based routers  SC Media",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvaXoxaDktbWlyYWktY2FtcGFpZ24tbGF1bmNoZXMtZGRvcy1hdHRhY2tzLW9uLWxpbnV4LWJhc2VkLXJvdXRlcnPSAQA?oc=5",
-          "publishedOn": "2023-10-11T18:03:06.000Z",
-          "wordCount": 5002,
-          "title": "IZ1H9 Mirai campaign launches DDoS attacks on Linux-based routers - SC Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUdlbjEyLjUtRkNWLUVuYWJsZWTSAQA",
-          "author": null,
-          "description": "Intel Enables FCV Optimization For Gen12.5+ Graphics On Linux To ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUdlbjEyLjUtRkNWLUVuYWJsZWTSAQA?oc=5",
-          "publishedOn": "2023-10-11T17:30:00.000Z",
-          "wordCount": 5002,
-          "title": "Intel Enables FCV Optimization For Gen12.5+ Graphics On Linux To ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifGh0dHBzOi8vYXMuY29tL21lcmlzdGF0aW9uL25vdGljaWFzL3B1ZWRvLWp1Z2FyLWEtY3MyLWVuLW1hY29zLWRlLWFwcGxlLW8tbGludXgtdG9kb3MtbG9zLXNpc3RlbWFzLW9wZXJhdGl2b3MtY29tcGF0aWJsZXMtbi_SAYsBaHR0cHM6Ly9hcy5jb20vbWVyaXN0YXRpb24vbm90aWNpYXMvcHVlZG8tanVnYXItYS1jczItZW4tbWFjb3MtZGUtYXBwbGUtby1saW51eC10b2Rvcy1sb3Mtc2lzdGVtYXMtb3BlcmF0aXZvcy1jb21wYXRpYmxlcy1uLz9vdXRwdXRUeXBlPWFtcA",
-          "author": null,
-          "description": "¿Puedo jugar a CS2 en macOS de Apple o Linux? Todos los sistemas operativos compatibles  MeriStation",
-          "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYXMuY29tL21lcmlzdGF0aW9uL25vdGljaWFzL3B1ZWRvLWp1Z2FyLWEtY3MyLWVuLW1hY29zLWRlLWFwcGxlLW8tbGludXgtdG9kb3MtbG9zLXNpc3RlbWFzLW9wZXJhdGl2b3MtY29tcGF0aWJsZXMtbi_SAYsBaHR0cHM6Ly9hcy5jb20vbWVyaXN0YXRpb24vbm90aWNpYXMvcHVlZG8tanVnYXItYS1jczItZW4tbWFjb3MtZGUtYXBwbGUtby1saW51eC10b2Rvcy1sb3Mtc2lzdGVtYXMtb3BlcmF0aXZvcy1jb21wYXRpYmxlcy1uLz9vdXRwdXRUeXBlPWFtcA?oc=5",
-          "publishedOn": "2023-10-11T16:07:45.000Z",
-          "wordCount": 5002,
-          "title": "¿Puedo jugar a CS2 en macOS de Apple o Linux? Todos los sistemas operativos compatibles - MeriStation",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1vcmUtREcyLUxpbnV4LU9jdG9iZXItMjPSAQA",
-          "author": null,
-          "description": "New Intel DG2/Alchemist GPU PCI IDs Posted For Their Linux Driver  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1vcmUtREcyLUxpbnV4LU9jdG9iZXItMjPSAQA?oc=5",
-          "publishedOn": "2023-10-11T16:00:00.000Z",
-          "wordCount": 5002,
-          "title": "New Intel DG2/Alchemist GPU PCI IDs Posted For Their Linux Driver - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEwLzExL3JlZF9oYXRfY2xvc2VkX3Joc2FfYW5ub3VuY2Uv0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEwLzExL3JlZF9oYXRfY2xvc2VkX3Joc2FfYW5ub3VuY2Uv",
-          "author": null,
-          "description": "Red Hat retires mailing list, leaving Linux loyalists to read between the lines  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEwLzExL3JlZF9oYXRfY2xvc2VkX3Joc2FfYW5ub3VuY2Uv0gFIaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEwLzExL3JlZF9oYXRfY2xvc2VkX3Joc2FfYW5ub3VuY2Uv?oc=5",
-          "publishedOn": "2023-10-11T14:12:00.000Z",
-          "wordCount": 5002,
-          "title": "Red Hat retires mailing list, leaving Linux loyalists to read between the lines - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtc2xpbWJvb2stbGludXgtbGFwdG9wLWxhdW5jaGVkLTNrLWRpc3BsYXktbnZpZGlhLWdlZm9yY2UtcnR4LTMwNTAtdGnSAWVodHRwczovLzl0bzVsaW51eC5jb20vZmVkb3JhLXNsaW1ib29rLWxpbnV4LWxhcHRvcC1sYXVuY2hlZC0zay1kaXNwbGF5LW52aWRpYS1nZWZvcmNlLXJ0eC0zMDUwLXRpL2FtcA",
-          "author": null,
-          "description": "Fedora Slimbook Linux Laptop Launched with 3K Display, NVIDIA RTX 3050 Ti  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtc2xpbWJvb2stbGludXgtbGFwdG9wLWxhdW5jaGVkLTNrLWRpc3BsYXktbnZpZGlhLWdlZm9yY2UtcnR4LTMwNTAtdGnSAWVodHRwczovLzl0bzVsaW51eC5jb20vZmVkb3JhLXNsaW1ib29rLWxpbnV4LWxhcHRvcC1sYXVuY2hlZC0zay1kaXNwbGF5LW52aWRpYS1nZWZvcmNlLXJ0eC0zMDUwLXRpL2FtcA?oc=5",
-          "publishedOn": "2023-10-11T14:03:56.000Z",
-          "wordCount": 5002,
-          "title": "Fedora Slimbook Linux Laptop Launched with 3K Display, NVIDIA RTX 3050 Ti - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9098,6 +8898,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
+          "author": "hello@smashingmagazine.com (Oriana García)",
+          "description": "Animation and accessibility are often seen as two separate powers at odds with one another. How is it possible to strike a balance between elements that move and the possible negative effects they expose to users who are sensitive to motion? Oriana García explains how her team at Mercado Libre tackled the challenge by creating guiding principles for applying animation to user interfaces and incorporating them into the team’s design system.",
+          "link": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
+          "publishedOn": "2023-11-10T10:00:00.000Z",
+          "wordCount": 5280,
+          "title": "Creating Accessible UI Animations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
           "author": "hello@smashingmagazine.com (Ganesh Dahal)",
@@ -9337,21 +9152,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
-          "description": "Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.",
-          "link": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
-          "publishedOn": "2023-10-12T08:00:00.000Z",
-          "wordCount": 5363,
-          "title": "Everything I Know About UX Research I First Learned From Lt. Columbo",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg"
         }
       ]
     },
@@ -9360,6 +9160,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/become-an-azure-solutions-architect-expert-pass-the-az-305-exam/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to elevate your expertise in designing cloud and hybrid solutions on Azure? The Azure Solutions Architect Expert Certification exam measures your ability to accomplish the following technical tasks: design identity, governance, and monitoring solutions; design data storage solutions; design business continuity solutions; and design infrastructure solutions. We",
+          "link": "https://www.freecodecamp.org/news/become-an-azure-solutions-architect-expert-pass-the-az-305-exam/",
+          "publishedOn": "2023-11-10T16:03:07.000Z",
+          "wordCount": 1181,
+          "title": "Become an Azure Solutions Architect Expert – Pass the AZ-305 Exam",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/azurearc.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/",
           "author": "Olasunkanmi Balogun",
@@ -10049,26 +9859,6 @@
           "wordCount": 779,
           "title": "Learn Bun, a faster Node.js alternative",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/bun.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/",
-          "author": "Sameer Shukla",
-          "description": "This article explores how you can improve your Java code quality using Pattern Matching and Sealed Classes.  Java Pattern Matching allows you to write more concise and readable code when working with complex data structures. It simplifies extracting data from data structures and performing operations on them.  Let's",
-          "link": "https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/",
-          "publishedOn": "2023-10-11T15:48:42.000Z",
-          "wordCount": 1985,
-          "title": "How to Write Better Java Code using Pattern Matching and Sealed Classes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Pattern-Matching.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/",
-          "author": "Beau Carnes",
-          "description": "Web development has never been more exciting. The influx of new technologies and tools is reshaping the boundaries of what developers can create. At the epicenter of this transformation is the ability to integrate diverse systems seamlessly, creating powerful web applications. We just published a course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/",
-          "publishedOn": "2023-10-11T14:17:39.000Z",
-          "wordCount": 900,
-          "title": "Build and Deploy a Full Stack Notion Clone with Next.js, DALL-E, Vercel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/notion-clone.png"
         }
       ]
     }
