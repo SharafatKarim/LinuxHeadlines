@@ -12,6 +12,26 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=260982",
+          "author": "Dave Sumaylo",
+          "description": "The “file.readline()”, “for loop”, “file.readlines()”, “while loop” and “strip() with append()” methods are used to read the file line-by-line until the end.",
+          "link": "https://linuxhint.com/python-readline-loop-until-the-end/",
+          "publishedOn": "2023-11-17T13:14:46.000Z",
+          "wordCount": 5609,
+          "title": "Python Readline Loop Until The End",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=85848",
+          "author": "Dave Sumaylo",
+          "description": "File handling is the technique of utilizing Python built-in methods and modules to create, read, write, and manipulate files.",
+          "link": "https://linuxhint.com/python-file-handling/",
+          "publishedOn": "2023-11-16T20:49:36.000Z",
+          "wordCount": 6179,
+          "title": "Python File Handling",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=396501",
           "author": "Omar Farooq",
           "description": "This article provides easy methods to track word and character count in MS Word documents, crucial for various writing projects for everybody.",
@@ -1500,16 +1520,6 @@
           "wordCount": 20319,
           "title": "Chapter 4: The 6502 Microprocessor Assembly Language Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=387762",
-          "author": "Linux Explorer",
-          "description": "To capture screenshots on a Windows PC, use built-in tools like Snipping Tool, Snip and Sketch (Keyboard Shortcut), Xbox Game bar, or third-party tools.",
-          "link": "https://linuxhint.com/take-screenshots-windows/",
-          "publishedOn": "2023-10-18T17:40:33.000Z",
-          "wordCount": 5324,
-          "title": "How to Capture Screenshots on a Windows PC?",
-          "imageUrl": null
         }
       ]
     },
@@ -1518,6 +1528,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186759",
+          "author": "Web Webster",
+          "description": "At the Xiaomi IoT Green Partner Conference 2023, as spotted by Gizmochina, the plan to open-source the Xiaomi Vela IoT platform is announced. This should result in more developers joining, using, and improving the code as necessary.\nThe post Xiaomi Vela IoT Platform Is Being Open-Sourced Based on NuttX Real-time OS appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/xiaomi-vela-iot-platform-is-being-open-sourced-based-on-nuttx-real-time-os/",
+          "publishedOn": "2023-11-18T01:00:17.000Z",
+          "wordCount": 16931,
+          "title": "Xiaomi Vela IoT Platform Is Being Open-Sourced Based on NuttX Real-time OS",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186756",
+          "author": "Web Webster",
+          "description": "Learn how to install the latest LXQt 1.4 in the Lubuntu 22.04 “Jammy Jellyfish” distribution in this guide that includes additional instructions and tips.\nThe post How to Install LXQt 1.4 on Lubuntu 22.04 LTS appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-lxqt-1-4-on-lubuntu-22-04-lts/",
+          "publishedOn": "2023-11-17T23:00:01.000Z",
+          "wordCount": 16926,
+          "title": "How to Install LXQt 1.4 on Lubuntu 22.04 LTS",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186734",
+          "author": "Web Webster",
+          "description": "In this guide, we will demonstrate the process of listing all running services under Systemd in Linux, providing a comprehensive walkthrough for users of all experience levels.\nThe post How to List All Running Services Under Systemd in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-list-all-running-services-under-systemd-in-linux-2/",
+          "publishedOn": "2023-11-17T21:00:23.000Z",
+          "wordCount": 16937,
+          "title": "How to List All Running Services Under Systemd in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186746",
+          "author": "Web Webster",
+          "description": "Valve today officially released the Steam Deck OLED Linux-powered gaming handheld that brings a bigger screen with high dynamic range (HDR) support, a bigger battery that lasts longer, as well as updated internals to stay up to date with the latest technologies.\nThe post Steam Deck OLED Is Now Available to Order with HDR Display and Bigger Battery appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/steam-deck-oled-is-now-available-to-order-with-hdr-display-and-bigger-battery/",
+          "publishedOn": "2023-11-17T19:00:46.000Z",
+          "wordCount": 16961,
+          "title": "Steam Deck OLED Is Now Available to Order with HDR Display and Bigger Battery",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186764",
+          "author": "Web Webster",
+          "description": "Calibre developer Kovid Goyal announced today the release and general availability of Calibre 7.0 as the latest stable version and a major update to this powerful, free, open-source, and cross-platform e-book management software.\nThe post Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/calibre-7-0-e-book-manager-introduces-new-notes-feature-support-for-audio-epubs/",
+          "publishedOn": "2023-11-17T18:00:00.000Z",
+          "wordCount": 16941,
+          "title": "Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186762",
+          "author": "Web Webster",
+          "description": "In another unexpected turn of events, the latest Linux 6.6 kernel series has been officially marked as LTS (Long Term Support) on the kernel.org website, with a predicted life expectancy of at least three years.\nThe post It’s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/its-official-linux-kernel-6-6-will-be-lts-supported-until-december-2026/",
+          "publishedOn": "2023-11-17T17:00:08.000Z",
+          "wordCount": 16956,
+          "title": "It’s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186747",
+          "author": "Web Webster",
+          "description": "In a turn of events and at the request of numerous Lubuntu users, the Lubuntu developers have decided to backport the LXQt 1.4 desktop environment to the latest Lubuntu 23.10 (Mantic Minotaur) release.\nThe post LXQt 1.4 Desktop Arrives for Lubuntu 23.10 Users, Here’s How to Install It appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/lxqt-1-4-desktop-arrives-for-lubuntu-23-10-users-heres-how-to-install-it/",
+          "publishedOn": "2023-11-17T16:00:57.000Z",
+          "wordCount": 16946,
+          "title": "LXQt 1.4 Desktop Arrives for Lubuntu 23.10 Users, Here’s How to Install It",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186745",
+          "author": "Web Webster",
+          "description": "HandBrake 1.7 has been released today as a major update to this open-source, free, and cross-platform video transcoder application for GNU/Linux, macOS, and Windows systems.\nThe post HandBrake 1.7 Released With AMD VCN AV1 & NVIDIA NVENC AV1 Encoders appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/handbrake-1-7-released-with-amd-vcn-av1-nvidia-nvenc-av1-encoders/",
+          "publishedOn": "2023-11-17T15:00:53.000Z",
+          "wordCount": 16940,
+          "title": "HandBrake 1.7 Released With AMD VCN AV1 & NVIDIA NVENC AV1 Encoders",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186760",
+          "author": "Web Webster",
+          "description": "Wireshark, the popular network protocol analyzer, has reached version 4.2.0. This is the first major Wireshark release under the Wireshark Foundation, a nonprofit that hosts Wireshark and promotes protocol analysis education.\nThe post Wireshark 4.2.0 Released, Open-Source Packet Analysis Gets Even Better appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/wireshark-4-2-0-released-open-source-packet-analysis-gets-even-better/",
+          "publishedOn": "2023-11-17T14:00:42.000Z",
+          "wordCount": 16924,
+          "title": "Wireshark 4.2.0 Released, Open-Source Packet Analysis Gets Even Better",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186644",
+          "author": "Web Webster",
+          "description": "In this guide, discover multiple ways to execute javascript code or files with basic to advanced functionality in the Python program with practical examples.\nThe post How to Run JavaScript in Python (With an Example) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-run-javascript-in-python-with-an-example/",
+          "publishedOn": "2023-11-17T03:00:12.000Z",
+          "wordCount": 16922,
+          "title": "How to Run JavaScript in Python (With an Example)",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186706",
           "author": "Web Webster",
@@ -3497,86 +3607,6 @@
           "wordCount": 17212,
           "title": "How to Install Nala on Debian 12 Bookworm",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186226",
-          "author": "Web Webster",
-          "description": "Powered by Linux kernel 6.5, SparkyLinux’s special GameOver, Multimedia, and Rescue 2023.10 semi-rolling editions are here.\nThe post 3 New Sparky 2023.10 Semi-Rolling Special Editions Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/3-new-sparky-2023-10-semi-rolling-special-editions-released/",
-          "publishedOn": "2023-10-19T13:03:00.000Z",
-          "wordCount": 17209,
-          "title": "3 New Sparky 2023.10 Semi-Rolling Special Editions Released",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185988",
-          "author": "Web Webster",
-          "description": "This guide shows how to install ownCloud on Debian 12 step-by-step. Learn how to install ownCloud via the command line on the LAMP Stack and secure ownCloud with SSL/TLS certificates from Letsencrypt.\nThe post How to Install ownCloud on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-owncloud-on-debian-12/",
-          "publishedOn": "2023-10-18T22:00:23.000Z",
-          "wordCount": 17209,
-          "title": "How to Install ownCloud on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185978",
-          "author": "Web Webster",
-          "description": "In this article, we shall cover a few of the top, open-source artificial intelligence (AI) tools for the Linux ecosystem.\nThe post 10 Top Open-Source Artificial Intelligence Tools for Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/10-top-open-source-artificial-intelligence-tools-for-linux-5/",
-          "publishedOn": "2023-10-18T22:00:10.000Z",
-          "wordCount": 17224,
-          "title": "10 Top Open-Source Artificial Intelligence Tools for Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=185987",
-          "author": "Web Webster",
-          "description": "In this tutorial, we will show you how to install Zeek network security monitoring on the Debian 12 server step-by-step.\nThe post How to Install Zeek Network Security Monitoring Tool on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-zeek-network-security-monitoring-tool-on-debian-12/",
-          "publishedOn": "2023-10-18T20:00:59.000Z",
-          "wordCount": 17222,
-          "title": "How to Install Zeek Network Security Monitoring Tool on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186162",
-          "author": "Web Webster",
-          "description": "In this tutorial, learn how to install Memcached on Debian 12 Bookworm with two methods: APT or by downloading and compiling the source for the latest version.\nThe post How to Install Memcached on Debian 12 Bookworm appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-memcached-on-debian-12-bookworm/",
-          "publishedOn": "2023-10-18T18:00:29.000Z",
-          "wordCount": 17221,
-          "title": "How to Install Memcached on Debian 12 Bookworm",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186096",
-          "author": "Web Webster",
-          "description": "goread is an RSS/Atom feed reader for the terminal. It’s written in Go and published under an open-source license.\nThe post goread Is a Terminal-Based RSS/Atom Feed Reader appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/goread-is-a-terminal-based-rss-atom-feed-reader/",
-          "publishedOn": "2023-10-18T17:00:59.000Z",
-          "wordCount": 17201,
-          "title": "goread Is a Terminal-Based RSS/Atom Feed Reader",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186212",
-          "author": "Web Webster",
-          "description": "Cheat sheets are concise, to-the-point references tailored for instant insights. This article provides a curated list of 10 essential cybersecurity cheat sheets, all free to download. Whether you’re seeking a quick refresher or a beginner trying to make sense of it all, these resources will help.\nThe post 10 Essential Cybersecurity Cheat Sheets Available for Free appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/10-essential-cybersecurity-cheat-sheets-available-for-free/",
-          "publishedOn": "2023-10-18T16:00:58.000Z",
-          "wordCount": 17237,
-          "title": "10 Essential Cybersecurity Cheat Sheets Available for Free",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186210",
-          "author": "Web Webster",
-          "description": "Explore Voyager 23.10, the Ubuntu-based Linux distro with a sleek design and improved performance. Discover its unique features and what sets it apart.\nThe post Voyager 23.10: A Polished GNOME Experience With Extra Flair appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/voyager-23-10-a-polished-gnome-experience-with-extra-flair/",
-          "publishedOn": "2023-10-18T14:00:04.000Z",
-          "wordCount": 17215,
-          "title": "Voyager 23.10: A Polished GNOME Experience With Extra Flair",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3585,6 +3615,196 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9ydXNzaWEtYWx0LW9zLWxpbnV4LWNoaW5hLWxvb25nc29uLWxvb25nYXJjaNIBAA",
+          "author": null,
+          "description": "Russia pivots to Chinese CPUs that aren't subject to US sanctions ...  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9ydXNzaWEtYWx0LW9zLWxpbnV4LWNoaW5hLWxvb25nc29uLWxvb25nYXJjaNIBAA?oc=5",
+          "publishedOn": "2023-11-17T22:53:40.000Z",
+          "wordCount": 5021,
+          "title": "Russia pivots to Chinese CPUs that aren't subject to US sanctions ... - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Z1bGthbi1XaW5lLVdheWxhbmQtUGFydC0x0gEA",
+          "author": null,
+          "description": "Vulkan Support Begins Landing For Wine's Wayland Driver  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Z1bGthbi1XaW5lLVdheWxhbmQtUGFydC0x0gEA?oc=5",
+          "publishedOn": "2023-11-17T21:24:00.000Z",
+          "wordCount": 5021,
+          "title": "Vulkan Support Begins Landing For Wine's Wayland Driver - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidmh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3Mvb2xpbWV4LXNob3dzLW9mZi1hbi1vcGVuLWhhcmR3YXJlLXBvd2VyZWQtbGludXgtYmFzZWQtYXV0b25vbW91cy1kcm9uZS1zd2FybS04OGVkNGJmYmQzOTDSAXpodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL29saW1leC1zaG93cy1vZmYtYW4tb3Blbi1oYXJkd2FyZS1wb3dlcmVkLWxpbnV4LWJhc2VkLWF1dG9ub21vdXMtZHJvbmUtc3dhcm0tODhlZDRiZmJkMzkwLmFtcA",
+          "author": null,
+          "description": "Olimex Shows Off an Open-Hardware-Powered Linux-Based Autonomous Drone Swarm  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3Mvb2xpbWV4LXNob3dzLW9mZi1hbi1vcGVuLWhhcmR3YXJlLXBvd2VyZWQtbGludXgtYmFzZWQtYXV0b25vbW91cy1kcm9uZS1zd2FybS04OGVkNGJmYmQzOTDSAXpodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL29saW1leC1zaG93cy1vZmYtYW4tb3Blbi1oYXJkd2FyZS1wb3dlcmVkLWxpbnV4LWJhc2VkLWF1dG9ub21vdXMtZHJvbmUtc3dhcm0tODhlZDRiZmJkMzkwLmFtcA?oc=5",
+          "publishedOn": "2023-11-17T19:58:47.000Z",
+          "wordCount": 5021,
+          "title": "Olimex Shows Off an Open-Hardware-Powered Linux-Based Autonomous Drone Swarm - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2hhdC1pcy1mZWRvcmEtb255eC1hbi1pbW11dGFibGUtYnVkZ2llLWJhc2VkLWxpbnV4LWRpc3Ryby_SAQA",
+          "author": null,
+          "description": "What Is Fedora Onyx? An Immutable Budgie-Based Linux Distro  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vd2hhdC1pcy1mZWRvcmEtb255eC1hbi1pbW11dGFibGUtYnVkZ2llLWJhc2VkLWxpbnV4LWRpc3Ryby_SAQA?oc=5",
+          "publishedOn": "2023-11-17T19:00:00.000Z",
+          "wordCount": 5021,
+          "title": "What Is Fedora Onyx? An Immutable Budgie-Based Linux Distro - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbGYtTGlmZS0yNXRoLVVwZGF0ZdIBAA",
+          "author": null,
+          "description": "Valve Updates Half-Life For 25th Anniversary - Adds Official Steam ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0hhbGYtTGlmZS0yNXRoLVVwZGF0ZdIBAA?oc=5",
+          "publishedOn": "2023-11-17T18:52:00.000Z",
+          "wordCount": 5021,
+          "title": "Valve Updates Half-Life For 25th Anniversary - Adds Official Steam ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvc3lzdGVtNzYtaGF2ZS1zb21lLWdyZWF0LWRpc2NvdW50cy1vbi12YXJpb3VzLWxpbnV4LWhhcmR3YXJlL9IBAA",
+          "author": null,
+          "description": "System76 have some great discounts on various Linux hardware  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvc3lzdGVtNzYtaGF2ZS1zb21lLWdyZWF0LWRpc2NvdW50cy1vbi12YXJpb3VzLWxpbnV4LWhhcmR3YXJlL9IBAA?oc=5",
+          "publishedOn": "2023-11-17T17:00:47.000Z",
+          "wordCount": 5021,
+          "title": "System76 have some great discounts on various Linux hardware - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjMvMTEvMTcvcnVuLW1hY29zLXZtLWRvY2tlci1vbi13aW5kb3dzLWxpbnV4LWRvY2tlci1vc3gv0gEA",
+          "author": null,
+          "description": "Run MacOS VM's in Docker on Windows & Linux with Docker-OSX  OSXDaily",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjMvMTEvMTcvcnVuLW1hY29zLXZtLWRvY2tlci1vbi13aW5kb3dzLWxpbnV4LWRvY2tlci1vc3gv0gEA?oc=5",
+          "publishedOn": "2023-11-17T16:12:18.000Z",
+          "wordCount": 5021,
+          "title": "Run MacOS VM's in Docker on Windows & Linux with Docker-OSX - OSXDaily",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjctZmVhdHVyZXPSAQA",
+          "author": null,
+          "description": "Linux 6.7 Features Include Bcachefs, Stable Meteor Lake Graphics, NVIDIA GSP & More Next-Gen Hardware  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvbGludXgtNjctZmVhdHVyZXPSAQA?oc=5",
+          "publishedOn": "2023-11-17T16:04:39.000Z",
+          "wordCount": 5021,
+          "title": "Linux 6.7 Features Include Bcachefs, Stable Meteor Lake Graphics, NVIDIA GSP & More Next-Gen Hardware - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXB0LXBhY2thZ2UtaW5zdGFsbGVkLWRlYmlhbi11YnVudHUtd2hlcmUtaG93LWZpbmQv0gEA",
+          "author": null,
+          "description": "How to Find Where apt Installed That Package on Debian and Ubuntu  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vYXB0LXBhY2thZ2UtaW5zdGFsbGVkLWRlYmlhbi11YnVudHUtd2hlcmUtaG93LWZpbmQv0gEA?oc=5",
+          "publishedOn": "2023-11-17T16:00:00.000Z",
+          "wordCount": 5021,
+          "title": "How to Find Where apt Installed That Package on Debian and Ubuntu - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVZ1bGthbi1wcm90ZWN0ZWRNZW1vcnnSAQA",
+          "author": null,
+          "description": "Intel's Vulkan Linux Driver Adds Protected Memory Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVZ1bGthbi1wcm90ZWN0ZWRNZW1vcnnSAQA?oc=5",
+          "publishedOn": "2023-11-17T13:48:00.000Z",
+          "wordCount": 5021,
+          "title": "Intel's Vulkan Linux Driver Adds Protected Memory Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1EUk0tVjNELVJQaTXSAQA",
+          "author": null,
+          "description": "Raspberry Pi 5 Kernel Graphics Driver Support Queued Ahead Of ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1EUk0tVjNELVJQaTXSAQA?oc=5",
+          "publishedOn": "2023-11-17T13:33:00.000Z",
+          "wordCount": 5021,
+          "title": "Raspberry Pi 5 Kernel Graphics Driver Support Queued Ahead Of ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2Fkdmlzb3IvdnBuL3Z1bG5lcmFiaWxpdGllcy1mb3VuZC1pbi1wdXJldnBuLWxpbnV4LWFwcNIBAA",
+          "author": null,
+          "description": "Multiple vulnerabilities found in PureVPN Linux app  The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2Fkdmlzb3IvdnBuL3Z1bG5lcmFiaWxpdGllcy1mb3VuZC1pbi1wdXJldnBuLWxpbnV4LWFwcNIBAA?oc=5",
+          "publishedOn": "2023-11-17T12:48:39.000Z",
+          "wordCount": 5021,
+          "title": "Multiple vulnerabilities found in PureVPN Linux app - The Independent",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdG8tY2hhbmdlLXBhc3N3b3JkL9IBAA",
+          "author": null,
+          "description": "How to change password on Ubuntu Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctdG8tY2hhbmdlLXBhc3N3b3JkL9IBAA?oc=5",
+          "publishedOn": "2023-11-17T12:00:00.000Z",
+          "wordCount": 5021,
+          "title": "How to change password on Ubuntu Linux - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvdXZyZS1XYXlsYW5kLUxpYnJhcnnSAQA",
+          "author": null,
+          "description": "Louvre Is A New C++ Library Helping To Build Wayland Compositors  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvdXZyZS1XYXlsYW5kLUxpYnJhcnnSAQA?oc=5",
+          "publishedOn": "2023-11-17T11:47:00.000Z",
+          "wordCount": 5021,
+          "title": "Louvre Is A New C++ Library Helping To Build Wayland Compositors - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYWxpYnJlLTctMC1lLWJvb2stbWFuYWdlci1pbnRyb2R1Y2VzLW5ldy1ub3Rlcy1mZWF0dXJlLXN1cHBvcnQtZm9yLWF1ZGlvLWVwdWJz0gFpaHR0cHM6Ly85dG81bGludXguY29tL2NhbGlicmUtNy0wLWUtYm9vay1tYW5hZ2VyLWludHJvZHVjZXMtbmV3LW5vdGVzLWZlYXR1cmUtc3VwcG9ydC1mb3ItYXVkaW8tZXB1YnMvYW1w",
+          "author": null,
+          "description": "Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9jYWxpYnJlLTctMC1lLWJvb2stbWFuYWdlci1pbnRyb2R1Y2VzLW5ldy1ub3Rlcy1mZWF0dXJlLXN1cHBvcnQtZm9yLWF1ZGlvLWVwdWJz0gFpaHR0cHM6Ly85dG81bGludXguY29tL2NhbGlicmUtNy0wLWUtYm9vay1tYW5hZ2VyLWludHJvZHVjZXMtbmV3LW5vdGVzLWZlYXR1cmUtc3VwcG9ydC1mb3ItYXVkaW8tZXB1YnMvYW1w?oc=5",
+          "publishedOn": "2023-11-17T11:28:08.000Z",
+          "wordCount": 5021,
+          "title": "Calibre 7.0 E-Book Manager Introduces New Notes Feature, Support for Audio EPUBs - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pdHMtb2ZmaWNpYWwtbGludXgta2VybmVsLTYtNi13aWxsLWJlLWx0cy1zdXBwb3J0ZWQtdW50aWwtZGVjZW1iZXItMjAyNtIBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pdHMtb2ZmaWNpYWwtbGludXgta2VybmVsLTYtNi13aWxsLWJlLWx0cy1zdXBwb3J0ZWQtdW50aWwtZGVjZW1iZXItMjAyNi9hbXA",
+          "author": null,
+          "description": "It’s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pdHMtb2ZmaWNpYWwtbGludXgta2VybmVsLTYtNi13aWxsLWJlLWx0cy1zdXBwb3J0ZWQtdW50aWwtZGVjZW1iZXItMjAyNtIBYWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9pdHMtb2ZmaWNpYWwtbGludXgta2VybmVsLTYtNi13aWxsLWJlLWx0cy1zdXBwb3J0ZWQtdW50aWwtZGVjZW1iZXItMjAyNi9hbXA?oc=5",
+          "publishedOn": "2023-11-17T10:27:45.000Z",
+          "wordCount": 5021,
+          "title": "It’s Official: Linux Kernel 6.6 Will Be LTS, Supported Until December 2026 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8xNy9hbGx3aW5uZXItdnB1LW9wZW4tc291cmNlLWgyNjQtaGFyZHdhcmUtdmlkZW8tZW5jb2Rlci1saW51eC1kcml2ZXIv0gFxaHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDIzLzExLzE3L2FsbHdpbm5lci12cHUtb3Blbi1zb3VyY2UtaDI2NC1oYXJkd2FyZS12aWRlby1lbmNvZGVyLWxpbnV4LWRyaXZlci8_YW1wPTE",
+          "author": null,
+          "description": "Allwinner VPU gets open-source Linux driver for its H.264 hardware video encoder  CNX Software",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMS8xNy9hbGx3aW5uZXItdnB1LW9wZW4tc291cmNlLWgyNjQtaGFyZHdhcmUtdmlkZW8tZW5jb2Rlci1saW51eC1kcml2ZXIv0gFxaHR0cHM6Ly93d3cuY254LXNvZnR3YXJlLmNvbS8yMDIzLzExLzE3L2FsbHdpbm5lci12cHUtb3Blbi1zb3VyY2UtaDI2NC1oYXJkd2FyZS12aWRlby1lbmNvZGVyLWxpbnV4LWRyaXZlci8_YW1wPTE?oc=5",
+          "publishedOn": "2023-11-17T09:40:20.000Z",
+          "wordCount": 5021,
+          "title": "Allwinner VPU gets open-source Linux driver for its H.264 hardware video encoder - CNX Software",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2hhbmRicmFrZS0xLTctbnZpZGlhLW52ZW5jLWF2MdIBRmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2hhbmRicmFrZS0xLTctbnZpZGlhLW52ZW5jLWF2MS9hbXA",
+          "author": null,
+          "description": "HandBrake 1.7 Released with AMD & NVIDIA AV1 Encoders + More  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2hhbmRicmFrZS0xLTctbnZpZGlhLW52ZW5jLWF2MdIBRmh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2hhbmRicmFrZS0xLTctbnZpZGlhLW52ZW5jLWF2MS9hbXA?oc=5",
+          "publishedOn": "2023-11-17T05:06:44.000Z",
+          "wordCount": 5021,
+          "title": "HandBrake 1.7 Released with AMD & NVIDIA AV1 Encoders + More - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtT1MtMy41LjXSAQA",
+          "author": null,
+          "description": "SteamOS 3.5.5 Released To Stable With Steam Deck OLED Support ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N0ZWFtT1MtMy41LjXSAQA?oc=5",
+          "publishedOn": "2023-11-17T02:30:00.000Z",
+          "wordCount": 5021,
+          "title": "SteamOS 3.5.5 Released To Stable With Steam Deck OLED Support ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiT2h0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzExL2xpbnV4LTYtNi1rZXJuZWwtY29uZmlybXMtbG9uZy10ZXJtLXN1cHBvcnTSAVNodHRwczovL3d3dy5vbWd1YnVudHUuY28udWsvMjAyMy8xMS9saW51eC02LTYta2VybmVsLWNvbmZpcm1zLWxvbmctdGVybS1zdXBwb3J0L2FtcA",
           "author": null,
@@ -3623,6 +3843,16 @@
           "publishedOn": "2023-11-16T21:34:39.000Z",
           "wordCount": 5021,
           "title": "AWS, Google team up with Linux Foundation on cloud spending ... - Light Reading",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21pa3JvZS1sYXVuY2hlcy1jbGlja2lkLXRvLW1ha2UtY2xpY2stYm9hcmRzLWFuZC1vdGhlci1taWtyb2J1cy1oYXJkd2FyZS1ob3RwbHVnZ2FibGUtaW4tbGludXgtZTU0MmFkMzkzMmIw0gGMAWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvbWlrcm9lLWxhdW5jaGVzLWNsaWNraWQtdG8tbWFrZS1jbGljay1ib2FyZHMtYW5kLW90aGVyLW1pa3JvYnVzLWhhcmR3YXJlLWhvdHBsdWdnYWJsZS1pbi1saW51eC1lNTQyYWQzOTMyYjAuYW1w",
+          "author": null,
+          "description": "MIKROE Launches ClickID to Make Click Boards and Other mikroBUS Hardware Hotpluggable in Linux  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5oYWNrc3Rlci5pby9uZXdzL21pa3JvZS1sYXVuY2hlcy1jbGlja2lkLXRvLW1ha2UtY2xpY2stYm9hcmRzLWFuZC1vdGhlci1taWtyb2J1cy1oYXJkd2FyZS1ob3RwbHVnZ2FibGUtaW4tbGludXgtZTU0MmFkMzkzMmIw0gGMAWh0dHBzOi8vd3d3LmhhY2tzdGVyLmlvL25ld3MvbWlrcm9lLWxhdW5jaGVzLWNsaWNraWQtdG8tbWFrZS1jbGljay1ib2FyZHMtYW5kLW90aGVyLW1pa3JvYnVzLWhhcmR3YXJlLWhvdHBsdWdnYWJsZS1pbi1saW51eC1lNTQyYWQzOTMyYjAuYW1w?oc=5",
+          "publishedOn": "2023-11-16T21:13:30.000Z",
+          "wordCount": 5021,
+          "title": "MIKROE Launches ClickID to Make Click Boards and Other mikroBUS Hardware Hotpluggable in Linux - Hackster.io",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -8764,186 +8994,6 @@
           "wordCount": 5001,
           "title": "Intel Meteor Lake Graphics Declared Stable With Linux 6.7 - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FkYXB0aXZlQ3BwLTIzLjEwLUFscGhh0gEA",
-          "author": null,
-          "description": "AdaptiveCpp 23.10 Alpha Released For What Was hipSYCL ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FkYXB0aXZlQ3BwLTIzLjEwLUFscGhh0gEA?oc=5",
-          "publishedOn": "2023-10-19T12:47:00.000Z",
-          "wordCount": 5001,
-          "title": "AdaptiveCpp 23.10 Alpha Released For What Was hipSYCL ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1GZWF0dXJlLUVuZHMtTm92ZW1iZXLSAQA",
-          "author": null,
-          "description": "GCC 14 Feature Development Ends Next Month  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1GZWF0dXJlLUVuZHMtTm92ZW1iZXLSAQA?oc=5",
-          "publishedOn": "2023-10-19T12:01:00.000Z",
-          "wordCount": 5001,
-          "title": "GCC 14 Feature Development Ends Next Month - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvcmVsYXhpbmctbWluaW1hbGlzdC1idWlsZGluZy1zdHJhdGVneS1nYW1lLXRpbnktYXRvbGxzLWZpeGVkLXVwLWZvci1saW51eC_SAQA",
-          "author": null,
-          "description": "Relaxing minimalist building strategy game Tiny Atolls fixed up for ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvcmVsYXhpbmctbWluaW1hbGlzdC1idWlsZGluZy1zdHJhdGVneS1nYW1lLXRpbnktYXRvbGxzLWZpeGVkLXVwLWZvci1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-10-19T11:43:24.000Z",
-          "wordCount": 5001,
-          "title": "Relaxing minimalist building strategy game Tiny Atolls fixed up for ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvY2hpbGx5LXN1cnZpdmFsLWFkdmVudHVyZS1rb25hLWlpLWJydW1lLWlzLW91dC1ub3cv0gEA",
-          "author": null,
-          "description": "Chilly survival-adventure Kona II: Brume is out now  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvY2hpbGx5LXN1cnZpdmFsLWFkdmVudHVyZS1rb25hLWlpLWJydW1lLWlzLW91dC1ub3cv0gEA?oc=5",
-          "publishedOn": "2023-10-19T10:50:06.000Z",
-          "wordCount": 5001,
-          "title": "Chilly survival-adventure Kona II: Brume is out now - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy1Qb3dlclBDLUZ1dHVyZS1QT1dFUjEx0gEA",
-          "author": null,
-          "description": "IBM Begins Posting \"PowerPC Future\" Compiler Patches For What Is ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy1Qb3dlclBDLUZ1dHVyZS1QT1dFUjEx0gEA?oc=5",
-          "publishedOn": "2023-10-19T10:32:00.000Z",
-          "wordCount": 5001,
-          "title": "IBM Begins Posting \"PowerPC Future\" Compiler Patches For What Is ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvY2hlY2stb3V0LXRoZS14ZGMtMjAyMy10YWxrcy1vbi1oZHItY29sb3ItbWFuYWdlbWVudC1mb3Itc3RlYW0tZGVjay1saW51eC1kZXNrdG9wL9IBAA",
-          "author": null,
-          "description": "Check out the XDC 2023 talks on HDR + Color Management for ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvY2hlY2stb3V0LXRoZS14ZGMtMjAyMy10YWxrcy1vbi1oZHItY29sb3ItbWFuYWdlbWVudC1mb3Itc3RlYW0tZGVjay1saW51eC1kZXNrdG9wL9IBAA?oc=5",
-          "publishedOn": "2023-10-19T10:23:18.000Z",
-          "wordCount": 5001,
-          "title": "Check out the XDC 2023 talks on HDR + Color Management for ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvYmxhY2tjYXQtcmFuc29td2FyZS11c2VzLW5ldy1tdW5jaGtpbi1saW51eC12bS1pbi1zdGVhbHRoeS1hdHRhY2tzL9IBAA",
-          "author": null,
-          "description": "BlackCat ransomware uses new 'Munchkin' Linux VM in stealthy ...  BleepingComputer",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvYmxhY2tjYXQtcmFuc29td2FyZS11c2VzLW5ldy1tdW5jaGtpbi1saW51eC12bS1pbi1zdGVhbHRoeS1hdHRhY2tzL9IBAA?oc=5",
-          "publishedOn": "2023-10-19T07:00:00.000Z",
-          "wordCount": 5022,
-          "title": "BlackCat ransomware uses new 'Munchkin' Linux VM in stealthy ... - BleepingComputer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9ib3JlZC1vZi13aW5kb3dzLWV2ZW4tbWljcm9zb2Z0LXdhbnRzLXlvdS10by10cnktbGludXgtd2l0aC1hLXJhdGhlci1oZWxwZnVsLWd1aWRlL9IBbmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2JvcmVkLW9mLXdpbmRvd3MtZXZlbi1taWNyb3NvZnQtd2FudHMteW91LXRvLXRyeS1saW51eC13aXRoLWEtcmF0aGVyLWhlbHBmdWwtZ3VpZGUv",
-          "author": null,
-          "description": "Bored of Windows? Even Microsoft wants you to try Linux with a rather helpful guide  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9ib3JlZC1vZi13aW5kb3dzLWV2ZW4tbWljcm9zb2Z0LXdhbnRzLXlvdS10by10cnktbGludXgtd2l0aC1hLXJhdGhlci1oZWxwZnVsLWd1aWRlL9IBbmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2JvcmVkLW9mLXdpbmRvd3MtZXZlbi1taWNyb3NvZnQtd2FudHMteW91LXRvLXRyeS1saW51eC13aXRoLWEtcmF0aGVyLWhlbHBmdWwtZ3VpZGUv?oc=5",
-          "publishedOn": "2023-10-18T22:28:00.000Z",
-          "wordCount": 5001,
-          "title": "Bored of Windows? Even Microsoft wants you to try Linux with a rather helpful guide - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZml4LXBpcC1lcnJvci1leHRlcm5hbGx5LW1hbmFnZWQtZW52aXJvbm1lbnQtbGludXgv0gEA",
-          "author": null,
-          "description": "How to Fix the pip \"externally-managed-environment\" Error on Linux  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vZml4LXBpcC1lcnJvci1leHRlcm5hbGx5LW1hbmFnZWQtZW52aXJvbm1lbnQtbGludXgv0gEA?oc=5",
-          "publishedOn": "2023-10-18T20:46:00.000Z",
-          "wordCount": 5001,
-          "title": "How to Fix the pip \"externally-managed-environment\" Error on Linux - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdG9ueS1oYXdrcy1wcm8tc2thdGVyLTEtMi1hZGRzLW9mZmxpbmUtc3VwcG9ydC1mb3Itc3RlYW0tZGVjay_SAQA",
-          "author": null,
-          "description": "Tony Hawk's Pro Skater 1 + 2 adds offline support for Steam Deck  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvdG9ueS1oYXdrcy1wcm8tc2thdGVyLTEtMi1hZGRzLW9mZmxpbmUtc3VwcG9ydC1mb3Itc3RlYW0tZGVjay_SAQA?oc=5",
-          "publishedOn": "2023-10-18T19:37:16.000Z",
-          "wordCount": 5001,
-          "title": "Tony Hawk's Pro Skater 1 + 2 adds offline support for Steam Deck - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL011bHRpLUdyYWluLVRpbWVzdGFtcHMtUmVkdXjSAQA",
-          "author": null,
-          "description": "Multi-Grained Timestamps Revised Following Revert From Linux 6.6  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL011bHRpLUdyYWluLVRpbWVzdGFtcHMtUmVkdXjSAQA?oc=5",
-          "publishedOn": "2023-10-18T18:27:00.000Z",
-          "wordCount": 5001,
-          "title": "Multi-Grained Timestamps Revised Following Revert From Linux 6.6 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9qdXN0LWEteWVhci1hd2F5LWZyb20td2luZG93cy0xMi1taWNyb3NvZnQtd2luZG93cy0xMS1zdGlsbC1jYW50LWJlc3QtbGludXgtdWJ1bnR1L9IBbmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2p1c3QtYS15ZWFyLWF3YXktZnJvbS13aW5kb3dzLTEyLW1pY3Jvc29mdC13aW5kb3dzLTExLXN0aWxsLWNhbnQtYmVzdC1saW51eC11YnVudHUv",
-          "author": null,
-          "description": "Just a year away from Windows 12, Microsoft Windows 11 still can't best Linux (Ubuntu)  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9qdXN0LWEteWVhci1hd2F5LWZyb20td2luZG93cy0xMi1taWNyb3NvZnQtd2luZG93cy0xMS1zdGlsbC1jYW50LWJlc3QtbGludXgtdWJ1bnR1L9IBbmh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2p1c3QtYS15ZWFyLWF3YXktZnJvbS13aW5kb3dzLTEyLW1pY3Jvc29mdC13aW5kb3dzLTExLXN0aWxsLWNhbnQtYmVzdC1saW51eC11YnVudHUv?oc=5",
-          "publishedOn": "2023-10-18T17:10:00.000Z",
-          "wordCount": 5001,
-          "title": "Just a year away from Windows 12, Microsoft Windows 11 still can't best Linux (Ubuntu) - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU9TUFJheS0zLjDSAQA",
-          "author": null,
-          "description": "Intel Releases OSPRay 3.0 With Initial GPU Acceleration  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU9TUFJheS0zLjDSAQA?oc=5",
-          "publishedOn": "2023-10-18T17:00:00.000Z",
-          "wordCount": 5001,
-          "title": "Intel Releases OSPRay 3.0 With Initial GPU Acceleration - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbmxpZ2h0LWFuZC1zdW5zaGluZS1nYW1lLWFuZC1kZXNrdG9wLXN0cmVhbWluZy11cGRhdGVzLW91dC1ub3cv0gEA",
-          "author": null,
-          "description": "Moonlight and Sunshine game and desktop streaming updates out ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTAvbW9vbmxpZ2h0LWFuZC1zdW5zaGluZS1nYW1lLWFuZC1kZXNrdG9wLXN0cmVhbWluZy11cGRhdGVzLW91dC1ub3cv0gEA?oc=5",
-          "publishedOn": "2023-10-18T16:33:55.000Z",
-          "wordCount": 5001,
-          "title": "Moonlight and Sunshine game and desktop streaming updates out ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvdGhlLWxpbnV4LWZvdW5kYXRpb24tYW5ub3VuY2VzLWdlbmVyYWwtYXZhaWxhYmlsaXR5LW9mLWRlbHRhLWxha2UtMy0wLS0zMDE5NjA4MDYuaHRtbNIBAA",
-          "author": null,
-          "description": "The Linux Foundation Announces General Availability of Delta Lake ...  PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBybmV3c3dpcmUuY29tL25ld3MtcmVsZWFzZXMvdGhlLWxpbnV4LWZvdW5kYXRpb24tYW5ub3VuY2VzLWdlbmVyYWwtYXZhaWxhYmlsaXR5LW9mLWRlbHRhLWxha2UtMy0wLS0zMDE5NjA4MDYuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-10-18T16:00:00.000Z",
-          "wordCount": 5001,
-          "title": "The Linux Foundation Announces General Availability of Delta Lake ... - PR Newswire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dMQU1PUi1HTEVTMy1TaGFkZXJz0gEA",
-          "author": null,
-          "description": "X.Org's GLAMOR Adds Support For OpenGL ES 3.0 Shaders  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dMQU1PUi1HTEVTMy1TaGFkZXJz0gEA?oc=5",
-          "publishedOn": "2023-10-18T14:50:00.000Z",
-          "wordCount": 5001,
-          "title": "X.Org's GLAMOR Adds Support For OpenGL ES 3.0 Shaders - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1hEQy0yMDIzLUFNRC1Db2xvcnMtSERS0gEA",
-          "author": null,
-          "description": "The State Of HDR On The Steam Deck With Valve's Gamescope ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1hEQy0yMDIzLUFNRC1Db2xvcnMtSERS0gEA?oc=5",
-          "publishedOn": "2023-10-18T14:36:00.000Z",
-          "wordCount": 5001,
-          "title": "The State Of HDR On The Steam Deck With Valve's Gamescope ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0luc3B1ci1QbGF0Zm9ybS1Qcm9maWxlLUxpbnV40gEA",
-          "author": null,
-          "description": "Inspur WMI Platform Profile Driver Being Worked On For Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0luc3B1ci1QbGF0Zm9ybS1Qcm9maWxlLUxpbnV40gEA?oc=5",
-          "publishedOn": "2023-10-18T14:05:00.000Z",
-          "wordCount": 5001,
-          "title": "Inspur WMI Platform Profile Driver Being Worked On For Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8958,6 +9008,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/11/design-to-code-handoff-process-uno-platform-figma/",
+          "author": "hello@smashingmagazine.com (Matthew Mattei)",
+          "description": "Effective collaboration between designers and developers is vital to creating good user experiences. However, bridging the handoff between design and development with the many tools and workflows available today has its pitfalls. Matthew Mattei introduces you to the Uno Platform, which offers a robust set of productivity boosters.",
+          "link": "https://smashingmagazine.com/2023/11/design-to-code-handoff-process-uno-platform-figma/",
+          "publishedOn": "2023-11-17T10:00:00.000Z",
+          "wordCount": 7575,
+          "title": "An Efficient Design-to-Code Handoff Process Using Uno Platform For Figma",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-to-code-handoff-process-uno-platform-figma/design-to-code-handoff-process-uno-platform-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-to-code-handoff-process-uno-platform-figma/design-to-code-handoff-process-uno-platform-figma.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
@@ -9859,36 +9924,6 @@
           "wordCount": 1623,
           "title": "How to Handle Breaking Changes for API and Event Schemas",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/7115374283_30d07f11c3_c-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use data insights derived from your website or app to make important decisions that'll help grow your business. This information can help you improve user experience, create effective content strategies, and so on. Google Analytics is an effective tool for tracking and analyzing traffic and events on your",
-          "link": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
-          "publishedOn": "2023-10-18T18:07:14.000Z",
-          "wordCount": 1986,
-          "title": "How to Add Google Analytics to your Astro Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/andy-hermawan-bVBvv5xlX3g-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
-          "author": "Benjamin Semah",
-          "description": "Flexbox is a useful tool for creating beautiful and responsive layouts for web pages. In this guide, you will learn everything you need to know to start using CSS Flexbox like a pro. We'll also go through loads of practice examples. This is a perfect resource for you if you",
-          "link": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
-          "publishedOn": "2023-10-18T17:25:54.000Z",
-          "wordCount": 4695,
-          "title": "The CSS Flexbox Handbook – Complete Guide with Practical Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-CSS-Flexbox-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
-          "author": "Beau Carnes",
-          "description": "Chatbots are being used everywhere. And an AI chatbot is a great project to help learn the MERN Stack. We just posted a new video course on the freeCodeCamp.org YouTube channel that will teach you how to create an AI chatbot with the MERN Stack. This course was created by",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
-          "publishedOn": "2023-10-18T13:30:01.000Z",
-          "wordCount": 993,
-          "title": "Build an AI Chatbot with the MERN Stack",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/mernai.png"
         }
       ]
     }
