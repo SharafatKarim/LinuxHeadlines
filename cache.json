@@ -12,6 +12,116 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=312975",
+          "author": "Kevin Reursora",
+          "description": "In C++, the do-while loop is frequently used when the iteration numbers are not fixed, and it must be executed at least once.",
+          "link": "https://linuxhint.com/use-do-while-loop-cpp/",
+          "publishedOn": "2023-11-19T14:18:11.000Z",
+          "wordCount": 6857,
+          "title": "How to Use Do While Loop in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=332544",
+          "author": "Kevin Reursora",
+          "description": "In C++, the “struct” is known as a structure that is a special member function within a struct that is used to initialize its member variables.",
+          "link": "https://linuxhint.com/struct-constructor-cpp/",
+          "publishedOn": "2023-11-19T13:48:11.000Z",
+          "wordCount": 5492,
+          "title": "What is C++ Struct Constructor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=310024",
+          "author": "Kevin Reursora",
+          "description": "The C++ sleep() function is used to momentarily halt the execution of a thread or process for a given amount of time. For more details, follow this article.",
+          "link": "https://linuxhint.com/use-sleep-method-in-cpp/",
+          "publishedOn": "2023-11-19T13:31:18.000Z",
+          "wordCount": 6246,
+          "title": "What is Sleep Function in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=37002",
+          "author": "Dave Sumaylo",
+          "description": "To remove all the Docker images, the user can either use the “docker rmi -f $(sudo docker images -aq)” command or the “docker image prune -a” command.",
+          "link": "https://linuxhint.com/remove_all_docker_images/",
+          "publishedOn": "2023-11-19T05:29:16.000Z",
+          "wordCount": 5659,
+          "title": "How to Remove All Docker Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=311768",
+          "author": "Dave Sumaylo",
+          "description": "To initialize vectors, push_back() method, fill() method, iota() function, overloaded constructor, index position, and multiple other methods are used.",
+          "link": "https://linuxhint.com/initialize-vector-in-cpp/",
+          "publishedOn": "2023-11-18T19:50:18.000Z",
+          "wordCount": 6184,
+          "title": "How to Initialize Vector in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=42656",
+          "author": "Dave Sumaylo",
+          "description": "To manage the volume using Docker Compose, utilize the “volumes” key also specify the volume type, volume source, and target path.",
+          "link": "https://linuxhint.com/docker_volumes_docker_compose/",
+          "publishedOn": "2023-11-18T18:28:56.000Z",
+          "wordCount": 5063,
+          "title": "Managing Docker Volumes Using Docker Compose",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=108675",
+          "author": "Dave Sumaylo",
+          "description": "To find the IP address of container, use “docker inspect cont-name”, “docker network inspect network-name” command, or read the “/etc/hosts” file of container.",
+          "link": "https://linuxhint.com/find-the-ip-address-of-a-docker-container/",
+          "publishedOn": "2023-11-18T15:35:55.000Z",
+          "wordCount": 5863,
+          "title": "How to Find the IP Address of a Docker Container?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=171506",
+          "author": "Dave Sumaylo",
+          "description": "The “docker exec -it” is used to access the container shell interactively. The “docker exec” command also supports different options to behave differently.",
+          "link": "https://linuxhint.com/docker-exec-it/",
+          "publishedOn": "2023-11-18T14:53:47.000Z",
+          "wordCount": 6065,
+          "title": "Docker exec -it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint-com.zk153f8d-liquidwebsites.com/?p=31093",
+          "author": "Dave Sumaylo",
+          "description": "To deploy Kafka, configure Kafka and zookeeper service in “docker-compose.yml” file. After that, start Apache Kafka using the “docker-compose up” command.",
+          "link": "https://linuxhint.com/docker_compose_kafka/",
+          "publishedOn": "2023-11-18T13:38:06.000Z",
+          "wordCount": 6159,
+          "title": "Deploy Apache Kafka using Docker Compose",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=300318",
+          "author": "Dave Sumaylo",
+          "description": "Remove Docker desktop from Windows using “Apps & features” settings. On Mac, remove the app from troubleshooting settings, and on linux, run “sudo apt remove”.",
+          "link": "https://linuxhint.com/uninstall-docker-from-my-computer/",
+          "publishedOn": "2023-11-18T11:58:06.000Z",
+          "wordCount": 5535,
+          "title": "How do I Uninstall Docker Desktop From Computer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=261711",
+          "author": "Dave Sumaylo",
+          "description": "The “scipy.stats.expon” module of the “scipy” is used to work with the exponential distribution,  which is a type of continuous probability distribution.",
+          "link": "https://linuxhint.com/scipy-exponential-distribution/",
+          "publishedOn": "2023-11-18T09:10:37.000Z",
+          "wordCount": 5624,
+          "title": "SciPy Exponential Distribution",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=260982",
           "author": "Dave Sumaylo",
           "description": "The “file.readline()”, “for loop”, “file.readlines()”, “while loop” and “strip() with append()” methods are used to read the file line-by-line until the end.",
@@ -29,6 +139,16 @@
           "publishedOn": "2023-11-16T20:49:36.000Z",
           "wordCount": 6179,
           "title": "Python File Handling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=399023",
+          "author": "Muhammad Farhan",
+          "description": "Keeping Windows up to date, performing disk cleanup, running system maintenance, and pausing OneDrive sync can help to speed up Windows.",
+          "link": "https://linuxhint.com/speed-up-windows-tips/",
+          "publishedOn": "2023-11-15T11:26:36.000Z",
+          "wordCount": 6346,
+          "title": "How to Speed Up Windows: 12 Tips",
           "imageUrl": null
         },
         {
@@ -1620,76 +1740,6 @@
           "wordCount": 4960,
           "title": "Table of Contents for Full Online Computer Science Database and Internet Career Course from the Beginning",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=388642",
-          "author": "BIMA FAJAR RAMADHAN",
-          "description": "Practical tutorial on the creation and use of reverse shells using Metasploit to recognize vulnerabilities and strengthen your organization's security posture.",
-          "link": "https://linuxhint.com/create-use-reverse-shell-using-metasploit/",
-          "publishedOn": "2023-10-21T13:17:15.000Z",
-          "wordCount": 6228,
-          "title": "How to Create and Use a Reverse Shell Using Metasploit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=388639",
-          "author": "Suhesh K.S.",
-          "description": "Comprehensive tutorial on the benefit of using Nginx in hosting and how the combination of fail2ban with Nginx secure the server from suspicious activities.",
-          "link": "https://linuxhint.com/fail2ban-nginx-jails-dynamic-duo-server-security/",
-          "publishedOn": "2023-10-21T13:01:22.000Z",
-          "wordCount": 5753,
-          "title": "Fail2ban with Nginx Jails: A Dynamic Duo for Server Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=388625",
-          "author": "Kalsoom Bibi",
-          "description": "Practical tutorial on how to properly terminate your batch scripts by utilizing the batch file “Exit” command and understand why the \"Exit\" command is vital.",
-          "link": "https://linuxhint.com/exit-batch-file-properly-terminate-batch-scripts/",
-          "publishedOn": "2023-10-21T12:43:54.000Z",
-          "wordCount": 5487,
-          "title": "Exit Batch File – How to Properly Terminate Your Batch Scripts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=388601",
-          "author": "Kalsoom Bibi",
-          "description": "Tutorial on how to create a batch file to run a PowerShell script and use it to automate the process of renaming the files in a folder along with examples.",
-          "link": "https://linuxhint.com/batch-file-run-powershell-script/",
-          "publishedOn": "2023-10-21T12:26:37.000Z",
-          "wordCount": 6068,
-          "title": "Creating a Batch File and PowerShell Script “Batch File to Run PowerShell Script",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=89012",
-          "author": "Linux Explorer",
-          "description": "Practical guide on how to allocate and use the shared memory with POSIX system calls and how to create the necessary variables to use in their input arguments.",
-          "link": "https://linuxhint.com/posix-shared-memory-c-programming/",
-          "publishedOn": "2023-10-20T13:59:39.000Z",
-          "wordCount": 6600,
-          "title": "POSIX Shared Memory in C Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=123167",
-          "author": "Linux Explorer",
-          "description": "Tutorial on how to use the kill() function to send a signal to one or more processes, how it works, its arguments, the data type used, and the method called.",
-          "link": "https://linuxhint.com/kill-system-call-in-c/",
-          "publishedOn": "2023-10-20T13:45:02.000Z",
-          "wordCount": 5779,
-          "title": "Kill() Function in C Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=100318",
-          "author": "Linux Explorer",
-          "description": "Comprehensive tutorial on what system calls are, what they are used for, and what makes them different from the other functions in the standard C libraries.",
-          "link": "https://linuxhint.com/system-call-linux/",
-          "publishedOn": "2023-10-20T13:30:31.000Z",
-          "wordCount": 5027,
-          "title": "What Are System Calls and What Are They For",
-          "imageUrl": null
         }
       ]
     },
@@ -1698,6 +1748,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186549",
+          "author": "Web Webster",
+          "description": "In this article, we will review the 10 top open-source reverse proxy servers you can use on a Linux system.\nThe post 10 Best Open-Source Reverse Proxy Servers for Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/security/10-best-open-source-reverse-proxy-servers-for-linux/",
+          "publishedOn": "2023-11-19T23:00:36.000Z",
+          "wordCount": 16905,
+          "title": "10 Best Open-Source Reverse Proxy Servers for Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186737",
+          "author": "Web Webster",
+          "description": "In this article, we will be reviewing and discussing various tar command examples, including how to create archive files using (tar, tar.gz, and tar.bz2) compression, how to extract archive files, extract a single file, view the content of the file, verify a file, add files or directories to the existing archive file, estimate the size […]\nThe post 18 Tar Command Examples in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/18-tar-command-examples-in-linux-6/",
+          "publishedOn": "2023-11-19T18:00:15.000Z",
+          "wordCount": 16936,
+          "title": "18 Tar Command Examples in Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186705",
           "author": "Web Webster",
@@ -3617,86 +3687,6 @@
           "wordCount": 17245,
           "title": "How to Install Jellyfin Media Server on Debian 12 Bookworm",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186257",
-          "author": "Web Webster",
-          "description": "Adobe Media Encoder is an encoding engine for Adobe Premiere Pro, Adobe After Effects, Adobe Audition, and Adobe Character Animator. Media Encoder is proprietary software and not available for Linux. We recommend the best free and open-source alternatives.\nThe post Best Free and Open-Source Alternatives to Adobe Media Encoder appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/best-free-and-open-source-alternatives-to-adobe-media-encoder/",
-          "publishedOn": "2023-10-21T02:00:45.000Z",
-          "wordCount": 17239,
-          "title": "Best Free and Open-Source Alternatives to Adobe Media Encoder",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186230",
-          "author": "Web Webster",
-          "description": "This guide shows how to install the R programming language on Debian 12 Bookworm utilizing the CRAN repository.\nThe post How to Install R on Debian 12 Bookworm appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-r-on-debian-12-bookworm/",
-          "publishedOn": "2023-10-21T00:00:36.000Z",
-          "wordCount": 17222,
-          "title": "How to Install R on Debian 12 Bookworm",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186262",
-          "author": "Web Webster",
-          "description": "Lemmy is an open-source Reddit-like content aggregator and microblogging platform for the fediverse. In this tutorial, you will learn how to install Lemmy on an Ubuntu 22.04 server.\nThe post How to Install Reddit-like Content Aggregator Lemmy on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-reddit-like-content-aggregator-lemmy-on-ubuntu-22-04/",
-          "publishedOn": "2023-10-20T22:08:00.000Z",
-          "wordCount": 17236,
-          "title": "How to Install Reddit-like Content Aggregator Lemmy on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186263",
-          "author": "Web Webster",
-          "description": "Fleet is an open-source osquery manager that can be used to maintain secure workstations and servers and keep an accurate inventory of all your devices. In this tutorial, you will deploy Fleet Osquery Manager to an Ubuntu 22.04 server.\nThe post How to Install Fleet Osquery Manager on Rocky Linux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-fleet-osquery-manager-on-rocky-linux-9/",
-          "publishedOn": "2023-10-20T18:07:32.000Z",
-          "wordCount": 17248,
-          "title": "How to Install Fleet Osquery Manager on Rocky Linux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186247",
-          "author": "Web Webster",
-          "description": "Elevate your Linux Mint Cinnamon desktop appeal with this tutorial on downloading and installing fonts, making your desktop truly yours.\nThe post How to Install Fonts in Linux Mint Cinnamon appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-fonts-in-linux-mint-cinnamon/",
-          "publishedOn": "2023-10-20T17:00:08.000Z",
-          "wordCount": 17226,
-          "title": "How to Install Fonts in Linux Mint Cinnamon",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186250",
-          "author": "Web Webster",
-          "description": "Raspberry Pi Imager 1.8.1 has been released today as the latest stable version of this official image flashing utility for Raspberry Pi single-board computers that adds new features and improvements, support for the latest Raspberry Pi 5 model, and more.\nThe post Raspberry Pi Imager Gets New Tabbed UI for OS Customization, Raspberry Pi 5 Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/raspberry-pi-imager-gets-new-tabbed-ui-for-os-customization-raspberry-pi-5-support/",
-          "publishedOn": "2023-10-20T16:00:13.000Z",
-          "wordCount": 17255,
-          "title": "Raspberry Pi Imager Gets New Tabbed UI for OS Customization, Raspberry Pi 5 Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186248",
-          "author": "Web Webster",
-          "description": "Coming less than two weeks after Ardour 8.0, this first point release is here to improve support for the Novation Launchpad Pro controller by fixing MIDI port names and ensuring it works with all versions of ALSA (Advanced Linux Sound Architecture) on Linux.\nThe post Ardour 8.1 Open-Source DAW Improves Launchpad Pro Support, Fixes Bugs appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ardour-8-1-open-source-daw-improves-launchpad-pro-support-fixes-bugs/",
-          "publishedOn": "2023-10-20T15:00:53.000Z",
-          "wordCount": 17254,
-          "title": "Ardour 8.1 Open-Source DAW Improves Launchpad Pro Support, Fixes Bugs",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186256",
-          "author": "Web Webster",
-          "description": "Geany 2.0 arrives with new filetypes and other refinements. Geany is regarded as one of the best Python IDEs for Linux. It is an open-source, lightweight IDE based on the GTK3 toolkit.\nThe post Geany 2.0 Release Makes It a More Versatile Text Editor & IDE appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/geany-2-0-release-makes-it-a-more-versatile-text-editor-ide/",
-          "publishedOn": "2023-10-20T14:00:10.000Z",
-          "wordCount": 17269,
-          "title": "Geany 2.0 Release Makes It a More Versatile Text Editor & IDE",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -3705,6 +3695,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1yYzItUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Linux 6.7-rc2 Released: \"Slightly Larger Than Average\"  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1yYzItUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2023-11-19T23:20:00.000Z",
+          "wordCount": 5021,
+          "title": "Linux 6.7-rc2 Released: \"Slightly Larger Than Average\" - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjPSAQA",
+          "author": null,
+          "description": "Polychromatic 0.8.3 Released For Latest Open-Source Razer ...  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjPSAQA?oc=5",
+          "publishedOn": "2023-11-19T17:10:00.000Z",
+          "wordCount": 5021,
+          "title": "Polychromatic 0.8.3 Released For Latest Open-Source Razer ... - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC0xLVdpcmUtRHJpdmVy0gEA",
+          "author": null,
+          "description": "AMD AXI 1-Wire Driver Queued Ahead Of The Linux 6.8 Kernel  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC0xLVdpcmUtRHJpdmVy0gEA?oc=5",
+          "publishedOn": "2023-11-19T15:00:00.000Z",
+          "wordCount": 5021,
+          "title": "AMD AXI 1-Wire Driver Queued Ahead Of The Linux 6.8 Kernel - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHA6Ly9seGVyLmNvbS9tb2R1bGUvbmV3c3dpcmUvdmlldy8zMzUzNTgvaW5kZXguaHRtbNIBAA",
+          "author": null,
+          "description": "The AMD-Only TUXEDO Pulse 14 Gen3 Linux Laptop Unveiled ...  LXer",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHA6Ly9seGVyLmNvbS9tb2R1bGUvbmV3c3dpcmUvdmlldy8zMzUzNTgvaW5kZXguaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-11-19T12:26:00.000Z",
+          "wordCount": 5021,
+          "title": "The AMD-Only TUXEDO Pulse 14 Gen3 Linux Laptop Unveiled ... - LXer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dyYXBoaWNzLURldlJvb20tRk9TREVNLTI00gEA",
+          "author": null,
+          "description": "Open-Source Graphics DevRoom Returning For FOSDEM 2024  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dyYXBoaWNzLURldlJvb20tRk9TREVNLTI00gEA?oc=5",
+          "publishedOn": "2023-11-19T12:08:00.000Z",
+          "wordCount": 5021,
+          "title": "Open-Source Graphics DevRoom Returning For FOSDEM 2024 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1PcGVuR0wtNC42LUQzRDEy0gEA",
+          "author": null,
+          "description": "Microsoft Enables OpenGL 4.6 Support Over Direct3D 12  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL01pY3Jvc29mdC1PcGVuR0wtNC42LUQzRDEy0gEA?oc=5",
+          "publishedOn": "2023-11-19T11:45:00.000Z",
+          "wordCount": 5021,
+          "title": "Microsoft Enables OpenGL 4.6 Support Over Direct3D 12 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTEvMTgvMDM5MjIxL3Jhc3BiZXJyeS1waS1vcy1lbGVtZW50YXJ5LW9zLXdpbGwtZGVmYXVsdC10by13YXlsYW5k0gEA",
+          "author": null,
+          "description": "Raspberry Pi OS, elementary OS Will Default to Wayland  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTEvMTgvMDM5MjIxL3Jhc3BiZXJyeS1waS1vcy1lbGVtZW50YXJ5LW9zLXdpbGwtZGVmYXVsdC10by13YXlsYW5k0gEA?oc=5",
+          "publishedOn": "2023-11-19T11:34:00.000Z",
+          "wordCount": 5021,
+          "title": "Raspberry Pi OS, elementary OS Will Default to Wayland - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzE4LzAxMjIyOC9ydXN0LWluLWxpbnV4LW1hdHVyaW5nLXdpdGgtc3VwcG9ydC1mcm9tLWNpc2NvLXNhbXN1bmctY2Fub25pY2Fs0gEA",
+          "author": null,
+          "description": "Rust in Linux: Maturing with Support from Cisco, Samsung ...  Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbGludXguc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzExLzE4LzAxMjIyOC9ydXN0LWluLWxpbnV4LW1hdHVyaW5nLXdpdGgtc3VwcG9ydC1mcm9tLWNpc2NvLXNhbXN1bmctY2Fub25pY2Fs0gEA?oc=5",
+          "publishedOn": "2023-11-19T08:26:15.000Z",
+          "wordCount": 5021,
+          "title": "Rust in Linux: Maturing with Support from Cisco, Samsung ... - Slashdot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0lua3NjYXBlLTEuMy4xLUZvci0yMC1ZZWFyc9IBAA",
           "author": null,
@@ -8964,146 +9034,6 @@
           "wordCount": 5001,
           "title": "How to Show Mac Games Only on Steam - OSXDaily",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1R1eENsb2NrZXItMS4y0gEA",
-          "author": null,
-          "description": "TuxClocker 1.2 Released With AMD GPU Thermal Monitoring, CPU ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1R1eENsb2NrZXItMS4y0gEA?oc=5",
-          "publishedOn": "2023-10-21T12:50:00.000Z",
-          "wordCount": 5001,
-          "title": "TuxClocker 1.2 Released With AMD GPU Thermal Monitoring, CPU ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXmh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1zdGFydHMtdG8tcm9sbC1vdXQtcmRuYS0zLTUtcmVmcmVzaC1nZngxMTUwLWdwdS1zdXBwb3J0LWluLWxpbnV4LTYtNy_SAWJodHRwczovL3djY2Z0ZWNoLmNvbS9hbWQtc3RhcnRzLXRvLXJvbGwtb3V0LXJkbmEtMy01LXJlZnJlc2gtZ2Z4MTE1MC1ncHUtc3VwcG9ydC1pbi1saW51eC02LTcvYW1wLw",
-          "author": null,
-          "description": "AMD Starts to Roll Out RDNA 3.5 Refresh “GFX1150” GPU Support In Linux 6.7  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1zdGFydHMtdG8tcm9sbC1vdXQtcmRuYS0zLTUtcmVmcmVzaC1nZngxMTUwLWdwdS1zdXBwb3J0LWluLWxpbnV4LTYtNy_SAWJodHRwczovL3djY2Z0ZWNoLmNvbS9hbWQtc3RhcnRzLXRvLXJvbGwtb3V0LXJkbmEtMy01LXJlZnJlc2gtZ2Z4MTE1MC1ncHUtc3VwcG9ydC1pbi1saW51eC02LTcvYW1wLw?oc=5",
-          "publishedOn": "2023-10-21T11:45:00.000Z",
-          "wordCount": 5001,
-          "title": "AMD Starts to Roll Out RDNA 3.5 Refresh “GFX1150” GPU Support In Linux 6.7 - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOT01FLVZURS1Hby1GYXN0ZXLSAQA",
-          "author": null,
-          "description": "More Optimizations Made For Making GNOME/VTE Terminals Go ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOT01FLVZURS1Hby1GYXN0ZXLSAQA?oc=5",
-          "publishedOn": "2023-10-21T10:30:00.000Z",
-          "wordCount": 5001,
-          "title": "More Optimizations Made For Making GNOME/VTE Terminals Go ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dlYW55LTIuMC1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "Geany 2.0 Lightweight IDE / Text Editor Released  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dlYW55LTIuMC1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2023-10-21T10:18:00.000Z",
-          "wordCount": 5001,
-          "title": "Geany 2.0 Lightweight IDE / Text Editor Released - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiKWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wZXBwZXJtaW50LW1pbmkv0gEA",
-          "author": null,
-          "description": "Peppermint Mini: A Lightweight Distro With All The Essentials  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wZXBwZXJtaW50LW1pbmkv0gEA?oc=5",
-          "publishedOn": "2023-10-21T04:47:39.000Z",
-          "wordCount": 5001,
-          "title": "Peppermint Mini: A Lightweight Distro With All The Essentials - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTAvMjAvMjA2MjA1L3dpbmRvd3MtMTEtcHJvcy1vbi1ieS1kZWZhdWx0LWVuY3J5cHRpb24tc2xvd3Mtc3Nkcy11cC10by00NdIBAA",
-          "author": null,
-          "description": "Windows 11 Pro's On-By-Default Encryption Slows SSDs Up To 45%  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTAvMjAvMjA2MjA1L3dpbmRvd3MtMTEtcHJvcy1vbi1ieS1kZWZhdWx0LWVuY3J5cHRpb24tc2xvd3Mtc3Nkcy11cC10by00NdIBAA?oc=5",
-          "publishedOn": "2023-10-20T22:40:00.000Z",
-          "wordCount": 5001,
-          "title": "Windows 11 Pro's On-By-Default Encryption Slows SSDs Up To 45% - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay_SAQA",
-          "author": null,
-          "description": "How Ubuntu Linux snuck into high-end Dell laptops (and why it's called 'Project Sputnik')  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay_SAQA?oc=5",
-          "publishedOn": "2023-10-20T20:32:47.000Z",
-          "wordCount": 5001,
-          "title": "How Ubuntu Linux snuck into high-end Dell laptops (and why it's called 'Project Sputnik') - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay_SAX5odHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay8",
-          "author": null,
-          "description": "How Ubuntu Linux snuck into high-end Dell laptops (and why it's called 'Project Sputnik')  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay_SAX5odHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2hvdy11YnVudHUtbGludXgtc251Y2staW50by1oaWdoLWVuZC1kZWxsLWxhcHRvcHMtYW5kLXdoeS1pdHMtY2FsbGVkLXByb2plY3Qtc3B1dG5pay8?oc=5",
-          "publishedOn": "2023-10-20T20:32:47.000Z",
-          "wordCount": 5001,
-          "title": "How Ubuntu Linux snuck into high-end Dell laptops (and why it's called 'Project Sputnik') - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J5emVuLUFJLUZvci1MaW51eC1SZXF1ZXN0c9IBAA",
-          "author": null,
-          "description": "AMD Wants To Know If You'd Like Ryzen AI Support On Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J5emVuLUFJLUZvci1MaW51eC1SZXF1ZXN0c9IBAA?oc=5",
-          "publishedOn": "2023-10-20T20:31:00.000Z",
-          "wordCount": 5001,
-          "title": "AMD Wants To Know If You'd Like Ryzen AI Support On Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMizwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDIzLzEwL2RlZi1jb24tMzEtZWxmbWFzdGVycy1yZXZvbHV0aW9uaXppbmctZWxmLWJpbmFyeS1wYXRjaGluZy13aXRoLXNoaXZhLWEtaml0LWJpbmFyeS1wYXRjaGluZy1zeXN0ZW0tZm9yLWxpbnV4Lz91dG1fc291cmNlPXNid2Vic2l0ZSZ1dG1fbWVkaXVtPW1hcnF1ZWUmdXRtX2NhbXBhaWduPW1hcnF1ZWXSAdMBaHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyMy8xMC9kZWYtY29uLTMxLWVsZm1hc3RlcnMtcmV2b2x1dGlvbml6aW5nLWVsZi1iaW5hcnktcGF0Y2hpbmctd2l0aC1zaGl2YS1hLWppdC1iaW5hcnktcGF0Y2hpbmctc3lzdGVtLWZvci1saW51eC9hbXAvP3V0bV9zb3VyY2U9c2J3ZWJzaXRlJnV0bV9tZWRpdW09bWFycXVlZSZ1dG1fY2FtcGFpZ249bWFycXVlZQ",
-          "author": null,
-          "description": "DEF CON 31 – ElfMaster’s ‘Revolutionizing ELF Binary Patching With Shiva A JIT Binary Patching Sy...  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMizwFodHRwczovL3NlY3VyaXR5Ym91bGV2YXJkLmNvbS8yMDIzLzEwL2RlZi1jb24tMzEtZWxmbWFzdGVycy1yZXZvbHV0aW9uaXppbmctZWxmLWJpbmFyeS1wYXRjaGluZy13aXRoLXNoaXZhLWEtaml0LWJpbmFyeS1wYXRjaGluZy1zeXN0ZW0tZm9yLWxpbnV4Lz91dG1fc291cmNlPXNid2Vic2l0ZSZ1dG1fbWVkaXVtPW1hcnF1ZWUmdXRtX2NhbXBhaWduPW1hcnF1ZWXSAdMBaHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyMy8xMC9kZWYtY29uLTMxLWVsZm1hc3RlcnMtcmV2b2x1dGlvbml6aW5nLWVsZi1iaW5hcnktcGF0Y2hpbmctd2l0aC1zaGl2YS1hLWppdC1iaW5hcnktcGF0Y2hpbmctc3lzdGVtLWZvci1saW51eC9hbXAvP3V0bV9zb3VyY2U9c2J3ZWJzaXRlJnV0bV9tZWRpdW09bWFycXVlZSZ1dG1fY2FtcGFpZ249bWFycXVlZQ?oc=5",
-          "publishedOn": "2023-10-20T17:43:08.000Z",
-          "wordCount": 5001,
-          "title": "DEF CON 31 – ElfMaster’s ‘Revolutionizing ELF Binary Patching With Shiva A JIT Binary Patching Sy... - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LUNPU01JQy1PY3RvYmVy0gEA",
-          "author": null,
-          "description": "COSMIC Desktop Rolls Out Lock/Login Screen, More Wayland ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1N5c3RlbTc2LUNPU01JQy1PY3RvYmVy0gEA?oc=5",
-          "publishedOn": "2023-10-20T15:12:00.000Z",
-          "wordCount": 5001,
-          "title": "COSMIC Desktop Rolls Out Lock/Login Screen, More Wayland ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Z1bGthbi0xLjMuMjY5LVJlbGVhc2Vk0gEA",
-          "author": null,
-          "description": "Vulkan 1.3.269 Released With New Extension For Launching CUDA ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1Z1bGthbi0xLjMuMjY5LVJlbGVhc2Vk0gEA?oc=5",
-          "publishedOn": "2023-10-20T14:05:00.000Z",
-          "wordCount": 5001,
-          "title": "Vulkan 1.3.269 Released With New Extension For Launching CUDA ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9vbi10aGlzLWRheS11YnVudHUtcmVsZWFzZWQv0gEA",
-          "author": null,
-          "description": "On this day, the first Ubuntu distro was released  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9vbi10aGlzLWRheS11YnVudHUtcmVsZWFzZWQv0gEA?oc=5",
-          "publishedOn": "2023-10-20T14:01:00.000Z",
-          "wordCount": 5001,
-          "title": "On this day, the first Ubuntu distro was released - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9hbWQtcmRuYS0zLXJlZnJlc2gtY29kZS11bmVhcnRoZWQtaW4tbGludXgtbWVzYS0yMzMtZ3JhcGhpY3MtZHJpdmVy0gEA",
-          "author": null,
-          "description": "AMD RDNA 3 Refresh Code Unearthed in Linux Mesa 23.3 Graphics Driver  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vbmV3cy9hbWQtcmRuYS0zLXJlZnJlc2gtY29kZS11bmVhcnRoZWQtaW4tbGludXgtbWVzYS0yMzMtZ3JhcGhpY3MtZHJpdmVy0gEA?oc=5",
-          "publishedOn": "2023-10-20T13:34:18.000Z",
-          "wordCount": 5001,
-          "title": "AMD RDNA 3 Refresh Code Unearthed in Linux Mesa 23.3 Graphics Driver - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -9327,21 +9257,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.",
-          "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
-          "publishedOn": "2023-10-21T09:00:00.000Z",
-          "wordCount": 3938,
-          "title": "A Roundup Of WCAG 2.2 Explainers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg"
         }
       ]
     },
@@ -9959,26 +9874,6 @@
           "wordCount": 1044,
           "title": "Testing in Python with Pytest",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pytest.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are a web developer working on the frontend or the backend, you'll want to have Node.js installed on your system.  But if you use the typical sudo apt install nodejs command, it may install a very old version of Node which can be troublesome for you. So",
-          "link": "https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/",
-          "publishedOn": "2023-10-20T19:29:06.000Z",
-          "wordCount": 1653,
-          "title": "How to Install Node.js on Ubuntu – Node Linux Installation Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/programming-development-technology-work-at-night-2022-01-19-00-14-46-utc-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/",
-          "author": "Beau Carnes",
-          "description": "If you want to improve your skills with Next.js, TailwindCSS, and MongoDB, we have a great project for you. We just released a video course on the freeCodeCamp.org YouTube channel that will teach you how to build a modern ticketing app with Next.js, App Router, Tailwind CSS, MongoDB, and other",
-          "link": "https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/",
-          "publishedOn": "2023-10-20T15:54:06.000Z",
-          "wordCount": 1084,
-          "title": "Use Next.js, Tailwind CSS, and MongoDB to Build a Ticketing Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/ticketingapp.png"
         }
       ]
     }
