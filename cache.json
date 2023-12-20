@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=405679",
+          "author": "Sam U",
+          "description": "Alias is a shortcut command that is used to execute a set of commands. The alias can be temporary or permanent.",
+          "link": "https://linuxhint.com/create-remove-alias-in-linux/",
+          "publishedOn": "2023-12-15T08:49:51.000Z",
+          "wordCount": 5959,
+          "title": "How to Create and Remove Alias in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405667",
+          "author": "Sam U",
+          "description": "To change Hey Siri to Siri go to Siri & Search in Settings and select Siri or Hey Siri from the Listen for option.",
+          "link": "https://linuxhint.com/change-hey-siri-to-siri-iphone-ipad-mac/",
+          "publishedOn": "2023-12-15T08:41:02.000Z",
+          "wordCount": 5393,
+          "title": "How to Change “Hey Siri” to “Siri” on iPhone, iPad and Mac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405397",
+          "author": "Shameen Shahid",
+          "description": "To assume a role using CLI, there are three methods i.e., via the STS (security token service), --profile parameter, or the MFA (Multi-Factor Authentication).",
+          "link": "https://linuxhint.com/aws-assume-role-cli/",
+          "publishedOn": "2023-12-15T08:19:37.000Z",
+          "wordCount": 11366,
+          "title": "How to Assume an IAM Role Using AWS CLI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405020",
+          "author": "Aaliyan Javaid",
+          "description": "A film capacitor is a capacitor that uses a thin plastic film as the dielectric. They are relatively cheap, stable over time, and have low self-inductance.",
+          "link": "https://linuxhint.com/film-capacitor/",
+          "publishedOn": "2023-12-15T04:59:02.000Z",
+          "wordCount": 6063,
+          "title": "Film Capacitor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404980",
+          "author": "Rafia Zafar",
+          "description": "To create the Kubernetes Deployment, start the Kubernetes cluster and use “kubectl create deployment <deployment-name> --image=<image-name>” command.",
+          "link": "https://linuxhint.com/create-kubernetes-deployment-using-kubectl-create-deployment/",
+          "publishedOn": "2023-12-15T04:43:04.000Z",
+          "wordCount": 6415,
+          "title": "Create Deployment Using “kubectl create deployment”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404653",
+          "author": "Kashif",
+          "description": "The average value of an alternating current (AC) waveform is zero. This is because the area of the positive and negative half cycle are equal.",
+          "link": "https://linuxhint.com/average-value-ac-waveform/",
+          "publishedOn": "2023-12-15T04:30:29.000Z",
+          "wordCount": 7063,
+          "title": "Average Value of AC Waveform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405584",
+          "author": "Sam U",
+          "description": "The date command is used with the --date or -d option with 1 day ago or yesterday strings to get yesterday’s date.",
+          "link": "https://linuxhint.com/find-yesterday-date-bash/",
+          "publishedOn": "2023-12-15T04:12:22.000Z",
+          "wordCount": 5760,
+          "title": "How to Find Yesterday Date in Bash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405493",
+          "author": "Muhammad Farhan",
+          "description": "To import the scheduled tasks open PowerShell. Type Register-ScheduledTask -xml (Get-Content \"Task-Path\" | Out-String) -TaskName \"T-Name\" -TaskPath \"T-Path\".",
+          "link": "https://linuxhint.com/import-export-scheduled-tasks-using-powershell/",
+          "publishedOn": "2023-12-14T20:22:51.000Z",
+          "wordCount": 5757,
+          "title": "How to Import and Export Scheduled Tasks Using PowerShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405477",
+          "author": "Sam U",
+          "description": "Dropbear is a lightweight SSH server and client designed for embedded systems. It can be installed on Ubuntu using the apt package manager.",
+          "link": "https://linuxhint.com/install-configure-dropbear-ubuntu/",
+          "publishedOn": "2023-12-14T20:21:39.000Z",
+          "wordCount": 5271,
+          "title": "How to Install and Configure Dropbear on Ubuntu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405446",
+          "author": "Sam U",
+          "description": "The dig and nslookup are network troubleshooting utilities that can be installed on Ubuntu by installing dnsutils through the apt package manager.",
+          "link": "https://linuxhint.com/install-use-dig-nslookup-for-network-troubleshooting-ubuntu/",
+          "publishedOn": "2023-12-14T20:20:05.000Z",
+          "wordCount": 6115,
+          "title": "How to Install and Use dig and nslookup on Ubuntu For Network Troubleshooting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405511",
+          "author": "Rafia Zafar",
+          "description": "To start the Kubernetes cluster, first, download the Docker Desktop or minikube. Then, install the kubectl tool, and start Kubernetes node to use Kubernetes.",
+          "link": "https://linuxhint.com/get-started-kubernetes-kubectl-windows/",
+          "publishedOn": "2023-12-14T20:15:47.000Z",
+          "wordCount": 8868,
+          "title": "How to Get Started With Kubernetes and Kubectl on Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=405420",
+          "author": "Shameen Shahid",
+          "description": "To install AWS CLI using Chocolatey, a user can use PowerShell v2.0 or later or CMD with admin access. Provide the mentioned commands to begin installations.",
+          "link": "https://linuxhint.com/choco-install-aws-cli/",
+          "publishedOn": "2023-12-14T15:46:23.000Z",
+          "wordCount": 6436,
+          "title": "How to Install AWS CLI Using Chocolatey Package Manager?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404520",
+          "author": "Rafia Zafar",
+          "description": "To run the Kubernetes, first, start the Kubernetes cluster. Then, run the “kubectl run  --image= --:” command.",
+          "link": "https://linuxhint.com/run-kubernetes-pod-using-kubectl-run/",
+          "publishedOn": "2023-12-12T11:33:26.000Z",
+          "wordCount": 7466,
+          "title": "How to Run Pod Using “kubectl run”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404487",
+          "author": "Rafia Zafar",
+          "description": "To rollout updates, use “kubectl set image deployment  =” and rollback them using “kubectl rollout undo deployment”.",
+          "link": "https://linuxhint.com/rollout-rollback-deployment-kubernetes/",
+          "publishedOn": "2023-12-12T07:24:39.000Z",
+          "wordCount": 6524,
+          "title": "How to Rollout and Rollback Deployment in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404449",
+          "author": "Rafia Zafar",
+          "description": "To install kubectl on Mac, the user can either use kubectl binary, Homebrew, or MacPorts. Then, verify the kubectl installation using “kubectl version” command.",
+          "link": "https://linuxhint.com/install-kubectl-mac/",
+          "publishedOn": "2023-12-12T05:40:36.000Z",
+          "wordCount": 6589,
+          "title": "How to Install kubectl on Mac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404441",
+          "author": "Shehroz Azam",
+          "description": "The apropos command is used to search man pages and helps the user to find any command required. can work without options but requires a keyword.",
+          "link": "https://linuxhint.com/apropos-linux-command/",
+          "publishedOn": "2023-12-12T05:10:09.000Z",
+          "wordCount": 5140,
+          "title": "apropos Linux Command",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404382",
+          "author": "Muhammad Farhan",
+          "description": "PowerShell commands are the units of scripting language. It helps the system admins perform the recurring tasks swiftly.",
+          "link": "https://linuxhint.com/powershell-commands-examples/",
+          "publishedOn": "2023-12-11T12:00:21.000Z",
+          "wordCount": 7593,
+          "title": "30 PowerShell Commands Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404348",
+          "author": "Muhammad Farhan",
+          "description": "To manage the network using PowerShell, administrators must be aware of the networking commands. These commands include ping, tracert, nslookup, or netstat.",
+          "link": "https://linuxhint.com/basic-powershell-networking-commands/",
+          "publishedOn": "2023-12-11T05:05:45.000Z",
+          "wordCount": 6865,
+          "title": "30 Basic PowerShell Networking Commands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=404285",
+          "author": "Sam U",
+          "description": "Regex is a sequence of special characters that form a pattern to find specific pattern-matching. This guide provides 16 bash regex examples.",
+          "link": "https://linuxhint.com/16-bash-regular-expression-examples-grep-sed-awk/",
+          "publishedOn": "2023-12-11T03:05:47.000Z",
+          "wordCount": 5582,
+          "title": "16 Bash Regular Expression (RegEx) Examples Using grep, sed, and awk Commands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=402887",
+          "author": "Shaheer Ahmad",
+          "description": "To apply font smoothing on Tailwind elements, the “antialiased” and “subpixel-antialiased” classes are used for fixing the rough edges of the text characters.",
+          "link": "https://linuxhint.com/apply-font-smoothing-tailwind/",
+          "publishedOn": "2023-12-08T10:04:41.000Z",
+          "wordCount": 5091,
+          "title": "How to Apply Font Smoothing on Tailwind Elements?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=402816",
+          "author": "Awais Khan",
+          "description": "You can add HDMI Input to Raspberry Pi using HDMI Capture Card and then use terminal or third-party application like OBS to view other system displays.",
+          "link": "https://linuxhint.com/hdmi-input-raspberry-pi/",
+          "publishedOn": "2023-12-08T10:04:25.000Z",
+          "wordCount": 5928,
+          "title": "How to Add HDMI Input to Raspberry Pi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=402811",
+          "author": "Sam U",
+          "description": "To zoom in and out on Mac, pinch in and out. However, to use the Zoom accessibility feature on Mac there are various approaches.",
+          "link": "https://linuxhint.com/complete-guide-to-zoom-in-out-mac/",
+          "publishedOn": "2023-12-08T10:04:14.000Z",
+          "wordCount": 6234,
+          "title": "A Complete Guide to Zoom In and Out on Mac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=402814",
+          "author": "Muhammad Farhan",
+          "description": "To format a USB flash drive, first, press Windows + E to open File Explorer. Then, move This PC window, and right-click on the USB, and hit the Format button.",
+          "link": "https://linuxhint.com/format-usb-flash-drive-windows/",
+          "publishedOn": "2023-12-08T10:04:05.000Z",
+          "wordCount": 5390,
+          "title": "Format a USB Flash Drive on Windows (4 Methods)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=402812",
+          "author": "Rafia Zafar",
+          "description": "To apply the Yaml manifest, first create a Yaml file, add the essential configuration into the file, execute the “kubectl apply -f ” command.",
+          "link": "https://linuxhint.com/apply-yaml-manifest-kubernetes-resources-kubectl-apply/",
+          "publishedOn": "2023-12-08T10:04:01.000Z",
+          "wordCount": 7269,
+          "title": "Apply Yaml Manifest Using “kubectl apply”",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=402744",
           "author": "John Otieno",
           "description": "Tutorial on how to configure and integrate the basic logging features in a C# application using the NLog library to write the logs to a wide variety of targets.",
@@ -490,36 +730,6 @@
           "wordCount": 4977,
           "title": "How to Check for the C# Version in Your Application",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=312975",
-          "author": "Kevin Reursora",
-          "description": "In C++, the do-while loop is frequently used when the iteration numbers are not fixed, and it must be executed at least once.",
-          "link": "https://linuxhint.com/use-do-while-loop-cpp/",
-          "publishedOn": "2023-11-19T14:18:11.000Z",
-          "wordCount": 6857,
-          "title": "How to Use Do While Loop in C++",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=332544",
-          "author": "Kevin Reursora",
-          "description": "In C++, the “struct” is known as a structure that is a special member function within a struct that is used to initialize its member variables.",
-          "link": "https://linuxhint.com/struct-constructor-cpp/",
-          "publishedOn": "2023-11-19T13:48:11.000Z",
-          "wordCount": 5492,
-          "title": "What is C++ Struct Constructor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=310024",
-          "author": "Kevin Reursora",
-          "description": "The C++ sleep() function is used to momentarily halt the execution of a thread or process for a given amount of time. For more details, follow this article.",
-          "link": "https://linuxhint.com/use-sleep-method-in-cpp/",
-          "publishedOn": "2023-11-19T13:31:18.000Z",
-          "wordCount": 6246,
-          "title": "What is Sleep Function in C++",
-          "imageUrl": null
         }
       ]
     },
@@ -528,6 +738,86 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187222",
+          "author": "Web Webster",
+          "description": "Podman is a daemonless, open-source tool designed to make it easy to find, run, build, share and deploy applications using Open Containers Initiative (OCI) Containers and Container Images. In this tutorial, we are going to show you how to install Podman on a Debian 12 server.\nThe post How to Install Podman on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-podman-on-debian-12/",
+          "publishedOn": "2023-12-20T01:00:26.000Z",
+          "wordCount": 16962,
+          "title": "How to Install Podman on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187243",
+          "author": "Web Webster",
+          "description": "After six months of development, the postmarketOS team has released version 23.12, bringing the power and flexibility of Linux to a wider range of mobile devices than ever before.\nThe post PostmarketOS 23.12 Is Here: Breathing New Life Into Smartphones appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/postmarketos-23-12-is-here-breathing-new-life-into-smartphones/",
+          "publishedOn": "2023-12-19T23:00:15.000Z",
+          "wordCount": 16972,
+          "title": "PostmarketOS 23.12 Is Here: Breathing New Life Into Smartphones",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187244",
+          "author": "Web Webster",
+          "description": "OpenSSH, the workhorse of secure remote access, has received a welcome update with version 9.6. This release doesn’t just patch security holes; it also throws in some handy new features to keep your remote connections running smoothly and securely.\nThe post OpenSSH 9.6 Arrives: Patching Up and Powering Up appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/openssh-9-6-arrives-patching-up-and-powering-up/",
+          "publishedOn": "2023-12-19T21:00:26.000Z",
+          "wordCount": 16955,
+          "title": "OpenSSH 9.6 Arrives: Patching Up and Powering Up",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187237",
+          "author": "Web Webster",
+          "description": "The big news for Linux users in Firefox 121 is the enablement of the Wayland compositor by default instead of XWayland. Apart from improving the graphics performance, this also brings support for touchpad and touchscreen gestures, swipe-to-nav, per-monitor DPI settings, and other goodies.\nThe post Mozilla Firefox 121 Is Now Available for Download, Here’s What’s New appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/mozilla-firefox-121-is-now-available-for-download-heres-whats-new/",
+          "publishedOn": "2023-12-19T18:00:40.000Z",
+          "wordCount": 16978,
+          "title": "Mozilla Firefox 121 Is Now Available for Download, Here’s What’s New",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187250",
+          "author": "Web Webster",
+          "description": "DietPi 8.25 introduces support for Orange Pi 3B and PINE64 STAR64, enhancing options for diverse SBC users. Here’s what’s new!\nThe post DietPi 8.25 Enhances User Experience on Multiple Platforms appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/dietpi-8-25-enhances-user-experience-on-multiple-platforms/",
+          "publishedOn": "2023-12-19T17:00:41.000Z",
+          "wordCount": 16948,
+          "title": "DietPi 8.25 Enhances User Experience on Multiple Platforms",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187254",
+          "author": "Web Webster",
+          "description": "Qubes OS 4.2.0 features enhanced SELinux support and upgraded Dom0 and Xen. The Debian template is now based on the “Bookworm” release.\nThe post Qubes OS 4.2.0 Rolls Out With Dom0 Rebased to Fedora 37 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/qubes-os-4-2-0-rolls-out-with-dom0-rebased-to-fedora-37/",
+          "publishedOn": "2023-12-19T15:22:37.000Z",
+          "wordCount": 16964,
+          "title": "Qubes OS 4.2.0 Rolls Out With Dom0 Rebased to Fedora 37",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187221",
+          "author": "Web Webster",
+          "description": "Plasma Mobile developer Devin Lin outlines in a blog post details about the work he has done in the past few months to make Plasma 6 a reality for mobile devices and to get it ready for the KDE “Mega Release” (includes KDE Plasma 6, KDE Frameworks 6, and KDE Gear 24.04) scheduled for late […]\nThe post KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kde-plasma-6-for-mobile-devices-is-shaping-up-nicely-with-support-for-applets/",
+          "publishedOn": "2023-12-19T14:00:13.000Z",
+          "wordCount": 17011,
+          "title": "KDE Plasma 6 for Mobile Devices Is Shaping Up Nicely with Support for Applets",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187217",
+          "author": "Web Webster",
+          "description": "Pop!_OS 22.04 LTS now features Linux kernel 6.6.6, PipeWire 1.0.0, and Mesa 23.3.0. COSMIC desktop development is progressing rapidly.\nThe post Pop!_OS 22.04 Welcomes PipeWire 1.0.0, COSMIC Desktop Evolves appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/pop_os-22-04-welcomes-pipewire-1-0-0-cosmic-desktop-evolves/",
+          "publishedOn": "2023-12-19T03:00:49.000Z",
+          "wordCount": 16945,
+          "title": "Pop!_OS 22.04 Welcomes PipeWire 1.0.0, COSMIC Desktop Evolves",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=187139",
           "author": "Web Webster",
@@ -1867,26 +2157,6 @@
           "wordCount": 16928,
           "title": "Mozilla Firefox 120 Is Now Available for Download, Here’s What’s New",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186549",
-          "author": "Web Webster",
-          "description": "In this article, we will review the 10 top open-source reverse proxy servers you can use on a Linux system.\nThe post 10 Best Open-Source Reverse Proxy Servers for Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/10-best-open-source-reverse-proxy-servers-for-linux/",
-          "publishedOn": "2023-11-19T23:00:36.000Z",
-          "wordCount": 16905,
-          "title": "10 Best Open-Source Reverse Proxy Servers for Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186737",
-          "author": "Web Webster",
-          "description": "In this article, we will be reviewing and discussing various tar command examples, including how to create archive files using (tar, tar.gz, and tar.bz2) compression, how to extract archive files, extract a single file, view the content of the file, verify a file, add files or directories to the existing archive file, estimate the size […]\nThe post 18 Tar Command Examples in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/18-tar-command-examples-in-linux-6/",
-          "publishedOn": "2023-11-19T18:00:15.000Z",
-          "wordCount": 16936,
-          "title": "18 Tar Command Examples in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1896,6 +2166,236 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiRWh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zZXR0aW5nLWt1YmVybmV0ZXMtdWJ1bnR1LXNlcnZlctIBAA",
+          "author": null,
+          "description": "Setting Up Kubernetes on Ubuntu Server  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9zZXR0aW5nLWt1YmVybmV0ZXMtdWJ1bnR1LXNlcnZlctIBAA?oc=5",
+          "publishedOn": "2023-12-19T23:52:49.000Z",
+          "wordCount": 5036,
+          "title": "Setting Up Kubernetes on Ubuntu Server - Linux Journal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGRhdGFiYWNrdXAvdHV0b3JpYWwvVHV0b3JpYWwtVXNlLUxpbnV4LXJzeW5jLWJhY2t1cC10by1wcm90ZWN0LWZpbGVz0gEA",
+          "author": null,
+          "description": "Tutorial: Use Linux rsync backup to protect files  TechTarget",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGRhdGFiYWNrdXAvdHV0b3JpYWwvVHV0b3JpYWwtVXNlLUxpbnV4LXJzeW5jLWJhY2t1cC10by1wcm90ZWN0LWZpbGVz0gEA?oc=5",
+          "publishedOn": "2023-12-19T22:15:59.000Z",
+          "wordCount": 5036,
+          "title": "Tutorial: Use Linux rsync backup to protect files - TechTarget",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZGh0dHBzOi8vd2NjZnRlY2guY29tL2ludGVsLWNvcmUtdWx0cmEtNy0xNTVoLWNwdS1mYWlscy1taXNlcmFibHktYW1kLXJ5emVuLTctNzg0MHUtbGludXgtYmVuY2htYXJrcy_SAWhodHRwczovL3djY2Z0ZWNoLmNvbS9pbnRlbC1jb3JlLXVsdHJhLTctMTU1aC1jcHUtZmFpbHMtbWlzZXJhYmx5LWFtZC1yeXplbi03LTc4NDB1LWxpbnV4LWJlbmNobWFya3MvYW1wLw",
+          "author": null,
+          "description": "Intel Core Ultra 7 155H CPU Fails Miserably Against The AMD Ryzen 7 7840U In Linux Benchmarks  Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd2NjZnRlY2guY29tL2ludGVsLWNvcmUtdWx0cmEtNy0xNTVoLWNwdS1mYWlscy1taXNlcmFibHktYW1kLXJ5emVuLTctNzg0MHUtbGludXgtYmVuY2htYXJrcy_SAWhodHRwczovL3djY2Z0ZWNoLmNvbS9pbnRlbC1jb3JlLXVsdHJhLTctMTU1aC1jcHUtZmFpbHMtbWlzZXJhYmx5LWFtZC1yeXplbi03LTc4NDB1LWxpbnV4LWJlbmNobWFya3MvYW1wLw?oc=5",
+          "publishedOn": "2023-12-19T21:10:00.000Z",
+          "wordCount": 5036,
+          "title": "Intel Core Ultra 7 155H CPU Fails Miserably Against The AMD Ryzen 7 7840U In Linux Benchmarks - Wccftech",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcm1iaWFuLWxpbnV4LWlzLW5vdy1hdmFpbGFibGUtZm9yLXJhc3BiZXJyeS1waS01LWNvbXB1dGVyc9IBVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcm1iaWFuLWxpbnV4LWlzLW5vdy1hdmFpbGFibGUtZm9yLXJhc3BiZXJyeS1waS01LWNvbXB1dGVycy9hbXA",
+          "author": null,
+          "description": "Armbian Linux Is Now Available for Raspberry Pi 5 Computers  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcm1iaWFuLWxpbnV4LWlzLW5vdy1hdmFpbGFibGUtZm9yLXJhc3BiZXJyeS1waS01LWNvbXB1dGVyc9IBVWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9hcm1iaWFuLWxpbnV4LWlzLW5vdy1hdmFpbGFibGUtZm9yLXJhc3BiZXJyeS1waS01LWNvbXB1dGVycy9hbXA?oc=5",
+          "publishedOn": "2023-12-19T20:36:24.000Z",
+          "wordCount": 5036,
+          "title": "Armbian Linux Is Now Available for Raspberry Pi 5 Computers - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtY29yZS11bHRyYS03LTE1NWgtbGludXjSAQA",
+          "author": null,
+          "description": "Intel Core Ultra 7 155H Meteor Lake vs. AMD Ryzen 7 7840U On Linux In 300+ CPU Benchmarks Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtY29yZS11bHRyYS03LTE1NWgtbGludXjSAQA?oc=5",
+          "publishedOn": "2023-12-19T20:07:24.000Z",
+          "wordCount": 5036,
+          "title": "Intel Core Ultra 7 155H Meteor Lake vs. AMD Ryzen 7 7840U On Linux In 300+ CPU Benchmarks Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vbGlsaXB1dGluZy5jb20vZmVkb3JhLWFzYWhpLXJlbWl4LWlzLW5vdy1hdmFpbGFibGUtYnJpbmdpbmctZmVkb3JhLWxpbnV4LXRvLWFwcGxlLXNpbGljb24tbWFjcy_SAQA",
+          "author": null,
+          "description": "Fedora Asahi Remix is now available, bringing Fedora Linux to Apple Silicon Macs  Liliputing",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbGlsaXB1dGluZy5jb20vZmVkb3JhLWFzYWhpLXJlbWl4LWlzLW5vdy1hdmFpbGFibGUtYnJpbmdpbmctZmVkb3JhLWxpbnV4LXRvLWFwcGxlLXNpbGljb24tbWFjcy_SAQA?oc=5",
+          "publishedOn": "2023-12-19T19:24:33.000Z",
+          "wordCount": 5036,
+          "title": "Fedora Asahi Remix is now available, bringing Fedora Linux to Apple Silicon Macs - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vbGludXgtZ2V0cy1ldmVuLWJldHRlci1vbi1tb2Rlcm4tbWFjcy13aXRoLWZlZG9yYS1hc2FoaS1yZW1peC_SAQA",
+          "author": null,
+          "description": "Linux Gets Even Better on Modern Macs With Fedora Asahi Remix  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vbGludXgtZ2V0cy1ldmVuLWJldHRlci1vbi1tb2Rlcm4tbWFjcy13aXRoLWZlZG9yYS1hc2FoaS1yZW1peC_SAQA?oc=5",
+          "publishedOn": "2023-12-19T18:57:00.000Z",
+          "wordCount": 5036,
+          "title": "Linux Gets Even Better on Modern Macs With Fedora Asahi Remix - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3RlY2gtaW5kdXN0cnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvaW50ZWxzLWNoaW5hLW9wdGltaXplZC1haS1wcm9jZXNzb3JzLXB1cnBvcnRlZGx5LW1vdmUtY2xvc2VyLXRvLWxhdW5jaC1teXN0ZXJpb3VzLWdhdWRpMmMtY2hpcHMtc2hvdy11cC1pbi1uZXctbGludXgtZHJpdmVyc9IBAA",
+          "author": null,
+          "description": "Intel's China-optimized AI processors purportedly move closer to launch — mysterious Gaudi2C chips show up in new ...  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3RlY2gtaW5kdXN0cnkvYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UvaW50ZWxzLWNoaW5hLW9wdGltaXplZC1haS1wcm9jZXNzb3JzLXB1cnBvcnRlZGx5LW1vdmUtY2xvc2VyLXRvLWxhdW5jaC1teXN0ZXJpb3VzLWdhdWRpMmMtY2hpcHMtc2hvdy11cC1pbi1uZXctbGludXgtZHJpdmVyc9IBAA?oc=5",
+          "publishedOn": "2023-12-19T18:46:04.000Z",
+          "wordCount": 5036,
+          "title": "Intel's China-optimized AI processors purportedly move closer to launch — mysterious Gaudi2C chips show up in new ... - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEyL2ZpcmVmb3gtMTIxLXJlbGVhc2VkLW5vdy1kZWZhdWx0cy10by13YXlsYW5kLW9uLWxpbnV40gFdaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTIvZmlyZWZveC0xMjEtcmVsZWFzZWQtbm93LWRlZmF1bHRzLXRvLXdheWxhbmQtb24tbGludXgvYW1w",
+          "author": null,
+          "description": "Firefox 121 released, now defaults to Wayland on Linux  OMG! Ubuntu!",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDIzLzEyL2ZpcmVmb3gtMTIxLXJlbGVhc2VkLW5vdy1kZWZhdWx0cy10by13YXlsYW5kLW9uLWxpbnV40gFdaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjMvMTIvZmlyZWZveC0xMjEtcmVsZWFzZWQtbm93LWRlZmF1bHRzLXRvLXdheWxhbmQtb24tbGludXgvYW1w?oc=5",
+          "publishedOn": "2023-12-19T17:48:45.000Z",
+          "wordCount": 5036,
+          "title": "Firefox 121 released, now defaults to Wayland on Linux - OMG! Ubuntu!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtYXNhaGktcmVtaXgtb2ZmaWNpYWxseS1yZWxlYXNlZC1mb3ItYXBwbGUtc2lsaWNvbi1tYWNz0gFXaHR0cHM6Ly85dG81bGludXguY29tL2ZlZG9yYS1hc2FoaS1yZW1peC1vZmZpY2lhbGx5LXJlbGVhc2VkLWZvci1hcHBsZS1zaWxpY29uLW1hY3MvYW1w",
+          "author": null,
+          "description": "Fedora Asahi Remix Officially Released for Apple Silicon Macs  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9mZWRvcmEtYXNhaGktcmVtaXgtb2ZmaWNpYWxseS1yZWxlYXNlZC1mb3ItYXBwbGUtc2lsaWNvbi1tYWNz0gFXaHR0cHM6Ly85dG81bGludXguY29tL2ZlZG9yYS1hc2FoaS1yZW1peC1vZmZpY2lhbGx5LXJlbGVhc2VkLWZvci1hcHBsZS1zaWxpY29uLW1hY3MvYW1w?oc=5",
+          "publishedOn": "2023-12-19T17:34:04.000Z",
+          "wordCount": 5036,
+          "title": "Fedora Asahi Remix Officially Released for Apple Silicon Macs - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS1Bc2FoaS1SZW1peC0zOdIBAA",
+          "author": null,
+          "description": "Fedora Asahi Remix 39 Released For Apple Silicon Macs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS1Bc2FoaS1SZW1peC0zOdIBAA?oc=5",
+          "publishedOn": "2023-12-19T17:32:00.000Z",
+          "wordCount": 5036,
+          "title": "Fedora Asahi Remix 39 Released For Apple Silicon Macs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tY29ubmVjdGl2aXR5LWdyb3dzLXBvcnRmb2xpby13aXRoLWlzcC10b29sYm94LWFuZC1tYWdtYS1wcm9qZWN0cy0zMDIwMTkyMDcuaHRtbNIBAA",
+          "author": null,
+          "description": "Linux Foundation Connectivity Grows Portfolio with ISP Toolbox and Magma Projects  PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2xpbnV4LWZvdW5kYXRpb24tY29ubmVjdGl2aXR5LWdyb3dzLXBvcnRmb2xpby13aXRoLWlzcC10b29sYm94LWFuZC1tYWdtYS1wcm9qZWN0cy0zMDIwMTkyMDcuaHRtbNIBAA?oc=5",
+          "publishedOn": "2023-12-19T17:00:00.000Z",
+          "wordCount": 5036,
+          "title": "Linux Foundation Connectivity Grows Portfolio with ISP Toolbox and Magma Projects - PR Newswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE5L2RlYmlhbl90b19kcm9wX3g4Nl8zMi_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMTIvMTkvZGViaWFuX3RvX2Ryb3BfeDg2XzMyLw",
+          "author": null,
+          "description": "Debian preps ground to drop 32-bit x86 as separate edition  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE5L2RlYmlhbl90b19kcm9wX3g4Nl8zMi_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMTIvMTkvZGViaWFuX3RvX2Ryb3BfeDg2XzMyLw?oc=5",
+          "publishedOn": "2023-12-19T16:30:00.000Z",
+          "wordCount": 5036,
+          "title": "Debian preps ground to drop 32-bit x86 as separate edition - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL21pY3Jvc29mdHMtbmV3LXdpbmRvd3MtYWktc3R1ZGlvLWRldmVsb3Blci10b29sLW1ha2VzLXlvdS1pbnN0YWxsLWxpbnV4LXRvLXVzZS1pdNIBAA",
+          "author": null,
+          "description": "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL21pY3Jvc29mdHMtbmV3LXdpbmRvd3MtYWktc3R1ZGlvLWRldmVsb3Blci10b29sLW1ha2VzLXlvdS1pbnN0YWxsLWxpbnV4LXRvLXVzZS1pdNIBAA?oc=5",
+          "publishedOn": "2023-12-19T14:50:04.000Z",
+          "wordCount": 5036,
+          "title": "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vZmlyZWZveC0xMjEtcmVsZWFzZS_SAQA",
+          "author": null,
+          "description": "Firefox 121 Arrives With Windows and Linux Enhancements  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vZmlyZWZveC0xMjEtcmVsZWFzZS_SAQA?oc=5",
+          "publishedOn": "2023-12-19T14:01:00.000Z",
+          "wordCount": 5036,
+          "title": "Firefox 121 Arrives With Windows and Linux Enhancements - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2F5cy10by1pbnN0YWxsLXVidW50dS1vbi1leHRlcm5hbC1kcml2ZXMv0gEA",
+          "author": null,
+          "description": "5 Ways You Can Install Ubuntu on External Storage  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vd2F5cy10by1pbnN0YWxsLXVidW50dS1vbi1leHRlcm5hbC1kcml2ZXMv0gEA?oc=5",
+          "publishedOn": "2023-12-19T13:00:00.000Z",
+          "wordCount": 5036,
+          "title": "5 Ways You Can Install Ubuntu on External Storage - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnNpbHZlcmxpbmluZ3NpbmZvLmNvbS9hdXRvbWF0aW9uL3doYXQtaGVjay1oYXBwZW5lZC1vbmbSAQA",
+          "author": null,
+          "description": "What the heck happened to ONF?  Silverlinings",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNpbHZlcmxpbmluZ3NpbmZvLmNvbS9hdXRvbWF0aW9uL3doYXQtaGVjay1oYXBwZW5lZC1vbmbSAQA?oc=5",
+          "publishedOn": "2023-12-19T12:28:13.000Z",
+          "wordCount": 5036,
+          "title": "What the heck happened to ONF? - Silverlinings",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vbGludXhpYWMuY29tL3F1YmVzLW9zLTQtMi0wLXJvbGxzLW91dC13aXRoLWRvbTAtcmViYXNlZC10by1mZWRvcmEtMzcv0gEA",
+          "author": null,
+          "description": "Qubes OS 4.2.0 Rolls Out with Dom0 Rebased to Fedora 37  Linuxiac",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbGludXhpYWMuY29tL3F1YmVzLW9zLTQtMi0wLXJvbGxzLW91dC13aXRoLWRvbTAtcmViYXNlZC10by1mZWRvcmEtMzcv0gEA?oc=5",
+          "publishedOn": "2023-12-19T11:42:56.000Z",
+          "wordCount": 5036,
+          "title": "Qubes OS 4.2.0 Rolls Out with Dom0 Rebased to Fedora 37 - Linuxiac",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL21hYm94LWxpbnV4LXByb3Zlcy10aGF0LW9sZC1zY2hvb2wtbGludXgtaXMtaGVyZS10by1zdGF5LWFuZC1pdHMtZnJlZS10by11c2Uv0gF2aHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9tYWJveC1saW51eC1wcm92ZXMtdGhhdC1vbGQtc2Nob29sLWxpbnV4LWlzLWhlcmUtdG8tc3RheS1hbmQtaXRzLWZyZWUtdG8tdXNlLw",
+          "author": null,
+          "description": "Mabox Linux proves that old-school Linux is here to stay, and it's free to use  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL21hYm94LWxpbnV4LXByb3Zlcy10aGF0LW9sZC1zY2hvb2wtbGludXgtaXMtaGVyZS10by1zdGF5LWFuZC1pdHMtZnJlZS10by11c2Uv0gF2aHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9tYWJveC1saW51eC1wcm92ZXMtdGhhdC1vbGQtc2Nob29sLWxpbnV4LWlzLWhlcmUtdG8tc3RheS1hbmQtaXRzLWZyZWUtdG8tdXNlLw?oc=5",
+          "publishedOn": "2023-12-19T11:38:00.000Z",
+          "wordCount": 5036,
+          "title": "Mabox Linux proves that old-school Linux is here to stay, and it's free to use - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1HUzEwMS1Tb0MtUGl4ZWwtNtIBAA",
+          "author": null,
+          "description": "The Mainline Linux Kernel To Finally Support The Google Tensor GS101 SoC & Pixel 6  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1HUzEwMS1Tb0MtUGl4ZWwtNtIBAA?oc=5",
+          "publishedOn": "2023-12-19T11:29:00.000Z",
+          "wordCount": 5036,
+          "title": "The Mainline Linux Kernel To Finally Support The Google Tensor GS101 SoC & Pixel 6 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlBQS1Ecml2ZXItTGludXgtNi440gEA",
+          "author": null,
+          "description": "Intel IAA Crypto Compression Driver To Be Merged For Linux 6.8  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUlBQS1Ecml2ZXItTGludXgtNi440gEA?oc=5",
+          "publishedOn": "2023-12-19T11:11:00.000Z",
+          "wordCount": 5036,
+          "title": "Intel IAA Crypto Compression Driver To Be Merged For Linux 6.8 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUdhdWRpMi1MaW51eC1Hb29kLVNoYXBl0gEA",
+          "author": null,
+          "description": "Intel Gaudi2's Linux Driver Support Is \"Very Stable At This Point\", Gaudi2C Device Added  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLUdhdWRpMi1MaW51eC1Hb29kLVNoYXBl0gEA?oc=5",
+          "publishedOn": "2023-12-19T10:18:00.000Z",
+          "wordCount": 5036,
+          "title": "Intel Gaudi2's Linux Driver Support Is \"Very Stable At This Point\", Gaudi2C Device Added - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vbGludXhnaXptb3MuY29tL2RpZXRwaS1kZWNlbWJlci0yMDIzLW5ld3MtdmVyc2lvbi04LTI1L9IBAA",
+          "author": null,
+          "description": "DietPi December 2023 news (version 8.25)  LinuxGizmos.com",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbGludXhnaXptb3MuY29tL2RpZXRwaS1kZWNlbWJlci0yMDIzLW5ld3MtdmVyc2lvbi04LTI1L9IBAA?oc=5",
+          "publishedOn": "2023-12-19T08:02:12.000Z",
+          "wordCount": 5036,
+          "title": "DietPi December 2023 news (version 8.25) - LinuxGizmos.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMidGh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGRhdGFiYWNrdXAvdHV0b3JpYWwvVHV0b3JpYWwtSG93LXRvLXVzZS1MaW51eC1EZWphLUR1cC10by1iYWNrLXVwLWFuZC1yZXN0b3JlLWZpbGVz0gEA",
           "author": null,
           "description": "Tutorial: How to use Linux Deja Dup to back up and restore files  TechTarget",
@@ -1903,6 +2403,16 @@
           "publishedOn": "2023-12-18T23:38:39.000Z",
           "wordCount": 5045,
           "title": "Tutorial: How to use Linux Deja Dup to back up and restore files - TechTarget",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3Rvcnkva3VtYW5kZXItbGludXgtdGhpcy1uZXctZGlzdHJvLXB1dHMteW91LWluLWNoYXJnZS1vZi1jb21wdXRpbmctMTc3MjIzLmh0bWzSAQA",
+          "author": null,
+          "description": "Kumander Linux: This New Distro Puts You in Charge of Computing  LinuxInsider",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmxpbnV4aW5zaWRlci5jb20vc3Rvcnkva3VtYW5kZXItbGludXgtdGhpcy1uZXctZGlzdHJvLXB1dHMteW91LWluLWNoYXJnZS1vZi1jb21wdXRpbmctMTc3MjIzLmh0bWzSAQA?oc=5",
+          "publishedOn": "2023-12-18T23:15:00.000Z",
+          "wordCount": 5036,
+          "title": "Kumander Linux: This New Distro Puts You in Charge of Computing - LinuxInsider",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2106,6 +2616,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9wb3N0bWFya2V0b3MtMjMtMTItYnJpbmdzLXRoZS1nbm9tZS00NS1kZXNrdG9wLXRvLWxpbnV4LXBob25lcy1hbmQtdGFibGV0c9IBAA",
+          "author": null,
+          "description": "postmarketOS 23.12 Brings the GNOME 45 Desktop to Linux Phones and Tablets  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9wb3N0bWFya2V0b3MtMjMtMTItYnJpbmdzLXRoZS1nbm9tZS00NS1kZXNrdG9wLXRvLWxpbnV4LXBob25lcy1hbmQtdGFibGV0c9IBAA?oc=5",
+          "publishedOn": "2023-12-18T03:37:28.000Z",
+          "wordCount": 5036,
+          "title": "postmarketOS 23.12 Brings the GNOME 45 Desktop to Linux Phones and Tablets - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiYGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9wb3N0bWFya2V0b3MtMjMtMTItYnJpbmdzLXRoZS1nbm9tZS00NS1kZXNrdG9wLXRvLWxpbnV4LXBob25lcy1hbmQtdGFibGV0c9IBZGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9wb3N0bWFya2V0b3MtMjMtMTItYnJpbmdzLXRoZS1nbm9tZS00NS1kZXNrdG9wLXRvLWxpbnV4LXBob25lcy1hbmQtdGFibGV0cy9hbXA",
           "author": null,
           "description": "postmarketOS 23.12 Brings the GNOME 45 Desktop to Linux Phones and Tablets  9to5Linux",
@@ -2173,6 +2693,16 @@
           "publishedOn": "2023-12-17T11:34:00.000Z",
           "wordCount": 5045,
           "title": "Sophgo SG2380 RISC-V SoC To Now Support Up To 96GB RAM, Additional PCIe & 25 GbE - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vbGludXhpYWMuY29tL3doYXQtaXMtcm9sbGluZy1yZWxlYXNlLWxpbnV4LWFuZC13aGF0LWlzLXRoZS1yZWFsLWJlbmVmaXQtb2YtdXNpbmctaXQv0gEA",
+          "author": null,
+          "description": "Rolling Release Linux Distros Unveiled: What You Need to Know  Linuxiac",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbGludXhpYWMuY29tL3doYXQtaXMtcm9sbGluZy1yZWxlYXNlLWxpbnV4LWFuZC13aGF0LWlzLXRoZS1yZWFsLWJlbmVmaXQtb2YtdXNpbmctaXQv0gEA?oc=5",
+          "publishedOn": "2023-12-17T01:40:03.000Z",
+          "wordCount": 5036,
+          "title": "Rolling Release Linux Distros Unveiled: What You Need to Know - Linuxiac",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7543,146 +8073,6 @@
           "publishedOn": "2023-11-20T14:01:17.000Z",
           "wordCount": 5021,
           "title": "AMD Ryzen Threadripper 7980X & 7970X Linux Performance ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTEyMDA0NTUzMy9lbi9YZW4tUHJvamVjdC1SZWxlYXNlcy1WZXJzaW9uLTQuMTgtd2l0aC1OZXctU2VjdXJpdHktUGVyZm9ybWFuY2UtYW5kLUFyY2hpdGVjdHVyZS1FbmhhbmNlbWVudHMtZm9yLUFJTUwtQXBwbGljYXRpb25z0gEA",
-          "author": null,
-          "description": "Xen Project Releases Version 4.18 with New Security, Performance ...  Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTEyMDA0NTUzMy9lbi9YZW4tUHJvamVjdC1SZWxlYXNlcy1WZXJzaW9uLTQuMTgtd2l0aC1OZXctU2VjdXJpdHktUGVyZm9ybWFuY2UtYW5kLUFyY2hpdGVjdHVyZS1FbmhhbmNlbWVudHMtZm9yLUFJTUwtQXBwbGljYXRpb25z0gEA?oc=5",
-          "publishedOn": "2023-11-20T13:05:00.000Z",
-          "wordCount": 5021,
-          "title": "Xen Project Releases Version 4.18 with New Security, Performance ... - Business Wire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvaHVudC1zaG93ZG93bi1pcy1icm9rZW4tb24tc3RlYW0tZGVjay1saW51eC1kdWUtdG8tZWFzeS1hbnRpLWNoZWF0L9IBAA",
-          "author": null,
-          "description": "Hunt: Showdown is broken on Steam Deck / Linux due to Easy Anti ...  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTEvaHVudC1zaG93ZG93bi1pcy1icm9rZW4tb24tc3RlYW0tZGVjay1saW51eC1kdWUtdG8tZWFzeS1hbnRpLWNoZWF0L9IBAA?oc=5",
-          "publishedOn": "2023-11-20T12:58:49.000Z",
-          "wordCount": 5021,
-          "title": "Hunt: Showdown is broken on Steam Deck / Linux due to Easy Anti ... - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1PbnRvLUJ1Zy1GaXhpbmfSAQA",
-          "author": null,
-          "description": "GCC 14 Shifts From Feature Development To \"General Bugfixing ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dDQy0xNC1PbnRvLUJ1Zy1GaXhpbmfSAQA?oc=5",
-          "publishedOn": "2023-11-20T11:02:00.000Z",
-          "wordCount": 5021,
-          "title": "GCC 14 Shifts From Feature Development To \"General Bugfixing ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Rpc3Ryb2JveC0xLjYtUmVsZWFzZWTSAQA",
-          "author": null,
-          "description": "Distrobox 1.6 Released For Easily Launching New Distros Within ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0Rpc3Ryb2JveC0xLjYtUmVsZWFzZWTSAQA?oc=5",
-          "publishedOn": "2023-11-20T10:30:00.000Z",
-          "wordCount": 5021,
-          "title": "Distrobox 1.6 Released For Easily Launching New Distros Within ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwL2J1ZGdpZV9zd2l0Y2hlc193YXlsYW5kX2FwcHJvYWNoL9IBTGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMy8xMS8yMC9idWRnaWVfc3dpdGNoZXNfd2F5bGFuZF9hcHByb2FjaC8",
-          "author": null,
-          "description": "Ubuntu Budgie switches its approach to Wayland  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwL2J1ZGdpZV9zd2l0Y2hlc193YXlsYW5kX2FwcHJvYWNoL9IBTGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyMy8xMS8yMC9idWRnaWVfc3dpdGNoZXNfd2F5bGFuZF9hcHByb2FjaC8?oc=5",
-          "publishedOn": "2023-11-20T10:22:00.000Z",
-          "wordCount": 5021,
-          "title": "Ubuntu Budgie switches its approach to Wayland - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv",
-          "author": null,
-          "description": "Linux Deepin's big brother claims it's hit three million installs  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv0gFCaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv?oc=5",
-          "publishedOn": "2023-11-20T09:38:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux Deepin's big brother claims it's hit three million installs - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv0gEA",
-          "author": null,
-          "description": "Linux Deepin's big brother reaches three million installs  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzExLzIwLzNfbWlsbGlvbl9kZWVwaW5fdXNlcnMv0gEA?oc=5",
-          "publishedOn": "2023-11-20T09:38:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux Deepin's big brother reaches three million installs - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2xpbnV4LWtlcm5lbC02LTYtaXMtdGhlLW5leHQtbG9uZy10ZXJtLXN1cHBvcnQtcmVsZWFzZS_SAWBodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2xpbnV4LWtlcm5lbC02LTYtaXMtdGhlLW5leHQtbG9uZy10ZXJtLXN1cHBvcnQtcmVsZWFzZS8",
-          "author": null,
-          "description": "Linux kernel 6.6 is the next long-term support release  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2xpbnV4LWtlcm5lbC02LTYtaXMtdGhlLW5leHQtbG9uZy10ZXJtLXN1cHBvcnQtcmVsZWFzZS_SAWBodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2xpbnV4LWtlcm5lbC02LTYtaXMtdGhlLW5leHQtbG9uZy10ZXJtLXN1cHBvcnQtcmVsZWFzZS8?oc=5",
-          "publishedOn": "2023-11-20T08:38:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux kernel 6.6 is the next long-term support release - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8xMjQ4NzQ4L2dldHRpbmctc3RhcnRlZC1vbi10aGUtbGludXgtb3ItdW5peC1jb21tYW5kLWxpbmUtcGFydC00Lmh0bWzSAW9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTI0ODc0OC9nZXR0aW5nLXN0YXJ0ZWQtb24tdGhlLWxpbnV4LW9yLXVuaXgtY29tbWFuZC1saW5lLXBhcnQtNC5odG1sL2FtcC8",
-          "author": null,
-          "description": "Getting started on the Linux (or Unix) command line, Part 4  Network World",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8xMjQ4NzQ4L2dldHRpbmctc3RhcnRlZC1vbi10aGUtbGludXgtb3ItdW5peC1jb21tYW5kLWxpbmUtcGFydC00Lmh0bWzSAW9odHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTI0ODc0OC9nZXR0aW5nLXN0YXJ0ZWQtb24tdGhlLWxpbnV4LW9yLXVuaXgtY29tbWFuZC1saW5lLXBhcnQtNC5odG1sL2FtcC8?oc=5",
-          "publishedOn": "2023-11-20T08:00:00.000Z",
-          "wordCount": 5021,
-          "title": "Getting started on the Linux (or Unix) command line, Part 4 - Network World",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbm92ZW1iZXItMTl0aC0yMDIz0gFFaHR0cHM6Ly85dG81bGludXguY29tLzl0bzVsaW51eC13ZWVrbHktcm91bmR1cC1ub3ZlbWJlci0xOXRoLTIwMjMvYW1w",
-          "author": null,
-          "description": "9to5Linux Weekly Roundup: November 19th, 2023  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vOXRvNWxpbnV4LmNvbS85dG81bGludXgtd2Vla2x5LXJvdW5kdXAtbm92ZW1iZXItMTl0aC0yMDIz0gFFaHR0cHM6Ly85dG81bGludXguY29tLzl0bzVsaW51eC13ZWVrbHktcm91bmR1cC1ub3ZlbWJlci0xOXRoLTIwMjMvYW1w?oc=5",
-          "publishedOn": "2023-11-20T04:21:01.000Z",
-          "wordCount": 5021,
-          "title": "9to5Linux Weekly Roundup: November 19th, 2023 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1yYzItUmVsZWFzZWTSAQA",
-          "author": null,
-          "description": "Linux 6.7-rc2 Released: \"Slightly Larger Than Average\"  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1yYzItUmVsZWFzZWTSAQA?oc=5",
-          "publishedOn": "2023-11-19T23:20:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.7-rc2 Released: \"Slightly Larger Than Average\" - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif2h0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTEvMTkvMTkyMDI1MC9saW51eC1mb3VuZGF0aW9uLWFubm91bmNlcy1pbnRlbnQtdG8tZm9ybS1oaWdoLXBlcmZvcm1hbmNlLXNvZnR3YXJlLWZvdW5kYXRpb27SAQA",
-          "author": null,
-          "description": "Linux Foundation Announces Intent to Form 'High Performance ...  Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vdGVjaC5zbGFzaGRvdC5vcmcvc3RvcnkvMjMvMTEvMTkvMTkyMDI1MC9saW51eC1mb3VuZGF0aW9uLWFubm91bmNlcy1pbnRlbnQtdG8tZm9ybS1oaWdoLXBlcmZvcm1hbmNlLXNvZnR3YXJlLWZvdW5kYXRpb27SAQA?oc=5",
-          "publishedOn": "2023-11-19T18:34:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux Foundation Announces Intent to Form 'High Performance ... - Slashdot",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjPSAQA",
-          "author": null,
-          "description": "Polychromatic 0.8.3 Released For Latest Open-Source Razer ...  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1BvbHljaHJvbWF0aWMtMC44LjPSAQA?oc=5",
-          "publishedOn": "2023-11-19T17:10:00.000Z",
-          "wordCount": 5021,
-          "title": "Polychromatic 0.8.3 Released For Latest Open-Source Razer ... - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC0xLVdpcmUtRHJpdmVy0gEA",
-          "author": null,
-          "description": "AMD AXI 1-Wire Driver Queued Ahead Of The Linux 6.8 Kernel  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC0xLVdpcmUtRHJpdmVy0gEA?oc=5",
-          "publishedOn": "2023-11-19T15:00:00.000Z",
-          "wordCount": 5021,
-          "title": "AMD AXI 1-Wire Driver Queued Ahead Of The Linux 6.8 Kernel - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
