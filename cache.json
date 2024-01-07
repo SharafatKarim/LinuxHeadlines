@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=403794",
+          "author": "Sam U",
+          "description": "The UFW in Linux is inactive by default because it can block some important ports. To make it active use ufw enable command.",
+          "link": "https://linuxhint.com/fix-ufw-status-shows-inactive-linux/",
+          "publishedOn": "2024-01-06T03:04:15.000Z",
+          "wordCount": 5752,
+          "title": "How to Fix UFW Status Shows Inactive in Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=67267",
           "author": "Kevin Reursora",
           "description": "Tutorial on installing Java on Linux Mint by installing OpenJDK and JRE to build and run the Java applications on Linux Mint with detailed steps to follow.",
@@ -19,6 +29,16 @@
           "publishedOn": "2024-01-03T14:02:42.000Z",
           "wordCount": 5142,
           "title": "How to Install Java on Linux Mint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408136",
+          "author": "Shameen Shahid",
+          "description": "The describe-images command returns a list of different AMIs for a given account. It accepts multiple parameters as discussed by examples in this guide.",
+          "link": "https://linuxhint.com/describe-images-command-aws-cli/",
+          "publishedOn": "2024-01-02T14:51:12.000Z",
+          "wordCount": 6377,
+          "title": "How to use the “describe-images” Command in AWS CLI?",
           "imageUrl": null
         },
         {
@@ -99,6 +119,86 @@
           "publishedOn": "2024-01-02T07:29:32.000Z",
           "wordCount": 5436,
           "title": "How to Use the Ipconfig Commands on Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407891",
+          "author": "Sam U",
+          "description": "To wrap lines and words in Vim use :set wrap, :set linebreak command, or :set textwidth=N, where N is an integer.",
+          "link": "https://linuxhint.com/wrap-lines-words-vim/",
+          "publishedOn": "2024-01-02T07:26:11.000Z",
+          "wordCount": 5739,
+          "title": "How to Wrap Lines and Words in Vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407952",
+          "author": "Aaliyan Javaid",
+          "description": "The difference of energies stored in two capacitors in a circuit is the potential difference across the capacitor. Read more in this guide.",
+          "link": "https://linuxhint.com/potential-difference-across-capacitor/",
+          "publishedOn": "2024-01-02T07:25:31.000Z",
+          "wordCount": 5846,
+          "title": "Potential Difference Across the Capacitor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407954",
+          "author": "Muhammad Farhan",
+          "description": "PowerShell Get Property commands get the properties of an item or an object. These commands include Get-Member, Get-Item, and Select-Object.",
+          "link": "https://linuxhint.com/powershell-get-property-commands/",
+          "publishedOn": "2024-01-02T07:24:54.000Z",
+          "wordCount": 5410,
+          "title": "What are the Get Property Commands in PowerShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407892",
+          "author": "Rafia Zafar",
+          "description": "To install kubectl, first, install the Chocolatey package manager on the system. After that, run the “choco install kubernetes-cli” command to install kubectl.",
+          "link": "https://linuxhint.com/install-kubectl-using-choco-install/",
+          "publishedOn": "2024-01-02T07:24:23.000Z",
+          "wordCount": 5337,
+          "title": "Install kubectl Using “choco install”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407890",
+          "author": "Shameen Shahid",
+          "description": "The describe-load-balancers command in AWS CLI returns details of a specific or all the load balancers for a given account. Read more in this guide.",
+          "link": "https://linuxhint.com/describe-regions-command-aws-cli/",
+          "publishedOn": "2024-01-02T07:23:49.000Z",
+          "wordCount": 6151,
+          "title": "How to use the “describe-load-balancers” command in AWS CLI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407889",
+          "author": "Shameen Shahid",
+          "description": "The delete-stack command removes a specific stack in a particular region via AWS CLI. It accepts various optional parameters as shown in this guide.",
+          "link": "https://linuxhint.com/delete-stack-command-aws-cli/",
+          "publishedOn": "2024-01-02T07:23:15.000Z",
+          "wordCount": 5454,
+          "title": "How to use the “delete-stack” command in AWS CLI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407888",
+          "author": "Shameen Shahid",
+          "description": "The describe-regions command in AWS CLI lists all or enabled regions for a given account. To list EC2 regions, use the “aws ec2 describe-regions” command.",
+          "link": "https://linuxhint.com/describe-regions-command-aws-cli-2/",
+          "publishedOn": "2024-01-02T07:22:27.000Z",
+          "wordCount": 5919,
+          "title": "How to use the “describe-regions” command in AWS CLI?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=407785",
+          "author": "Awais Khan",
+          "description": "You can install Wine on Debian 12 by downloading the GPG key, adding the source repository, updating the Debian repository and installing it via apt command.",
+          "link": "https://linuxhint.com/setup-wine-debian/",
+          "publishedOn": "2024-01-02T07:21:45.000Z",
+          "wordCount": 5745,
+          "title": "How to Setup Wine on Debian 12",
           "imageUrl": null
         },
         {
@@ -680,56 +780,6 @@
           "wordCount": 5582,
           "title": "16 Bash Regular Expression (RegEx) Examples Using grep, sed, and awk Commands",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=402887",
-          "author": "Shaheer Ahmad",
-          "description": "To apply font smoothing on Tailwind elements, the “antialiased” and “subpixel-antialiased” classes are used for fixing the rough edges of the text characters.",
-          "link": "https://linuxhint.com/apply-font-smoothing-tailwind/",
-          "publishedOn": "2023-12-08T10:04:41.000Z",
-          "wordCount": 5091,
-          "title": "How to Apply Font Smoothing on Tailwind Elements?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=402816",
-          "author": "Awais Khan",
-          "description": "You can add HDMI Input to Raspberry Pi using HDMI Capture Card and then use terminal or third-party application like OBS to view other system displays.",
-          "link": "https://linuxhint.com/hdmi-input-raspberry-pi/",
-          "publishedOn": "2023-12-08T10:04:25.000Z",
-          "wordCount": 5928,
-          "title": "How to Add HDMI Input to Raspberry Pi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=402811",
-          "author": "Sam U",
-          "description": "To zoom in and out on Mac, pinch in and out. However, to use the Zoom accessibility feature on Mac there are various approaches.",
-          "link": "https://linuxhint.com/complete-guide-to-zoom-in-out-mac/",
-          "publishedOn": "2023-12-08T10:04:14.000Z",
-          "wordCount": 6234,
-          "title": "A Complete Guide to Zoom In and Out on Mac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=402814",
-          "author": "Muhammad Farhan",
-          "description": "To format a USB flash drive, first, press Windows + E to open File Explorer. Then, move This PC window, and right-click on the USB, and hit the Format button.",
-          "link": "https://linuxhint.com/format-usb-flash-drive-windows/",
-          "publishedOn": "2023-12-08T10:04:05.000Z",
-          "wordCount": 5390,
-          "title": "Format a USB Flash Drive on Windows (4 Methods)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=402812",
-          "author": "Rafia Zafar",
-          "description": "To apply the Yaml manifest, first create a Yaml file, add the essential configuration into the file, execute the “kubectl apply -f ” command.",
-          "link": "https://linuxhint.com/apply-yaml-manifest-kubernetes-resources-kubectl-apply/",
-          "publishedOn": "2023-12-08T10:04:01.000Z",
-          "wordCount": 7269,
-          "title": "Apply Yaml Manifest Using “kubectl apply”",
-          "imageUrl": null
         }
       ]
     },
@@ -738,6 +788,36 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187303",
+          "author": "Web Webster",
+          "description": "Highlights of TUXEDO Control Center 2.1 include a revamped dashboard that now features more system parameters, including clock speed, fan speed, power consumption, temperature, and currently active graphics mode, a freely customizable fan control (within safe limits), and a display refresh rate reduction.\nThe post TUXEDO Control Center 2.1 Released With Exciting New Functions appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/tuxedo-control-center-2-1-released-with-exciting-new-functions/",
+          "publishedOn": "2024-01-07T01:00:56.000Z",
+          "wordCount": 16977,
+          "title": "TUXEDO Control Center 2.1 Released With Exciting New Functions",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187345",
+          "author": "Web Webster",
+          "description": "Discover how to safeguard your online privacy on Linux by installing Tor Browser, a secure and anonymous web browser, with step-by-step instructions and essential tips for safe browsing in this guide.\nThe post What is Tor Browser (and How to Install it on Major Linux) appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/security/what-is-tor-browser-and-how-to-install-it-on-major-linux/",
+          "publishedOn": "2024-01-06T16:00:56.000Z",
+          "wordCount": 16980,
+          "title": "What is Tor Browser (and How to Install it on Major Linux)",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187332",
+          "author": "Web Webster",
+          "description": "In this tutorial, learn two methods to install Joplin, utilizing the command-line terminal on Debian 12, 11 or 10.\nThe post How to Install Joplin on Debian 12, 11, 10 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-joplin-on-debian-12-11-10/",
+          "publishedOn": "2024-01-06T03:00:42.000Z",
+          "wordCount": 16953,
+          "title": "How to Install Joplin on Debian 12, 11, 10",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=187368",
           "author": "Web Webster",
@@ -1757,66 +1837,6 @@
           "wordCount": 16938,
           "title": "Debian 12.4 Arrives With EXT4 Data Corruption Bug Fix",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186985",
-          "author": "Web Webster",
-          "description": "Learn how to install FFmpeg on Fedora 39 Linux utilizing two methods: first with Fedora’s “ffmpeg-free” package or utilizing RPM Fusion.\nThe post How to Install FFmpeg on Fedora 39 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-ffmpeg-on-fedora-39/",
-          "publishedOn": "2023-12-08T03:00:52.000Z",
-          "wordCount": 16891,
-          "title": "How to Install FFmpeg on Fedora 39",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187074",
-          "author": "Web Webster",
-          "description": "AlmaLinux’s ELevate now offers EPEL support, ensuring a smoother transition from CentOS 7 to AlmaLinux 8. Here’s more on that!\nThe post AlmaLinux Expands ELevate’s Functionality With EPEL Integration appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/almalinux-expands-elevates-functionality-with-epel-integration/",
-          "publishedOn": "2023-12-08T01:00:38.000Z",
-          "wordCount": 16890,
-          "title": "AlmaLinux Expands ELevate’s Functionality With EPEL Integration",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187048",
-          "author": "Web Webster",
-          "description": "SessionProbe is a multi-threaded pentesting tool designed to evaluate user privileges in web applications. It takes a user’s session token and checks for a list of URLs if access is possible, highlighting potential authorization issues. It deduplicates URL lists and provides real-time logging and progress tracking.\nThe post SessionProbe: Open-Source Multi-Threaded Pentesting Tool appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/sessionprobe-open-source-multi-threaded-pentesting-tool/",
-          "publishedOn": "2023-12-07T23:00:58.000Z",
-          "wordCount": 16909,
-          "title": "SessionProbe: Open-Source Multi-Threaded Pentesting Tool",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187077",
-          "author": "Web Webster",
-          "description": "Powered by Linux kernel 6.1 LTS, Sparky Linux 7.2 features LXQt 1.2.0 and KDE Plasma 5.27.5, now with ARMHF & ARM64 images.\nThe post Sparky Linux 7.2 Released, Here’s What’s New appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/sparky-linux-7-2-released-heres-whats-new/",
-          "publishedOn": "2023-12-07T19:00:50.000Z",
-          "wordCount": 16907,
-          "title": "Sparky Linux 7.2 Released, Here’s What’s New",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187076",
-          "author": "Web Webster",
-          "description": "Powered by the latest and greatest Linux 6.6 LTS kernel series, Alpine Linux 3.19 adds support for the latest Raspberry Pi 5 single-board computer, enables iptables-nft as the default iptables backend, and replaces the linux-rpi4 and linux-rpi2 kernels with a single linux-rpi kernel.\nThe post Alpine Linux 3.19 Released With Linux Kernel 6.6 LTS and Raspberry Pi 5 Support appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/alpine-linux-3-19-released-with-linux-kernel-6-6-lts-and-raspberry-pi-5-support/",
-          "publishedOn": "2023-12-07T18:00:48.000Z",
-          "wordCount": 16950,
-          "title": "Alpine Linux 3.19 Released With Linux Kernel 6.6 LTS and Raspberry Pi 5 Support",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187061",
-          "author": "Web Webster",
-          "description": "All the members of this AI-focused alliance are set to collaborate with each other by being part of an open community that allows both developers and researchers to further “responsible innovation” in AI.\nThe post AI Alliance for Open Innovation Formed By IBM and Meta With Intel, AMD, and More appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ai-alliance-for-open-innovation-formed-by-ibm-and-meta-with-intel-amd-and-more/",
-          "publishedOn": "2023-12-07T17:00:33.000Z",
-          "wordCount": 16956,
-          "title": "AI Alliance for Open Innovation Formed By IBM and Meta With Intel, AMD, and More",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1826,6 +1846,56 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMiYGh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9jcHVzL3J5emVuLWNwdS1idWctY3Jhc2hlcy1wY3MtdXNpbmctZmlyZXdpcmUtZGV2aWNlc9IBAA",
+          "author": null,
+          "description": "Ryzen CPU bug crashes PCs using Firewire devices — old school interface causes new school problems on Linux ...  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRvbXNoYXJkd2FyZS5jb20vcGMtY29tcG9uZW50cy9jcHVzL3J5emVuLWNwdS1idWctY3Jhc2hlcy1wY3MtdXNpbmctZmlyZXdpcmUtZGV2aWNlc9IBAA?oc=5",
+          "publishedOn": "2024-01-06T17:12:18.000Z",
+          "wordCount": 5021,
+          "title": "Ryzen CPU bug crashes PCs using Firewire devices — old school interface causes new school problems on Linux ... - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvc2NpZW5jZS10ZWNoL3pvcmluLW9zLTE3LWEtcmV2b2x1dGlvbi1pbi11c2VyLWZyaWVuZGx5LWxpbnV4LWV4cGVyaWVuY2Uv0gEA",
+          "author": null,
+          "description": "Zorin OS 17 Unveils Innovative Features for Enhanced Linux Experience  BNN Breaking",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvc2NpZW5jZS10ZWNoL3pvcmluLW9zLTE3LWEtcmV2b2x1dGlvbi1pbi11c2VyLWZyaWVuZGx5LWxpbnV4LWV4cGVyaWVuY2Uv0gEA?oc=5",
+          "publishedOn": "2024-01-06T14:57:00.000Z",
+          "wordCount": 5021,
+          "title": "Zorin OS 17 Unveils Innovative Features for Enhanced Linux Experience - BNN Breaking",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZW5hYmxlLWF1dG9tYXRpYy11cGRhdGVzLWZvci11YnVudHUtc2VydmVyL9IBAA",
+          "author": null,
+          "description": "Enable Automatic Updates for Ubuntu Server  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vdGhlbmV3c3RhY2suaW8vZW5hYmxlLWF1dG9tYXRpYy11cGRhdGVzLWZvci11YnVudHUtc2VydmVyL9IBAA?oc=5",
+          "publishedOn": "2024-01-06T14:08:44.000Z",
+          "wordCount": 5021,
+          "title": "Enable Automatic Updates for Ubuntu Server - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1NaWNyb0JsYXplLVYtTGludXgtNi440gEA",
+          "author": null,
+          "description": "Linux 6.8 To Add Support For The AMD MicroBlaze V Soft-Core RISC-V Processor  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1NaWNyb0JsYXplLVYtTGludXgtNi440gEA?oc=5",
+          "publishedOn": "2024-01-06T13:53:00.000Z",
+          "wordCount": 5021,
+          "title": "Linux 6.8 To Add Support For The AMD MicroBlaze V Soft-Core RISC-V Processor - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvcmF5LXRyYWNpbmctcGVyZm9ybWFuY2UtdXBsaWZ0LWNvbWluZy10by10aGUtYW1kLXJhZHYtbGludXgtZ3JhcGhpY3MtZHJpdmVyL9IBAA",
+          "author": null,
+          "description": "Ray-Tracing performance uplift coming to the AMD RADV Linux graphics driver  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvcmF5LXRyYWNpbmctcGVyZm9ybWFuY2UtdXBsaWZ0LWNvbWluZy10by10aGUtYW1kLXJhZHYtbGludXgtZ3JhcGhpY3MtZHJpdmVyL9IBAA?oc=5",
+          "publishedOn": "2024-01-06T12:50:38.000Z",
+          "wordCount": 5021,
+          "title": "Ray-Tracing performance uplift coming to the AMD RADV Linux graphics driver - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMib2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2FydHMvdmlkZW8tZ2FtaW5nL3N0ZWFtLWRlY2stYW5kLWxpbnV4LWdhbWluZy1jb21wYXRpYmlsaXR5LWEtc25hcHNob3QtZnJvbS1lYXJseS0yMDI0L9IBAA",
           "author": null,
           "description": "Steam Deck and Linux Gaming Compatibility: A Snapshot from Early 2024  BNN Breaking",
@@ -1833,6 +1903,16 @@
           "publishedOn": "2024-01-05T21:57:00.000Z",
           "wordCount": 5021,
           "title": "Steam Deck and Linux Gaming Compatibility: A Snapshot from Early 2024 - BNN Breaking",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1SeXplbi1GaXJlZm94LUxpbnV4LUZpeNIBAA",
+          "author": null,
+          "description": "Linux Could Experience Unexpected System Reboots When Pairing AMD Ryzen With Firewire  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1SeXplbi1GaXJlZm94LUxpbnV4LUZpeNIBAA?oc=5",
+          "publishedOn": "2024-01-05T21:15:00.000Z",
+          "wordCount": 5021,
+          "title": "Linux Could Experience Unexpected System Reboots When Pairing AMD Ryzen With Firewire - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -1863,6 +1943,16 @@
           "publishedOn": "2024-01-05T19:27:38.000Z",
           "wordCount": 5021,
           "title": "AMD's FPGA Plans, Linux And Cars - PC Perspective",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSWh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTI2LW9zLzE2ODc5LWlzLWxpbnV4LW9uLXRoZS1yaXNlLmh0bWzSAQA",
+          "author": null,
+          "description": "Is Linux On The Rise?  iProgrammer",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTI2LW9zLzE2ODc5LWlzLWxpbnV4LW9uLXRoZS1yaXNlLmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-01-05T19:21:42.000Z",
+          "wordCount": 5021,
+          "title": "Is Linux On The Rise? - iProgrammer",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2013,6 +2103,16 @@
           "publishedOn": "2024-01-04T21:01:00.000Z",
           "wordCount": 5021,
           "title": "New Linux Patch Officially Confirms AMD Family 26 As Being Zen 5 CPUs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9pbnN0YWxsLWFkYi13aW5kb3dzLW1hY29zLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "How to install ADB on Windows, macOS, and Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9pbnN0YWxsLWFkYi13aW5kb3dzLW1hY29zLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2024-01-04T21:00:00.000Z",
+          "wordCount": 5021,
+          "title": "How to install ADB on Windows, macOS, and Linux - XDA Developers",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2556,6 +2656,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLTIwMjMtSGlnaGxpZ2h0c9IBAA",
+          "author": null,
+          "description": "Intel's Open-Source Contributions & Upstream Performance Optimizations Top 2023  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLTIwMjMtSGlnaGxpZ2h0c9IBAA?oc=5",
+          "publishedOn": "2024-01-02T01:25:00.000Z",
+          "wordCount": 5021,
+          "title": "Intel's Open-Source Contributions & Upstream Performance Optimizations Top 2023 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiU2h0dHBzOi8vb3N4ZGFpbHkuY29tLzIwMjQvMDEvMDEveW91LWNhbi1ub3ctcnVuLWZlZG9yYS1saW51eC1vbi1hcHBsZS1zaWxpY29uLW1hY3Mv0gEA",
           "author": null,
           "description": "You Can Now Run Fedora Linux on Apple Silicon Macs  OSXDaily",
@@ -2913,6 +3023,16 @@
           "publishedOn": "2023-12-29T09:02:18.000Z",
           "wordCount": 5036,
           "title": "29 | December | 2023 - Hackaday",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vZGV2b3BzLmNvbS9zY3J1bS1jYW5jZXItbGludXgtNi01LXJpY2hpeGJ3L9IBN2h0dHBzOi8vZGV2b3BzLmNvbS9zY3J1bS1jYW5jZXItbGludXgtNi01LXJpY2hpeGJ3L2FtcC8",
+          "author": null,
+          "description": "Best of 2023: ‘Scrum == Cancer’ ¦ Plus: Linux 6.5 Ships  DevOps.com",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZGV2b3BzLmNvbS9zY3J1bS1jYW5jZXItbGludXgtNi01LXJpY2hpeGJ3L9IBN2h0dHBzOi8vZGV2b3BzLmNvbS9zY3J1bS1jYW5jZXItbGludXgtNi01LXJpY2hpeGJ3L2FtcC8?oc=5",
+          "publishedOn": "2023-12-29T08:00:00.000Z",
+          "wordCount": 5021,
+          "title": "Best of 2023: ‘Scrum == Cancer’ ¦ Plus: Linux 6.5 Ships - DevOps.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6074,346 +6194,6 @@
           "wordCount": 5035,
           "title": "Bluetooth Vulnerability Enables Keystroke Injection on Android, Linux, macOS, iOS - HackRead",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzA4L29wZW5zdXNlX3ZvdGVfb25fbG9nby_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMTIvMDgvb3BlbnN1c2Vfdm90ZV9vbl9sb2dvLw",
-          "author": null,
-          "description": "Time for a Geeko remix: openSUSE is looking for a new logo  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzA4L29wZW5zdXNlX3ZvdGVfb25fbG9nby_SAUFodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjMvMTIvMDgvb3BlbnN1c2Vfdm90ZV9vbl9sb2dvLw?oc=5",
-          "publishedOn": "2023-12-08T13:23:00.000Z",
-          "wordCount": 5035,
-          "title": "Time for a Geeko remix: openSUSE is looking for a new logo - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMic2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3RoaXMtYmx1ZXRvb3RoLXNlY3VyaXR5LWZsYXctY291bGQtYmUtdXNlZC10by1oaWphY2stYXBwbGUtYW5kLWxpbnV4LWRldmljZXPSAQA",
-          "author": null,
-          "description": "This Bluetooth security flaw could be used to hijack Apple and Linux devices  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3RoaXMtYmx1ZXRvb3RoLXNlY3VyaXR5LWZsYXctY291bGQtYmUtdXNlZC10by1oaWphY2stYXBwbGUtYW5kLWxpbnV4LWRldmljZXPSAQA?oc=5",
-          "publishedOn": "2023-12-08T12:10:47.000Z",
-          "wordCount": 5035,
-          "title": "This Bluetooth security flaw could be used to hijack Apple and Linux devices - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L2VuZHBvaW50LXNlY3VyaXR5L25ld3MvYmx1ZXRvb3RoLXZ1bG5lcmFiaWxpdHktbWFjLWlvcy1saW51eC1hbmRyb2lkL9IBbGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L2VuZHBvaW50LXNlY3VyaXR5L25ld3MvYmx1ZXRvb3RoLXZ1bG5lcmFiaWxpdHktbWFjLWlvcy1saW51eC1hbmRyb2lkLw",
-          "author": null,
-          "description": "Bluetooth Flaw Exposes Apple and Linux Devices  Spiceworks News and Insights",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L2VuZHBvaW50LXNlY3VyaXR5L25ld3MvYmx1ZXRvb3RoLXZ1bG5lcmFiaWxpdHktbWFjLWlvcy1saW51eC1hbmRyb2lkL9IBbGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L2VuZHBvaW50LXNlY3VyaXR5L25ld3MvYmx1ZXRvb3RoLXZ1bG5lcmFiaWxpdHktbWFjLWlvcy1saW51eC1hbmRyb2lkLw?oc=5",
-          "publishedOn": "2023-12-08T12:03:33.000Z",
-          "wordCount": 5035,
-          "title": "Bluetooth Flaw Exposes Apple and Linux Devices - Spiceworks News and Insights",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctY29weS1wYXN0ZS1saW51eC_SAQA",
-          "author": null,
-          "description": "How to copy and paste on Linux  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctY29weS1wYXN0ZS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-12-08T12:00:00.000Z",
-          "wordCount": 5035,
-          "title": "How to copy and paste on Linux - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vYW5kcm9pZC1saW51eC1hcHBsZS1kZXZpY2VzLWV4cG9zZWQtdG8tYmx1ZXRvb3RoLWtleXN0cm9rZS1pbmplY3Rpb24tYXR0YWNrcy_SAW5odHRwczovL3d3dy5zZWN1cml0eXdlZWsuY29tL2FuZHJvaWQtbGludXgtYXBwbGUtZGV2aWNlcy1leHBvc2VkLXRvLWJsdWV0b290aC1rZXlzdHJva2UtaW5qZWN0aW9uLWF0dGFja3MvYW1wLw",
-          "author": null,
-          "description": "Android, Linux, Apple Devices Exposed to Bluetooth Keystroke Injection Attacks  SecurityWeek",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnNlY3VyaXR5d2Vlay5jb20vYW5kcm9pZC1saW51eC1hcHBsZS1kZXZpY2VzLWV4cG9zZWQtdG8tYmx1ZXRvb3RoLWtleXN0cm9rZS1pbmplY3Rpb24tYXR0YWNrcy_SAW5odHRwczovL3d3dy5zZWN1cml0eXdlZWsuY29tL2FuZHJvaWQtbGludXgtYXBwbGUtZGV2aWNlcy1leHBvc2VkLXRvLWJsdWV0b290aC1rZXlzdHJva2UtaW5qZWN0aW9uLWF0dGFja3MvYW1wLw?oc=5",
-          "publishedOn": "2023-12-08T11:54:14.000Z",
-          "wordCount": 5035,
-          "title": "Android, Linux, Apple Devices Exposed to Bluetooth Keystroke Injection Attacks - SecurityWeek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzA4L3N5c3RlbWRfMjU1X2lzX2hlcmUv0gE_aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzA4L3N5c3RlbWRfMjU1X2lzX2hlcmUv",
-          "author": null,
-          "description": "Systemd 255 is here with improved UKI support  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzA4L3N5c3RlbWRfMjU1X2lzX2hlcmUv0gE_aHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzA4L3N5c3RlbWRfMjU1X2lzX2hlcmUv?oc=5",
-          "publishedOn": "2023-12-08T11:43:00.000Z",
-          "wordCount": 5035,
-          "title": "Systemd 255 is here with improved UKI support - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1tb3Zlcy1vbmUtc3RlcC1haGVhZC1yZG5hLTQtZ2Z4MTItZ3B1LWVuYWJsZW1lbnQtbmV3LXBhdGNoZXMtbGludXgv0gFgaHR0cHM6Ly93Y2NmdGVjaC5jb20vYW1kLW1vdmVzLW9uZS1zdGVwLWFoZWFkLXJkbmEtNC1nZngxMi1ncHUtZW5hYmxlbWVudC1uZXctcGF0Y2hlcy1saW51eC9hbXAv",
-          "author": null,
-          "description": "AMD Moves One Step Ahead With RDNA 4 “GFX12” GPU Enablement, Adds New Patches In Linux  Wccftech",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd2NjZnRlY2guY29tL2FtZC1tb3Zlcy1vbmUtc3RlcC1haGVhZC1yZG5hLTQtZ2Z4MTItZ3B1LWVuYWJsZW1lbnQtbmV3LXBhdGNoZXMtbGludXgv0gFgaHR0cHM6Ly93Y2NmdGVjaC5jb20vYW1kLW1vdmVzLW9uZS1zdGVwLWFoZWFkLXJkbmEtNC1nZngxMi1ncHUtZW5hYmxlbWVudC1uZXctcGF0Y2hlcy1saW51eC9hbXAv?oc=5",
-          "publishedOn": "2023-12-08T11:30:00.000Z",
-          "wordCount": 5035,
-          "title": "AMD Moves One Step Ahead With RDNA 4 “GFX12” GPU Enablement, Adds New Patches In Linux - Wccftech",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvZG9zLWRlY2stYnJpbmdzLWRvcy1nYW1lcy10by15b3VyLWJyb3dzZXItd2l0aC1hLXN0ZWFtLWRlY2staW50ZXJmYWNlL9IBAA",
-          "author": null,
-          "description": "DOS_deck brings DOS games to your browser with a Steam Deck interface  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvZG9zLWRlY2stYnJpbmdzLWRvcy1nYW1lcy10by15b3VyLWJyb3dzZXItd2l0aC1hLXN0ZWFtLWRlY2staW50ZXJmYWNlL9IBAA?oc=5",
-          "publishedOn": "2023-12-08T10:29:56.000Z",
-          "wordCount": 5035,
-          "title": "DOS_deck brings DOS games to your browser with a Steam Deck interface - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9ic29kLWxpbnV4L9IBAA",
-          "author": null,
-          "description": "The Blue Screen of Death Comes to Linux, Thanks to Systemd  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9ic29kLWxpbnV4L9IBAA?oc=5",
-          "publishedOn": "2023-12-08T10:26:46.000Z",
-          "wordCount": 5035,
-          "title": "The Blue Screen of Death Comes to Linux, Thanks to Systemd - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3Lml0cHJvLmNvbS9zb2Z0d2FyZS9saW51eC9saW51eC1ibHVlLXNjcmVlbi1vZi1kZWF0aC1naXZlcy11c2Vycy1hLXRhc3RlLW9mLXRoZS1kcmVhZGVkLXdpbmRvd3MtZmVhdHVyZdIBAA",
-          "author": null,
-          "description": "Linux Blue Screen of Death gives users a taste of the dreaded Windows feature  ITPro",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lml0cHJvLmNvbS9zb2Z0d2FyZS9saW51eC9saW51eC1ibHVlLXNjcmVlbi1vZi1kZWF0aC1naXZlcy11c2Vycy1hLXRhc3RlLW9mLXRoZS1kcmVhZGVkLXdpbmRvd3MtZmVhdHVyZdIBAA?oc=5",
-          "publishedOn": "2023-12-08T10:24:19.000Z",
-          "wordCount": 5035,
-          "title": "Linux Blue Screen of Death gives users a taste of the dreaded Windows feature - ITPro",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiJ2h0dHBzOi8vZGVidWdwb2ludG5ld3MuY29tL3N5c3RlbWQtMjU1L9IBJ2h0dHBzOi8vZGVidWdwb2ludG5ld3MuY29tL3N5c3RlbWQtMjU1Lw",
-          "author": null,
-          "description": "Systemd 255 Released: A Major Update for Linux Systems  DebugPointNews.com",
-          "link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vZGVidWdwb2ludG5ld3MuY29tL3N5c3RlbWQtMjU1L9IBJ2h0dHBzOi8vZGVidWdwb2ludG5ld3MuY29tL3N5c3RlbWQtMjU1Lw?oc=5",
-          "publishedOn": "2023-12-08T04:04:44.000Z",
-          "wordCount": 5035,
-          "title": "Systemd 255 Released: A Major Update for Linux Systems - DebugPointNews.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDIzLzEyLzA3L2NyaXRpY2FsLWJsdWV0b290aC1zZWN1cml0eS1mbGF3LWRpc2NvdmVyZWQtZ29vZ2xlLWFwcGxlLWxpbnV4LWRldmljZXMv0gEA",
-          "author": null,
-          "description": "Critical Bluetooth security flaw discovered in Google, Apple and Linux devices  SiliconANGLE News",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDIzLzEyLzA3L2NyaXRpY2FsLWJsdWV0b290aC1zZWN1cml0eS1mbGF3LWRpc2NvdmVyZWQtZ29vZ2xlLWFwcGxlLWxpbnV4LWRldmljZXMv0gEA?oc=5",
-          "publishedOn": "2023-12-08T00:10:34.000Z",
-          "wordCount": 5035,
-          "title": "Critical Bluetooth security flaw discovered in Google, Apple and Linux devices - SiliconANGLE News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9uZXdzL2xpbnV4LXRvLWFkb3B0LWJsdWUtc2NyZWVuLW9mLWRlYXRoLWNyYXNoLW1lc3NhZ2Vz0gEA",
-          "author": null,
-          "description": "Linux to Adopt 'Blue Screen of Death' Crash Messages  PCMag",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnBjbWFnLmNvbS9uZXdzL2xpbnV4LXRvLWFkb3B0LWJsdWUtc2NyZWVuLW9mLWRlYXRoLWNyYXNoLW1lc3NhZ2Vz0gEA?oc=5",
-          "publishedOn": "2023-12-07T21:48:20.000Z",
-          "wordCount": 5035,
-          "title": "Linux to Adopt 'Blue Screen of Death' Crash Messages - PCMag",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTWh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9sb2dvLWZhaWwtd2luZG93cy1saW51eC12dWxuZXJhYmlsaXRpZXMv0gEA",
-          "author": null,
-          "description": "Widespread Windows and Linux Vulnerabilities Could Let Attackers Sneak in Malicious Code Before Boot  TechRepublic",
-          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRlY2hyZXB1YmxpYy5jb20vYXJ0aWNsZS9sb2dvLWZhaWwtd2luZG93cy1saW51eC12dWxuZXJhYmlsaXRpZXMv0gEA?oc=5",
-          "publishedOn": "2023-12-07T21:39:12.000Z",
-          "wordCount": 5035,
-          "title": "Widespread Windows and Linux Vulnerabilities Could Let Attackers Sneak in Malicious Code Before Boot - TechRepublic",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTMtYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTYtMNIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTMtYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTYtMC9hbXA",
-          "author": null,
-          "description": "Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTMtYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTYtMNIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1taW50LTIxLTMtYmV0YS1pcy1ub3ctYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWNpbm5hbW9uLTYtMC9hbXA?oc=5",
-          "publishedOn": "2023-12-07T21:08:06.000Z",
-          "wordCount": 5035,
-          "title": "Linux Mint 21.3 Beta Is Now Available for Download with Cinnamon 6.0 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzEyLzcvMjM5OTI1MTIvbGludXgtYmx1ZS1zY3JlZW4tb2YtZGVhdGgtYnNvZC1zeXN0ZW1kLXVwZGF0ZdIBAA",
-          "author": null,
-          "description": "Linux is getting its own Blue Screen of Death  The Verge",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzEyLzcvMjM5OTI1MTIvbGludXgtYmx1ZS1zY3JlZW4tb2YtZGVhdGgtYnNvZC1zeXN0ZW1kLXVwZGF0ZdIBAA?oc=5",
-          "publishedOn": "2023-12-07T20:23:50.000Z",
-          "wordCount": 5035,
-          "title": "Linux is getting its own Blue Screen of Death - The Verge",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvY3JpdGljYWwtYmx1ZXRvb3RoLWZsYXctY291bGQtdGFrZS1vdmVyLWFuZHJvaWQtYXBwbGUtbGludXgtZGV2aWNlc9IBAA",
-          "author": null,
-          "description": "Critical Bluetooth flaw could take over Android, Apple, Linux devices  SC Media",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL25ld3MvY3JpdGljYWwtYmx1ZXRvb3RoLWZsYXctY291bGQtdGFrZS1vdmVyLWFuZHJvaWQtYXBwbGUtbGludXgtZGV2aWNlc9IBAA?oc=5",
-          "publishedOn": "2023-12-07T19:57:54.000Z",
-          "wordCount": 5035,
-          "title": "Critical Bluetooth flaw could take over Android, Apple, Linux devices - SC Media",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLURSTS1TdWJtaXNzaW9uLU5lYXJz0gEA",
-          "author": null,
-          "description": "Intel Will Submit New Xe Kernel Graphics Driver Soon - Likely For Linux 6.8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLURSTS1TdWJtaXNzaW9uLU5lYXJz0gEA?oc=5",
-          "publishedOn": "2023-12-07T19:27:00.000Z",
-          "wordCount": 5035,
-          "title": "Intel Will Submit New Xe Kernel Graphics Driver Soon - Likely For Linux 6.8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8xMi9saW51eC1kaXN0cm9zLWFyZS1hYm91dC10by1nZXQtYS1raWxsZXItd2luZG93cy1mZWF0dXJlLXRoZS1ibHVlLXNjcmVlbi1vZi1kZWF0aC_SAQA",
-          "author": null,
-          "description": "New systemd update will bring Windows' infamous Blue Screen of Death to Linux  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8xMi9saW51eC1kaXN0cm9zLWFyZS1hYm91dC10by1nZXQtYS1raWxsZXItd2luZG93cy1mZWF0dXJlLXRoZS1ibHVlLXNjcmVlbi1vZi1kZWF0aC_SAQA?oc=5",
-          "publishedOn": "2023-12-07T19:22:44.000Z",
-          "wordCount": 5035,
-          "title": "New systemd update will bring Windows' infamous Blue Screen of Death to Linux - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9kdWFsLWJvb3Qtd2luZG93cy0xMS1saW51eC_SAQA",
-          "author": null,
-          "description": "How to dual-boot Windows 11 and Linux on your PC  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9kdWFsLWJvb3Qtd2luZG93cy0xMS1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-12-07T19:01:00.000Z",
-          "wordCount": 5035,
-          "title": "How to dual-boot Windows 11 and Linux on your PC - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTIvMDcvc3Bhcmt5bGludXgtNzItb3Jpb24tbGludXgtc3Bhcmt5L9IBAA",
-          "author": null,
-          "description": "Debian-based SparkyLinux 7.2 'Orion Belt' is the Windows 11 alternative of your dreams  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTIvMDcvc3Bhcmt5bGludXgtNzItb3Jpb24tbGludXgtc3Bhcmt5L9IBAA?oc=5",
-          "publishedOn": "2023-12-07T18:54:24.000Z",
-          "wordCount": 5035,
-          "title": "Debian-based SparkyLinux 7.2 'Orion Belt' is the Windows 11 alternative of your dreams - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9saW51eC13aWxsLXNvb24tZ2V0LWJzb2QtZXJyb3JzL9IBAA",
-          "author": null,
-          "description": "Linux users will soon get BSOD errors on boot failures  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9saW51eC13aWxsLXNvb24tZ2V0LWJzb2QtZXJyb3JzL9IBAA?oc=5",
-          "publishedOn": "2023-12-07T18:38:00.000Z",
-          "wordCount": 5035,
-          "title": "Linux users will soon get BSOD errors on boot failures - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiR2h0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS94b3JkZG9zLWxpbmtlZC1saW51eC1yYXQta3Jhc3VlLXRlbGVjb20tZmlybXMv0gEA",
-          "author": null,
-          "description": "New XorDdos-Linked Linux RAT Krasue Targeting Telecom Firms  HackRead",
-          "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmhhY2tyZWFkLmNvbS94b3JkZG9zLWxpbmtlZC1saW51eC1yYXQta3Jhc3VlLXRlbGVjb20tZmlybXMv0gEA?oc=5",
-          "publishedOn": "2023-12-07T18:15:28.000Z",
-          "wordCount": 5035,
-          "title": "New XorDdos-Linked Linux RAT Krasue Targeting Telecom Firms - HackRead",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXWh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS90aHJlYXQtaW50ZWxsaWdlbmNlL2tyYXN1ZS1yYXQtY3Jvc3Mta2VybmVsLWxpbnV4LXJvb3RraXQtdGVsZWNvbdIBAA",
-          "author": null,
-          "description": "Krasue RAT Uses Cross-Kernel Linux Rootkit to Attack Telecoms - Krasue RAT Uses Cross-Kernel Linux Rootkit to ...  Dark Reading",
-          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS90aHJlYXQtaW50ZWxsaWdlbmNlL2tyYXN1ZS1yYXQtY3Jvc3Mta2VybmVsLWxpbnV4LXJvb3RraXQtdGVsZWNvbdIBAA?oc=5",
-          "publishedOn": "2023-12-07T17:48:01.000Z",
-          "wordCount": 5035,
-          "title": "Krasue RAT Uses Cross-Kernel Linux Rootkit to Attack Telecoms - Krasue RAT Uses Cross-Kernel Linux Rootkit to ... - Dark Reading",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2tlcm5lbC1zZWN1cml0eS1ub3ctbGludXhzLXVuaXF1ZS1tZXRob2QtZm9yLXNlY3VyaW5nLWNvZGUv0gFkaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9rZXJuZWwtc2VjdXJpdHktbm93LWxpbnV4cy11bmlxdWUtbWV0aG9kLWZvci1zZWN1cmluZy1jb2RlLw",
-          "author": null,
-          "description": "Kernel security now: Linux's unique method for securing code  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2tlcm5lbC1zZWN1cml0eS1ub3ctbGludXhzLXVuaXF1ZS1tZXRob2QtZm9yLXNlY3VyaW5nLWNvZGUv0gFkaHR0cHM6Ly93d3cuemRuZXQuY29tL2dvb2dsZS1hbXAvYXJ0aWNsZS9rZXJuZWwtc2VjdXJpdHktbm93LWxpbnV4cy11bmlxdWUtbWV0aG9kLWZvci1zZWN1cmluZy1jb2RlLw?oc=5",
-          "publishedOn": "2023-12-07T17:16:00.000Z",
-          "wordCount": 5035,
-          "title": "Kernel security now: Linux's unique method for securing code - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbml4b3MtYS1jb21iaW5hdGlvbi1saW51eC1vcy1hbmQtcGFja2FnZS1tYW5hZ2VyL9IBAA",
-          "author": null,
-          "description": "NixOS: A Combination Linux OS and Package Manager  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vbml4b3MtYS1jb21iaW5hdGlvbi1saW51eC1vcy1hbmQtcGFja2FnZS1tYW5hZ2VyL9IBAA?oc=5",
-          "publishedOn": "2023-12-07T15:55:49.000Z",
-          "wordCount": 5035,
-          "title": "NixOS: A Combination Linux OS and Package Manager - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1Oby1Nb3JlLVVNUy1pb2N0bHPSAQA",
-          "author": null,
-          "description": "Linux 6.8 Dropping Support For Very Old Graphics Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1Oby1Nb3JlLVVNUy1pb2N0bHPSAQA?oc=5",
-          "publishedOn": "2023-12-07T15:50:00.000Z",
-          "wordCount": 5035,
-          "title": "Linux 6.8 Dropping Support For Very Old Graphics Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihQFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3NvZnR3YXJlL2xpbnV4L2xpbnV4LWdldHMtaXRzLW93bi1ibHVlLXNjcmVlbi1vZi1kZWF0aC1hbmQtaXQtc2VlbXMtbW9yZS1oZWxwZnVsLXRoYW4tdGhlLW9uZS1vbi13aW5kb3dz0gEA",
-          "author": null,
-          "description": "Linux gets its own Blue Screen of Death, and it seems more helpful than the one on Windows  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3NvZnR3YXJlL2xpbnV4L2xpbnV4LWdldHMtaXRzLW93bi1ibHVlLXNjcmVlbi1vZi1kZWF0aC1hbmQtaXQtc2VlbXMtbW9yZS1oZWxwZnVsLXRoYW4tdGhlLW9uZS1vbi13aW5kb3dz0gEA?oc=5",
-          "publishedOn": "2023-12-07T15:10:10.000Z",
-          "wordCount": 5035,
-          "title": "Linux gets its own Blue Screen of Death, and it seems more helpful than the one on Windows - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8wNy9jcml0aWNhbC1ibHVldG9vdGgtZmxhdy1leHBvc2VzLWFuZHJvaWQtYXBwbGUtbGludXgtZGV2aWNlcy10by10YWtlb3Zlci_SAQA",
-          "author": null,
-          "description": "Critical Bluetooth flaw exposes Android, Apple & Linux devices to takeover - Urgent Comms  Urgent Communications",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdXJnZW50Y29tbS5jb20vMjAyMy8xMi8wNy9jcml0aWNhbC1ibHVldG9vdGgtZmxhdy1leHBvc2VzLWFuZHJvaWQtYXBwbGUtbGludXgtZGV2aWNlcy10by10YWtlb3Zlci_SAQA?oc=5",
-          "publishedOn": "2023-12-07T14:53:18.000Z",
-          "wordCount": 5035,
-          "title": "Critical Bluetooth flaw exposes Android, Apple & Linux devices to takeover - Urgent Comms - Urgent Communications",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vd3d3LmRleGVydG8uY29tL3RlY2gvbWFqb3Itc2VjdXJpdHktZmxhdy1sb2dvZmFpbC1kaXNjb3ZlcmVkLWluLWFsbW9zdC1ldmVyeS13aW5kb3dzLWxpbnV4LWRldmljZS0yNDIwMTQ4L9IBAA",
-          "author": null,
-          "description": "Major security flaw LogoFAIL discovered in almost every Windows & Linux device  Dexerto",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmRleGVydG8uY29tL3RlY2gvbWFqb3Itc2VjdXJpdHktZmxhdy1sb2dvZmFpbC1kaXNjb3ZlcmVkLWluLWFsbW9zdC1ldmVyeS13aW5kb3dzLWxpbnV4LWRldmljZS0yNDIwMTQ4L9IBAA?oc=5",
-          "publishedOn": "2023-12-07T14:42:41.000Z",
-          "wordCount": 5035,
-          "title": "Major security flaw LogoFAIL discovered in almost every Windows & Linux device - Dexerto",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vd3d3LnNlcnZlcndhdGNoLmNvbS92aXJ0dWFsaXphdGlvbi9saW51eC12aXJ0dWFsaXphdGlvbi1zb2Z0d2FyZS_SAQA",
-          "author": null,
-          "description": "6 Best Linux Virtualization Software for 2024  Server Watch",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnNlcnZlcndhdGNoLmNvbS92aXJ0dWFsaXphdGlvbi9saW51eC12aXJ0dWFsaXphdGlvbi1zb2Z0d2FyZS_SAQA?oc=5",
-          "publishedOn": "2023-12-07T14:31:05.000Z",
-          "wordCount": 5035,
-          "title": "6 Best Linux Virtualization Software for 2024 - Server Watch",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NuYXBweXRjcC1yZXZlcnNlLXNoZWxsL9IBOmh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NuYXBweXRjcC1yZXZlcnNlLXNoZWxsL2FtcC8",
-          "author": null,
-          "description": "SnappyTCP - Reverse Shell for Linux/Unix Systems With C2 Capabilities  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NuYXBweXRjcC1yZXZlcnNlLXNoZWxsL9IBOmh0dHBzOi8vY3liZXJzZWN1cml0eW5ld3MuY29tL3NuYXBweXRjcC1yZXZlcnNlLXNoZWxsL2FtcC8?oc=5",
-          "publishedOn": "2023-12-07T14:17:26.000Z",
-          "wordCount": 5035,
-          "title": "SnappyTCP - Reverse Shell for Linux/Unix Systems With C2 Capabilities - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saWJyZW9mZmljZS03LTYtNC1vZmZpY2Utc3VpdGUtaXMtbm93LWF2YWlsYWxiZS1mb3ItZG93bmxvYWTSAVZodHRwczovLzl0bzVsaW51eC5jb20vbGlicmVvZmZpY2UtNy02LTQtb2ZmaWNlLXN1aXRlLWlzLW5vdy1hdmFpbGFsYmUtZm9yLWRvd25sb2FkL2FtcA",
-          "author": null,
-          "description": "LibreOffice 7.6.4 Office Suite Is Now Available for Download  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saWJyZW9mZmljZS03LTYtNC1vZmZpY2Utc3VpdGUtaXMtbm93LWF2YWlsYWxiZS1mb3ItZG93bmxvYWTSAVZodHRwczovLzl0bzVsaW51eC5jb20vbGlicmVvZmZpY2UtNy02LTQtb2ZmaWNlLXN1aXRlLWlzLW5vdy1hdmFpbGFsYmUtZm9yLWRvd25sb2FkL2FtcA?oc=5",
-          "publishedOn": "2023-12-07T13:59:46.000Z",
-          "wordCount": 5035,
-          "title": "LibreOffice 7.6.4 Office Suite Is Now Available for Download - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMieWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3ByZXR0eS1tdWNoLWFsbC13aW5kb3dzLWFuZC1saW51eC1jb21wdXRlcnMtYXJlLXZ1bG5lcmFibGUtdG8tdGhpcy1uZXctY3liZXJhdHRhY2vSAQA",
-          "author": null,
-          "description": "Pretty much all Windows and Linux computers are vulnerable to this new cyberattack  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL3NlY3VyaXR5L3ByZXR0eS1tdWNoLWFsbC13aW5kb3dzLWFuZC1saW51eC1jb21wdXRlcnMtYXJlLXZ1bG5lcmFibGUtdG8tdGhpcy1uZXctY3liZXJhdHRhY2vSAQA?oc=5",
-          "publishedOn": "2023-12-07T13:28:47.000Z",
-          "wordCount": 5035,
-          "title": "Pretty much all Windows and Linux computers are vulnerable to this new cyberattack - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -6547,21 +6327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.",
-          "link": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
-          "publishedOn": "2023-12-07T21:00:00.000Z",
-          "wordCount": 5624,
-          "title": "Preparing For Interaction To Next Paint, A New Web Core Vital",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg"
         }
       ]
     },
@@ -6570,6 +6335,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
+          "author": "Ankur Tyagi",
+          "description": "Welcome to this comprehensive guide to learning React. If you're looking for an efficient and well-thought-out approach to understanding React fundamentals, you've just hit the jackpot. This guide follows the 80/20 rule – we'll focus on a few key React concepts that you'll use in the majority of your work",
+          "link": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
+          "publishedOn": "2024-01-06T01:52:22.000Z",
+          "wordCount": 6434,
+          "title": "Learn React – A Guide to the Key Concepts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Orange---Yellow-Gradient-Make-Design-Blog-Banner--56-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-react-context/",
           "author": "Benedicta Onyebuchi",
@@ -6639,6 +6414,16 @@
           "wordCount": 3010,
           "title": "How to Build Machine Learning Models with Reliable Validation Scores",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-presentation.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
+          "author": "Faith Oyama",
+          "description": "Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just",
+          "link": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
+          "publishedOn": "2024-01-04T23:59:00.000Z",
+          "wordCount": 2369,
+          "title": "Concurrency in Kotlin Server-Side Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/concurrency.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
@@ -7189,56 +6974,6 @@
           "wordCount": 13370,
           "title": "How to Start Learning to Code – Coding for Everyone Handbook",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Start-Learning-to-Code-cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
-          "author": "Quincy Larson",
-          "description": "On this week's podcast, I'm joined by Dhawal Shah, the creator of Class Central, a popular search engine for online courses. Dhawal shares the history of online courses and the Massive Open Online Course revolution of the early 2010s.  We also talk about his childhood growing up in India,",
-          "link": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
-          "publishedOn": "2023-12-08T10:29:06.000Z",
-          "wordCount": 791,
-          "title": "Podcast: The History of Online Courses with Class Central Founder Dhawal Shah",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/signal-2023-12-08-042220_002.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
-          "author": "Nathan Sebhastian",
-          "description": "Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want",
-          "link": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
-          "publishedOn": "2023-12-07T22:19:23.000Z",
-          "wordCount": 2130,
-          "title": "How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-dom-manipulation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
-          "author": "Benjamin Semah",
-          "description": "If you're a web developer or have worked with the DOM (Document Object Model), you may have come across the terms HTMLCollection and NodeList before. But what do they mean and when do you need to use them? By the end of this article, you will learn all about HTMLCollection",
-          "link": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
-          "publishedOn": "2023-12-07T22:11:45.000Z",
-          "wordCount": 2119,
-          "title": "HTMLCollection vs NodeList – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Benjamin-Semah---DevAfterHours.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "If you're trying to get a job in big tech or you want to refine your skills in software development, a strong grasp of Java is indispensable.  Java is well-known for its robustness in Object-Oriented Programming (OOP), and it provides a comprehensive foundation essential for developers at every level.",
-          "link": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
-          "publishedOn": "2023-12-07T21:28:43.000Z",
-          "wordCount": 16318,
-          "title": "The Java Interview Prep Handbook – 50 Questions Solved + Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Java-Interview-Prep-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
-          "author": "Beau Carnes",
-          "description": "Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse",
-          "link": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
-          "publishedOn": "2023-12-07T15:57:29.000Z",
-          "wordCount": 814,
-          "title": "🐍 🕹️ 💻",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/snake2.jpg"
         }
       ]
     }
