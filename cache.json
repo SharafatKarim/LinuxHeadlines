@@ -590,126 +590,6 @@
           "wordCount": 5124,
           "title": "Discord Bot Creation: How to Get Started in Simple Steps",
           "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405679",
-          "author": "Sam U",
-          "description": "Alias is a shortcut command that is used to execute a set of commands. The alias can be temporary or permanent.",
-          "link": "https://linuxhint.com/create-remove-alias-in-linux/",
-          "publishedOn": "2023-12-15T08:49:51.000Z",
-          "wordCount": 5959,
-          "title": "How to Create and Remove Alias in Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405667",
-          "author": "Sam U",
-          "description": "To change Hey Siri to Siri go to Siri & Search in Settings and select Siri or Hey Siri from the Listen for option.",
-          "link": "https://linuxhint.com/change-hey-siri-to-siri-iphone-ipad-mac/",
-          "publishedOn": "2023-12-15T08:41:02.000Z",
-          "wordCount": 5393,
-          "title": "How to Change “Hey Siri” to “Siri” on iPhone, iPad and Mac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405397",
-          "author": "Shameen Shahid",
-          "description": "To assume a role using CLI, there are three methods i.e., via the STS (security token service), --profile parameter, or the MFA (Multi-Factor Authentication).",
-          "link": "https://linuxhint.com/aws-assume-role-cli/",
-          "publishedOn": "2023-12-15T08:19:37.000Z",
-          "wordCount": 11366,
-          "title": "How to Assume an IAM Role Using AWS CLI?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405020",
-          "author": "Aaliyan Javaid",
-          "description": "A film capacitor is a capacitor that uses a thin plastic film as the dielectric. They are relatively cheap, stable over time, and have low self-inductance.",
-          "link": "https://linuxhint.com/film-capacitor/",
-          "publishedOn": "2023-12-15T04:59:02.000Z",
-          "wordCount": 6063,
-          "title": "Film Capacitor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=404980",
-          "author": "Rafia Zafar",
-          "description": "To create the Kubernetes Deployment, start the Kubernetes cluster and use “kubectl create deployment <deployment-name> --image=<image-name>” command.",
-          "link": "https://linuxhint.com/create-kubernetes-deployment-using-kubectl-create-deployment/",
-          "publishedOn": "2023-12-15T04:43:04.000Z",
-          "wordCount": 6415,
-          "title": "Create Deployment Using “kubectl create deployment”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=404653",
-          "author": "Kashif",
-          "description": "The average value of an alternating current (AC) waveform is zero. This is because the area of the positive and negative half cycle are equal.",
-          "link": "https://linuxhint.com/average-value-ac-waveform/",
-          "publishedOn": "2023-12-15T04:30:29.000Z",
-          "wordCount": 7063,
-          "title": "Average Value of AC Waveform",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405584",
-          "author": "Sam U",
-          "description": "The date command is used with the --date or -d option with 1 day ago or yesterday strings to get yesterday’s date.",
-          "link": "https://linuxhint.com/find-yesterday-date-bash/",
-          "publishedOn": "2023-12-15T04:12:22.000Z",
-          "wordCount": 5760,
-          "title": "How to Find Yesterday Date in Bash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405493",
-          "author": "Muhammad Farhan",
-          "description": "To import the scheduled tasks open PowerShell. Type Register-ScheduledTask -xml (Get-Content \"Task-Path\" | Out-String) -TaskName \"T-Name\" -TaskPath \"T-Path\".",
-          "link": "https://linuxhint.com/import-export-scheduled-tasks-using-powershell/",
-          "publishedOn": "2023-12-14T20:22:51.000Z",
-          "wordCount": 5757,
-          "title": "How to Import and Export Scheduled Tasks Using PowerShell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405477",
-          "author": "Sam U",
-          "description": "Dropbear is a lightweight SSH server and client designed for embedded systems. It can be installed on Ubuntu using the apt package manager.",
-          "link": "https://linuxhint.com/install-configure-dropbear-ubuntu/",
-          "publishedOn": "2023-12-14T20:21:39.000Z",
-          "wordCount": 5271,
-          "title": "How to Install and Configure Dropbear on Ubuntu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405446",
-          "author": "Sam U",
-          "description": "The dig and nslookup are network troubleshooting utilities that can be installed on Ubuntu by installing dnsutils through the apt package manager.",
-          "link": "https://linuxhint.com/install-use-dig-nslookup-for-network-troubleshooting-ubuntu/",
-          "publishedOn": "2023-12-14T20:20:05.000Z",
-          "wordCount": 6115,
-          "title": "How to Install and Use dig and nslookup on Ubuntu For Network Troubleshooting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405511",
-          "author": "Rafia Zafar",
-          "description": "To start the Kubernetes cluster, first, download the Docker Desktop or minikube. Then, install the kubectl tool, and start Kubernetes node to use Kubernetes.",
-          "link": "https://linuxhint.com/get-started-kubernetes-kubectl-windows/",
-          "publishedOn": "2023-12-14T20:15:47.000Z",
-          "wordCount": 8868,
-          "title": "How to Get Started With Kubernetes and Kubectl on Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linuxhint.com/?p=405420",
-          "author": "Shameen Shahid",
-          "description": "To install AWS CLI using Chocolatey, a user can use PowerShell v2.0 or later or CMD with admin access. Provide the mentioned commands to begin installations.",
-          "link": "https://linuxhint.com/choco-install-aws-cli/",
-          "publishedOn": "2023-12-14T15:46:23.000Z",
-          "wordCount": 6436,
-          "title": "How to Install AWS CLI Using Chocolatey Package Manager?",
-          "imageUrl": null
         }
       ]
     },
@@ -718,6 +598,36 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187524",
+          "author": "Web Webster",
+          "description": "The Docker team is planning for Flatpak and Snap packaging of the Docker desktop via the Flathub and Snap stores in Q1 2024. This potential move could be a game-changer for Docker Desktop on Linux, smoothing the installation process and potentially streamlining Docker’s support efforts.\nThe post Docker Desktop as Flatpak Likely to Arrive Soon appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/docker-desktop-as-flatpak-likely-to-arrive-soon/",
+          "publishedOn": "2024-01-14T00:00:18.000Z",
+          "wordCount": 16957,
+          "title": "Docker Desktop as Flatpak Likely to Arrive Soon",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187516",
+          "author": "Web Webster",
+          "description": "2024 is here, and with it comes a brand new Linux kernel release. Collabora’s kernel team made a number of key contributions, including a new kselftest for verifying driver probe of Devicetree-based platforms, multiple improvements to further improve support for MediaTek SoCs found in Chromebooks, and more.\nThe post Kernel 6.7: New Year, New Linux! appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/kernel-6-7-new-year-new-linux/",
+          "publishedOn": "2024-01-13T18:00:14.000Z",
+          "wordCount": 16960,
+          "title": "Kernel 6.7: New Year, New Linux!",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187530",
+          "author": "Web Webster",
+          "description": "OpenSSH will disable DSA keys by default starting June 2024, with a complete removal slated for 2025. Here’s more on that!\nThe post OpenSSH Announces Plan to Phase Out DSA Keys appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/news/openssh-announces-plan-to-phase-out-dsa-keys/",
+          "publishedOn": "2024-01-13T03:00:24.000Z",
+          "wordCount": 16942,
+          "title": "OpenSSH Announces Plan to Phase Out DSA Keys",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=187529",
           "author": "Web Webster",
@@ -1817,76 +1727,6 @@
           "wordCount": 16964,
           "title": "How to Install PHP on Fedora 39",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187156",
-          "author": "Web Webster",
-          "description": "Also referred to as the 403 Forbidden error, Apache’s ‘Forbidden Error’ is an error that is displayed on a web page when you are attempting to access a website that’s restricted or forbidden. Learn how to fix this issue in this guide.\nThe post How to Fix Apache 403 Forbidden Error in Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-fix-apache-403-forbidden-error-in-linux/",
-          "publishedOn": "2023-12-15T03:00:38.000Z",
-          "wordCount": 16965,
-          "title": "How to Fix Apache 403 Forbidden Error in Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187178",
-          "author": "Web Webster",
-          "description": "At Linux Foundation‘s AI dot dev event this week, the non-profit organization that is home to a vast array of open-source efforts across the technology landscape attempted to stake its claim for relevancy in the generative AI era. The Linux Foundation is an umbrella group for several open-source efforts, including the Cloud Native Computing Foundation […]\nThe post Linux Foundation Advances Open-Source Vision With Generative AI Commons appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/linux-foundation-advances-open-source-vision-with-generative-ai-commons/",
-          "publishedOn": "2023-12-14T21:00:50.000Z",
-          "wordCount": 17000,
-          "title": "Linux Foundation Advances Open-Source Vision With Generative AI Commons",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187179",
-          "author": "Web Webster",
-          "description": "The open-source Kubernetes cloud native project is out today with the release of version 1.29, codenamed Mandala. The Kubernetes 1.29 milestone is the final release for 2023 of the open-source cloud native technology and introduces a range of new features and enhancements. Kubernetes has multiple updates this year; the new release follows the Kubernetes 1.28 […]\nThe post How Kubernetes 1.29 Improves Open-Source Cloud Native Production Readiness appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/how-kubernetes-1-29-improves-open-source-cloud-native-production-readiness/",
-          "publishedOn": "2023-12-14T19:00:33.000Z",
-          "wordCount": 16988,
-          "title": "How Kubernetes 1.29 Improves Open-Source Cloud Native Production Readiness",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187172",
-          "author": "Web Webster",
-          "description": "The Germany-based enterprise-focused open-source software company Univention today announced the release of Univention Corporate Server 5.0-6, which the company classifies as a “patch-level release.” UCS is an enterprise Linux distribution based on Debian, and today’s release contains bug fixes and security updates released since version 5.0-5, including for PostgreSQL, Samba, as well as some native […]\nThe post ‘Patch Level’ Univention Corporate Server 5.0-6 Released appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/patch-level-univention-corporate-server-5-0-6-released/",
-          "publishedOn": "2023-12-14T18:00:22.000Z",
-          "wordCount": 16977,
-          "title": "‘Patch Level’ Univention Corporate Server 5.0-6 Released",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187182",
-          "author": "Web Webster",
-          "description": "The Tianyi-33 satellite, launched by China, features a unique dual-kernel architecture with a real-time Linux kernel written in Rust.\nThe post China Launches Satellite With Real-Time Linux Kernel Subsystem Written in Rust appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/china-launches-satellite-with-real-time-linux-kernel-subsystem-written-in-rust/",
-          "publishedOn": "2023-12-14T16:00:38.000Z",
-          "wordCount": 16959,
-          "title": "China Launches Satellite With Real-Time Linux Kernel Subsystem Written in Rust",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187180",
-          "author": "Web Webster",
-          "description": "Ardour 8.2 is here two months after Ardour 8.1 to add support for new devices, including the Novation LaunchPad X and LaunchPad Mini controllers, as well as the Solid State Logic UF8 USB MIDI / Mackie Control Protocol device.\nThe post Ardour 8.2 Open-Source DAW Adds Note Tupling, Support for Solid State Logic UF8 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/ardour-8-2-open-source-daw-adds-note-tupling-support-for-solid-state-logic-uf8/",
-          "publishedOn": "2023-12-14T15:00:31.000Z",
-          "wordCount": 16978,
-          "title": "Ardour 8.2 Open-Source DAW Adds Note Tupling, Support for Solid State Logic UF8",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187177",
-          "author": "Web Webster",
-          "description": "Incus, a fork of LXD affected by Canonical’s licensing shift, stops including changes from LXD to avoid mixed license issues. Here’s more on that!\nThe post Incus Project Affected by LXD’s Shift to AGPLv3 License appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/incus-project-affected-by-lxds-shift-to-agplv3-license/",
-          "publishedOn": "2023-12-14T14:00:11.000Z",
-          "wordCount": 16952,
-          "title": "Incus Project Affected by LXD’s Shift to AGPLv3 License",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1895,6 +1735,96 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1NZXJnZS1XaW5kb3ctSGlhdHVz0gEA",
+          "author": null,
+          "description": "Linux 6.8 Merge Window On Hiatus Due To Winter Storm  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1NZXJnZS1XaW5kb3ctSGlhdHVz0gEA?oc=5",
+          "publishedOn": "2024-01-13T21:57:00.000Z",
+          "wordCount": 5018,
+          "title": "Linux 6.8 Merge Window On Hiatus Due To Winter Storm - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0x1dHJpcy0wLjUuMTUtUmVsZWFzZWTSAQA",
+          "author": null,
+          "description": "Lutris 0.5.15 Fixes Crashes When Using Wayland With High DPI Gaming Mice  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0x1dHJpcy0wLjUuMTUtUmVsZWFzZWTSAQA?oc=5",
+          "publishedOn": "2024-01-13T21:36:00.000Z",
+          "wordCount": 5018,
+          "title": "Lutris 0.5.15 Fixes Crashes When Using Wayland With High DPI Gaming Mice - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctY2hlY2stY3B1LW1lbW9yeS11dGlsaXphdGlvbi1saW51eC_SAQA",
+          "author": null,
+          "description": "How to check CPU and memory utilization in Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctY2hlY2stY3B1LW1lbW9yeS11dGlsaXphdGlvbi1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-01-13T19:01:00.000Z",
+          "wordCount": 5018,
+          "title": "How to check CPU and memory utilization in Linux - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00MC1FeWVzLUFNRC1ST0NtLTbSAQA",
+          "author": null,
+          "description": "Fedora 40 Looks To Ship AMD ROCm 6 For End-To-End Open-Source GPU Acceleration  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZlZG9yYS00MC1FeWVzLUFNRC1ST0NtLTbSAQA?oc=5",
+          "publishedOn": "2024-01-13T14:40:00.000Z",
+          "wordCount": 5018,
+          "title": "Fedora 40 Looks To Ship AMD ROCm 6 For End-To-End Open-Source GPU Acceleration - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1DWEzSAQA",
+          "author": null,
+          "description": "Intel Submits Latest CXL Feature Code For Linux 6.8  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1DWEzSAQA?oc=5",
+          "publishedOn": "2024-01-13T13:56:00.000Z",
+          "wordCount": 5018,
+          "title": "Intel Submits Latest CXL Feature Code For Linux 6.8 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiO2h0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vaG93LXRvL2hvdy10by1saXN0LXVzZXJzLWluLWxpbnV40gEA",
+          "author": null,
+          "description": "How to list users in Linux  Tom's Guide",
+          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vaG93LXRvL2hvdy10by1saXN0LXVzZXJzLWluLWxpbnV40gEA?oc=5",
+          "publishedOn": "2024-01-13T13:30:09.000Z",
+          "wordCount": 5018,
+          "title": "How to list users in Linux - Tom's Guide",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vYmVzdC1saW51eC1kaXN0cm9zLWZvci1nYW1pbmcv0gEA",
+          "author": null,
+          "description": "The Best Linux Distros for Gaming  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vYmVzdC1saW51eC1kaXN0cm9zLWZvci1nYW1pbmcv0gEA?oc=5",
+          "publishedOn": "2024-01-13T12:00:00.000Z",
+          "wordCount": 5018,
+          "title": "The Best Linux Distros for Gaming - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvdGVjaC1zdGFydHVwL25ld3MvdW5rbm93bi13b3JtLWNvbXByb21pc2VzLWxpbnV4LWRldmljZXMtY3J5cHRvbWluaW5nLW9wZXJhdGlvbi0zNTE4MjY20gF4aHR0cHM6Ly93d3cudGhlZGFpbHlzdGFyLm5ldC90ZWNoLXN0YXJ0dXAvbmV3cy91bmtub3duLXdvcm0tY29tcHJvbWlzZXMtbGludXgtZGV2aWNlcy1jcnlwdG9taW5pbmctb3BlcmF0aW9uLTM1MTgyNjY_YW1w",
+          "author": null,
+          "description": "Unknown worm compromises Linux devices for cryptomining operation  The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvdGVjaC1zdGFydHVwL25ld3MvdW5rbm93bi13b3JtLWNvbXByb21pc2VzLWxpbnV4LWRldmljZXMtY3J5cHRvbWluaW5nLW9wZXJhdGlvbi0zNTE4MjY20gF4aHR0cHM6Ly93d3cudGhlZGFpbHlzdGFyLm5ldC90ZWNoLXN0YXJ0dXAvbmV3cy91bmtub3duLXdvcm0tY29tcHJvbWlzZXMtbGludXgtZGV2aWNlcy1jcnlwdG9taW5pbmctb3BlcmF0aW9uLTM1MTgyNjY_YW1w?oc=5",
+          "publishedOn": "2024-01-13T10:05:12.000Z",
+          "wordCount": 5018,
+          "title": "Unknown worm compromises Linux devices for cryptomining operation - The Daily Star",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiJWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wYXJjaC1saW51eC_SAQA",
+          "author": null,
+          "description": "Parch Linux: A Simple & Easy-to-Use Arch-based Distro  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9wYXJjaC1saW51eC_SAQA?oc=5",
+          "publishedOn": "2024-01-13T06:13:29.000Z",
+          "wordCount": 5018,
+          "title": "Parch Linux: A Simple & Easy-to-Use Arch-based Distro - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiogFodHRwczovL2xpbGlwdXRpbmcuY29tL2xpbGJpdHMtbGludXgtZm9yLWFwcGxlLXNpbGljb24ta2VlcHMtZ2V0dGluZy1iZXR0ZXItbXNpcy1sb25nLXRlcm0tcGxhbnMtZm9yLWhhbmRoZWxkLWdhbWluZy1hbmQtZ29vZ2xlLWFzc2lzdGFudC1pcy1sb3Npbmctc29tZS1mZWF0dXJlcy_SAQA",
           "author": null,
@@ -3933,6 +3863,16 @@
           "publishedOn": "2024-01-02T10:32:25.000Z",
           "wordCount": 5021,
           "title": "6 Predictions for Linux and Open Source in 2024 - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9leHBsb3JpbmctZHluYW1pYy13b3JsZC1saW51eC1maWxlc3lzdGVtcy1leHQ0LXhmcy1hbmQtYnRyZnPSAQA",
+          "author": null,
+          "description": "Exploring the Dynamic World of Linux Filesystems: Ext4, XFS, and Btrfs  Linux Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC9leHBsb3JpbmctZHluYW1pYy13b3JsZC1saW51eC1maWxlc3lzdGVtcy1leHQ0LXhmcy1hbmQtYnRyZnPSAQA?oc=5",
+          "publishedOn": "2024-01-02T08:00:00.000Z",
+          "wordCount": 5018,
+          "title": "Exploring the Dynamic World of Linux Filesystems: Ext4, XFS, and Btrfs - Linux Journal",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6314,146 +6254,6 @@
           "wordCount": 5045,
           "title": "Framework 13 AMD Workaround Prepared For Linux To Deal With A Suspend Issue - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC1saW51eC1taW50L9IBAA",
-          "author": null,
-          "description": "How to install Linux Mint  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC1saW51eC1taW50L9IBAA?oc=5",
-          "publishedOn": "2023-12-15T12:01:00.000Z",
-          "wordCount": 5045,
-          "title": "How to install Linux Mint - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbHVuYXItbG9ic3Rlci10by1yZWFjaC1lbmQtb2YtbGlmZS1vbi1qYW51YXJ5LTI1dGgtMjAyNNIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbHVuYXItbG9ic3Rlci10by1yZWFjaC1lbmQtb2YtbGlmZS1vbi1qYW51YXJ5LTI1dGgtMjAyNC9hbXA",
-          "author": null,
-          "description": "Ubuntu 23.04 “Lunar Lobster” to Reach End of Life on January 25th, 2024  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbHVuYXItbG9ic3Rlci10by1yZWFjaC1lbmQtb2YtbGlmZS1vbi1qYW51YXJ5LTI1dGgtMjAyNNIBXmh0dHBzOi8vOXRvNWxpbnV4LmNvbS91YnVudHUtMjMtMDQtbHVuYXItbG9ic3Rlci10by1yZWFjaC1lbmQtb2YtbGlmZS1vbi1qYW51YXJ5LTI1dGgtMjAyNC9hbXA?oc=5",
-          "publishedOn": "2023-12-15T11:43:54.000Z",
-          "wordCount": 5045,
-          "title": "Ubuntu 23.04 “Lunar Lobster” to Reach End of Life on January 25th, 2024 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L3NlY3VyaXR5LWdlbmVyYWwvbmV3cy93aW5kb3dzLWxpbnV4LXN5c3RlbXMtcHlwaS1tYWx3YXJlL9IBYGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L3NlY3VyaXR5LWdlbmVyYWwvbmV3cy93aW5kb3dzLWxpbnV4LXN5c3RlbXMtcHlwaS1tYWx3YXJlLw",
-          "author": null,
-          "description": "PyPI Repository Malware Infects Windows Systems  Spiceworks News and Insights",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L3NlY3VyaXR5LWdlbmVyYWwvbmV3cy93aW5kb3dzLWxpbnV4LXN5c3RlbXMtcHlwaS1tYWx3YXJlL9IBYGh0dHBzOi8vd3d3LnNwaWNld29ya3MuY29tL2l0LXNlY3VyaXR5L3NlY3VyaXR5LWdlbmVyYWwvbmV3cy93aW5kb3dzLWxpbnV4LXN5c3RlbXMtcHlwaS1tYWx3YXJlLw?oc=5",
-          "publishedOn": "2023-12-15T11:33:13.000Z",
-          "wordCount": 5045,
-          "title": "PyPI Repository Malware Infects Windows Systems - Spiceworks News and Insights",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC91bmRlcnN0YW5kaW5nLXN5c3RlbS1sb2ctbWFuYWdlbWVudC11c2luZy1sb2dyb3RhdGXSAQA",
-          "author": null,
-          "description": "Understanding System Log Management Using Logrotate  Linux Journal",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmxpbnV4am91cm5hbC5jb20vY29udGVudC91bmRlcnN0YW5kaW5nLXN5c3RlbS1sb2ctbWFuYWdlbWVudC11c2luZy1sb2dyb3RhdGXSAQA?oc=5",
-          "publishedOn": "2023-12-15T03:22:34.000Z",
-          "wordCount": 5045,
-          "title": "Understanding System Log Management Using Logrotate - Linux Journal",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiigFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9uZXdzL29wZW4tbmV0d29ya2luZy1mb3VuZGF0aW9uLW1lcmdlcy1vcGVuLXNvdXJjZS1uZXR3b3JraW5nLXBvcnRmb2xpby1pbnRvLWxpbnV4LWZvdW5kYXRpb24vMjAyMy8xMi_SAQA",
-          "author": null,
-          "description": "Open Networking Foundation merges open source networking portfolio into Linux Foundation  SDxCentral",
-          "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9uZXdzL29wZW4tbmV0d29ya2luZy1mb3VuZGF0aW9uLW1lcmdlcy1vcGVuLXNvdXJjZS1uZXR3b3JraW5nLXBvcnRmb2xpby1pbnRvLWxpbnV4LWZvdW5kYXRpb24vMjAyMy8xMi_SAQA?oc=5",
-          "publishedOn": "2023-12-15T01:00:12.000Z",
-          "wordCount": 5045,
-          "title": "Open Networking Foundation merges open source networking portfolio into Linux Foundation - SDxCentral",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYmh0dHBzOi8vaXR3aXJlLmNvbS95b3VyLWl0L3ZpdmFsZGktcmVsZWFzZXMtZW5kLW9mLXllYXItdmVyc2lvbnMtZm9yLXdpbmRvd3MsLW1hY29zLWFuZC1saW51eC5odG1s0gEA",
-          "author": null,
-          "description": "Vivaldi releases end-of-year versions for Windows, macOS and Linux  iTWire",
-          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vaXR3aXJlLmNvbS95b3VyLWl0L3ZpdmFsZGktcmVsZWFzZXMtZW5kLW9mLXllYXItdmVyc2lvbnMtZm9yLXdpbmRvd3MsLW1hY29zLWFuZC1saW51eC5odG1s0gEA?oc=5",
-          "publishedOn": "2023-12-14T23:27:24.000Z",
-          "wordCount": 5045,
-          "title": "Vivaldi releases end-of-year versions for Windows, macOS and Linux - iTWire",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE0L2xpbnV4X2tlcm5lbF9vZl90aGVfYmVhc3Qv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE0L2xpbnV4X2tlcm5lbF9vZl90aGVfYmVhc3Qv",
-          "author": null,
-          "description": "Linux Kernel of the Beast 6.6.6 exorcised by angelic 6.6.7 update  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE0L2xpbnV4X2tlcm5lbF9vZl90aGVfYmVhc3Qv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE0L2xpbnV4X2tlcm5lbF9vZl90aGVfYmVhc3Qv?oc=5",
-          "publishedOn": "2023-12-14T19:04:00.000Z",
-          "wordCount": 5045,
-          "title": "Linux Kernel of the Beast 6.6.6 exorcised by angelic 6.6.7 update - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE0L3dpbmRvd3NfYWlfc3R1ZGlvX3ByZXZpZXcv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE0L3dpbmRvd3NfYWlfc3R1ZGlvX3ByZXZpZXcv",
-          "author": null,
-          "description": "Microsoft embraces its inner penguin with Linux-powered Windows AI Studio  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE0L3dpbmRvd3NfYWlfc3R1ZGlvX3ByZXZpZXcv0gFFaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE0L3dpbmRvd3NfYWlfc3R1ZGlvX3ByZXZpZXcv?oc=5",
-          "publishedOn": "2023-12-14T17:17:00.000Z",
-          "wordCount": 5045,
-          "title": "Microsoft embraces its inner penguin with Linux-powered Windows AI Studio - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBhcGVybWFnLmNvbS9saW51eC13aGF0LXlvdS1taXNzZWQtbm92MjPSAQA",
-          "author": null,
-          "description": "What You Missed Last Month in NYC (According to Linux)  Papermag",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBhcGVybWFnLmNvbS9saW51eC13aGF0LXlvdS1taXNzZWQtbm92MjPSAQA?oc=5",
-          "publishedOn": "2023-12-14T17:13:24.000Z",
-          "wordCount": 5045,
-          "title": "What You Missed Last Month in NYC (According to Linux) - Papermag",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvYW1kLWZpZGVsaXR5Zngtc3VwZXItcmVzb2x1dGlvbi0zLWZzcjMtaXMtbm93LW9wZW4tc291cmNlL9IBAA",
-          "author": null,
-          "description": "AMD FidelityFX Super Resolution 3 (FSR3) is now open source  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvYW1kLWZpZGVsaXR5Zngtc3VwZXItcmVzb2x1dGlvbi0zLWZzcjMtaXMtbm93LW9wZW4tc291cmNlL9IBAA?oc=5",
-          "publishedOn": "2023-12-14T15:29:30.000Z",
-          "wordCount": 5045,
-          "title": "AMD FidelityFX Super Resolution 3 (FSR3) is now open source - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8xMi8xMTYtbWFsd2FyZS1wYWNrYWdlcy1mb3VuZC1vbi1weXBpLmh0bWzSAQA",
-          "author": null,
-          "description": "116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems  The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyMy8xMi8xMTYtbWFsd2FyZS1wYWNrYWdlcy1mb3VuZC1vbi1weXBpLmh0bWzSAQA?oc=5",
-          "publishedOn": "2023-12-14T15:26:00.000Z",
-          "wordCount": 5045,
-          "title": "116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems - The Hacker News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vbmYtbWVyZ2VzLW1hcmtldC1sZWFkaW5nLXBvcnRmb2xpby0xNTEzMDA2MDMuaHRtbNIBAA",
-          "author": null,
-          "description": "ONF Merges Market Leading Portfolio of Open Source Networking Projects into the Linux Foundation  Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9vbmYtbWVyZ2VzLW1hcmtldC1sZWFkaW5nLXBvcnRmb2xpby0xNTEzMDA2MDMuaHRtbNIBAA?oc=5",
-          "publishedOn": "2023-12-14T15:13:00.000Z",
-          "wordCount": 5045,
-          "title": "ONF Merges Market Leading Portfolio of Open Source Networking Projects into the Linux Foundation - Yahoo Finance",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi1wbGF0aW51bS04NTky0gEA",
-          "author": null,
-          "description": "Intel Xeon Platinum 8592+ \"Emerald Rapids\" Linux Benchmarks Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwteGVvbi1wbGF0aW51bS04NTky0gEA?oc=5",
-          "publishedOn": "2023-12-14T15:01:48.000Z",
-          "wordCount": 5045,
-          "title": "Intel Xeon Platinum 8592+ \"Emerald Rapids\" Linux Benchmarks Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9wcm90b24tbWFpbC1kZXNrdG9wLWFwcC1sYXVuY2hlcy1mb3Itd2luZG93cy1hbmQtbWFjLWluLWJldGEtbGludXgtdmVyc2lvbi1pbi10aGUtd29ya3Mv0gFzaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvcHJvdG9uLW1haWwtZGVza3RvcC1hcHAtbGF1bmNoZXMtZm9yLXdpbmRvd3MtYW5kLW1hYy1pbi1iZXRhLWxpbnV4LXZlcnNpb24taW4tdGhlLXdvcmtzLw",
-          "author": null,
-          "description": "Proton Mail desktop app launches for Windows and Mac in beta; Linux version in the works  Neowin",
-          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvbmV3cy9wcm90b24tbWFpbC1kZXNrdG9wLWFwcC1sYXVuY2hlcy1mb3Itd2luZG93cy1hbmQtbWFjLWluLWJldGEtbGludXgtdmVyc2lvbi1pbi10aGUtd29ya3Mv0gFzaHR0cHM6Ly93d3cubmVvd2luLm5ldC9hbXAvcHJvdG9uLW1haWwtZGVza3RvcC1hcHAtbGF1bmNoZXMtZm9yLXdpbmRvd3MtYW5kLW1hYy1pbi1iZXRhLWxpbnV4LXZlcnNpb24taW4tdGhlLXdvcmtzLw?oc=5",
-          "publishedOn": "2023-12-14T14:08:00.000Z",
-          "wordCount": 5045,
-          "title": "Proton Mail desktop app launches for Windows and Mac in beta; Linux version in the works - Neowin",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -6462,6 +6262,96 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Terminals/Microsoft-PowerShell-103861.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortlessly automate complex tasks with the help of Microsoft's PowerShell, a powerful system admin tool comprised of a command-line shell, a scripting language, and a powerful config management framework",
+          "link": "https://linux.softpedia.com/get/Terminals/Microsoft-PowerShell-103861.shtml",
+          "publishedOn": "2024-01-13T16:15:16.000Z",
+          "wordCount": 1636,
+          "title": "PowerShell 7.4.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-PowerShell_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Custom-Hot-Corners-Extended-104074.shtml",
+          "author": "Softpedia Linux",
+          "description": "Improve your productivity with the help of this nifty GNOME Shell extension that allows you to trigger various actions on the corners and edges of your screen",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Themes/Custom-Hot-Corners-Extended-104074.shtml",
+          "publishedOn": "2024-01-13T13:58:59.000Z",
+          "wordCount": 1593,
+          "title": "Custom Hot Corners - Extended 35",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Custom-Hot-Corners-Extended_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/OpenComic-104029.shtml",
+          "author": "Softpedia Linux",
+          "description": "Modern-looking and surprisingly capable, Electron-based app that allows you to read your favorite manga and comics",
+          "link": "https://linux.softpedia.com/get/Utilities/OpenComic-104029.shtml",
+          "publishedOn": "2024-01-13T13:03:26.000Z",
+          "wordCount": 1500,
+          "title": "OpenComic 1.1.0",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/OpenComic_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Numara-Calculator-103910.shtml",
+          "author": "Softpedia Linux",
+          "description": "Perform complex mathematical calculations, and define your very own functions for later use, all with the help of this Electron-based calculator app",
+          "link": "https://linux.softpedia.com/get/Utilities/Numara-Calculator-103910.shtml",
+          "publishedOn": "2024-01-13T12:58:35.000Z",
+          "wordCount": 1533,
+          "title": "Numara Calculator 4.4.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Numara-Calculator_1.png"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Linux-Distributions/Linux-Mint-Vanessa-104350.shtml",
+          "author": "Softpedia Linux",
+          "description": "Linux Mint 21 comes with an impressive series of changes and improvements, most of which target the whole desktop experience",
+          "link": "https://linux.softpedia.com/get/Linux-Distributions/Linux-Mint-Vanessa-104350.shtml",
+          "publishedOn": "2024-01-13T12:45:55.000Z",
+          "wordCount": 2081,
+          "title": "Linux Mint 21.3",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Linux-Mint-Vanessa_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Koodo-Reader-104259.shtml",
+          "author": "Softpedia Linux",
+          "description": "Super stylish and feature-packed, open-source and cross-platform eBook reader for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Koodo-Reader-104259.shtml",
+          "publishedOn": "2024-01-13T12:44:36.000Z",
+          "wordCount": 1622,
+          "title": "Koodo Reader 1.6.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Koodo-Reader_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Komikku-104309.shtml",
+          "author": "Softpedia Linux",
+          "description": "Enjoy your favorite comic books and manga with the help of this nifty app built specifically for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Komikku-104309.shtml",
+          "publishedOn": "2024-01-13T12:29:37.000Z",
+          "wordCount": 1541,
+          "title": "Komikku 1.34.1",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Komikku_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/CPod-104057.shtml",
+          "author": "Softpedia Linux",
+          "description": "Expand your podcast horizons with the help of CPod, one of the best desktop podcast apps out there",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/CPod-104057.shtml",
+          "publishedOn": "2024-01-13T11:46:30.000Z",
+          "wordCount": 1579,
+          "title": "CPod (formerly Cumulonimbus) 1.28.2",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/CPod_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Chat/Ferdium-104583.shtml",
+          "author": "Softpedia Linux",
+          "description": "Organize and centralize all your apps, webapps, and web services in one place with the help of Ferdium, a free and open-source hard-fork of Ferdi",
+          "link": "https://linux.softpedia.com/get/Communications/Chat/Ferdium-104583.shtml",
+          "publishedOn": "2024-01-13T11:16:50.000Z",
+          "wordCount": 1874,
+          "title": "Ferdium 6.7.0 / 6.7.1 Nightly 6",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Ferdium_1.jpg"
+        },
         {
           "id": "https://linux.softpedia.com/get/Multimedia/Video/XBMC-Media-Center-41393.shtml",
           "author": "Softpedia Linux",
@@ -7603,6 +7493,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "author": "Deborah Kurata",
+          "description": "We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,",
+          "link": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "publishedOn": "2024-01-12T23:21:23.000Z",
+          "wordCount": 2268,
+          "title": "Immutability in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/thumbnail.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
           "author": "Franklin Okolie",
           "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this",
@@ -8341,26 +8241,6 @@
           "wordCount": 1692,
           "title": "How to Use Async/Await in JavaScript – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-async-await.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
-          "author": "Beau Carnes",
-          "description": "The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
-          "publishedOn": "2023-12-14T17:53:14.000Z",
-          "wordCount": 1025,
-          "title": "Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/azurefund.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
-          "author": "Beau Carnes",
-          "description": "Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi",
-          "link": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
-          "publishedOn": "2023-12-14T13:54:47.000Z",
-          "wordCount": 951,
-          "title": "How to Test JavaScript  Code with Jest",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/jest.png"
         }
       ]
     }
