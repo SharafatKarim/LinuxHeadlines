@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=406503",
+          "author": "Omar Farooq",
+          "description": "Practical guide on how to install Git on Ubuntu 22.04 and earlier versions using the Ubuntu package manager (apt), the Git Maintainers PPA, and the Git source.",
+          "link": "https://linuxhint.com/git-installation-process-ubuntu/",
+          "publishedOn": "2024-01-09T14:38:04.000Z",
+          "wordCount": 5827,
+          "title": "Git Installation Process on Ubuntu",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=403794",
           "author": "Sam U",
           "description": "The UFW in Linux is inactive by default because it can block some important ports. To make it active use ufw enable command.",
@@ -19,6 +29,226 @@
           "publishedOn": "2024-01-06T03:04:15.000Z",
           "wordCount": 5752,
           "title": "How to Fix UFW Status Shows Inactive in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409130",
+          "author": "Sam U",
+          "description": "In Vim, the leader key can be used to make shortcuts and commands. The slash (\\) key in Vim is the default leader key, but you can change it to suit your needs.",
+          "link": "https://linuxhint.com/vim-leader-key/",
+          "publishedOn": "2024-01-06T03:02:07.000Z",
+          "wordCount": 5516,
+          "title": "What is Vim Leader Key",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408482",
+          "author": "Rafia Zafar",
+          "description": "In minikube, add a node using “minikube node add” command. In Kind, add nodes in config file and create the cluster. In k3d, use “k3d node create” command.",
+          "link": "https://linuxhint.com/create-nodes-kubernetes/",
+          "publishedOn": "2024-01-05T09:24:47.000Z",
+          "wordCount": 6873,
+          "title": "How to Create Nodes in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408484",
+          "author": "Denis Kariuki",
+          "description": "How to create the stored procedures in PostgreSQL that define the various routines that should be executed when called and help with database optimization.",
+          "link": "https://linuxhint.com/create-stored-procedures-postgresql/",
+          "publishedOn": "2024-01-05T09:23:28.000Z",
+          "wordCount": 5423,
+          "title": "How to Create Stored Procedures in PostgreSQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408483",
+          "author": "Rafia Zafar",
+          "description": "To create the secret tls, run the “kubectl create secret   --cert= --key=” command.",
+          "link": "https://linuxhint.com/create-secret-tls-kubernetes/",
+          "publishedOn": "2024-01-05T09:23:15.000Z",
+          "wordCount": 6093,
+          "title": "How to Create Secret TLS in Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408481",
+          "author": "Shahriar Shovon",
+          "description": "Practical guide on how to configure dnsmasq as a DHCP relay server so that you can forward the DHCP packets to a centralized DHCP server for easier management.",
+          "link": "https://linuxhint.com/configure-dnsmasq-dhcp-relay-server/",
+          "publishedOn": "2024-01-05T09:22:37.000Z",
+          "wordCount": 5380,
+          "title": "How to Configure Dnsmasq as a DHCP Relay Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408429",
+          "author": "Omar Farooq",
+          "description": "Practical tutorial on list concatenation using various methods and understanding these techniques to efficiently work with lists in Python along with examples.",
+          "link": "https://linuxhint.com/concatenate-lists-python/",
+          "publishedOn": "2024-01-05T09:22:06.000Z",
+          "wordCount": 5703,
+          "title": "How to Concatenate Lists in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408428",
+          "author": "Rafia Zafar",
+          "description": "To clear the Kubernetes cache, open the “.kube” directory from the system “$Home” directory or User directory. After that, clear all content of the directory.",
+          "link": "https://linuxhint.com/clear-kubernetes-cache/",
+          "publishedOn": "2024-01-05T09:21:55.000Z",
+          "wordCount": 5140,
+          "title": "How to Clear Kubernetes Cache",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408426",
+          "author": "Aaliyan Javaid",
+          "description": "To check a motor capacitor, disconnect it from the motor and find its actual capacitance value, check its resistance, or measure its voltage by charging it.",
+          "link": "https://linuxhint.com/check-motor-capacitor/",
+          "publishedOn": "2024-01-05T09:21:12.000Z",
+          "wordCount": 5410,
+          "title": "How to Check a Motor Capacitor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408425",
+          "author": "Shahriar Shovon",
+          "description": "Guide on the available network interface naming policies of modern Linux distributions and how to use them on Ubuntu/Debian/RHEL/CentOS/Fedora/Rocky Linux.",
+          "link": "https://linuxhint.com/change-network-interface-naming-policy-linux/",
+          "publishedOn": "2024-01-05T09:21:02.000Z",
+          "wordCount": 5396,
+          "title": "How to Change Network Interface Naming Policy on Ubuntu/Debian/RHEL/CentOS/Fedora/Rocky Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408380",
+          "author": "Aaliyan Javaid",
+          "description": "Full wave rectifier converts AC into DC. The DC signal acquired at the output still has some waves and to filter these waves a capacitor filter is used.",
+          "link": "https://linuxhint.com/full-wave-rectifier-with-capacitor-filter/",
+          "publishedOn": "2024-01-05T09:20:56.000Z",
+          "wordCount": 5834,
+          "title": "Full Wave Rectifier with Capacitor Filter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408381",
+          "author": "Muhammad Farhan",
+          "description": "To get the folder size in PowerShell, specify the folder path to the Get-ChildItem and pipe it to the Measure-Object command.",
+          "link": "https://linuxhint.com/get-folder-size-powershell/",
+          "publishedOn": "2024-01-05T09:20:12.000Z",
+          "wordCount": 5616,
+          "title": "Get Folder Size in PowerShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408384",
+          "author": "John Otieno",
+          "description": "Practical guide on the various methods and techniques that we can use to programmatically retrieve the hostname of a system using the Go programming language.",
+          "link": "https://linuxhint.com/hostname-retrieval-go/",
+          "publishedOn": "2024-01-05T09:20:04.000Z",
+          "wordCount": 5281,
+          "title": "Hostname Retrieval in Go (get hostname)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408314",
+          "author": "Shehroz Azam",
+          "description": "The guide contains 30 examples of JavaScript such as printing messages on the console, use of conditional statements, or the form validation in JavaScript.",
+          "link": "https://linuxhint.com/30-javascript-examples-guide/",
+          "publishedOn": "2024-01-05T09:19:22.000Z",
+          "wordCount": 8987,
+          "title": "30 JavaScript Examples Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408317",
+          "author": "Shehroz Azam",
+          "description": "The event loop is a continuous and semi-infinite loop in Node.js that operates asynchronously to handle the code flow of all the queue phases.",
+          "link": "https://linuxhint.com/event-loop-in-node-js/",
+          "publishedOn": "2024-01-05T09:19:07.000Z",
+          "wordCount": 7989,
+          "title": "event loop in node js",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408316",
+          "author": "Denis Kariuki",
+          "description": "Practical guide on how to create substrings of strings in PostgreSQL by specifying the substring length, the start and end positions, and working with tables.",
+          "link": "https://linuxhint.com/create-substrings-strings-postgresql/",
+          "publishedOn": "2024-01-05T09:18:54.000Z",
+          "wordCount": 5387,
+          "title": "Create Substrings of Strings in PostgreSQL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408315",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on the in-depth discussion of the functionality and usage of Zsh completions from the basics to a more advanced customization and usage.",
+          "link": "https://linuxhint.com/boosting-productivity-zsh-completions/",
+          "publishedOn": "2024-01-05T09:18:35.000Z",
+          "wordCount": 5332,
+          "title": "Boosting Your Productivity with Zsh-Completions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408313",
+          "author": "Muhammad Farhan",
+          "description": "FTP protocol transfers files between a client and a server on a remote computer. The most commonly used FTP commands include FTP, Append, Delete, Send, and Mkdir",
+          "link": "https://linuxhint.com/powershell-ftp-commands/",
+          "publishedOn": "2024-01-05T09:17:01.000Z",
+          "wordCount": 5236,
+          "title": "12 PowerShell FTP Commands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408743",
+          "author": "Awais Khan",
+          "description": "You can install Discord on Debian 12 from deb package, tar.gz file, Snap Store and Flatpak. Read this guide for more details.",
+          "link": "https://linuxhint.com/install-discord-debian/",
+          "publishedOn": "2024-01-05T09:16:00.000Z",
+          "wordCount": 5968,
+          "title": "How to Install Discord on Debian 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408832",
+          "author": "Shahriar Shovon",
+          "description": "Comprehensive guide on how to install the latest version of JupyterHub on Fedora 38+, RHEL 9, and Rocky Linux 9 and how to access it from a web browser.",
+          "link": "https://linuxhint.com/install-latest-version-jupyterhub-fedora-38-rhel-9-rocky-linux-9/",
+          "publishedOn": "2024-01-05T09:12:35.000Z",
+          "wordCount": 6537,
+          "title": "How to Install the Latest Version of JupyterHub on Fedora 38+/RHEL 9/Rocky Linux 9",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408833",
+          "author": "Awais Khan",
+          "description": "wget is a command line utility used for downloading files from the terminal. Follow this guide to install and use wget on Debian 12.",
+          "link": "https://linuxhint.com/install-wget-debian/",
+          "publishedOn": "2024-01-05T09:12:17.000Z",
+          "wordCount": 5549,
+          "title": "How to Install wget on Debian 12",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408829",
+          "author": "Awais Khan",
+          "description": "You can install Rust on Debian 12 from the default repository, or official script file. Read this guide to learn how to install and use Rust on Debian.",
+          "link": "https://linuxhint.com/install-rust-debian/",
+          "publishedOn": "2024-01-05T09:11:52.000Z",
+          "wordCount": 5789,
+          "title": "How to Install Rust on Debian 12 Bookworm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408746",
+          "author": "Awais Khan",
+          "description": "You can install the KDE Plasma on Debian 12 from the default repository or using the tasksel command. Read this guide for more details.",
+          "link": "https://linuxhint.com/install-kde-debian/",
+          "publishedOn": "2024-01-05T09:11:25.000Z",
+          "wordCount": 5797,
+          "title": "How to Install KDE Plasma Desktop Environment on Debian 12",
           "imageUrl": null
         },
         {
@@ -598,6 +828,26 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187515",
+          "author": "Web Webster",
+          "description": "The TIG (Telegraf, InfluxDB, and Grafana) Stack is an acronym for a platform of open-source tools to make the collection, storage, graphing, and alerting of system metrics easier. In this tutorial, you will learn how to install and configure the TIG Stack on a single Debian 12 server.\nThe post How to Install TIG Stack (Telegraf, InfluxDB, and Grafana) on Debian 12 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-tig-stack-telegraf-influxdb-and-grafana-on-debian-12/",
+          "publishedOn": "2024-01-15T01:00:04.000Z",
+          "wordCount": 16980,
+          "title": "How to Install TIG Stack (Telegraf, InfluxDB, and Grafana) on Debian 12",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187439",
+          "author": "Web Webster",
+          "description": "The Debian ecosystem has spawned numerous exceptional distributions, each catering to diverse user preferences. Notable Debian-based Linux distributions include Ubuntu, Linux Mint, and MX Linux. These 12 selections offer varied desktop environments, robust package management, and the renowned stability derived from Debian, appealing to a wide spectrum of users.\nThe post The 12 Best Debian-based Linux Distributions appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/the-12-best-debian-based-linux-distributions/",
+          "publishedOn": "2024-01-14T17:00:52.000Z",
+          "wordCount": 16963,
+          "title": "The 12 Best Debian-based Linux Distributions",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=187524",
           "author": "Web Webster",
@@ -1697,36 +1947,6 @@
           "wordCount": 17013,
           "title": "Ubuntu 23.04 “Lunar Lobster” to Reach End of Life on January 25th, 2024",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186430",
-          "author": "Web Webster",
-          "description": "SysPass is an open-source password manager written in PHP with AES-256 CTR encryption. It is designed for centralized and collaborative password management. It offers advanced profile management, multiuser with user, group, and profile management. In this guide, you will learn how to install SysPass Password Manager on Ubuntu 22.04 server.\nThe post How to Install SysPass Password Manager on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-syspass-password-manager-on-ubuntu-22-04/",
-          "publishedOn": "2023-12-15T18:00:45.000Z",
-          "wordCount": 16965,
-          "title": "How to Install SysPass Password Manager on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186411",
-          "author": "Web Webster",
-          "description": "Cinnamon is a desktop environment that offers a traditional, familiar interface, making it a preferred choice for many users switching to Ubuntu. This guide shows how to use the command line terminal to install the Cinnamon desktop environment on your existing Ubuntu 22.04 LTS release.\nThe post How to Install Cinnamon Desktop on Ubuntu 22.04 LTS appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-cinnamon-desktop-on-ubuntu-22-04-lts/",
-          "publishedOn": "2023-12-15T15:00:51.000Z",
-          "wordCount": 16970,
-          "title": "How to Install Cinnamon Desktop on Ubuntu 22.04 LTS",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187112",
-          "author": "Web Webster",
-          "description": "In this tutorial, learn how to install PHP on Fedora 39. It also discusses how to enable PHP 8.1, 8.2, or 8.3, along with other various tips.\nThe post How to Install PHP on Fedora 39 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-php-on-fedora-39/",
-          "publishedOn": "2023-12-15T14:00:31.000Z",
-          "wordCount": 16964,
-          "title": "How to Install PHP on Fedora 39",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1735,6 +1955,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiSmh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTI2LW9zLzE2ODk3LWMtaW4tdGhlLWxpbnV4LWtlcm5lbC5odG1s0gEA",
+          "author": null,
+          "description": "C++ In The Linux Kernel?  iProgrammer",
+          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTI2LW9zLzE2ODk3LWMtaW4tdGhlLWxpbnV4LWtlcm5lbC5odG1s0gEA?oc=5",
+          "publishedOn": "2024-01-14T18:40:35.000Z",
+          "wordCount": 5018,
+          "title": "C++ In The Linux Kernel? - iProgrammer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vbWVkaXVtLmNvbS9Abmljay1zdGFtYmF1Z2gvcGVvcGxlLXNob3VsZC1oYXZlLWxlYXJuZWQtdGhlLWNvbXB1dGVyLXRocm91Z2gtbGludXgtOTdjMWYxZjI2MjQ40gEA",
+          "author": null,
+          "description": "People Should Have Learned the Computer Through Linux  Medium",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWVkaXVtLmNvbS9Abmljay1zdGFtYmF1Z2gvcGVvcGxlLXNob3VsZC1oYXZlLWxlYXJuZWQtdGhlLWNvbXB1dGVyLXRocm91Z2gtbGludXgtOTdjMWYxZjI2MjQ40gEA?oc=5",
+          "publishedOn": "2024-01-14T17:49:37.000Z",
+          "wordCount": 5018,
+          "title": "People Should Have Learned the Computer Through Linux - Medium",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUGh0dHBzOi8vZ2Vla3lnZW4uY29tL2Jlc3QtZWNvbm9tZXRyaWMtYW5kLXN0YXRpc3RpY2FsLXNvZnR3YXJlLWZvci1saW51eC1zeXN0ZW0v0gEA",
+          "author": null,
+          "description": "11 Best Econometric and Statistical Software for Linux  Technology News, Tutorials and Apps Review",
+          "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZ2Vla3lnZW4uY29tL2Jlc3QtZWNvbm9tZXRyaWMtYW5kLXN0YXRpc3RpY2FsLXNvZnR3YXJlLWZvci1saW51eC1zeXN0ZW0v0gEA?oc=5",
+          "publishedOn": "2024-01-14T16:50:16.000Z",
+          "wordCount": 5018,
+          "title": "11 Best Econometric and Statistical Software for Linux - Technology News, Tutorials and Apps Review",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1JT01NVdIBAA",
+          "author": null,
+          "description": "AMD IOMMU Improvements & Apple M1 USB4/Thunderbolt DART Submitted For Linux 6.8  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1JT01NVdIBAA?oc=5",
+          "publishedOn": "2024-01-14T14:41:00.000Z",
+          "wordCount": 5018,
+          "title": "AMD IOMMU Improvements & Apple M1 USB4/Thunderbolt DART Submitted For Linux 6.8 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbWluZS03LjAtQm9vdGxvYWRlctIBAA",
+          "author": null,
+          "description": "Limine 7.0 Bootloader Released  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbWluZS03LjAtQm9vdGxvYWRlctIBAA?oc=5",
+          "publishedOn": "2024-01-14T14:13:00.000Z",
+          "wordCount": 5018,
+          "title": "Limine 7.0 Bootloader Released - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FzYWhpLUxpbnV4LUphbnVhcnktMjAyNNIBAA",
+          "author": null,
+          "description": "Asahi Linux Has Been Making Progress On Apple HDMI, EAS & GPU Features  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FzYWhpLUxpbnV4LUphbnVhcnktMjAyNNIBAA?oc=5",
+          "publishedOn": "2024-01-14T11:40:00.000Z",
+          "wordCount": 5018,
+          "title": "Asahi Linux Has Been Making Progress On Apple HDMI, EAS & GPU Features - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1NZXJnZS1XaW5kb3ctSGlhdHVz0gEA",
           "author": null,
@@ -1833,6 +2113,16 @@
           "publishedOn": "2024-01-12T21:27:52.000Z",
           "wordCount": 5018,
           "title": "Lilbits: Linux for Apple Silicon keeps getting better, MSI's long-term plans for handheld gaming, and Google Assistant is ... - Liliputing",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvZ3JhYi1zb21lLXRyZWF0cy1pbi10aGUtYXdlc29tZS1nYW1lcy1kb25lLXF1aWNrLWh1bWJsZS1idW5kbGUv0gEA",
+          "author": null,
+          "description": "Grab some treats in the Awesome Games Done Quick Humble Bundle  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvZ3JhYi1zb21lLXRyZWF0cy1pbi10aGUtYXdlc29tZS1nYW1lcy1kb25lLXF1aWNrLWh1bWJsZS1idW5kbGUv0gEA?oc=5",
+          "publishedOn": "2024-01-12T20:09:44.000Z",
+          "wordCount": 5018,
+          "title": "Grab some treats in the Awesome Games Done Quick Humble Bundle - GamingOnLinux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2153,6 +2443,16 @@
           "publishedOn": "2024-01-11T10:30:45.000Z",
           "wordCount": 5018,
           "title": "How to check your CPU usage in Linux - Tom's Guide",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1TY2hlZC1SZWdyZXNzaW9u0gEA",
+          "author": null,
+          "description": "Linus Torvalds Hits Nasty Performance Regression With Early Linux 6.8 Code  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1TY2hlZC1SZWdyZXNzaW9u0gEA?oc=5",
+          "publishedOn": "2024-01-11T01:30:00.000Z",
+          "wordCount": 5018,
+          "title": "Linus Torvalds Hits Nasty Performance Regression With Early Linux 6.8 Code - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6064,196 +6364,6 @@
           "wordCount": 5045,
           "title": "KDE Frameworks 5.113 Released for Plasma 5 Users with Various Improvements - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vaG93LXRvL2hvdy10by16aXAtYS1mb2xkZXItaW4tbGludXjSAQA",
-          "author": null,
-          "description": "How to zip a folder in Linux  Tom's Guide",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRvbXNndWlkZS5jb20vaG93LXRvL2hvdy10by16aXAtYS1mb2xkZXItaW4tbGludXjSAQA?oc=5",
-          "publishedOn": "2023-12-16T12:30:22.000Z",
-          "wordCount": 5045,
-          "title": "How to zip a folder in Linux - Tom's Guide",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctcmVtb3ZlLWxpbnV4LWR1YWwtYm9vdC_SAQA",
-          "author": null,
-          "description": "How to remove Linux from dual boot  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctcmVtb3ZlLWxpbnV4LWR1YWwtYm9vdC_SAQA?oc=5",
-          "publishedOn": "2023-12-16T12:00:00.000Z",
-          "wordCount": 5045,
-          "title": "How to remove Linux from dual boot - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1IaWRkZW4tQ29sb3JzLUxpbnV4LTYuONIBAA",
-          "author": null,
-          "description": "AMD Stages The Radeon Graphics Color Management Code For Linux 6.8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1IaWRkZW4tQ29sb3JzLUxpbnV4LTYuONIBAA?oc=5",
-          "publishedOn": "2023-12-16T11:58:00.000Z",
-          "wordCount": 5045,
-          "title": "AMD Stages The Radeon Graphics Color Management Code For Linux 6.8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JveDY0LTAuMi42LUJveDg2LTAuMy400gEA",
-          "author": null,
-          "description": "Box64 v0.2.6 Brings Support For More CPU Extensions, Better Syscall Emulation  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JveDY0LTAuMi42LUJveDg2LTAuMy400gEA?oc=5",
-          "publishedOn": "2023-12-16T11:35:00.000Z",
-          "wordCount": 5045,
-          "title": "Box64 v0.2.6 Brings Support For More CPU Extensions, Better Syscall Emulation - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctc2h1dC1kb3duLWxpbnV4LXRlcm1pbmFsL9IBAA",
-          "author": null,
-          "description": "How to shut down Linux from the terminal  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctc2h1dC1kb3duLWxpbnV4LXRlcm1pbmFsL9IBAA?oc=5",
-          "publishedOn": "2023-12-16T10:01:00.000Z",
-          "wordCount": 5045,
-          "title": "How to shut down Linux from the terminal - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS92aXZhbGRpLTYtNS1yZWxlYXNlL9IBAA",
-          "author": null,
-          "description": "Vivaldi 6.5 Releases With Future-Ready Features  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS92aXZhbGRpLTYtNS1yZWxlYXNlL9IBAA?oc=5",
-          "publishedOn": "2023-12-16T08:09:27.000Z",
-          "wordCount": 5045,
-          "title": "Vivaldi 6.5 Releases With Future-Ready Features - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGRhdGFiYWNrdXAvdHV0b3JpYWwvVHV0b3JpYWwtVXNlLUxpbnV4LWNwaW8tdG8tYmFjay11cC1hbmQtcmVzdG9yZS1maWxlc9IBAA",
-          "author": null,
-          "description": "Tutorial: Use Linux cpio to back up and restore files  TechTarget",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaGRhdGFiYWNrdXAvdHV0b3JpYWwvVHV0b3JpYWwtVXNlLUxpbnV4LWNwaW8tdG8tYmFjay11cC1hbmQtcmVzdG9yZS1maWxlc9IBAA?oc=5",
-          "publishedOn": "2023-12-16T00:44:46.000Z",
-          "wordCount": 5045,
-          "title": "Tutorial: Use Linux cpio to back up and restore files - TechTarget",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLVN1Ym1pc3Npb24tTGludXgtNi440gEA",
-          "author": null,
-          "description": "Intel's New \"Xe\" Kernel Graphics Driver Submitted Ahead Of Linux 6.8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLVhlLVN1Ym1pc3Npb24tTGludXgtNi440gEA?oc=5",
-          "publishedOn": "2023-12-16T00:21:00.000Z",
-          "wordCount": 5045,
-          "title": "Intel's New \"Xe\" Kernel Graphics Driver Submitted Ahead Of Linux 6.8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vbGludXhpYWMuY29tL3BvcF9vcy0yMi0wNC13ZWxjb21lcy1waXBld2lyZS0xLTAtMC_SAQA",
-          "author": null,
-          "description": "Pop!_OS 22.04 Welcomes PipeWire 1.0.0, COSMIC Desktop Evolves  Linuxiac",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbGludXhpYWMuY29tL3BvcF9vcy0yMi0wNC13ZWxjb21lcy1waXBld2lyZS0xLTAtMC_SAQA?oc=5",
-          "publishedOn": "2023-12-15T23:07:23.000Z",
-          "wordCount": 5045,
-          "title": "Pop!_OS 22.04 Welcomes PipeWire 1.0.0, COSMIC Desktop Evolves - Linuxiac",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTIvMTUvbWFuamFyby0yMy0xLTAtdnVsY2FuLXNlY3VyaXR5LWZlYXR1cmUtdXBkYXRlcy1saW51eC_SAQA",
-          "author": null,
-          "description": "Manjaro Linux 23.1.0 'Vulcan' now available to download — choose from GNOME, Plasma, and XFCE editions  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjMvMTIvMTUvbWFuamFyby0yMy0xLTAtdnVsY2FuLXNlY3VyaXR5LWZlYXR1cmUtdXBkYXRlcy1saW51eC_SAQA?oc=5",
-          "publishedOn": "2023-12-15T22:14:31.000Z",
-          "wordCount": 5045,
-          "title": "Manjaro Linux 23.1.0 'Vulcan' now available to download — choose from GNOME, Plasma, and XFCE editions - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1ST0NtLTYuMC1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "AMD ROCm 6.0 Now Available To Download With MI300 Support, PyTorch FP8 & More AI  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNRC1ST0NtLTYuMC1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2023-12-15T20:55:00.000Z",
-          "wordCount": 5045,
-          "title": "AMD ROCm 6.0 Now Available To Download With MI300 Support, PyTorch FP8 & More AI - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9tYW5qYXJvLTIzLTEtdnVsY2FuLWlzLWF2YWlsYWJsZS1mb3ItZG93bmxvYWQtd2l0aC1nbm9tZS00NS1saW51eC02LTYtbHRz0gFjaHR0cHM6Ly85dG81bGludXguY29tL21hbmphcm8tMjMtMS12dWxjYW4taXMtYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWdub21lLTQ1LWxpbnV4LTYtNi1sdHMvYW1w",
-          "author": null,
-          "description": "Manjaro 23.1 “Vulcan” Is Available for Download with GNOME 45, Linux 6.6 LTS  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vOXRvNWxpbnV4LmNvbS9tYW5qYXJvLTIzLTEtdnVsY2FuLWlzLWF2YWlsYWJsZS1mb3ItZG93bmxvYWQtd2l0aC1nbm9tZS00NS1saW51eC02LTYtbHRz0gFjaHR0cHM6Ly85dG81bGludXguY29tL21hbmphcm8tMjMtMS12dWxjYW4taXMtYXZhaWxhYmxlLWZvci1kb3dubG9hZC13aXRoLWdub21lLTQ1LWxpbnV4LTYtNi1sdHMvYW1w?oc=5",
-          "publishedOn": "2023-12-15T20:39:56.000Z",
-          "wordCount": 5045,
-          "title": "Manjaro 23.1 “Vulcan” Is Available for Download with GNOME 45, Linux 6.6 LTS - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC03LW9wdGltaXplcy1zaGVsbC1hcHBsaWNhdGlvbi1zZWFyY2gtYW5kLWltcHJvdmVzLXBlcmZvcm1hbmNl0gFgaHR0cHM6Ly85dG81bGludXguY29tL2dub21lLTQ0LTctb3B0aW1pemVzLXNoZWxsLWFwcGxpY2F0aW9uLXNlYXJjaC1hbmQtaW1wcm92ZXMtcGVyZm9ybWFuY2UvYW1w",
-          "author": null,
-          "description": "GNOME 44.7 Optimizes Shell Application Search and Improves Performance  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbm9tZS00NC03LW9wdGltaXplcy1zaGVsbC1hcHBsaWNhdGlvbi1zZWFyY2gtYW5kLWltcHJvdmVzLXBlcmZvcm1hbmNl0gFgaHR0cHM6Ly85dG81bGludXguY29tL2dub21lLTQ0LTctb3B0aW1pemVzLXNoZWxsLWFwcGxpY2F0aW9uLXNlYXJjaC1hbmQtaW1wcm92ZXMtcGVyZm9ybWFuY2UvYW1w?oc=5",
-          "publishedOn": "2023-12-15T18:21:01.000Z",
-          "wordCount": 5045,
-          "title": "GNOME 44.7 Optimizes Shell Application Search and Improves Performance - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jbG91ZC1zZWN1cml0eS9ua2FidXNlLW1hbHdhcmUtYmxvY2tjaGFpbi1oaWRlLWxpbnV4LWlvdNIBAA",
-          "author": null,
-          "description": "Complex 'NKAbuse' Malware Uses Blockchain to Hide on Linux, IoT Machines - Complex 'NKAbuse' Malware Uses ...  Dark Reading",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmRhcmtyZWFkaW5nLmNvbS9jbG91ZC1zZWN1cml0eS9ua2FidXNlLW1hbHdhcmUtYmxvY2tjaGFpbi1oaWRlLWxpbnV4LWlvdNIBAA?oc=5",
-          "publishedOn": "2023-12-15T18:20:58.000Z",
-          "wordCount": 5045,
-          "title": "Complex 'NKAbuse' Malware Uses Blockchain to Hide on Linux, IoT Machines - Complex 'NKAbuse' Malware Uses ... - Dark Reading",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2Jlc3QtbGludXgtbGFwdG9wL9IBAA",
-          "author": null,
-          "description": "The best Linux laptops of 2023  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2Jlc3QtbGludXgtbGFwdG9wL9IBAA?oc=5",
-          "publishedOn": "2023-12-15T18:10:00.000Z",
-          "wordCount": 5045,
-          "title": "The best Linux laptops of 2023 - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LnNpbHZlcmxpbmluZ3NpbmZvLmNvbS9uZXdzd2lyZS9vbmYtbWVyZ2VzLW5ldHdvcmtpbmctcHJvamVjdHMtcG9ydGZvbGlvLWxpbnV4LWZvdW5kYXRpb27SAQA",
-          "author": null,
-          "description": "ONF merges networking projects portfolio into Linux Foundation  Silverlinings",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnNpbHZlcmxpbmluZ3NpbmZvLmNvbS9uZXdzd2lyZS9vbmYtbWVyZ2VzLW5ldHdvcmtpbmctcHJvamVjdHMtcG9ydGZvbGlvLWxpbnV4LWZvdW5kYXRpb27SAQA?oc=5",
-          "publishedOn": "2023-12-15T17:41:07.000Z",
-          "wordCount": 5045,
-          "title": "ONF merges networking projects portfolio into Linux Foundation - Silverlinings",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilQFodHRwczovL2Jsb2cuYWRhZnJ1aXQuY29tLzIwMjMvMTIvMTUvbWFraW5nLWEtbWluaS1jb21wdXRlci1mcm9tLXNjcmF0Y2gtd2l0aC1yYXNwYmVycnktcGktYW5kLWxpbnV4LXBpZGF5LXJhc3BiZXJyeXBpLWxpbnV4LXBvcG92aWN1OTQtcmFzcGJlcnJ5X3BpL9IBAA",
-          "author": null,
-          "description": "Making a mini computer from scratch with Raspberry Pi and Linux #PiDay #RaspberryPi #Linux @popovicu94 ...  Adafruit Blog",
-          "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2Jsb2cuYWRhZnJ1aXQuY29tLzIwMjMvMTIvMTUvbWFraW5nLWEtbWluaS1jb21wdXRlci1mcm9tLXNjcmF0Y2gtd2l0aC1yYXNwYmVycnktcGktYW5kLWxpbnV4LXBpZGF5LXJhc3BiZXJyeXBpLWxpbnV4LXBvcG92aWN1OTQtcmFzcGJlcnJ5X3BpL9IBAA?oc=5",
-          "publishedOn": "2023-12-15T14:30:52.000Z",
-          "wordCount": 5045,
-          "title": "Making a mini computer from scratch with Raspberry Pi and Linux #PiDay #RaspberryPi #Linux @popovicu94 ... - Adafruit Blog",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiSmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE1L25rYWJ1c2VfYmxvY2tjaGFpbl9iYWNrZG9vcl9ib3RuZXQv0gFOaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE1L25rYWJ1c2VfYmxvY2tjaGFpbl9iYWNrZG9vcl9ib3RuZXQv",
-          "author": null,
-          "description": "NKabuse backdoor harnesses blockchain brawn to hit several architectures  The Register",
-          "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDIzLzEyLzE1L25rYWJ1c2VfYmxvY2tjaGFpbl9iYWNrZG9vcl9ib3RuZXQv0gFOaHR0cHM6Ly93d3cudGhlcmVnaXN0ZXIuY29tL0FNUC8yMDIzLzEyLzE1L25rYWJ1c2VfYmxvY2tjaGFpbl9iYWNrZG9vcl9ib3RuZXQv?oc=5",
-          "publishedOn": "2023-12-15T14:28:00.000Z",
-          "wordCount": 5045,
-          "title": "NKabuse backdoor harnesses blockchain brawn to hit several architectures - The Register",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZyYW1ld29yay0xMy1BTUQtTGlkLVN1c3BlbmTSAQA",
-          "author": null,
-          "description": "Framework 13 AMD Workaround Prepared For Linux To Deal With A Suspend Issue  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ZyYW1ld29yay0xMy1BTUQtTGlkLVN1c3BlbmTSAQA?oc=5",
-          "publishedOn": "2023-12-15T13:44:00.000Z",
-          "wordCount": 5045,
-          "title": "Framework 13 AMD Workaround Prepared For Linux To Deal With A Suspend Issue - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8211,36 +8321,6 @@
           "wordCount": 3451,
           "title": "Web Accessibility Best Practices – How to Ensure Everyone Can Use Your Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/accessibility-2-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/variables-in-figma-handbook/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "At Figma Config 2023, the Figma team unveiled a lot of new features – including variables. The launch of variables in Figma offers designers a new approach that helps them make their designs more flexible and adaptable.  In this tutorial, you'll learn what variables in Figma are, and how",
-          "link": "https://www.freecodecamp.org/news/variables-in-figma-handbook/",
-          "publishedOn": "2023-12-15T22:11:10.000Z",
-          "wordCount": 6817,
-          "title": "How to Use Variables in Figma – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Use-Variables-in-Figma-cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/",
-          "author": "Quincy Larson",
-          "description": "Today I'm joined by Kylie Ying. She's a software engineer and a teacher at freeCodeCamp. We talk about Kylie's 5 years at MIT, her time at CERN working on the Large Hadron Collider, competitive figure skating, and even poker-playing AIs. Tell your friends about the freeCodeCamp podcast. Let's inspire more",
-          "link": "https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/",
-          "publishedOn": "2023-12-15T17:40:57.000Z",
-          "wordCount": 789,
-          "title": "Podcast: Kylie Ying on MIT, CERN, Figure Skating, and Poker AI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Cursor_and_Kylie_Ying_jpeg-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-async-await/",
-          "author": "Nathan Sebhastian",
-          "description": "Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to",
-          "link": "https://www.freecodecamp.org/news/javascript-async-await/",
-          "publishedOn": "2023-12-15T15:33:00.000Z",
-          "wordCount": 1692,
-          "title": "How to Use Async/Await in JavaScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-async-await.png"
         }
       ]
     }
