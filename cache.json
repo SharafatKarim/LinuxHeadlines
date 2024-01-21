@@ -12,6 +12,176 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=409931",
+          "author": "Omar Farooq",
+          "description": "Guide on how to utilize the “set find()” function in C++ codes and its examples to return an iterator to the element that is searched within the set container.",
+          "link": "https://linuxhint.com/cpp-set-find-examples/",
+          "publishedOn": "2024-01-18T20:31:14.000Z",
+          "wordCount": 5870,
+          "title": "Set Find() Function Examples in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409923",
+          "author": "Kalsoom Bibi",
+          "description": "Comprehensive tutorial on the methods to easily read the file data line by line in the C++ programming language by just following their syntax and structure.",
+          "link": "https://linuxhint.com/cpp-read-file-data-line-by-line/",
+          "publishedOn": "2024-01-18T20:20:14.000Z",
+          "wordCount": 5554,
+          "title": "C++ Read File Data Line by Line",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409916",
+          "author": "Kalsoom Bibi",
+          "description": "Comprehensive guide on the reading operation of binary files using a stream-based library and the methods to read a binary in C++ to handle the file processing.",
+          "link": "https://linuxhint.com/read-binary-files-cpp/",
+          "publishedOn": "2024-01-18T20:05:44.000Z",
+          "wordCount": 5621,
+          "title": "How to Read Binary Files in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409892",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on parameter packs by exploring their syntax, usage, and the ways to create them to handle or manipulate many variable numbers of template arguments.",
+          "link": "https://linuxhint.com/cpp-parameter-packs/",
+          "publishedOn": "2024-01-18T19:41:47.000Z",
+          "wordCount": 5667,
+          "title": "C++ Parameter Packs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409883",
+          "author": "Kalsoom Bibi",
+          "description": "Practical guide on the different approaches to iterate through arrays using the traditional loops, modern range-based loops, or the standard library algorithms.",
+          "link": "https://linuxhint.com/cpp-iterate-through-array/",
+          "publishedOn": "2024-01-18T19:11:03.000Z",
+          "wordCount": 5633,
+          "title": "C++ Iterate through Array",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409874",
+          "author": "Kalsoom Bibi",
+          "description": "Simple guide on the significance of input validation in C++, the methods to achieve it, and the best practices to enhance the overall integrity of user inputs.",
+          "link": "https://linuxhint.com/cpp-input-validation/",
+          "publishedOn": "2024-01-18T11:03:51.000Z",
+          "wordCount": 5927,
+          "title": "C++ Input Validation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409864",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on the process of converting the hexadecimal strings to integers in the C++ programming using the stoi(), stoul(), and sscanf() functions.",
+          "link": "https://linuxhint.com/cpp-hex-string-int/",
+          "publishedOn": "2024-01-18T10:53:27.000Z",
+          "wordCount": 5772,
+          "title": "C++ Hex String to Int",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409859",
+          "author": "John Otieno",
+          "description": "Practical guide on ZSH autoload to dynamically load the functions and scripts when needed and how to utilize the features such as autoload configuration, etc.",
+          "link": "https://linuxhint.com/zsh-autoload/",
+          "publishedOn": "2024-01-17T04:27:15.000Z",
+          "wordCount": 5337,
+          "title": "ZSH Autoload: A Guide to Dynamic Loading in ZSH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409855",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on creating the custom key binding in ZSH using the “bindkey” command from the basic to extensive features such as argument parsing, etc.",
+          "link": "https://linuxhint.com/custom-key-bindings-zsh/",
+          "publishedOn": "2024-01-17T04:19:30.000Z",
+          "wordCount": 5599,
+          "title": "Custom Key Bindings in ZSH: A Comprehensive Guide to ZSH Bindkey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=408581",
+          "author": "John Otieno",
+          "description": "Practical tutorial on the methods and features of time formatting using the Go language to format the time strings and the date strings into specific layouts.",
+          "link": "https://linuxhint.com/time-formatting-go/",
+          "publishedOn": "2024-01-17T04:09:42.000Z",
+          "wordCount": 5058,
+          "title": "Time Formatting in Go (Time to String)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409181",
+          "author": "John Otieno",
+          "description": "Practical tutorial on the methods and techniques on how we can read a file line by line in Go using the “bufio” package, the Scanner type, and the NewReader.",
+          "link": "https://linuxhint.com/reading-files-go/",
+          "publishedOn": "2024-01-17T04:07:43.000Z",
+          "wordCount": 5752,
+          "title": "Reading Files in Go (Read File Line by Line)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409850",
+          "author": "John Otieno",
+          "description": "Practical guide on setting up the custom errors in Go, the error interface, the Error() method, how to implement it, and how to create the custom error types.",
+          "link": "https://linuxhint.com/custom-errors-golang/",
+          "publishedOn": "2024-01-17T04:05:52.000Z",
+          "wordCount": 5294,
+          "title": "Custom Errors in Go (Custom Error)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409846",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on how to perform the circular buffers in C++, how to create and delete them from the circular queue, and how to display the elements of the circular.",
+          "link": "https://linuxhint.com/circular-buffer-examples-cpp/",
+          "publishedOn": "2024-01-17T03:51:29.000Z",
+          "wordCount": 6022,
+          "title": "Circular Buffer Examples in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409843",
+          "author": "John Otieno",
+          "description": "Tutorial on the workings of structs in Go and the various methods and techniques that we can use to check whether a struct is empty or not along with examples.",
+          "link": "https://linuxhint.com/checking-empty-structs-golang/",
+          "publishedOn": "2024-01-17T03:25:05.000Z",
+          "wordCount": 5213,
+          "title": "Checking Empty Structs in Go (Check If Struct Is Empty)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409836",
+          "author": "Omar Farooq",
+          "description": "Guide on the concept of “string contains the substring” in C++ using the find() and strstr() functions to check whether the string contains the substring in it.",
+          "link": "https://linuxhint.com/cpp-string-contains-substring/",
+          "publishedOn": "2024-01-17T03:18:48.000Z",
+          "wordCount": 5792,
+          "title": "C++ String Contains a Substring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409830",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on static global variables in C++ to manage the state across functions and files, their characteristics, use cases, and potential challenges.",
+          "link": "https://linuxhint.com/static-global-variables-cpp/",
+          "publishedOn": "2024-01-17T03:10:38.000Z",
+          "wordCount": 5723,
+          "title": "Static Global Variables in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409823",
+          "author": "Omar Farooq",
+          "description": "Practical tutorial on how to sort and display the vector of pairs in both ascending and descending orders in C++ by utilizing the “sort()” method with examples.",
+          "link": "https://linuxhint.com/cpp-sort-vector-of-pairs/",
+          "publishedOn": "2024-01-17T03:03:47.000Z",
+          "wordCount": 5943,
+          "title": "C++ Sort Vector of Pairs",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=406245",
           "author": "Kevin Reursora",
           "description": "Tutorial on how to take screenshots in Ubuntu using the keyboard shortcuts, built-in screenshot tool, terminal, Gnome Screenshot tool, or third-party tools.",
@@ -19,6 +189,66 @@
           "publishedOn": "2024-01-16T22:38:19.000Z",
           "wordCount": 5731,
           "title": "How to Take Screenshots in Ubuntu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409810",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on how to define the constant arrays in the Go programming language to store a collection of values that cannot be changed in a single unit.",
+          "link": "https://linuxhint.com/golang-constant-arrays/",
+          "publishedOn": "2024-01-16T19:48:34.000Z",
+          "wordCount": 4893,
+          "title": "Golang’s Constant Arrays (Const Array)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409807",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on the various methods and techniques that we can employ to determine the data type of a given variable in the Golang programming language.",
+          "link": "https://linuxhint.com/golang-determining-variable-types/",
+          "publishedOn": "2024-01-16T19:38:22.000Z",
+          "wordCount": 5374,
+          "title": "Determining a Variable Types in Golang (Get the Type of Variable)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409802",
+          "author": "John Otieno",
+          "description": "Tutorial on how to use and work with datetime in Go without using the external packages by taking advantage of the “time” package and the provided methods.",
+          "link": "https://linuxhint.com/golang-date-time/",
+          "publishedOn": "2024-01-16T19:32:56.000Z",
+          "wordCount": 4916,
+          "title": "Golang Date and Time (Datetime)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409798",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on the workings of the omitempty attribute or tag and how it can help us in serializing and deserializing the JSON data in the Go language.",
+          "link": "https://linuxhint.com/go-json-omitempty-usage/",
+          "publishedOn": "2024-01-16T19:30:19.000Z",
+          "wordCount": 5164,
+          "title": "Go JSON Omitempty Usage (JSON Omitempty)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409795",
+          "author": "John Otieno",
+          "description": "Comprehensive guide on the fundamentals of working with functions as parameters in Go to set up a good foundation for good and modular code along with examples.",
+          "link": "https://linuxhint.com/functions-as-parameters-go/",
+          "publishedOn": "2024-01-16T15:56:17.000Z",
+          "wordCount": 4893,
+          "title": "Functions as Parameters in Go (Function as Parameter)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=409132",
+          "author": "Aaliyan Javaid",
+          "description": "The ability to deliver energy relatively quickly is the distinction between a capacitor and a rechargeable battery to use it in a defibrillator.",
+          "link": "https://linuxhint.com/capacitor-in-defibrillator/",
+          "publishedOn": "2024-01-16T14:57:33.000Z",
+          "wordCount": 5184,
+          "title": "Why is a Capacitor used in a Defibrillator",
           "imageUrl": null
         },
         {
@@ -838,6 +1068,16 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187474",
+          "author": "Web Webster",
+          "description": "In this guide, you will find the steps to install FreeTube on Manjaro Linux utilizing the command-line terminal and utilizing the AUR.\nThe post Guide to Installing FreeTube on Manjaro Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/guide-to-install-freetube-on-manjaro-linux/",
+          "publishedOn": "2024-01-20T03:00:38.000Z",
+          "wordCount": 16958,
+          "title": "Guide to Installing FreeTube on Manjaro Linux",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=187622",
           "author": "Web Webster",
@@ -1867,86 +2107,6 @@
           "wordCount": 16960,
           "title": "How to Change a Password in Linux",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187195",
-          "author": "Web Webster",
-          "description": "This is a step-by-step tutorial for those who would like to try or use LibreOffice, which is a great Microsoft Office-compatible tool for writing text, creating spreadsheets, making presentations, managing databases, and more.\nThe post How to Install LibreOffice on Ubuntu appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-libreoffice-on-ubuntu/",
-          "publishedOn": "2023-12-22T03:00:41.000Z",
-          "wordCount": 16966,
-          "title": "How to Install LibreOffice on Ubuntu",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187280",
-          "author": "Web Webster",
-          "description": "Every year, GUADEC gathers GNOME users and developers from all over the world to share knowledge and discuss the new features and changes of the next major release of the GNOME desktop environment. GUADEC 2024 will take place in Denver, Colorado, from July 19th until July 24th, and it’s for the upcoming GNOME 46 series, […]\nThe post GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/guadec-2024-conference-will-be-held-in-denver-for-the-gnome-46-desktop/",
-          "publishedOn": "2023-12-22T01:00:46.000Z",
-          "wordCount": 16993,
-          "title": "GUADEC 2024 Conference Will Be Held in Denver for the GNOME 46 Desktop",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187206",
-          "author": "Web Webster",
-          "description": "According to GitHut data, Python is the most popular language on GitHub for 2023, highlighting its global impact on coding. Here’s more on that!\nThe post Python Dominates: GitHub’s Top Programming Languages of 2023 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/python-dominates-githubs-top-programming-languages-of-2023/",
-          "publishedOn": "2023-12-21T23:00:55.000Z",
-          "wordCount": 17042,
-          "title": "Python Dominates: GitHub’s Top Programming Languages of 2023",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187204",
-          "author": "Web Webster",
-          "description": "Learn about MemoryCache, an innovation from Firefox that comes as a browser add-on that integrates a conversational AI assistant.\nThe post Mozilla Planning for MemoryCache Local AI Bot in Firefox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/mozilla-planning-for-memorycache-local-ai-bot-in-firefox/",
-          "publishedOn": "2023-12-21T21:00:44.000Z",
-          "wordCount": 16962,
-          "title": "Mozilla Planning for MemoryCache Local AI Bot in Firefox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187189",
-          "author": "Web Webster",
-          "description": "In this tutorial, learn two ways to install Python 3.12 on Linux Mint 21 using the deadsnakes PPA or by downloading and installing from the Python source.\nThe post How to Install Python 3.12 on Linux Mint 21 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-install-python-3-12-on-linux-mint-21/",
-          "publishedOn": "2023-12-21T19:00:56.000Z",
-          "wordCount": 16966,
-          "title": "How to Install Python 3.12 on Linux Mint 21",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187273",
-          "author": "Web Webster",
-          "description": "Pure-FTPd is a free (BSD-license), secure, production-quality and standard-conformant FTP server. This guide provides a step-by-step process for installing and configuring Pure-FTPd on Ubuntu.\nThe post Installing Pure-FTPd on Ubuntu 22.04 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/installing-pure-ftpd-on-ubuntu-22-04/",
-          "publishedOn": "2023-12-21T18:00:01.000Z",
-          "wordCount": 16934,
-          "title": "Installing Pure-FTPd on Ubuntu 22.04",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187281",
-          "author": "Web Webster",
-          "description": "Discover new features in Rhino Linux 2023.4, like Unicorn Desktop’s new auto-tiling and improved package management.\nThe post Rhino Linux’s 2023.4 Sets the Stage for a Transformative 2024 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/rhino-linuxs-2023-4-sets-the-stage-for-a-transformative-2024/",
-          "publishedOn": "2023-12-21T16:00:35.000Z",
-          "wordCount": 16941,
-          "title": "Rhino Linux’s 2023.4 Sets the Stage for a Transformative 2024",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187279",
-          "author": "Web Webster",
-          "description": "Experience the revamped Zorin OS 17 with Universal Search, Spatial Desktop, and smoother multitasking for a powerful desktop experience. Here’s more on that!\nThe post Zorin OS 17 Emerges as a Pinnacle of Desktop Beauty appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/zorin-os-17-emerges-as-a-pinnacle-of-desktop-beauty/",
-          "publishedOn": "2023-12-21T15:00:11.000Z",
-          "wordCount": 16955,
-          "title": "Zorin OS 17 Emerges as a Pinnacle of Desktop Beauty",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1955,6 +2115,86 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiVWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2VjdXJlLXJlbW90ZS1saW51eC1zZXJ2ZXItbG9naW5zLXdpdGgtc3NoLWtleS1hdXRoZW50aWNhdGlvbi_SAQA",
+          "author": null,
+          "description": "Secure Remote Linux Server Logins with SSH Key Authentication  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhlbmV3c3RhY2suaW8vc2VjdXJlLXJlbW90ZS1saW51eC1zZXJ2ZXItbG9naW5zLXdpdGgtc3NoLWtleS1hdXRoZW50aWNhdGlvbi_SAQA?oc=5",
+          "publishedOn": "2024-01-20T14:07:12.000Z",
+          "wordCount": 5014,
+          "title": "Secure Remote Linux Server Logins with SSH Key Authentication - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NlcnBlbnQtT1MtSmFudWFyeS0yMDI00gEA",
+          "author": null,
+          "description": "Serpent OS To Require x86_64-v2 CPUs While Offering x86_64-v3 Packages Too  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NlcnBlbnQtT1MtSmFudWFyeS0yMDI00gEA?oc=5",
+          "publishedOn": "2024-01-20T14:06:00.000Z",
+          "wordCount": 5014,
+          "title": "Serpent OS To Require x86_64-v2 CPUs While Offering x86_64-v3 Packages Too - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGludXgtZGlzay1zcGFjZS1sb2ctZmlsZXMv0gEA",
+          "author": null,
+          "description": "Running Out of Disk Space on Linux? Check Your Logs!  MUO - MakeUseOf",
+          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGludXgtZGlzay1zcGFjZS1sb2ctZmlsZXMv0gEA?oc=5",
+          "publishedOn": "2024-01-20T13:00:00.000Z",
+          "wordCount": 5014,
+          "title": "Running Out of Disk Space on Linux? Check Your Logs! - MUO - MakeUseOf",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1MaW51eC02LjjSAQA",
+          "author": null,
+          "description": "LoongArch Lands Initial Rust Kernel Support For Linux 6.8  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1MaW51eC02LjjSAQA?oc=5",
+          "publishedOn": "2024-01-20T11:43:00.000Z",
+          "wordCount": 5014,
+          "title": "LoongArch Lands Initial Rust Kernel Support For Linux 6.8 - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzEtVG9tb3Jyb3fSAQA",
+          "author": null,
+          "description": "Linux 6.8-rc1 Should Release On Schedule Tomorrow  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzEtVG9tb3Jyb3fSAQA?oc=5",
+          "publishedOn": "2024-01-20T11:05:00.000Z",
+          "wordCount": 5014,
+          "title": "Linux 6.8-rc1 Should Release On Schedule Tomorrow - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0yLjMwLVJDMS1SZWxlYXNlZNIBAA",
+          "author": null,
+          "description": "SDL 2.30 Release Candidate Brings Many Fixes, New Additions For The Steam API  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0yLjMwLVJDMS1SZWxlYXNlZNIBAA?oc=5",
+          "publishedOn": "2024-01-20T10:51:00.000Z",
+          "wordCount": 5014,
+          "title": "SDL 2.30 Release Candidate Brings Many Fixes, New Additions For The Steam API - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDEvMjAvbmV3LXRvb2wtbGV0cy15b3UtY3Jhc2gtZnJvbS13aW5kb3dzLWludG8tbGludXgtdmlhLWEtYmx1ZS1zY3JlZW4tb2YtZGVhdGgv0gEA",
+          "author": null,
+          "description": "New tool lets you crash from Windows into Linux via a Blue Screen of Death  BetaNews",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDEvMjAvbmV3LXRvb2wtbGV0cy15b3UtY3Jhc2gtZnJvbS13aW5kb3dzLWludG8tbGludXgtdmlhLWEtYmx1ZS1zY3JlZW4tb2YtZGVhdGgv0gEA?oc=5",
+          "publishedOn": "2024-01-20T10:13:46.000Z",
+          "wordCount": 5014,
+          "title": "New tool lets you crash from Windows into Linux via a Blue Screen of Death - BetaNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0h1YXdlaS1jbGFpbXMtSGFybW9ueU9TLU5FWFQta2VybmVsLWlzLTN4LW1vcmUtZWZmaWNpZW50LXRoYW4tTGludXguNzk1MTI1LjAuaHRtbNIBAA",
+          "author": null,
+          "description": "Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux  Notebookcheck.net",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0h1YXdlaS1jbGFpbXMtSGFybW9ueU9TLU5FWFQta2VybmVsLWlzLTN4LW1vcmUtZWZmaWNpZW50LXRoYW4tTGludXguNzk1MTI1LjAuaHRtbNIBAA?oc=5",
+          "publishedOn": "2024-01-20T07:10:44.000Z",
+          "wordCount": 5014,
+          "title": "Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux - Notebookcheck.net",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ktcmV2aXZlZC10aHJlZS1hbmNpZW50LWNvbXB1dGVycy13aXRoLWNocm9tZW9zLWZsZXgtYW5kLXlvdS1jYW4tdG9vL9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaS1yZXZpdmVkLXRocmVlLWFuY2llbnQtY29tcHV0ZXJzLXdpdGgtY2hyb21lb3MtZmxleC1hbmQteW91LWNhbi10b28v",
           "author": null,
@@ -2363,6 +2603,16 @@
           "publishedOn": "2024-01-17T11:28:22.000Z",
           "wordCount": 5014,
           "title": "Wine 9.0 Release Adds Experimental Wayland Driver - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LmRleGVydG8uY29tL3RlY2gvaG93LXRvLXNldC1hLXN1ZG8tMjAzMTE4My_SAQA",
+          "author": null,
+          "description": "How to set a Sudo administrator password on Steam Deck  Dexerto",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmRleGVydG8uY29tL3RlY2gvaG93LXRvLXNldC1hLXN1ZG8tMjAzMTE4My_SAQA?oc=5",
+          "publishedOn": "2024-01-17T08:00:00.000Z",
+          "wordCount": 5014,
+          "title": "How to set a Sudo administrator password on Steam Deck - Dexerto",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6164,206 +6414,6 @@
           "wordCount": 5036,
           "title": "Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tY29udHJvbC1jZW50ZXItMi0xLXJlbGVhc2VkLXdpdGgtZXhjaXRpbmctbmV3LWZ1bmN0aW9uc9IBWGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tY29udHJvbC1jZW50ZXItMi0xLXJlbGVhc2VkLXdpdGgtZXhjaXRpbmctbmV3LWZ1bmN0aW9ucy9hbXA",
-          "author": null,
-          "description": "TUXEDO Control Center 2.1 Released with Exciting New Functions  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tY29udHJvbC1jZW50ZXItMi0xLXJlbGVhc2VkLXdpdGgtZXhjaXRpbmctbmV3LWZ1bmN0aW9uc9IBWGh0dHBzOi8vOXRvNWxpbnV4LmNvbS90dXhlZG8tY29udHJvbC1jZW50ZXItMi0xLXJlbGVhc2VkLXdpdGgtZXhjaXRpbmctbmV3LWZ1bmN0aW9ucy9hbXA?oc=5",
-          "publishedOn": "2023-12-22T12:21:07.000Z",
-          "wordCount": 5036,
-          "title": "TUXEDO Control Center 2.1 Released with Exciting New Functions - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiV2h0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjMvMTIvd2Vla2x5LWJsb2ctd3JhcC11cC1kZWNlbWJlci0xOC1kZWNlbWJlci0yMS0yMDIzL9IBW2h0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjMvMTIvd2Vla2x5LWJsb2ctd3JhcC11cC1kZWNlbWJlci0xOC1kZWNlbWJlci0yMS0yMDIzL2FtcC8",
-          "author": null,
-          "description": "Weekly Blog Wrap-Up (December 18- December 21 , 2023)  Security Boulevard",
-          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjMvMTIvd2Vla2x5LWJsb2ctd3JhcC11cC1kZWNlbWJlci0xOC1kZWNlbWJlci0yMS0yMDIzL9IBW2h0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjMvMTIvd2Vla2x5LWJsb2ctd3JhcC11cC1kZWNlbWJlci0xOC1kZWNlbWJlci0yMS0yMDIzL2FtcC8?oc=5",
-          "publishedOn": "2023-12-22T11:34:28.000Z",
-          "wordCount": 5036,
-          "title": "Weekly Blog Wrap-Up (December 18- December 21 , 2023) - Security Boulevard",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTUm9jay1BSS1RdWlja1NldC1MaW51eNIBAA",
-          "author": null,
-          "description": "ASRock Launches AI QuickSet Software For Linux  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FTUm9jay1BSS1RdWlja1NldC1MaW51eNIBAA?oc=5",
-          "publishedOn": "2023-12-22T11:30:00.000Z",
-          "wordCount": 5036,
-          "title": "ASRock Launches AI QuickSet Software For Linux - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RVWEVETy1Db250cm9sLUNlbnRlci0yLjHSAQA",
-          "author": null,
-          "description": "TUXEDO Computers Updates Its Linux Control Center Software  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1RVWEVETy1Db250cm9sLUNlbnRlci0yLjHSAQA?oc=5",
-          "publishedOn": "2023-12-22T11:18:00.000Z",
-          "wordCount": 5036,
-          "title": "TUXEDO Computers Updates Its Linux Control Center Software - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1lc2EtRml4ZXMtQmFsZHVycy1HYXRlLTPSAQA",
-          "author": null,
-          "description": "Intel Fixes Up Baldur's Gate 3 On Linux With Arc Graphics  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0ludGVsLU1lc2EtRml4ZXMtQmFsZHVycy1HYXRlLTPSAQA?oc=5",
-          "publishedOn": "2023-12-22T10:50:00.000Z",
-          "wordCount": 5036,
-          "title": "Intel Fixes Up Baldur's Gate 3 On Linux With Arc Graphics - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryby1mb3ItZGV2ZWxvcGVyc9IBAA",
-          "author": null,
-          "description": "Best Linux distro for developers of 2023  TechRadar",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYmVzdC9iZXN0LWxpbnV4LWRpc3Ryby1mb3ItZGV2ZWxvcGVyc9IBAA?oc=5",
-          "publishedOn": "2023-12-22T09:41:37.000Z",
-          "wordCount": 5036,
-          "title": "Best Linux distro for developers of 2023 - TechRadar",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1Jbi1KYW51YXJ50gEA",
-          "author": null,
-          "description": "Linux 6.7 Won't Be Out For New Year's Eve  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1Jbi1KYW51YXJ50gEA?oc=5",
-          "publishedOn": "2023-12-22T01:13:00.000Z",
-          "wordCount": 5036,
-          "title": "Linux 6.7 Won't Be Out For New Year's Eve - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1DaGVhcC1HYW0tQ29uc29sZXPSAQA",
-          "author": null,
-          "description": "Linux 6.8 To Add Support For Several Cheap ARM-Powered Handheld Game Consoles  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1DaGVhcC1HYW0tQ29uc29sZXPSAQA?oc=5",
-          "publishedOn": "2023-12-22T00:00:00.000Z",
-          "wordCount": 5036,
-          "title": "Linux 6.8 To Add Support For Several Cheap ARM-Powered Handheld Game Consoles - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWGh0dHBzOi8vd3d3LmJhbmtpbmZvc2VjdXJpdHkuY29tL29wZW4tc291cmNlLWxpbnV4LWRpc3RyaWJ1dGlvbi1mb3ItYmx1ZS10ZWFtaW5nLWEtMjM4NzXSAQA",
-          "author": null,
-          "description": "Open-Source Linux Distribution for Blue Teaming  BankInfoSecurity.com",
-          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmJhbmtpbmZvc2VjdXJpdHkuY29tL29wZW4tc291cmNlLWxpbnV4LWRpc3RyaWJ1dGlvbi1mb3ItYmx1ZS10ZWFtaW5nLWEtMjM4NzXSAQA?oc=5",
-          "publishedOn": "2023-12-21T21:53:53.000Z",
-          "wordCount": 5036,
-          "title": "Open-Source Linux Distribution for Blue Teaming - BankInfoSecurity.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilgFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9hbmFseXNpcy9saW51eC1mb3VuZGF0aW9uLWFuZC1tZXRhLWV4cGFuZC1vcGVuLXNvdXJjZS1jb25uZWN0aXZpdHktcHJvamVjdHMtZm9yLW5ldHdvcmstc2VydmljZS1wcm92aWRlcnMvMjAyMy8xMi_SAQA",
-          "author": null,
-          "description": "Linux Foundation and Meta expand open-source connectivity projects for network service providers  SDxCentral",
-          "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9hbmFseXNpcy9saW51eC1mb3VuZGF0aW9uLWFuZC1tZXRhLWV4cGFuZC1vcGVuLXNvdXJjZS1jb25uZWN0aXZpdHktcHJvamVjdHMtZm9yLW5ldHdvcmstc2VydmljZS1wcm92aWRlcnMvMjAyMy8xMi_SAQA?oc=5",
-          "publishedOn": "2023-12-21T19:09:36.000Z",
-          "wordCount": 5036,
-          "title": "Linux Foundation and Meta expand open-source connectivity projects for network service providers - SDxCentral",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kYXJrdGFibGUtNC02LW9wZW4tc291cmNlLXJhdy1pbWFnZS1lZGl0b3ItcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV30gFdaHR0cHM6Ly85dG81bGludXguY29tL2Rhcmt0YWJsZS00LTYtb3Blbi1zb3VyY2UtcmF3LWltYWdlLWVkaXRvci1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXcvYW1w",
-          "author": null,
-          "description": "Darktable 4.6 Open-Source RAW Image Editor Released, Here’s What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9kYXJrdGFibGUtNC02LW9wZW4tc291cmNlLXJhdy1pbWFnZS1lZGl0b3ItcmVsZWFzZWQtaGVyZXMtd2hhdHMtbmV30gFdaHR0cHM6Ly85dG81bGludXguY29tL2Rhcmt0YWJsZS00LTYtb3Blbi1zb3VyY2UtcmF3LWltYWdlLWVkaXRvci1yZWxlYXNlZC1oZXJlcy13aGF0cy1uZXcvYW1w?oc=5",
-          "publishedOn": "2023-12-21T18:53:10.000Z",
-          "wordCount": 5036,
-          "title": "Darktable 4.6 Open-Source RAW Image Editor Released, Here’s What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3LnlhaG9vLmNvbS90ZWNoL2ludGVsLWNvcmUtdWx0cmEtNy0xNTVoLTE3MzQyMDg0My5odG1s0gEA",
-          "author": null,
-          "description": "Intel Core Ultra 7 155H and AMD Ryzen 7 7840U have an iGPU-bound benchmarking rematch in Linux  Yahoo! Voices",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LnlhaG9vLmNvbS90ZWNoL2ludGVsLWNvcmUtdWx0cmEtNy0xNTVoLTE3MzQyMDg0My5odG1s0gEA?oc=5",
-          "publishedOn": "2023-12-21T17:34:20.000Z",
-          "wordCount": 5036,
-          "title": "Intel Core Ultra 7 155H and AMD Ryzen 7 7840U have an iGPU-bound benchmarking rematch in Linux - Yahoo! Voices",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvY3B1cy9pbnRlbC1jb3JlLXVsdHJhLTctMTU1aC1hbmQtYW1kLXJ5emVuLTctNzg0MHUtaGF2ZS1hbi1pZ3B1LWJvdW5kLWJlbmNobWFya2luZy1yZW1hdGNoLWluLWxpbnV40gEA",
-          "author": null,
-          "description": "Intel Core Ultra 7 155H and AMD Ryzen 7 7840U have an iGPU-bound benchmarking rematch in Linux  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3BjLWNvbXBvbmVudHMvY3B1cy9pbnRlbC1jb3JlLXVsdHJhLTctMTU1aC1hbmQtYW1kLXJ5emVuLTctNzg0MHUtaGF2ZS1hbi1pZ3B1LWJvdW5kLWJlbmNobWFya2luZy1yZW1hdGNoLWluLWxpbnV40gEA?oc=5",
-          "publishedOn": "2023-12-21T17:34:20.000Z",
-          "wordCount": 5036,
-          "title": "Intel Core Ultra 7 155H and AMD Ryzen 7 7840U have an iGPU-bound benchmarking rematch in Linux - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMi8yMi84ZGV2aWNlcy1ub25pLW0tMi13aWZpLTctbW9kdWxlLXJ1bnMtZmlybXV4LWVtYmVkZGVkLWxpbnV4LWRpc3RyaWJ1dGlvbi_SAXZodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMTIvMjIvOGRldmljZXMtbm9uaS1tLTItd2lmaS03LW1vZHVsZS1ydW5zLWZpcm11eC1lbWJlZGRlZC1saW51eC1kaXN0cmlidXRpb24vP2FtcD0x",
-          "author": null,
-          "description": "8Devices Noni M.2 WiFi 7 module runs FirmUx embedded Linux distribution  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyMy8xMi8yMi84ZGV2aWNlcy1ub25pLW0tMi13aWZpLTctbW9kdWxlLXJ1bnMtZmlybXV4LWVtYmVkZGVkLWxpbnV4LWRpc3RyaWJ1dGlvbi_SAXZodHRwczovL3d3dy5jbngtc29mdHdhcmUuY29tLzIwMjMvMTIvMjIvOGRldmljZXMtbm9uaS1tLTItd2lmaS03LW1vZHVsZS1ydW5zLWZpcm11eC1lbWJlZGRlZC1saW51eC1kaXN0cmlidXRpb24vP2FtcD0x?oc=5",
-          "publishedOn": "2023-12-21T17:01:08.000Z",
-          "wordCount": 5036,
-          "title": "8Devices Noni M.2 WiFi 7 module runs FirmUx embedded Linux distribution - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC10YXJnei11YnVudHUv0gEA",
-          "author": null,
-          "description": "How to extract and install a tar.gz file on Ubuntu  XDA Developers",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9ob3ctaW5zdGFsbC10YXJnei11YnVudHUv0gEA?oc=5",
-          "publishedOn": "2023-12-21T17:01:00.000Z",
-          "wordCount": 5036,
-          "title": "How to extract and install a tar.gz file on Ubuntu - XDA Developers",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiP2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vY2hhbmdlLXVidW50dS1sb2NrLXNjcmVlbi1iYWNrZ3JvdW5kL9IBAA",
-          "author": null,
-          "description": "How to Change the Background of Your Ubuntu Lock Screen  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vY2hhbmdlLXVidW50dS1sb2NrLXNjcmVlbi1iYWNrZ3JvdW5kL9IBAA?oc=5",
-          "publishedOn": "2023-12-21T17:00:00.000Z",
-          "wordCount": 5036,
-          "title": "How to Change the Background of Your Ubuntu Lock Screen - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZlZG9yYS1saW51eC1ub3ctcnVucy1vbi1hbGwtbS1wb3dlcmVkLW1hY3MtZXhjZXB0LW9uZS_SAWBodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2ZlZG9yYS1saW51eC1ub3ctcnVucy1vbi1hbGwtbS1wb3dlcmVkLW1hY3MtZXhjZXB0LW9uZS8",
-          "author": null,
-          "description": "Fedora Linux now runs on all M-powered Macs - except one  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ZlZG9yYS1saW51eC1ub3ctcnVucy1vbi1hbGwtbS1wb3dlcmVkLW1hY3MtZXhjZXB0LW9uZS_SAWBodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9hcnRpY2xlL2ZlZG9yYS1saW51eC1ub3ctcnVucy1vbi1hbGwtbS1wb3dlcmVkLW1hY3MtZXhjZXB0LW9uZS8?oc=5",
-          "publishedOn": "2023-12-21T16:34:00.000Z",
-          "wordCount": 5036,
-          "title": "Fedora Linux now runs on all M-powered Macs - except one - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtbWV0ZW9ybGFrZS13aW5kb3dzLWxpbnV40gEA",
-          "author": null,
-          "description": "Windows 11 vs. Ubuntu Linux Performance On The Intel Core Ultra 7 Meteor Lake Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvaW50ZWwtbWV0ZW9ybGFrZS13aW5kb3dzLWxpbnV40gEA?oc=5",
-          "publishedOn": "2023-12-21T14:52:35.000Z",
-          "wordCount": 5036,
-          "title": "Windows 11 vs. Ubuntu Linux Performance On The Intel Core Ultra 7 Meteor Lake Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIva2RlLXBsYXNtYS02MC1iZXRhLTItaXMtYXZhaWxhYmxlLWZvci10ZXN0aW5nL9IBAA",
-          "author": null,
-          "description": "KDE Plasma 6.0 Beta 2 is available for testing  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIva2RlLXBsYXNtYS02MC1iZXRhLTItaXMtYXZhaWxhYmxlLWZvci10ZXN0aW5nL9IBAA?oc=5",
-          "publishedOn": "2023-12-21T14:29:07.000Z",
-          "wordCount": 5036,
-          "title": "KDE Plasma 6.0 Beta 2 is available for testing - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvZmVkb3JhLWFzYWhpLXJlbWl4LTM5LWJyaW5ncy1saW51eC10by1hcHBsZS1zaWxpY29uLW1hY3Mv0gEA",
-          "author": null,
-          "description": "Fedora Asahi Remix 39 brings Linux to Apple Silicon Macs  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjMvMTIvZmVkb3JhLWFzYWhpLXJlbWl4LTM5LWJyaW5ncy1saW51eC10by1hcHBsZS1zaWxpY29uLW1hY3Mv0gEA?oc=5",
-          "publishedOn": "2023-12-21T13:54:49.000Z",
-          "wordCount": 5036,
-          "title": "Fedora Asahi Remix 39 brings Linux to Apple Silicon Macs - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7894,21 +7944,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
-          "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
-          "publishedOn": "2023-12-22T13:00:00.000Z",
-          "wordCount": 7940,
-          "title": "The View Transitions API And Delightful UI Animations (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
         }
       ]
     },
@@ -8746,16 +8781,6 @@
           "wordCount": 3138,
           "title": "Idempotence in HTTP Methods – Explained with CRUD Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-robert-lens-10382808.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/",
-          "author": "Beau Carnes",
-          "description": "In the competitive world of software development, acing technical interviews is often considered the key to landing a dream job. However, there's another crucial aspect that aspiring developers frequently overlook – behavioral interviews. We just posted a new course on the freeCodeCamp.org YouTube channel that provides a guide to mastering",
-          "link": "https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/",
-          "publishedOn": "2023-12-21T16:30:17.000Z",
-          "wordCount": 1022,
-          "title": "Mastering Behavioral Interviews for Software Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/INTERVIEW.png"
         }
       ]
     }
