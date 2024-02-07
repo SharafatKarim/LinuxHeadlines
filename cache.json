@@ -12,6 +12,236 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=411160",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on the important concept of custom exception in C++ using the “throw”, “try”, and “catch” keywords to handle the exception that happens in the program.",
+          "link": "https://linuxhint.com/cpp-custom-exceptions/",
+          "publishedOn": "2024-02-02T14:22:42.000Z",
+          "wordCount": 5668,
+          "title": "C++ Custom Exceptions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411153",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on the methods of converting a binary value to a decimal value using the “for” loop, “while” loop, and the bitset class approaches along with examples.",
+          "link": "https://linuxhint.com/binary-decimal-cpp/",
+          "publishedOn": "2024-02-02T13:59:27.000Z",
+          "wordCount": 5616,
+          "title": "Binary to Decimal Conversion in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411146",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on the various examples and functionalities of the const function in C++ to avoid accidental changes or modifications in the program's value.",
+          "link": "https://linuxhint.com/cpp-const-function-examples/",
+          "publishedOn": "2024-02-02T13:12:07.000Z",
+          "wordCount": 5590,
+          "title": "C++ Const Function Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411140",
+          "author": "Kalsoom Bibi",
+          "description": "Comprehensive tutorial on the assignment operator which is represented with the equality (=) symbol in C++ to overload the values of one instance to another.",
+          "link": "https://linuxhint.com/assignment-operator-overloading-cpp/",
+          "publishedOn": "2024-02-02T08:38:35.000Z",
+          "wordCount": 5587,
+          "title": "Assignment Operator Overloading in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411132",
+          "author": "Omar Farooq",
+          "description": "Practical tutorial on the floor() function in C++ to return the value that is less than or equal to the number that is given to that function as the parameter.",
+          "link": "https://linuxhint.com/cpp-floor-examples/",
+          "publishedOn": "2024-02-02T07:53:44.000Z",
+          "wordCount": 5661,
+          "title": "Floor Function Examples in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411126",
+          "author": "Sam U",
+          "description": "To select all in Vim, use the ggVG command, and to map the ctrl+a key to this command use, nnoremap  ggVV in the vimrc file.",
+          "link": "https://linuxhint.com/select-all-vim/",
+          "publishedOn": "2024-02-02T07:21:42.000Z",
+          "wordCount": 5185,
+          "title": "How to Select All in Vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411095",
+          "author": "Rafia Zafar",
+          "description": "To make a Kali Linux Bootable USB, download Kali ISO file and imaging tool (Etcher). Plugin the USB in system and make the Kali bootable USB using imaging tool.",
+          "link": "https://linuxhint.com/make-kali-linux-bootable-usb/",
+          "publishedOn": "2024-02-02T07:17:34.000Z",
+          "wordCount": 6832,
+          "title": "How to Make a Kali Linux Bootable USB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411079",
+          "author": "Sam U",
+          "description": "To sort lines in Vim, the built-in sort command is used with a range. By default, lines are sorted in lexicographical order.",
+          "link": "https://linuxhint.com/guide-sort-lines-vim/",
+          "publishedOn": "2024-02-02T06:57:56.000Z",
+          "wordCount": 6172,
+          "title": "Guide to Sort Lines in Vim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411076",
+          "author": "John Otieno",
+          "description": "Tutorial on how to troubleshoot and fix the \"Zsh Command Not Found” error when trying to invoke the Python scripts or Python-related commands such as Jupyter.",
+          "link": "https://linuxhint.com/fixing-zsh-command-not-found-errors-jupyter/",
+          "publishedOn": "2024-02-02T06:43:59.000Z",
+          "wordCount": 4840,
+          "title": "Fixing ‘Zsh Command Not Found Errors’ with Jupyter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411073",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on Antigen, how to integrate and use it with your Zsh setup, and how to install it, its supported commands, and more along with examples.",
+          "link": "https://linuxhint.com/exploring-antigen-zsh/",
+          "publishedOn": "2024-02-02T06:32:24.000Z",
+          "wordCount": 4832,
+          "title": "Exploring Antigen for Zsh: A User’s Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411070",
+          "author": "John Otieno",
+          "description": "Tutorial on the process of printing the error messages in Go using the new function and the “Errorf” function to combine multiple errors along with examples.",
+          "link": "https://linuxhint.com/error-printing-go/",
+          "publishedOn": "2024-02-02T06:28:22.000Z",
+          "wordCount": 4709,
+          "title": "Error Printing in Go (Print Error)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411058",
+          "author": "John Otieno",
+          "description": "Practical tutorial on the fundamentals of installing and configuring the Powerlevel10k theme for Oh My Zsh and customize our Zsh shell sessions using Oh My Zsh.",
+          "link": "https://linuxhint.com/enhance-terminal-appearance-powerlevel10k-oh-my-zsh/",
+          "publishedOn": "2024-02-01T03:48:16.000Z",
+          "wordCount": 5438,
+          "title": "Enhance Your Terminal Appearance with Powerlevel10k in Oh My Zsh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411054",
+          "author": "John Otieno",
+          "description": "Practical guide on the concept of directory walking and the various methods and techniques to perform the directory walking using the Go programming languages.",
+          "link": "https://linuxhint.com/directory-walking-go/",
+          "publishedOn": "2024-02-01T03:31:42.000Z",
+          "wordCount": 4849,
+          "title": "Directory Walking in Go (Walkdir)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411043",
+          "author": "John Otieno",
+          "description": "Comprehensive tutorial on how we can customize our Zsh shell sessions and terminal by installing and setting up the Oh My Zsh framework in your Linux system.",
+          "link": "https://linuxhint.com/customizing-terminal-oh-my-zsh-themes/",
+          "publishedOn": "2024-02-01T03:24:01.000Z",
+          "wordCount": 5507,
+          "title": "Customizing Your Terminal with Oh My Zsh Themes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411039",
+          "author": "John Otieno",
+          "description": "Tutorial on the fundamentals of working with maps, understanding what constant maps are, how they work, and how to use an anonymous function to declare one.",
+          "link": "https://linuxhint.com/constant-maps-golang/",
+          "publishedOn": "2024-02-01T03:06:23.000Z",
+          "wordCount": 4925,
+          "title": "Constant Maps in Golang (Constant Map)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411029",
+          "author": "Fahmida Yesmin",
+          "description": "Practical tutorial on the methods of checking if a particular value exists in a Java array or not using a loop and Java built-in functions along with examples.",
+          "link": "https://linuxhint.com/checking-java-array-contains-value/",
+          "publishedOn": "2024-02-01T02:56:37.000Z",
+          "wordCount": 5279,
+          "title": "Checking If a Java Array Contains a Value",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=411019",
+          "author": "Fahmida Yesmin",
+          "description": "Tutorial on the methods of calculating the sum of array values in Java using the “for” loop, custom function, and the built-in functions along with examples.",
+          "link": "https://linuxhint.com/calculating-sum-array-java/",
+          "publishedOn": "2024-02-01T02:45:34.000Z",
+          "wordCount": 5209,
+          "title": "Calculating the Sum of an Array in Java",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410440",
+          "author": "Shahriar Shovon",
+          "description": "Practical tutorial on how to change the SELinux modes (from “enforcing” to “permissive” and vice-versa) on Fedora Linux 39 and how to disable and re-enable it.",
+          "link": "https://linuxhint.com/disable-selinux-fedora-linux-39/",
+          "publishedOn": "2024-01-30T22:05:34.000Z",
+          "wordCount": 5017,
+          "title": "How to Disable SELinux on Fedora Linux 39",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410427",
+          "author": "Shahriar Shovon",
+          "description": "Guide on installing the JupyterHub idle culler service on JupyterHub virtual environment and how to configure it to stop the idle user sessions automatically.",
+          "link": "https://linuxhint.com/configure-jupyterhub-idle-culler-jupyterhub/",
+          "publishedOn": "2024-01-30T22:05:21.000Z",
+          "wordCount": 5156,
+          "title": "How to Configure JupyterHub Idle Culler on JupyterHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410426",
+          "author": "John Otieno",
+          "description": "Guide on working with the gzip package in Go to compress and decompress the data for a quick and efficient storage and transfer of data across multiple mediums.",
+          "link": "https://linuxhint.com/gzip-compression-go/",
+          "publishedOn": "2024-01-30T22:05:03.000Z",
+          "wordCount": 4909,
+          "title": "Gzip Compression in Go (Gzip)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410425",
+          "author": "John Otieno",
+          "description": "Tutorial on the various methods and techniques that you can use to sort a map in Golang by its values and how to use structs to sort a map by value and by keys.",
+          "link": "https://linuxhint.com/go-sort-map-value/",
+          "publishedOn": "2024-01-30T22:04:47.000Z",
+          "wordCount": 5172,
+          "title": "Sort a Map in Go by Value (Sort Map by Value)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410424",
+          "author": "John Otieno",
+          "description": "Guide on how we can enhance the workflow of Git in our terminal and enhance your shell experience using Zsh, Oh My Zsh, and the Git plugin along with examples.",
+          "link": "https://linuxhint.com/exploring-oh-my-zsh-git-plugins-features/",
+          "publishedOn": "2024-01-30T22:04:28.000Z",
+          "wordCount": 5088,
+          "title": "Git Made Easy: Exploring Oh My Zsh Git Plugins and Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=410423",
+          "author": "John Otieno",
+          "description": "Practical tutorial on float conversion in Go by exploring the Sprintf and FormatFloat methods that we can use to convert the floats to string representation.",
+          "link": "https://linuxhint.com/float-conversion-go/",
+          "publishedOn": "2024-01-30T22:04:24.000Z",
+          "wordCount": 5160,
+          "title": "Float Conversion in Go (Float to String)",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=410507",
           "author": "Shahriar Shovon",
           "description": "Practical tutorial on how to install the latest version of CUDA on Debian 12 and how to add the NVIDIA CUDA binary path and libraries to the path of Debian 12.",
@@ -1707,16 +1937,6 @@
           "wordCount": 16934,
           "title": "Plymouth Linux Graphical Boot Manager Now Better Handles Display Rendering",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187315",
-          "author": "Web Webster",
-          "description": "Proxmox Virtual Environment (Proxmox VE) is an open-source platform that combines two virtualization technologies: KVM (Kernel-based Virtual Machine) for virtual machines and LXC (Linux Containers) for lightweight container-based virtualization. In this tutorial, we will go a step further and create a virtual machine (VM) on Proxmox.\nThe post How to Create a Virtual Machine in Proxmox appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/how-to-create-a-virtual-machine-in-proxmox/",
-          "publishedOn": "2024-01-08T01:00:08.000Z",
-          "wordCount": 16957,
-          "title": "How to Create a Virtual Machine in Proxmox",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1725,6 +1945,226 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMiX2h0dHBzOi8vc2R0aW1lcy5jb20vbGludXgtZm91bmRhdGlvbi9saW51eC1mb3VuZGF0aW9uLWZvcm1zLXBvc3QtcXVhbnR1bS1jcnlwdG9ncmFwaHktYWxsaWFuY2Uv0gEA",
+          "author": null,
+          "description": "Linux Foundation forms Post-Quantum Cryptography Alliance  SDTimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vc2R0aW1lcy5jb20vbGludXgtZm91bmRhdGlvbi9saW51eC1mb3VuZGF0aW9uLWZvcm1zLXBvc3QtcXVhbnR1bS1jcnlwdG9ncmFwaHktYWxsaWFuY2Uv0gEA?oc=5",
+          "publishedOn": "2024-02-06T22:56:40.000Z",
+          "wordCount": 4994,
+          "title": "Linux Foundation forms Post-Quantum Cryptography Alliance - SDTimes.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijAFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9uZXdzL2xpbnV4LWZvdW5kYXRpb24tbGF1bmNoZXMtcG9zdC1xdWFudHVtLWNyeXB0b2dyYXBoeS1hbGxpYW5jZS13aXRoLWF3cy1jaXNjby1pYm0tYW5kLW90aGVycy8yMDI0LzAyL9IBAA",
+          "author": null,
+          "description": "Linux Foundation launches Post-Quantum Cryptography Alliance with AWS, Cisco, IBM and others  SDxCentral",
+          "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zZHhjZW50cmFsLmNvbS9hcnRpY2xlcy9uZXdzL2xpbnV4LWZvdW5kYXRpb24tbGF1bmNoZXMtcG9zdC1xdWFudHVtLWNyeXB0b2dyYXBoeS1hbGxpYW5jZS13aXRoLWF3cy1jaXNjby1pYm0tYW5kLW90aGVycy8yMDI0LzAyL9IBAA?oc=5",
+          "publishedOn": "2024-02-06T22:26:30.000Z",
+          "wordCount": 4994,
+          "title": "Linux Foundation launches Post-Quantum Cryptography Alliance with AWS, Cisco, IBM and others - SDxCentral",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaHNlY3VyaXR5L25ld3MvMzY2NTY5MDU5L0xpbnV4LWdyb3VwLWFubm91bmNlcy1Qb3N0LVF1YW50dW0tQ3J5cHRvZ3JhcGh5LUFsbGlhbmNl0gEA",
+          "author": null,
+          "description": "Linux group announces Post-Quantum Cryptography Alliance  TechTarget",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnRlY2h0YXJnZXQuY29tL3NlYXJjaHNlY3VyaXR5L25ld3MvMzY2NTY5MDU5L0xpbnV4LWdyb3VwLWFubm91bmNlcy1Qb3N0LVF1YW50dW0tQ3J5cHRvZ3JhcGh5LUFsbGlhbmNl0gEA?oc=5",
+          "publishedOn": "2024-02-06T20:44:46.000Z",
+          "wordCount": 4994,
+          "title": "Linux group announces Post-Quantum Cryptography Alliance - TechTarget",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9iZXN0LWFpLWFwcGxpY2F0aW9ucy_SAQA",
+          "author": null,
+          "description": "Best AI applications: Tools that you can run on Windows, macOS, or Linux  XDA Developers",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9iZXN0LWFpLWFwcGxpY2F0aW9ucy_SAQA?oc=5",
+          "publishedOn": "2024-02-06T19:00:00.000Z",
+          "wordCount": 4994,
+          "title": "Best AI applications: Tools that you can run on Windows, macOS, or Linux - XDA Developers",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzA2L2libV9waXRjaGVzXzEzNWtfbGludXhvbmVfYm94L9IBAA",
+          "author": null,
+          "description": "IBM pitches bite-sized $135k LinuxONE box for SMBs  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzA2L2libV9waXRjaGVzXzEzNWtfbGludXhvbmVfYm94L9IBAA?oc=5",
+          "publishedOn": "2024-02-06T18:01:00.000Z",
+          "wordCount": 4994,
+          "title": "IBM pitches bite-sized $135k LinuxONE box for SMBs - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8xMzAzMzMyL2RvaW5nLW1hdGgtb24tdGhlLWxpbnV4LWNvbW1hbmQtbGluZS5odG1s0gFbaHR0cHM6Ly93d3cubmV0d29ya3dvcmxkLmNvbS9hcnRpY2xlLzEzMDMzMzIvZG9pbmctbWF0aC1vbi10aGUtbGludXgtY29tbWFuZC1saW5lLmh0bWwvYW1wLw",
+          "author": null,
+          "description": "Doing math on the Linux command line  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ldHdvcmt3b3JsZC5jb20vYXJ0aWNsZS8xMzAzMzMyL2RvaW5nLW1hdGgtb24tdGhlLWxpbnV4LWNvbW1hbmQtbGluZS5odG1s0gFbaHR0cHM6Ly93d3cubmV0d29ya3dvcmxkLmNvbS9hcnRpY2xlLzEzMDMzMzIvZG9pbmctbWF0aC1vbi10aGUtbGludXgtY29tbWFuZC1saW5lLmh0bWwvYW1wLw?oc=5",
+          "publishedOn": "2024-02-06T17:34:05.000Z",
+          "wordCount": 4994,
+          "title": "Doing math on the Linux command line - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dyZWVuZmllbGQtQ29tcG9zaXRvci0yMDI00gEA",
+          "author": null,
+          "description": "The Greenfield In-Browser Wayland Compositor Is Fast Enough For Gaming  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dyZWVuZmllbGQtQ29tcG9zaXRvci0yMDI00gEA?oc=5",
+          "publishedOn": "2024-02-06T16:21:00.000Z",
+          "wordCount": 4994,
+          "title": "The Greenfield In-Browser Wayland Compositor Is Fast Enough For Gaming - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTMwNTk0MS9pYm0tbGF1bmNoZXMtcHJlY29uZmlndXJlZC1saW51eG9uZS1zZXJ2ZXJzLWZvci11bmlmaWVkLWRhdGEtY2VudGVyLW9wZXJhdGlvbnMuaHRtbNIBhQFodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTMwNTk0MS9pYm0tbGF1bmNoZXMtcHJlY29uZmlndXJlZC1saW51eG9uZS1zZXJ2ZXJzLWZvci11bmlmaWVkLWRhdGEtY2VudGVyLW9wZXJhdGlvbnMuaHRtbC9hbXAv",
+          "author": null,
+          "description": "IBM launches preconfigured LinuxONE servers for unified data center operations  Network World",
+          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTMwNTk0MS9pYm0tbGF1bmNoZXMtcHJlY29uZmlndXJlZC1saW51eG9uZS1zZXJ2ZXJzLWZvci11bmlmaWVkLWRhdGEtY2VudGVyLW9wZXJhdGlvbnMuaHRtbNIBhQFodHRwczovL3d3dy5uZXR3b3Jrd29ybGQuY29tL2FydGljbGUvMTMwNTk0MS9pYm0tbGF1bmNoZXMtcHJlY29uZmlndXJlZC1saW51eG9uZS1zZXJ2ZXJzLWZvci11bmlmaWVkLWRhdGEtY2VudGVyLW9wZXJhdGlvbnMuaHRtbC9hbXAv?oc=5",
+          "publishedOn": "2024-02-06T15:26:49.000Z",
+          "wordCount": 4994,
+          "title": "IBM launches preconfigured LinuxONE servers for unified data center operations - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMie2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL2JhZC1uZXdzLWZvci1kZXZzLXRoZS1vbmUtZmVhdHVyZS10aGF0LW1hZGUtbGludXgtYmV0dGVyLXRoYW4td2luZG93cy1pcy1maW5hbGx5LWp1bXBpbmctc2hpcNIBAA",
+          "author": null,
+          "description": "Bad news for devs — the one feature that made Linux better than Windows is finally jumping ship  TechRadar",
+          "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vcHJvL2JhZC1uZXdzLWZvci1kZXZzLXRoZS1vbmUtZmVhdHVyZS10aGF0LW1hZGUtbGludXgtYmV0dGVyLXRoYW4td2luZG93cy1pcy1maW5hbGx5LWp1bXBpbmctc2hpcNIBAA?oc=5",
+          "publishedOn": "2024-02-06T14:00:19.000Z",
+          "wordCount": 4994,
+          "title": "Bad news for devs — the one feature that made Linux better than Windows is finally jumping ship - TechRadar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAyLzA2L2F3cy1jaXNjby1udmlkaWEtaWJtLWpvaW4tbGludXgtZm91bmRhdGlvbi1wb3N0LXF1YW50dW0tY3J5cHRvZ3JhcGh5LWluaXRpYXRpdmUv0gEA",
+          "author": null,
+          "description": "AWS, Cisco, Google, Nvidia and IBM join with Linux Foundation in post-quantum cryptography initiative  SiliconANGLE News",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAyLzA2L2F3cy1jaXNjby1udmlkaWEtaWJtLWpvaW4tbGludXgtZm91bmRhdGlvbi1wb3N0LXF1YW50dW0tY3J5cHRvZ3JhcGh5LWluaXRpYXRpdmUv0gEA?oc=5",
+          "publishedOn": "2024-02-06T14:00:13.000Z",
+          "wordCount": 4994,
+          "title": "AWS, Cisco, Google, Nvidia and IBM join with Linux Foundation in post-quantum cryptography initiative - SiliconANGLE News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWVtYmVkZGVkLXBsdXPSAQA",
+          "author": null,
+          "description": "AMD Announces Embedded+ Architecture For Ryzen Paired With Xilinx IP Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLWVtYmVkZGVkLXBsdXPSAQA?oc=5",
+          "publishedOn": "2024-02-06T14:00:00.000Z",
+          "wordCount": 4994,
+          "title": "AMD Announces Embedded+ Architecture For Ryzen Paired With Xilinx IP Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvaWJtLXRhcmdldHMtaHlicmlkLWNsb3VkLWFuZC1haS13aXRoLWxpbnV4b25lLTQtZXhwcmVzcy1tYWluZnJhbWUvMjAyNC8wMi_SAQA",
+          "author": null,
+          "description": "IBM targets hybrid cloud and AI with LinuxONE 4 Express mainframe  SDxCentral",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvaWJtLXRhcmdldHMtaHlicmlkLWNsb3VkLWFuZC1haS13aXRoLWxpbnV4b25lLTQtZXhwcmVzcy1tYWluZnJhbWUvMjAyNC8wMi_SAQA?oc=5",
+          "publishedOn": "2024-02-06T13:00:43.000Z",
+          "wordCount": 4994,
+          "title": "IBM targets hybrid cloud and AI with LinuxONE 4 Express mainframe - SDxCentral",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiRGh0dHBzOi8vZGV2b3BzLmNvbS9pYm0tYWRkcy1sb3dlci1jb3N0LWxpbnV4LW1haW5mcmFtZS10by1wb3J0Zm9saW8v0gFIaHR0cHM6Ly9kZXZvcHMuY29tL2libS1hZGRzLWxvd2VyLWNvc3QtbGludXgtbWFpbmZyYW1lLXRvLXBvcnRmb2xpby9hbXAv",
+          "author": null,
+          "description": "IBM Adds Lower Cost Linux Mainframe to Portfolio  DevOps.com",
+          "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZGV2b3BzLmNvbS9pYm0tYWRkcy1sb3dlci1jb3N0LWxpbnV4LW1haW5mcmFtZS10by1wb3J0Zm9saW8v0gFIaHR0cHM6Ly9kZXZvcHMuY29tL2libS1hZGRzLWxvd2VyLWNvc3QtbGludXgtbWFpbmZyYW1lLXRvLXBvcnRmb2xpby9hbXAv?oc=5",
+          "publishedOn": "2024-02-06T12:58:12.000Z",
+          "wordCount": 4994,
+          "title": "IBM Adds Lower Cost Linux Mainframe to Portfolio - DevOps.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VjbGlwc2UtT3Blbko5LTAuNDPSAQA",
+          "author": null,
+          "description": "Eclipse OpenJ9 0.43 Released With New Options, Updated Compilers For Release Binaries  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0VjbGlwc2UtT3Blbko5LTAuNDPSAQA?oc=5",
+          "publishedOn": "2024-02-06T12:02:00.000Z",
+          "wordCount": 4994,
+          "title": "Eclipse OpenJ9 0.43 Released With New Options, Updated Compilers For Release Binaries - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FtYXpvbi1BV1MtUkZDLVBrZXJuZnPSAQA",
+          "author": null,
+          "description": "Amazon Proposes Pkernfs For Better Handling Hypervisor Live Updates  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FtYXpvbi1BV1MtUkZDLVBrZXJuZnPSAQA?oc=5",
+          "publishedOn": "2024-02-06T11:44:00.000Z",
+          "wordCount": 4994,
+          "title": "Amazon Proposes Pkernfs For Better Handling Hypervisor Live Updates - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtQ29kZWMtRHJpdmVycy1Qcm9wb3NhbNIBAA",
+          "author": null,
+          "description": "Rust-Written Stateless Codec Drivers Make A Lot Of Sense  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtQ29kZWMtRHJpdmVycy1Qcm9wb3NhbNIBAA?oc=5",
+          "publishedOn": "2024-02-06T11:35:00.000Z",
+          "wordCount": 4994,
+          "title": "Rust-Written Stateless Codec Drivers Make A Lot Of Sense - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDIvcHJvdG9uLWhvdGZpeC1nZXRzLXBlcnNvbmEtMy1yZWxvYWQtcGVyZm9ybWFuY2UtaW1wcm92ZW1lbnRzLWZvci1zdGVhbS1kZWNrLWxpbnV4L9IBAA",
+          "author": null,
+          "description": "Proton Hotfix gets Persona 3 Reload performance improvements for Steam Deck / Linux  GamingOnLinux",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDIvcHJvdG9uLWhvdGZpeC1nZXRzLXBlcnNvbmEtMy1yZWxvYWQtcGVyZm9ybWFuY2UtaW1wcm92ZW1lbnRzLWZvci1zdGVhbS1kZWNrLWxpbnV4L9IBAA?oc=5",
+          "publishedOn": "2024-02-06T11:28:20.000Z",
+          "wordCount": 4994,
+          "title": "Proton Hotfix gets Persona 3 Reload performance improvements for Steam Deck / Linux - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLVR3by1TZXJpb3VzLUZpeGVz0gEA",
+          "author": null,
+          "description": "Linux Pulls In Two Serious Bug Fixes For Bcachefs  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0JjYWNoZWZzLVR3by1TZXJpb3VzLUZpeGVz0gEA?oc=5",
+          "publishedOn": "2024-02-06T11:23:00.000Z",
+          "wordCount": 4994,
+          "title": "Linux Pulls In Two Serious Bug Fixes For Bcachefs - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzA2L25vX2tkZTZfZm9yX25vYmxlL9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMi8wNi9ub19rZGU2X2Zvcl9ub2JsZS8",
+          "author": null,
+          "description": "KDE 6 misses boat to make it into Kubuntu 24.04  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzA2L25vX2tkZTZfZm9yX25vYmxlL9IBPWh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS9BTVAvMjAyNC8wMi8wNi9ub19rZGU2X2Zvcl9ub2JsZS8?oc=5",
+          "publishedOn": "2024-02-06T11:15:00.000Z",
+          "wordCount": 4994,
+          "title": "KDE 6 misses boat to make it into Kubuntu 24.04 - The Register",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQWh0dHBzOi8vd3d3LmdpemNoaW5hLmNvbS8yMDI0LzAyLzA2L2Jlc3QtbGludXgtZGlzdHJvLWZvci1nYW1pbmcv0gFFaHR0cHM6Ly93d3cuZ2l6Y2hpbmEuY29tLzIwMjQvMDIvMDYvYmVzdC1saW51eC1kaXN0cm8tZm9yLWdhbWluZy9hbXAv",
+          "author": null,
+          "description": "Best Linux Distro for Gaming – Top Distros for Enhanced Linux Gaming Experience  Gizchina.com",
+          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmdpemNoaW5hLmNvbS8yMDI0LzAyLzA2L2Jlc3QtbGludXgtZGlzdHJvLWZvci1nYW1pbmcv0gFFaHR0cHM6Ly93d3cuZ2l6Y2hpbmEuY29tLzIwMjQvMDIvMDYvYmVzdC1saW51eC1kaXN0cm8tZm9yLWdhbWluZy9hbXAv?oc=5",
+          "publishedOn": "2024-02-06T11:11:38.000Z",
+          "wordCount": 4994,
+          "title": "Best Linux Distro for Gaming – Top Distros for Enhanced Linux Gaming Experience - Gizchina.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9kYW1uLXNtYWxsLWxpbnV4LXJlbGVhc2Uv0gEA",
+          "author": null,
+          "description": "Damn Small Linux Release Makes a Comeback After 16 Long Years  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9kYW1uLXNtYWxsLWxpbnV4LXJlbGVhc2Uv0gEA?oc=5",
+          "publishedOn": "2024-02-06T11:03:05.000Z",
+          "wordCount": 4994,
+          "title": "Damn Small Linux Release Makes a Comeback After 16 Long Years - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinAFodHRwczovL25ld3Nyb29tLmlibS5jb20vMjAyNC0wMi0wNi1OZXctSUJNLUxpbnV4T05FLTQtRXhwcmVzcy10by1PZmZlci1Db3N0LVNhdmluZ3MtYW5kLUNsaWVudC1WYWx1ZS10aHJvdWdoLWEtQ3liZXItUmVzaWxpZW50LUh5YnJpZC1DbG91ZC1hbmQtQUktUGxhdGZvcm3SAQA",
+          "author": null,
+          "description": "New IBM LinuxONE 4 Express to Offer Cost Savings and Client Value through a Cyber Resilient Hybrid Cloud and AI ...  IBM Newsroom",
+          "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL25ld3Nyb29tLmlibS5jb20vMjAyNC0wMi0wNi1OZXctSUJNLUxpbnV4T05FLTQtRXhwcmVzcy10by1PZmZlci1Db3N0LVNhdmluZ3MtYW5kLUNsaWVudC1WYWx1ZS10aHJvdWdoLWEtQ3liZXItUmVzaWxpZW50LUh5YnJpZC1DbG91ZC1hbmQtQUktUGxhdGZvcm3SAQA?oc=5",
+          "publishedOn": "2024-02-06T05:05:28.000Z",
+          "wordCount": 4994,
+          "title": "New IBM LinuxONE 4 Express to Offer Cost Savings and Client Value through a Cyber Resilient Hybrid Cloud and AI ... - IBM Newsroom",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMijwFodHRwczovL3d3dy56ZG5ldC5jb20vaG9tZS1hbmQtb2ZmaWNlL2hvbWUtZW50ZXJ0YWlubWVudC90aGVzZS10d28tb2xkLXNjaG9vbC1tdXNpYy1wbGF5ZXJzLWZvci1saW51eC1sZXQtbWUtZmluZS10dW5lLW15LWxpc3RlbmluZy1leHBlcmllbmNlL9IBmgFodHRwczovL3d3dy56ZG5ldC5jb20vZ29vZ2xlLWFtcC9ob21lLWFuZC1vZmZpY2UvaG9tZS1lbnRlcnRhaW5tZW50L3RoZXNlLXR3by1vbGQtc2Nob29sLW11c2ljLXBsYXllcnMtZm9yLWxpbnV4LWxldC1tZS1maW5lLXR1bmUtbXktbGlzdGVuaW5nLWV4cGVyaWVuY2Uv",
           "author": null,
@@ -6854,196 +7294,6 @@
           "wordCount": 5021,
           "title": "9to5Linux Weekly Roundup: January 7th, 2024 - 9to5Linux",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiS2h0dHBzOi8vZ2Vla3lnZW4uY29tL2Jhc2ljLXRhci1jb21tYW5kcy1pbi1saW51eC13aXRoLWV4YW1wbGVzLWZvci1uZXdiaWVzL9IBAA",
-          "author": null,
-          "description": "14 Basic Tar Commands in Linux with Examples for Newbies  GeekyGen",
-          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2Vla3lnZW4uY29tL2Jhc2ljLXRhci1jb21tYW5kcy1pbi1saW51eC13aXRoLWV4YW1wbGVzLWZvci1uZXdiaWVzL9IBAA?oc=5",
-          "publishedOn": "2024-01-08T13:03:25.000Z",
-          "wordCount": 5018,
-          "title": "14 Basic Tar Commands in Linux with Examples for Newbies - GeekyGen",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2FydHMvdmlkZW8tZ2FtaW5nL2xpbnV4LWdhbWluZy1hbi1lbWVyZ2VudC1wbGF0Zm9ybS13aXRoLXRvb2xzLXRpcHMtYW5kLXRlY2huaXF1ZXMv0gEA",
-          "author": null,
-          "description": "Unleashing Linux Gaming: Tools, Tips, and Techniques  BNN Breaking",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYm5uYnJlYWtpbmcuY29tL2FydHMvdmlkZW8tZ2FtaW5nL2xpbnV4LWdhbWluZy1hbi1lbWVyZ2VudC1wbGF0Zm9ybS13aXRoLXRvb2xzLXRpcHMtYW5kLXRlY2huaXF1ZXMv0gEA?oc=5",
-          "publishedOn": "2024-01-08T12:02:00.000Z",
-          "wordCount": 5021,
-          "title": "Unleashing Linux Gaming: Tools, Tips, and Techniques - BNN Breaking",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1FREFD0gEA",
-          "author": null,
-          "description": "Linux 6.8 EDAC Ready To Deal With Errors On AMD AI Accelerators & Intel Meteor Lake P/PS  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1FREFD0gEA?oc=5",
-          "publishedOn": "2024-01-08T12:00:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.8 EDAC Ready To Deal With Errors On AMD AI Accelerators & Intel Meteor Lake P/PS - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvbGludXgta2VybmVsLTY3LWlzLW91dC1ub3ctYW5kLWl0cy1vbmUtb2YtdGhlLWxhcmdlc3QtcmVsZWFzZXMtZXZlci_SAQA",
-          "author": null,
-          "description": "Linux kernel 6.7 is out now and it's one of the largest releases ever  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvbGludXgta2VybmVsLTY3LWlzLW91dC1ub3ctYW5kLWl0cy1vbmUtb2YtdGhlLWxhcmdlc3QtcmVsZWFzZXMtZXZlci_SAQA?oc=5",
-          "publishedOn": "2024-01-08T11:54:27.000Z",
-          "wordCount": 5021,
-          "title": "Linux kernel 6.7 is out now and it's one of the largest releases ever - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbnUtbGludXgtbGlicmUtNi03LWtlcm5lbC1yZWxlYXNlZC1mb3ItdGhvc2Utc2Vla2luZy0xMDAtZnJlZWRvbS1mb3ItdGhlaXItcGNz0gFpaHR0cHM6Ly85dG81bGludXguY29tL2dudS1saW51eC1saWJyZS02LTcta2VybmVsLXJlbGVhc2VkLWZvci10aG9zZS1zZWVraW5nLTEwMC1mcmVlZG9tLWZvci10aGVpci1wY3MvYW1w",
-          "author": null,
-          "description": "GNU Linux-Libre 6.7 Kernel Released for Those Seeking 100% Freedom for Their PCs  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vOXRvNWxpbnV4LmNvbS9nbnUtbGludXgtbGlicmUtNi03LWtlcm5lbC1yZWxlYXNlZC1mb3ItdGhvc2Utc2Vla2luZy0xMDAtZnJlZWRvbS1mb3ItdGhlaXItcGNz0gFpaHR0cHM6Ly85dG81bGludXguY29tL2dudS1saW51eC1saWJyZS02LTcta2VybmVsLXJlbGVhc2VkLWZvci10aG9zZS1zZWVraW5nLTEwMC1mcmVlZG9tLWZvci10aGVpci1wY3MvYW1w?oc=5",
-          "publishedOn": "2024-01-08T11:53:55.000Z",
-          "wordCount": 5021,
-          "title": "GNU Linux-Libre 6.7 Kernel Released for Those Seeking 100% Freedom for Their PCs - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JhZGVvblNJLUZpcnN0LVdpbi0yMDI00gEA",
-          "author": null,
-          "description": "AMD's OpenGL Linux Driver Already Scored A Nice Performance Win For 2024  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1JhZGVvblNJLUZpcnN0LVdpbi0yMDI00gEA?oc=5",
-          "publishedOn": "2024-01-08T11:23:00.000Z",
-          "wordCount": 5021,
-          "title": "AMD's OpenGL Linux Driver Already Scored A Nice Performance Win For 2024 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtVXBncmFkZS1Gb3ItTGludXgtNi440gEA",
-          "author": null,
-          "description": "Rust Toolchain Upgrade Submitted For Linux 6.8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1J1c3QtVXBncmFkZS1Gb3ItTGludXgtNi440gEA?oc=5",
-          "publishedOn": "2024-01-08T11:09:00.000Z",
-          "wordCount": 5021,
-          "title": "Rust Toolchain Upgrade Submitted For Linux 6.8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOVS1MaW51eC1MaWJyZS02LjfSAQA",
-          "author": null,
-          "description": "GNU Linux-libre 6.7 Cleans Up Graphics Driver Blobs, Addresses New Drivers  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0dOVS1MaW51eC1MaWJyZS02LjfSAQA?oc=5",
-          "publishedOn": "2024-01-08T10:18:00.000Z",
-          "wordCount": 5021,
-          "title": "GNU Linux-libre 6.7 Cleans Up Graphics Driver Blobs, Addresses New Drivers - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gEA",
-          "author": null,
-          "description": "Linux Kernel 6.7 Officially Released — And It's a Big One!  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gEA?oc=5",
-          "publishedOn": "2024-01-08T08:00:00.000Z",
-          "wordCount": 5014,
-          "title": "Linux Kernel 6.7 Officially Released — And It's a Big One! - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wMS8wOC9hdXRobG9ncGFyc2VyLW9wZW4tc291cmNlLWFuYWx5emluZy1saW51eC1hdXRoZW50aWNhdGlvbi1sb2dzL9IBAA",
-          "author": null,
-          "description": "AuthLogParser: Open-source tool for analyzing Linux authentication logs  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wMS8wOC9hdXRobG9ncGFyc2VyLW9wZW4tc291cmNlLWFuYWx5emluZy1saW51eC1hdXRoZW50aWNhdGlvbi1sb2dzL9IBAA?oc=5",
-          "publishedOn": "2024-01-08T05:30:09.000Z",
-          "wordCount": 5021,
-          "title": "AuthLogParser: Open-source tool for analyzing Linux authentication logs - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiaWh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wMS8wOC9saW51eC02LTctcmVsZWFzZS1tYWluLWNoYW5nZXMtYXJtLXJpc2Mtdi1hbmQtbWlwcy1hcmNoaXRlY3R1cmVzL9IBb2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wMS8wOC9saW51eC02LTctcmVsZWFzZS1tYWluLWNoYW5nZXMtYXJtLXJpc2Mtdi1hbmQtbWlwcy1hcmNoaXRlY3R1cmVzLz9hbXA9MQ",
-          "author": null,
-          "description": "Linux 6.7 release – Main changes, Arm, RISC-V, and MIPS architectures  CNX Software",
-          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wMS8wOC9saW51eC02LTctcmVsZWFzZS1tYWluLWNoYW5nZXMtYXJtLXJpc2Mtdi1hbmQtbWlwcy1hcmNoaXRlY3R1cmVzL9IBb2h0dHBzOi8vd3d3LmNueC1zb2Z0d2FyZS5jb20vMjAyNC8wMS8wOC9saW51eC02LTctcmVsZWFzZS1tYWluLWNoYW5nZXMtYXJtLXJpc2Mtdi1hbmQtbWlwcy1hcmNoaXRlY3R1cmVzLz9hbXA9MQ?oc=5",
-          "publishedOn": "2024-01-08T05:01:43.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.7 release – Main changes, Arm, RISC-V, and MIPS architectures - CNX Software",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9saW51eC1rZXJuZWwtNi03LXJlbGVhc2Uv0gEA",
-          "author": null,
-          "description": "Linux Kernel 6.7 Release is Loaded With Fixes and a New Filesystem  It's FOSS News",
-          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9saW51eC1rZXJuZWwtNi03LXJlbGVhc2Uv0gEA?oc=5",
-          "publishedOn": "2024-01-08T04:46:05.000Z",
-          "wordCount": 5021,
-          "title": "Linux Kernel 6.7 Release is Loaded With Fixes and a New Filesystem - It's FOSS News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzEvNy8yNDAyOTEwNC9saW51eC1kaWFnb25hbC1tb25pdG9yLWRpc3BsYXktcm90YXRpb27SAQA",
-          "author": null,
-          "description": "The horror and allure of the diagonal monitor  The Verge",
-          "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzEvNy8yNDAyOTEwNC9saW51eC1kaWFnb25hbC1tb25pdG9yLWRpc3BsYXktcm90YXRpb27SAQA?oc=5",
-          "publishedOn": "2024-01-07T23:16:57.000Z",
-          "wordCount": 5018,
-          "title": "The horror and allure of the diagonal monitor - The Verge",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gGKAWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVzP2ZiY2xpZD1Jd0FSMS0tZEhvQTNCTi0zRjdfc2QtQXFEbFg5NUQzTHNaYjlEcmxLQkhOX2V0bnNNYUk5YTZLSC1CWmprJmFtcA",
-          "author": null,
-          "description": "Linux Kernel 6.7 Officially Released — And It’s a Big One!  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gGKAWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVzP2ZiY2xpZD1Jd0FSMS0tZEhvQTNCTi0zRjdfc2QtQXFEbFg5NUQzTHNaYjlEcmxLQkhOX2V0bnNNYUk5YTZLSC1CWmprJmFtcA?oc=5",
-          "publishedOn": "2024-01-07T22:24:43.000Z",
-          "wordCount": 5018,
-          "title": "Linux Kernel 6.7 Officially Released — And It’s a Big One! - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjQvMDEvbGludXgta2VybmVsLTYtNy1uZXctZmVhdHVyZXMvYW1w",
-          "author": null,
-          "description": "Linux 6.7 Kernel Released  OMG! Ubuntu!",
-          "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm9tZ3VidW50dS5jby51ay8yMDI0LzAxL2xpbnV4LWtlcm5lbC02LTctbmV3LWZlYXR1cmVz0gFFaHR0cHM6Ly93d3cub21ndWJ1bnR1LmNvLnVrLzIwMjQvMDEvbGludXgta2VybmVsLTYtNy1uZXctZmVhdHVyZXMvYW1w?oc=5",
-          "publishedOn": "2024-01-07T22:24:43.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.7 Kernel Released - OMG! Ubuntu!",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvc2NpZW5jZS10ZWNoL2xpbnV4LWtlcm5lbC02LTctb2ZmaWNpYWxseS1yZWxlYXNlZC1hLWxlYXAtZm9yd2FyZC1pbi1pbm5vdmF0aW9uL9IBAA",
-          "author": null,
-          "description": "Linux Kernel 6.7 Release: New Features and Enhancements  BNN Breaking",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvc2NpZW5jZS10ZWNoL2xpbnV4LWtlcm5lbC02LTctb2ZmaWNpYWxseS1yZWxlYXNlZC1hLWxlYXAtZm9yd2FyZC1pbi1pbm5vdmF0aW9uL9IBAA?oc=5",
-          "publishedOn": "2024-01-07T21:38:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux Kernel 6.7 Release: New Features and Enhancements - BNN Breaking",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi03LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtNy1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV3L2FtcA",
-          "author": null,
-          "description": "Linux Kernel 6.7 Officially Released, This Is What’s New  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vOXRvNWxpbnV4LmNvbS9saW51eC1rZXJuZWwtNi03LW9mZmljaWFsbHktcmVsZWFzZWQtdGhpcy1pcy13aGF0cy1uZXfSAVBodHRwczovLzl0bzVsaW51eC5jb20vbGludXgta2VybmVsLTYtNy1vZmZpY2lhbGx5LXJlbGVhc2VkLXRoaXMtaXMtd2hhdHMtbmV3L2FtcA?oc=5",
-          "publishedOn": "2024-01-07T20:33:33.000Z",
-          "wordCount": 5021,
-          "title": "Linux Kernel 6.7 Officially Released, This Is What’s New - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "Linux 6.7 Released With Bcachefs, Intel Meteor Lake In Good Shape & Nouveau GSP Support  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuNy1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2024-01-07T20:30:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.7 Released With Bcachefs, Intel Meteor Lake In Good Shape & Nouveau GSP Support - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlcy1FYXJseS1Mb29r0gEA",
-          "author": null,
-          "description": "Linux 6.8 To Introduce New Intel Xe & PowerVR Graphics Drivers, Prepare For New AMD & Intel CPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1GZWF0dXJlcy1FYXJseS1Mb29r0gEA?oc=5",
-          "publishedOn": "2024-01-07T15:02:00.000Z",
-          "wordCount": 5021,
-          "title": "Linux 6.8 To Introduce New Intel Xe & PowerVR Graphics Drivers, Prepare For New AMD & Intel CPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8916,6 +9166,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
+          "publishedOn": "2024-02-06T08:00:00.000Z",
+          "wordCount": 3554,
+          "title": "A Guide To Designing For Older Adults",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
           "author": "hello@smashingmagazine.com (Maximillian Piras)",
           "description": "As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.",
@@ -9034,21 +9299,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
-          "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-          "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4225,
-          "title": "SolidStart: A Different Breed Of Meta-Framework",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg"
         }
       ]
     },
@@ -9057,6 +9307,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build twenty-five different projects using React. Each project is designed to challenge and enhance your understanding of React's capabilities. Sangam Mukherjee developed this",
+          "link": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
+          "publishedOn": "2024-02-06T17:00:58.000Z",
+          "wordCount": 1020,
+          "title": "Master React by Building 25 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react25a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
+          "author": "Beau Carnes",
+          "description": "By mastering Spring Boot and Spring Data JPA, you'll be equipped to build efficient, scalable, and secure applications with ease, making you a valuable asset in the job market and a more effective developer. We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that teaches Spring Boot",
+          "link": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
+          "publishedOn": "2024-02-06T16:05:20.000Z",
+          "wordCount": 987,
+          "title": "Learn Spring Boot and Spring Data JPA",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/springboot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "If you are a JavaScript developer, you may come across the string \"use strict\" at the top of your JavaScript code. This means that JavaScript's strict mode is in use. But what does this mean, and why does it matter? In this article, you'll learn what it means to write",
+          "link": "https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/",
+          "publishedOn": "2024-02-06T11:05:52.000Z",
+          "wordCount": 1825,
+          "title": "What is Strict Mode in JavaScript? Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Screenshot-2024-02-02-at-2.56.05-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vim-key-bindings-reference/",
+          "author": "Sahil Mahapatra",
+          "description": "Understanding Vim key bindings is crucial for navigating and editing text efficiently in Vim or Vim-based text editors like Neovim.  In this article, we'll explore the most common Vim key bindings that will help you navigate your text editor seamlessly. Table of Content  * Vim Modes  *",
+          "link": "https://www.freecodecamp.org/news/vim-key-bindings-reference/",
+          "publishedOn": "2024-02-06T09:28:01.000Z",
+          "wordCount": 1429,
+          "title": "Vim Key Bindings – Vim Keys List Reference",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-databases-guarantee-isolation/",
+          "author": "Daniel Adetunji",
+          "description": "ACID (Atomicity, Consistency, Isolation, and Durability) is a set of guarantees when working with a DBMS. Pessimistic and optimistic concurrency control explains how databases achieve the “I” in ACID. Isolation is a guarantee that concurrently running transactions should not interfere with each other. This is arguably the most important ACID",
+          "link": "https://www.freecodecamp.org/news/how-databases-guarantee-isolation/",
+          "publishedOn": "2024-02-05T22:41:18.000Z",
+          "wordCount": 3266,
+          "title": "How Databases Guarantee Isolation – Pessimistic vs Optimistic Concurrency Control Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-state-management/",
+          "author": "Timothy Olanrewaju",
+          "description": "State management is a crucial concept in React, which is one of the most popular JavaScript libraries in the world for building dynamic user interfaces.  Due to its importance in handling data, it is essential know how to manage state, when you need it, and where it can be",
+          "link": "https://www.freecodecamp.org/news/react-state-management/",
+          "publishedOn": "2024-02-05T21:06:27.000Z",
+          "wordCount": 1898,
+          "title": "State Management in React – When and Where to use State",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/rahul-mishra-XXMA-8fBB-g-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/",
           "author": "Okure U. Edet",
