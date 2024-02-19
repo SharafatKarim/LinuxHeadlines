@@ -12,6 +12,246 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=412675",
+          "author": "Rafia Zafar",
+          "description": "To rootless install Kali Linux in Termux, install the Termux on device. Download and run the nethunter installer script and install Kali Linux.",
+          "link": "https://linuxhint.com/rootless-installation-kali-linux-termux/",
+          "publishedOn": "2024-02-17T04:06:45.000Z",
+          "wordCount": 5861,
+          "title": "Rootless Installation of Kali Linux in Termux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412678",
+          "author": "Sam U",
+          "description": "The Zsh Vim mode or Vi mode can be enabled by executing bindkey -v command or placing it in the zshrc file.",
+          "link": "https://linuxhint.com/zsh-vim-vi-mode/",
+          "publishedOn": "2024-02-17T04:03:52.000Z",
+          "wordCount": 5674,
+          "title": "Zsh Vim Mode",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412677",
+          "author": "Shehroz Azam",
+          "description": "Hyper-V is great for Windows-based OS, VirtualBox is versatile and free, and VMware is more scalable and optimal and is used in larger organizations.",
+          "link": "https://linuxhint.com/virtualbox-vs-hyper-vs-vmware-detailed-comparison/",
+          "publishedOn": "2024-02-17T04:01:34.000Z",
+          "wordCount": 7226,
+          "title": "VirtualBox vs Hyper-V vs VMware | Detailed Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412676",
+          "author": "Sam U",
+          "description": "Vim has many keyboard shortcuts that are used to enhance the workflow. This article lists all the major keyboard shortcuts and commands for quick reference.",
+          "link": "https://linuxhint.com/vim-keyboard-shortcuts-commands/",
+          "publishedOn": "2024-02-17T03:59:34.000Z",
+          "wordCount": 6440,
+          "title": "Vim Keyboard Shortcuts and Commands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412215",
+          "author": "Shehroz Azam",
+          "description": "To enable the USB passthrough on VirtualBox first, install and configure the VirtualBox extension pack. Lastly, enable the USB connection for the desired VM.",
+          "link": "https://linuxhint.com/virtualbox-usb-passthrough/",
+          "publishedOn": "2024-02-16T16:48:00.000Z",
+          "wordCount": 5580,
+          "title": "How to pass through a USB in VirtualBox?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412666",
+          "author": "Kalsoom Bibi",
+          "description": "Practical tutorial on the process of creating a simple web server in C++ to handle the arriving HTTP requests, respond with the web HTML content in return, ect.",
+          "link": "https://linuxhint.com/simple-cpp-web-server/",
+          "publishedOn": "2024-02-16T14:00:18.000Z",
+          "wordCount": 5443,
+          "title": "Simple C++ Web Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412633",
+          "author": "Kalyani Rajalingham",
+          "description": "Practical guide on how to use SED or the stream editor to transform a particular word using the “s” command, substitute the words for other words, or negate it.",
+          "link": "https://linuxhint.com/stream-editor-sed/",
+          "publishedOn": "2024-02-16T13:51:47.000Z",
+          "wordCount": 5413,
+          "title": "Stream Editor (SED): The Basics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412639",
+          "author": "Samreena Aslam",
+          "description": "Practical tutorial on how to install tcpdump on a Linux system and how to capture and analyze the TCP/IP packets using tcpdump for network traffic analysis.",
+          "link": "https://linuxhint.com/capture-analyze-packets-by-example-tcpdump/",
+          "publishedOn": "2024-02-16T13:29:38.000Z",
+          "wordCount": 5407,
+          "title": "How to Capture and Analyze the Packets by Example with Tcpdump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412605",
+          "author": "Denis Kariuki",
+          "description": "Practical tutorial on defining HAProxy and its features, why we need it, how to configure it, and how to use it as a load balancer for TCP/HTTP applications.",
+          "link": "https://linuxhint.com/haproxy-beginners-tutorial/",
+          "publishedOn": "2024-02-16T13:17:55.000Z",
+          "wordCount": 6496,
+          "title": "HAProxy Beginner’s Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412570",
+          "author": "Omar Farooq",
+          "description": "Tutorial on exploring the uses of six different relational operators in C++ programming whenever we need a comparison between two values along with examples.",
+          "link": "https://linuxhint.com/relational-operators-cpp/",
+          "publishedOn": "2024-02-16T13:12:02.000Z",
+          "wordCount": 5885,
+          "title": "Relational Operators in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412594",
+          "author": "Denis Kariuki",
+          "description": "Practical tutorial on the steps to configure HAProxy as a reverse proxy and understand why a reverse proxy works to your advantage by discussing its benefits.",
+          "link": "https://linuxhint.com/configure-haproxy-reverse-proxy/",
+          "publishedOn": "2024-02-16T12:55:18.000Z",
+          "wordCount": 5317,
+          "title": "How to Configure HAProxy as a Reverse Proxy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412579",
+          "author": "Denis Kariuki",
+          "description": "Guide on the steps to set up HAProxy logging from editing the configuration files to specifying where to store the logs and then testing if the logging works.",
+          "link": "https://linuxhint.com/set-up-understand-logging-haproxy/",
+          "publishedOn": "2024-02-16T12:14:14.000Z",
+          "wordCount": 5339,
+          "title": "How to Set Up and Understand Logging in HAProxy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412572",
+          "author": "Prateek Jangid",
+          "description": "Comprehensive tutorial on the different commands to show the mounts in Linux for system monitoring, storage management, troubleshooting disk issues, etc.",
+          "link": "https://linuxhint.com/show-mounts-linux/",
+          "publishedOn": "2024-02-16T11:51:30.000Z",
+          "wordCount": 4672,
+          "title": "How to Show Mounts in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412542",
+          "author": "Prateek Jangid",
+          "description": "Comprehensive tutorial on the simple approach to sending emails using the command line in Linux using the mail command, Sendmail application, and mutt command.",
+          "link": "https://linuxhint.com/send-emails-using-command-line-linux/",
+          "publishedOn": "2024-02-16T11:44:13.000Z",
+          "wordCount": 4840,
+          "title": "How to Send Emails Using the Command Line in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412553",
+          "author": "Omar Farooq",
+          "description": "Comprehensive tutorial on how to apply the pow() function to compute the power of different numbers or data types in C++ using the base and exponent arguments.",
+          "link": "https://linuxhint.com/pow-cpp-examples/",
+          "publishedOn": "2024-02-16T11:42:28.000Z",
+          "wordCount": 5595,
+          "title": "Pow C++ Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412545",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on the workings of pointer to pointer in C++ to point or store the address of another pointer and enable the manipulation of the pointers themselves.",
+          "link": "https://linuxhint.com/pointer-pointer-cpp/",
+          "publishedOn": "2024-02-16T11:31:01.000Z",
+          "wordCount": 5657,
+          "title": "Pointer to Pointer in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412534",
+          "author": "Kalsoom Bibi",
+          "description": "How to manipulate the memory address with the help of pointers to deal with different arithmetic operations to develop the new memory address in memory buffers.",
+          "link": "https://linuxhint.com/cpp-pointer-arithmetic/",
+          "publishedOn": "2024-02-16T11:21:56.000Z",
+          "wordCount": 5598,
+          "title": "C++ Pointer Arithmetic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412526",
+          "author": "Prateek Jangid",
+          "description": "Comprehensive tutorial on the simplest way to set JAVA_HOME in Linux by copying the installation path and exporting it as the value of the JAVA_HOME variable.",
+          "link": "https://linuxhint.com/set-java-home-linux-2/",
+          "publishedOn": "2024-02-16T11:19:08.000Z",
+          "wordCount": 4740,
+          "title": "How to Set JAVA_HOME in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412521",
+          "author": "Prateek Jangid",
+          "description": "Guide on the method to search the file contents in Linux by exploring the “find” command combined with “grep” to search for an input text in the file contents.",
+          "link": "https://linuxhint.com/search-file-contents-linux/",
+          "publishedOn": "2024-02-16T10:32:01.000Z",
+          "wordCount": 4766,
+          "title": "How to Search File Contents in Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412472",
+          "author": "Omar Farooq",
+          "description": "Guide on the concept of dereference pointer in C++ to get the value of the variable where the pointer points and access the value whose address is stored in it.",
+          "link": "https://linuxhint.com/dereference-pointer-cpp/",
+          "publishedOn": "2024-02-16T10:15:34.000Z",
+          "wordCount": 4980,
+          "title": "Dereference Pointer in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412505",
+          "author": "Omar Farooq",
+          "description": "Practical guide on exploring the “nested” loops in C++ and how to utilize it in our codes whenever we want the repetition of the code’s section using examples.",
+          "link": "https://linuxhint.com/nested-loops-cpp/",
+          "publishedOn": "2024-02-16T09:37:57.000Z",
+          "wordCount": 5668,
+          "title": "Nested Loops in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412497",
+          "author": "Omar Farooq",
+          "description": "Comprehensive tutorial on the concept of “nested if” in C++, how it works, and how to utilize it in our codes to fulfill numerous conditions simultaneously.",
+          "link": "https://linuxhint.com/nested-if-cpp/",
+          "publishedOn": "2024-02-16T09:32:24.000Z",
+          "wordCount": 5649,
+          "title": "Nested If in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412491",
+          "author": "Kalsoom Bibi",
+          "description": "Tutorial on how the MongoDB driver is installed and used in C++ to manage the database of any system with the help of proper examples for better understanding.",
+          "link": "https://linuxhint.com/mongodb-cpp/",
+          "publishedOn": "2024-02-16T09:26:34.000Z",
+          "wordCount": 5266,
+          "title": "MongoDB in C++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linuxhint.com/?p=412485",
+          "author": "Omar Farooq",
+          "description": "Comprehensive tutorial on how to declare, initialize, and access the “member variables” in C++ codes by utilizing the constructor method in C++ programming.",
+          "link": "https://linuxhint.com/member-variable-cpp/",
+          "publishedOn": "2024-02-16T09:22:19.000Z",
+          "wordCount": 5509,
+          "title": "Member Variable in C++",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=410309",
           "author": "Sam U",
           "description": "To map keys in the Vim editor, the :map command is used followed by a set of keys and commands. However, :unmap command is used to remove the mapping.",
@@ -608,6 +848,16 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=186918",
+          "author": "Web Webster",
+          "description": "This guide discusses how to install Android Studio on Linux Mint 21 using the command-line terminal with two different installations option of PPA or Flatpak with Flathub.\nThe post How to Install Android Studio on Linux Mint 21 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/developer/how-to-install-android-studio-on-linux-mint-21/",
+          "publishedOn": "2024-02-19T00:00:44.000Z",
+          "wordCount": 10179,
+          "title": "How to Install Android Studio on Linux Mint 21",
+          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=186869",
           "author": "Web Webster",
@@ -1557,56 +1807,6 @@
           "wordCount": 16981,
           "title": "Guide to Installing Docker CE on Linux Mint 21",
           "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187474",
-          "author": "Web Webster",
-          "description": "In this guide, you will find the steps to install FreeTube on Manjaro Linux utilizing the command-line terminal and utilizing the AUR.\nThe post Guide to Installing FreeTube on Manjaro Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/guide-to-install-freetube-on-manjaro-linux/",
-          "publishedOn": "2024-01-20T03:00:38.000Z",
-          "wordCount": 16958,
-          "title": "Guide to Installing FreeTube on Manjaro Linux",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187622",
-          "author": "Web Webster",
-          "description": "Odoo offers a wide range of applications, from accounting and inventory management to CRM and e-commerce, making it a popular choice for businesses of all sizes. Its steep increase in popularity over the last few years is proof of its reliability and flexibility. This tutorial will walk you through the installation process, ensuring that you […]\nThe post How to Install Odoo 17 on AlmaLinux 9 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/how-to-install-odoo-17-on-almalinux-9/",
-          "publishedOn": "2024-01-20T01:00:29.000Z",
-          "wordCount": 17013,
-          "title": "How to Install Odoo 17 on AlmaLinux 9",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187615",
-          "author": "Web Webster",
-          "description": "Icinga 2 is an open-source monitoring system that checks the availability of network resources, notifies users of outages, and generates performance data for reporting. In this tutorial, you will learn how to install Icinga2 on a Debian 12 server and connect it to a client node.\nThe post How to Install Icinga 2 Monitoring Software on Debian 12 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/security/how-to-install-icinga-2-monitoring-software-on-debian-12/",
-          "publishedOn": "2024-01-19T23:00:55.000Z",
-          "wordCount": 16999,
-          "title": "How to Install Icinga 2 Monitoring Software on Debian 12",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187612",
-          "author": "Web Webster",
-          "description": "A new release of Fish Shell (friendly interactive shell) 3.7.0 is here with a handful of updates.\nThe post fish 3.7.0 Shell Released With a Spectrum of Enhancements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/news/fish-3-7-0-shell-released-with-a-spectrum-of-enhancements/",
-          "publishedOn": "2024-01-19T19:00:37.000Z",
-          "wordCount": 16937,
-          "title": "fish 3.7.0 Shell Released With a Spectrum of Enhancements",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=187592",
-          "author": "Web Webster",
-          "description": "In this guide, we explore some of the best GUI email clients that you should consider using for a Linux desktop.\nThe post 8 Useful GUI Email Clients for Linux Desktop appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/8-useful-gui-email-clients-for-linux-desktop/",
-          "publishedOn": "2024-01-19T17:00:18.000Z",
-          "wordCount": 16974,
-          "title": "8 Useful GUI Email Clients for Linux Desktop",
-          "imageUrl": "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -1615,6 +1815,66 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMidGh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvZG9uZS10aGUtbWluaW1hbGlzdC1ndGs0LXRvLWRvLWxpc3QtYXBwbGljYXRpb24tcmVkZWZpbmluZy1wcm9kdWN0aXZpdHktZm9yLWxpbnV4LXVzZXJz0gF0aHR0cHM6Ly9ibm5icmVha2luZy5jb20vdGVjaC9kb25lLXRoZS1taW5pbWFsaXN0LWd0azQtdG8tZG8tbGlzdC1hcHBsaWNhdGlvbi1yZWRlZmluaW5nLXByb2R1Y3Rpdml0eS1mb3ItbGludXgtdXNlcnM",
+          "author": null,
+          "description": "Done: The Minimalist GTK4 To-Do List Application Redefining Productivity for Linux Users  BNN Breaking",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYm5uYnJlYWtpbmcuY29tL3RlY2gvZG9uZS10aGUtbWluaW1hbGlzdC1ndGs0LXRvLWRvLWxpc3QtYXBwbGljYXRpb24tcmVkZWZpbmluZy1wcm9kdWN0aXZpdHktZm9yLWxpbnV4LXVzZXJz0gF0aHR0cHM6Ly9ibm5icmVha2luZy5jb20vdGVjaC9kb25lLXRoZS1taW5pbWFsaXN0LWd0azQtdG8tZG8tbGlzdC1hcHBsaWNhdGlvbi1yZWRlZmluaW5nLXByb2R1Y3Rpdml0eS1mb3ItbGludXgtdXNlcnM?oc=5",
+          "publishedOn": "2024-02-19T01:04:39.000Z",
+          "wordCount": 4979,
+          "title": "Done: The Minimalist GTK4 To-Do List Application Redefining Productivity for Linux Users - BNN Breaking",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzXSAQA",
+          "author": null,
+          "description": "Linux 6.8-rc5 Released With Documented Process For CVE Security Vulnerabilities  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzXSAQA?oc=5",
+          "publishedOn": "2024-02-18T21:22:00.000Z",
+          "wordCount": 4979,
+          "title": "Linux 6.8-rc5 Released With Documented Process For CVE Security Vulnerabilities - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1BTUQtTUkzMDAtRURBQ9IBAA",
+          "author": null,
+          "description": "Linux 6.9 Adding AMD MI300 Row Retirement Support For Problematic HBM Memory  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOS1BTUQtTUkzMDAtRURBQ9IBAA?oc=5",
+          "publishedOn": "2024-02-18T13:47:00.000Z",
+          "wordCount": 4979,
+          "title": "Linux 6.9 Adding AMD MI300 Row Retirement Support For Problematic HBM Memory - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzLzIwMjQtTGludXgtRGlzcGxheS1IYWNrZmVzdC1NYXnSAQA",
+          "author": null,
+          "description": "Linux Developers To Meet Again To Work On HDR, Color Management & VRR  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzLzIwMjQtTGludXgtRGlzcGxheS1IYWNrZmVzdC1NYXnSAQA?oc=5",
+          "publishedOn": "2024-02-18T11:48:00.000Z",
+          "wordCount": 4979,
+          "title": "Linux Developers To Meet Again To Work On HDR, Color Management & VRR - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUtlcm5lbC1Uby1SdXN0LTEuNzfSAQA",
+          "author": null,
+          "description": "The Linux Kernel Prepares For Rust 1.77 Upgrade  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LUtlcm5lbC1Uby1SdXN0LTEuNzfSAQA?oc=5",
+          "publishedOn": "2024-02-18T11:34:00.000Z",
+          "wordCount": 4979,
+          "title": "The Linux Kernel Prepares For Rust 1.77 Upgrade - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9lcnJhbmRzLXRvLWRvLWFwcC_SAQA",
+          "author": null,
+          "description": "Errands: A Simple and Elegant To-Do Companion for Linux  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vbmV3cy5pdHNmb3NzLmNvbS9lcnJhbmRzLXRvLWRvLWFwcC_SAQA?oc=5",
+          "publishedOn": "2024-02-18T05:52:38.000Z",
+          "wordCount": 4979,
+          "title": "Errands: A Simple and Elegant To-Do Companion for Linux - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMiZmh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAyLzE3L21ham9yLXRlY2gtcGxheWVycy13b3JrLWxpbnV4LWZvdW5kYXRpb24taW1wcm92ZS1tYXBwaW5nLXVuaXZlcnNlL9IBAA",
           "author": null,
@@ -1823,6 +2083,16 @@
           "publishedOn": "2024-02-16T13:23:02.000Z",
           "wordCount": 4979,
           "title": "More details on the Manjaro Orange Pi Neo gaming handheld - GamingOnLinux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiNGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzE2L3doYXRfaXNfdW5peC_SAThodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDIvMTYvd2hhdF9pc191bml4Lw",
+          "author": null,
+          "description": "Forgetting the history of Unix is coding us into a corner  The Register",
+          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnRoZXJlZ2lzdGVyLmNvbS8yMDI0LzAyLzE2L3doYXRfaXNfdW5peC_SAThodHRwczovL3d3dy50aGVyZWdpc3Rlci5jb20vQU1QLzIwMjQvMDIvMTYvd2hhdF9pc191bml4Lw?oc=5",
+          "publishedOn": "2024-02-16T12:22:00.000Z",
+          "wordCount": 4979,
+          "title": "Forgetting the history of Unix is coding us into a corner - The Register",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -6974,186 +7244,6 @@
           "wordCount": 5014,
           "title": "Serpent OS To Require x86_64-v2 CPUs While Offering x86_64-v3 Packages Too - Phoronix",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGludXgtZGlzay1zcGFjZS1sb2ctZmlsZXMv0gEA",
-          "author": null,
-          "description": "Running Out of Disk Space on Linux? Check Your Logs!  MUO - MakeUseOf",
-          "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vbGludXgtZGlzay1zcGFjZS1sb2ctZmlsZXMv0gEA?oc=5",
-          "publishedOn": "2024-01-20T13:00:00.000Z",
-          "wordCount": 5014,
-          "title": "Running Out of Disk Space on Linux? Check Your Logs! - MUO - MakeUseOf",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1MaW51eC02LjjSAQA",
-          "author": null,
-          "description": "LoongArch Lands Initial Rust Kernel Support For Linux 6.8  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xvb25nQXJjaC1MaW51eC02LjjSAQA?oc=5",
-          "publishedOn": "2024-01-20T11:43:00.000Z",
-          "wordCount": 5014,
-          "title": "LoongArch Lands Initial Rust Kernel Support For Linux 6.8 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzEtVG9tb3Jyb3fSAQA",
-          "author": null,
-          "description": "Linux 6.8-rc1 Should Release On Schedule Tomorrow  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1yYzEtVG9tb3Jyb3fSAQA?oc=5",
-          "publishedOn": "2024-01-20T11:05:00.000Z",
-          "wordCount": 5014,
-          "title": "Linux 6.8-rc1 Should Release On Schedule Tomorrow - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0yLjMwLVJDMS1SZWxlYXNlZNIBAA",
-          "author": null,
-          "description": "SDL 2.30 Release Candidate Brings Many Fixes, New Additions For The Steam API  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1NETC0yLjMwLVJDMS1SZWxlYXNlZNIBAA?oc=5",
-          "publishedOn": "2024-01-20T10:51:00.000Z",
-          "wordCount": 5014,
-          "title": "SDL 2.30 Release Candidate Brings Many Fixes, New Additions For The Steam API - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMia2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDEvMjAvbmV3LXRvb2wtbGV0cy15b3UtY3Jhc2gtZnJvbS13aW5kb3dzLWludG8tbGludXgtdmlhLWEtYmx1ZS1zY3JlZW4tb2YtZGVhdGgv0gEA",
-          "author": null,
-          "description": "New tool lets you crash from Windows into Linux via a Blue Screen of Death  BetaNews",
-          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYmV0YW5ld3MuY29tLzIwMjQvMDEvMjAvbmV3LXRvb2wtbGV0cy15b3UtY3Jhc2gtZnJvbS13aW5kb3dzLWludG8tbGludXgtdmlhLWEtYmx1ZS1zY3JlZW4tb2YtZGVhdGgv0gEA?oc=5",
-          "publishedOn": "2024-01-20T10:13:46.000Z",
-          "wordCount": 5014,
-          "title": "New tool lets you crash from Windows into Linux via a Blue Screen of Death - BetaNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0h1YXdlaS1jbGFpbXMtSGFybW9ueU9TLU5FWFQta2VybmVsLWlzLTN4LW1vcmUtZWZmaWNpZW50LXRoYW4tTGludXguNzk1MTI1LjAuaHRtbNIBAA",
-          "author": null,
-          "description": "Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux  Notebookcheck.net",
-          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5vdGVib29rY2hlY2submV0L0h1YXdlaS1jbGFpbXMtSGFybW9ueU9TLU5FWFQta2VybmVsLWlzLTN4LW1vcmUtZWZmaWNpZW50LXRoYW4tTGludXguNzk1MTI1LjAuaHRtbNIBAA?oc=5",
-          "publishedOn": "2024-01-20T07:10:44.000Z",
-          "wordCount": 5014,
-          "title": "Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux - Notebookcheck.net",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ktcmV2aXZlZC10aHJlZS1hbmNpZW50LWNvbXB1dGVycy13aXRoLWNocm9tZW9zLWZsZXgtYW5kLXlvdS1jYW4tdG9vL9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaS1yZXZpdmVkLXRocmVlLWFuY2llbnQtY29tcHV0ZXJzLXdpdGgtY2hyb21lb3MtZmxleC1hbmQteW91LWNhbi10b28v",
-          "author": null,
-          "description": "I revived three ancient computers with ChromeOS Flex, and you can too  ZDNet",
-          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL2ktcmV2aXZlZC10aHJlZS1hbmNpZW50LWNvbXB1dGVycy13aXRoLWNocm9tZW9zLWZsZXgtYW5kLXlvdS1jYW4tdG9vL9IBbmh0dHBzOi8vd3d3LnpkbmV0LmNvbS9nb29nbGUtYW1wL2FydGljbGUvaS1yZXZpdmVkLXRocmVlLWFuY2llbnQtY29tcHV0ZXJzLXdpdGgtY2hyb21lb3MtZmxleC1hbmQteW91LWNhbi10b28v?oc=5",
-          "publishedOn": "2024-01-19T22:14:00.000Z",
-          "wordCount": 5014,
-          "title": "I revived three ancient computers with ChromeOS Flex, and you can too - ZDNet",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vYnBmLW9wZW5zLWEtZG9vci10by1saW51eC1keW5hbWljLXNjaGVkdWxpbmctbWF5YmUtd2l0aC1ydXN0L9IBAA",
-          "author": null,
-          "description": "BPF Opens a Door to Linux Dynamic Scheduling (Maybe with Rust!)  The New Stack",
-          "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vdGhlbmV3c3RhY2suaW8vYnBmLW9wZW5zLWEtZG9vci10by1saW51eC1keW5hbWljLXNjaGVkdWxpbmctbWF5YmUtd2l0aC1ydXN0L9IBAA?oc=5",
-          "publishedOn": "2024-01-19T21:32:00.000Z",
-          "wordCount": 5014,
-          "title": "BPF Opens a Door to Linux Dynamic Scheduling (Maybe with Rust!) - The New Stack",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wMS9jb252aWN0ZWQtbXVyZGVyZXItZmlsZXN5c3RlbS1jcmVhdG9yLXdyaXRlcy1vZi1yZWdyZXRzLXRvLWxpbnV4LWxpc3Qv0gEA",
-          "author": null,
-          "description": "Convicted murderer, filesystem creator writes of regrets to Linux list  Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wMS9jb252aWN0ZWQtbXVyZGVyZXItZmlsZXN5c3RlbS1jcmVhdG9yLXdyaXRlcy1vZi1yZWdyZXRzLXRvLWxpbnV4LWxpc3Qv0gEA?oc=5",
-          "publishedOn": "2024-01-19T21:20:23.000Z",
-          "wordCount": 5014,
-          "title": "Convicted murderer, filesystem creator writes of regrets to Linux list - Ars Technica",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZGh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTM2LW9wZW4tc291cmNlLzE2OTA5LWxpbnV4LWZvdW5kYXRpb24tZmluYW5jaW5nLW9wZW4tc291cmNlLmh0bWzSAQA",
-          "author": null,
-          "description": "Linux Foundation Financing Open Source  iProgrammer",
-          "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmktcHJvZ3JhbW1lci5pbmZvL25ld3MvMTM2LW9wZW4tc291cmNlLzE2OTA5LWxpbnV4LWZvdW5kYXRpb24tZmluYW5jaW5nLW9wZW4tc291cmNlLmh0bWzSAQA?oc=5",
-          "publishedOn": "2024-01-19T18:57:42.000Z",
-          "wordCount": 5014,
-          "title": "Linux Foundation Financing Open Source - iProgrammer",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1HRlhPRkYtUk9DbS1HRlgxMdIBAA",
-          "author": null,
-          "description": "Linux Can Now Engage GFXOFF When Running ROCm Compute Apps On RDNA3 GPUs  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0FNREdQVS1HRlhPRkYtUk9DbS1HRlgxMdIBAA?oc=5",
-          "publishedOn": "2024-01-19T18:49:00.000Z",
-          "wordCount": 5014,
-          "title": "Linux Can Now Engage GFXOFF When Running ROCm Compute Apps On RDNA3 GPUs - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuLTc4NDBocy1saW51eNIBAA",
-          "author": null,
-          "description": "AMD Ryzen 7 7840HS Linux Performance With The TUXEDO Pulse 14 Gen 3 Review  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9yZXZpZXcvYW1kLXJ5emVuLTc4NDBocy1saW51eNIBAA?oc=5",
-          "publishedOn": "2024-01-19T18:00:00.000Z",
-          "wordCount": 5014,
-          "title": "AMD Ryzen 7 7840HS Linux Performance With The TUXEDO Pulse 14 Gen 3 Review - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vaG93LXRvLXVzZS1maWxlc3lzdGVtLWFjbC1vbi1saW51eC_SAQA",
-          "author": null,
-          "description": "How to Use Filesystem ACLs (Access Control Lists) on Linux  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vaG93LXRvLXVzZS1maWxlc3lzdGVtLWFjbC1vbi1saW51eC_SAQA?oc=5",
-          "publishedOn": "2024-01-19T17:00:00.000Z",
-          "wordCount": 5014,
-          "title": "How to Use Filesystem ACLs (Access Control Lists) on Linux - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiOGh0dHBzOi8vYml0Y29pbm1hZ2F6aW5lLmNvbS9jdWx0dXJlL2RvbnQtYnJlYWstdXNlcnNwYWNl0gEA",
-          "author": null,
-          "description": "Don't Break Userspace!  Bitcoin Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vYml0Y29pbm1hZ2F6aW5lLmNvbS9jdWx0dXJlL2RvbnQtYnJlYWstdXNlcnNwYWNl0gEA?oc=5",
-          "publishedOn": "2024-01-19T15:46:57.000Z",
-          "wordCount": 5014,
-          "title": "Don't Break Userspace! - Bitcoin Magazine",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1BZGFmcnVpdC1TZWVzYXfSAQA",
-          "author": null,
-          "description": "Linux 6.8 Adds Input Driver For Adafruit Seesaw Gamepad  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL0xpbnV4LTYuOC1BZGFmcnVpdC1TZWVzYXfSAQA?oc=5",
-          "publishedOn": "2024-01-19T15:31:00.000Z",
-          "wordCount": 5014,
-          "title": "Linux 6.8 Adds Input Driver For Adafruit Seesaw Gamepad - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dheWxhbmQtUHJvdG9jb2xzLTEuMzPSAQA",
-          "author": null,
-          "description": "Wayland Protocols 1.33 Released With DMA-BUF Stable, Adds Transient Seat Protocol  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LnBob3Jvbml4LmNvbS9uZXdzL1dheWxhbmQtUHJvdG9jb2xzLTEuMzPSAQA?oc=5",
-          "publishedOn": "2024-01-19T15:16:00.000Z",
-          "wordCount": 5014,
-          "title": "Wayland Protocols 1.33 Released With DMA-BUF Stable, Adds Transient Seat Protocol - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvcGFsd29ybGQtaXMtc3RlYW0tZGVjay1wbGF5YWJsZS1hbmQtcnVucy1vbi1kZXNrdG9wLWxpbnV4LXdpdGgtcHJvdG9uL9IBAA",
-          "author": null,
-          "description": "Palworld is Steam Deck Playable and runs on Desktop Linux with Proton  GamingOnLinux",
-          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmdhbWluZ29ubGludXguY29tLzIwMjQvMDEvcGFsd29ybGQtaXMtc3RlYW0tZGVjay1wbGF5YWJsZS1hbmQtcnVucy1vbi1kZXNrdG9wLWxpbnV4LXdpdGgtcHJvdG9uL9IBAA?oc=5",
-          "publishedOn": "2024-01-19T14:15:53.000Z",
-          "wordCount": 5014,
-          "title": "Palworld is Steam Deck Playable and runs on Desktop Linux with Proton - GamingOnLinux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMicmh0dHBzOi8vbWVkaXVtLmNvbS9AZWQtcm9vZi1tYWtlci9ob3ctdG8tdXNlLW9wZW5wZ3Atc3ltbWV0cmljLWVuY3J5cHRpb24td2l0aC1saWJyZS1vZmZpY2UtYW5kLWxpbnV4LWQ1MzhhN2ZhZjdjONIBAA",
-          "author": null,
-          "description": "How to Use OpenPGP Symmetric Encryption with Libre Office and Linux  Medium",
-          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vbWVkaXVtLmNvbS9AZWQtcm9vZi1tYWtlci9ob3ctdG8tdXNlLW9wZW5wZ3Atc3ltbWV0cmljLWVuY3J5cHRpb24td2l0aC1saWJyZS1vZmZpY2UtYW5kLWxpbnV4LWQ1MzhhN2ZhZjdjONIBAA?oc=5",
-          "publishedOn": "2024-01-19T14:05:09.000Z",
-          "wordCount": 5014,
-          "title": "How to Use OpenPGP Symmetric Encryption with Libre Office and Linux - Medium",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7291,6 +7381,16 @@
           "wordCount": 1380,
           "title": "Bootqt 2024.2.10",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Bootqt_1.jpg"
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Monitoring/Astra-Monitor-104649.shtml",
+          "author": "Softpedia Linux",
+          "description": "A new, cutting-edge, feature-packed and uber-customizable system monitoring that comes in the form of a GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/System/Monitoring/Astra-Monitor-104649.shtml",
+          "publishedOn": "2024-02-12T19:32:13.000Z",
+          "wordCount": 1768,
+          "title": "Astra Monitor v11 Alpha",
+          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Astra-Monitor_1.jpg"
         },
         {
           "id": "https://linux.softpedia.com/get/Utilities/Mousam-104669.shtml",
@@ -8621,116 +8721,6 @@
           "wordCount": 1689,
           "title": "SystemStatsPlus v2",
           "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SystemStatsPlus_2.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Lonewolf-104623.shtml",
-          "author": "Softpedia Linux",
-          "description": "Organize your tasks with the help of this very sleek-looking, open-source application",
-          "link": "https://linux.softpedia.com/get/Utilities/Lonewolf-104623.shtml",
-          "publishedOn": "2024-01-19T21:05:32.000Z",
-          "wordCount": 1504,
-          "title": "Lonewolf 1.2.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Lonewolf_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
-          "author": "Softpedia Linux",
-          "description": "A free and powerful IDE (Integrated Development Environment) built by Microsoft for numerous platforms, including Linux.",
-          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
-          "publishedOn": "2024-01-19T21:01:51.000Z",
-          "wordCount": 1949,
-          "title": "Microsoft Visual Studio Code 1.85.2",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Microsoft-Visual-Studio-Code_8.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Minigalaxy-104325.shtml",
-          "author": "Softpedia Linux",
-          "description": "Download, install, and play your favorite GOG games on Linux by relying on this nifty unofficial client",
-          "link": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Minigalaxy-104325.shtml",
-          "publishedOn": "2024-01-19T20:58:05.000Z",
-          "wordCount": 1540,
-          "title": "Minigalaxy 1.2.6",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Minigalaxy_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mullvad-Browser-104479.shtml",
-          "author": "Softpedia Linux",
-          "description": "Minimize your online fingerprint and protect your privacy with the help of Mullvad Browser, a very secure browser based on the legendary Tor Browser",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mullvad-Browser-104479.shtml",
-          "publishedOn": "2024-01-19T20:56:53.000Z",
-          "wordCount": 1898,
-          "title": "Mullvad Browser 13.0.7 / 13.5 Alpha 3 / 13.0.9 Pre",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Mullvad-Browser_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Polypane-104330.shtml",
-          "author": "Softpedia Linux",
-          "description": "Develop responsive and accessible websites or web apps with the help of this awesome browser for web developers called Polypane",
-          "link": "https://linux.softpedia.com/get/Utilities/Polypane-104330.shtml",
-          "publishedOn": "2024-01-19T20:52:47.000Z",
-          "wordCount": 1988,
-          "title": "Polypane 17.1.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Polypane_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/NAVER-Whale-103983.shtml",
-          "author": "Softpedia Linux",
-          "description": "Browse the Internet with the help of this modern browser that boasts various interesting interactions and useful tools",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/NAVER-Whale-103983.shtml",
-          "publishedOn": "2024-01-19T20:49:59.000Z",
-          "wordCount": 1610,
-          "title": "NAVER Whale 3.24.223.21",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/NAVER-Whale_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Security/NordPass-103869.shtml",
-          "author": "Softpedia Linux",
-          "description": "Make sure you never forget a password ever again with the help of NordPass, a password manager developed by the parent company NordVPN",
-          "link": "https://linux.softpedia.com/get/Security/NordPass-103869.shtml",
-          "publishedOn": "2024-01-19T20:47:38.000Z",
-          "wordCount": 1806,
-          "title": "NordPass 5.12.19",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/NordPass_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/SeaMonkey-5360.shtml",
-          "author": "Softpedia Linux",
-          "description": "The all-in-one, open-source Internet application suite that bundles a web browser, an IRC chat app, a newsgroup and feed client, as well as various web development tools",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/SeaMonkey-5360.shtml",
-          "publishedOn": "2024-01-19T20:21:09.000Z",
-          "wordCount": 1596,
-          "title": "SeaMonkey 2.53.18.1",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/SeaMonkey_4.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Xournal-PlusPlus-104180.shtml",
-          "author": "Softpedia Linux",
-          "description": "Take handwritten notes quickly and efficiently with the help of this free, open-source, and cross-platform app",
-          "link": "https://linux.softpedia.com/get/Utilities/Xournal-PlusPlus-104180.shtml",
-          "publishedOn": "2024-01-19T19:59:40.000Z",
-          "wordCount": 1609,
-          "title": "Xournal++ 1.2.2 / 1.2.2 Dev (0abf8a8)",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Xournal-PlusPlus_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Utilities/Stimulator-104651.shtml",
-          "author": "Softpedia Linux",
-          "description": "A valid alternative to Caffeine, a simple GTK app that prevents your DE/computer from going to sleep",
-          "link": "https://linux.softpedia.com/get/Utilities/Stimulator-104651.shtml",
-          "publishedOn": "2024-01-19T18:57:00.000Z",
-          "wordCount": 1531,
-          "title": "Stimulator 0.8.0",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Stimulator_1.jpg"
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Bluetooth-Battery-Meter-104650.shtml",
-          "author": "Softpedia Linux",
-          "description": "A straightforward GNOME Shell extension that improves the quality of life of GNOME by adding a batter level indicator for all connected Bluetooth devices",
-          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Bluetooth-Battery-Meter-104650.shtml",
-          "publishedOn": "2024-01-19T16:52:40.000Z",
-          "wordCount": 1549,
-          "title": "Bluetooth Battery Meter v5",
-          "imageUrl": "https://linux-cdn.softpedia.com/screenshots/Bluetooth-Battery-Meter_1.png"
         }
       ]
     },
@@ -10051,36 +10041,6 @@
           "wordCount": 934,
           "title": "Create AI Assistants with OpenAI's Assistants API",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/assistants2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
-          "author": "Beau Carnes",
-          "description": "Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most",
-          "link": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
-          "publishedOn": "2024-01-19T19:48:58.000Z",
-          "wordCount": 963,
-          "title": "Learn Data Analysis and Visualization with Python Using Astronomical Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataanalysis.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
-          "author": "Abraham Dahunsi",
-          "description": "Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,",
-          "link": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
-          "publishedOn": "2024-01-19T16:46:59.000Z",
-          "wordCount": 5447,
-          "title": "How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
-          "author": "Jose Vicente Nunez",
-          "description": "FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
-          "publishedOn": "2024-01-19T16:42:55.000Z",
-          "wordCount": 2354,
-          "title": "How to Get Started with FPM",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mask_made_of_disposed_ammo-1.jpg"
         }
       ]
     }
