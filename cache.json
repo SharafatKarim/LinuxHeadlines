@@ -69,6 +69,76 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200871",
+          "author": "Content Operations",
+          "description": "After my last post outlining the concept of PCL, I’ve now published a working minimal compiler and runner for .pcl files — combining embedded Python and C into a single file and simplifying native extension workflows.\nThe post PCL: A Minimal Python-C Hybrid Compiler for System Hackers and Developers appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/pcl-a-minimal-python-c-hybrid-compiler-for-system-hackers-and-developers/",
+          "publishedOn": "2025-06-09T15:15:15.000Z",
+          "wordCount": 10643,
+          "title": "PCL: A Minimal Python-C Hybrid Compiler for System Hackers and Developers",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200869",
+          "author": "Content Operations",
+          "description": "This release ships with NTFS3 as the default driver for handling NTFS filesystems instead of NTFS-3G.\nThe post Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/slackware-based-porteux-2-1-is-one-of-the-first-distros-to-ship-with-linux-6-15/",
+          "publishedOn": "2025-06-09T15:10:54.000Z",
+          "wordCount": 10587,
+          "title": "Slackware-Based PorteuX 2.1 Is One of the First Distros to Ship with Linux 6.15",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201013",
+          "author": "Content Operations",
+          "description": "In a new wave of supply chain attacks, security researchers have uncovered multiple backdoored open-source packages uploaded to PyPI (Python Package Index) and npm (Node Package Manager).\nThe post Malicious Backdoors Found in Python and npm Packages Targeting Windows and Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/malicious-backdoors-found-in-python-and-npm-packages-targeting-windows-and-linux/",
+          "publishedOn": "2025-06-09T15:06:43.000Z",
+          "wordCount": 10609,
+          "title": "Malicious Backdoors Found in Python and npm Packages Targeting Windows and Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200988",
+          "author": "Content Operations",
+          "description": "In a significant move that’s generating buzz across both the Windows and Linux worlds, Microsoft has open-sourced the Windows Subsystem for Linux (WSL). \nThe post Microsoft Open Sources WSL: What This Means for Developers and the Linux Community appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/microsoft-open-sources-wsl-what-this-means-for-developers-and-the-linux-community/",
+          "publishedOn": "2025-06-09T15:02:44.000Z",
+          "wordCount": 10660,
+          "title": "Microsoft Open Sources WSL: What This Means for Developers and the Linux Community",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200986",
+          "author": "Content Operations",
+          "description": "VirtualBox 7.1.10 lands with key bug fixes for Windows and Linux hosts, plus support for kernel 6.15 and 6.16-RC0 on Linux guests.\nThe post VirtualBox 7.1.10 Rolls Out With Windows and Linux Improvements appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/virtualbox-7-1-10-rolls-out-with-windows-and-linux-improvements/",
+          "publishedOn": "2025-06-09T14:57:29.000Z",
+          "wordCount": 10546,
+          "title": "VirtualBox 7.1.10 Rolls Out With Windows and Linux Improvements",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200849",
+          "author": "Content Operations",
+          "description": "Discover the latest features of Alpine Linux 3.22, including /usr-merge preparation and the removal of KDE X11. \nThe post Alpine Linux 3.22 Lands with /usr-Merge Prep, KDE X11 Removal appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/alpine-linux-3-22-lands-with-usr-merge-prep-kde-x11-removal/",
+          "publishedOn": "2025-06-08T15:44:40.000Z",
+          "wordCount": 10536,
+          "title": "Alpine Linux 3.22 Lands with /usr-Merge Prep, KDE X11 Removal",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200837",
+          "author": "Content Operations",
+          "description": "Discover Nobara Linux, the innovative spin on Fedora that enhances gaming and productivity. Unleash the wild side of your Linux experience today!\nThe post Nobara Linux: Fedora’s Wild Side, Unleashed appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/nobara-linux-fedoras-wild-side-unleashed/",
+          "publishedOn": "2025-06-08T15:41:02.000Z",
+          "wordCount": 10536,
+          "title": "Nobara Linux: Fedora’s Wild Side, Unleashed",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=201060",
           "author": "Content Operations",
           "description": "Meta has released an open source AI tool called Automated Sensitive Document Classification.\nThe post Meta open-sources AI tool to automatically classify sensitive documents appeared first on Linux Today.",
@@ -2136,6 +2206,176 @@
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
         {
+          "id": "CBMilAFBVV95cUxPMFJLeVdaZkhGNEtiZ18yUENFcGEwWU5IYktQaXhJLWxiMmF1bV9KNE1QUl9VaV85UHhSNklUbUtGQ0NZbkNHSG9hU0t0bVhjbldWV0NNbTRBbnAwVmNmdzhITExERHVtQXU5aTlTMklpUEg4OS00dGRjVjhQQmJQcUpZYUJiTmpFTjlEVmp6MzlIOTNR",
+          "author": null,
+          "description": "I tried multiple Linux distros on WSL - these are the best 5  XDA",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFJLeVdaZkhGNEtiZ18yUENFcGEwWU5IYktQaXhJLWxiMmF1bV9KNE1QUl9VaV85UHhSNklUbUtGQ0NZbkNHSG9hU0t0bVhjbldWV0NNbTRBbnAwVmNmdzhITExERHVtQXU5aTlTMklpUEg4OS00dGRjVjhQQmJQcUpZYUJiTmpFTjlEVmp6MzlIOTNR?oc=5",
+          "publishedOn": "2025-06-09T20:01:00.000Z",
+          "wordCount": 12656,
+          "title": "I tried multiple Linux distros on WSL - these are the best 5 - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAFBVV95cUxOeXo0QzA1anlDc1hsMHlrd1ZVRVotaWRDS0p1dkl5WmFYcHhrNFpYVmlFNjhaQUljdWNYZ1NpY2VXamI5LVlnaVlTUzZPM0UySWZvTVZWTkRjVDRXeHVpOURVWnVaR1FxbVZsM0tFZi1mRk5kV2NRUGd1VFVYZGZZQnNjNlNKZkNtdEpaNEE5V2pLamZtVnlvTVVfZ0hOSjN6NlJ2ZzRNTWTSAa8BQVVfeXFMT0sybDFwTjBaMGN3RmVLbWpReFpVdG5ieDFydVZfYS1SQlB3REx1WVRzU1NyN1NpVFVBTHBEbGwzcUpBMlprUnQxSU1tdFh3MmNyOHBiZS1fZEdUMURoWGJIblBEQURCUXJnSS1Va1JIZUYyTVZjNE16M3JGV0FVZXlqa25ZVUk2anlDR2poazF6Y3VneXJkWXZRWVg5S09FbVRySzFjdGtZelhvSGF1dw",
+          "author": null,
+          "description": "Sorry Docker: macOS 26 adds native support for Linux containers  AppleInsider",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXo0QzA1anlDc1hsMHlrd1ZVRVotaWRDS0p1dkl5WmFYcHhrNFpYVmlFNjhaQUljdWNYZ1NpY2VXamI5LVlnaVlTUzZPM0UySWZvTVZWTkRjVDRXeHVpOURVWnVaR1FxbVZsM0tFZi1mRk5kV2NRUGd1VFVYZGZZQnNjNlNKZkNtdEpaNEE5V2pLamZtVnlvTVVfZ0hOSjN6NlJ2ZzRNTWTSAa8BQVVfeXFMT0sybDFwTjBaMGN3RmVLbWpReFpVdG5ieDFydVZfYS1SQlB3REx1WVRzU1NyN1NpVFVBTHBEbGwzcUpBMlprUnQxSU1tdFh3MmNyOHBiZS1fZEdUMURoWGJIblBEQURCUXJnSS1Va1JIZUYyTVZjNE16M3JGV0FVZXlqa25ZVUk2anlDR2poazF6Y3VneXJkWXZRWVg5S09FbVRySzFjdGtZelhvSGF1dw?oc=5",
+          "publishedOn": "2025-06-09T19:49:19.000Z",
+          "wordCount": 12656,
+          "title": "Sorry Docker: macOS 26 adds native support for Linux containers - AppleInsider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiswFBVV95cUxOWmxOcURlSHA1RFVYWngwLTFVQjFPd1MtQnYtRml3Tk1OX3NfOXJfYjdKTEE5NFM5SjRlT24tYmtrZ2VZbXF3X1ZEbjNwNlJEMnlfcUNrMHFwdmtFU05jUi04YzFZUkFaX1FLNFpHRXRDZ0txaUlWU3pjd3ZPTVNvdTdnMGVtdmdpQnhCU0dJblY0VUhGYUZ3NnBrVWMxakJScGFCSzdOMXowYktwMnZYUVpCb9IBuAFBVV95cUxNdWNab1VqVng1NUdwRmwyZzB4ejlXemIzbGVjMnhWaHhVWDNlVjZmVkVEQTNqT0lTX0Fsa1lMaDZjVVhaZXVTdW9MRHF1UGpESndCV3J4QktVTEI0dTBzcnhaZ3VnZGV6U3lUeXFiM1UwRWdPeVB5cVJjLVpLUGxGeGdvOWlhU2ZXRERvNXRBS0N1ZFBUMmZOTVh3S0hid250eTN3WFFhTmFCNVJBVkZ5YWdKNDd5eWVZ",
+          "author": null,
+          "description": "Linux Foundation unveils decentralized WordPress plugin manager  BleepingComputer",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmxOcURlSHA1RFVYWngwLTFVQjFPd1MtQnYtRml3Tk1OX3NfOXJfYjdKTEE5NFM5SjRlT24tYmtrZ2VZbXF3X1ZEbjNwNlJEMnlfcUNrMHFwdmtFU05jUi04YzFZUkFaX1FLNFpHRXRDZ0txaUlWU3pjd3ZPTVNvdTdnMGVtdmdpQnhCU0dJblY0VUhGYUZ3NnBrVWMxakJScGFCSzdOMXowYktwMnZYUVpCb9IBuAFBVV95cUxNdWNab1VqVng1NUdwRmwyZzB4ejlXemIzbGVjMnhWaHhVWDNlVjZmVkVEQTNqT0lTX0Fsa1lMaDZjVVhaZXVTdW9MRHF1UGpESndCV3J4QktVTEI0dTBzcnhaZ3VnZGV6U3lUeXFiM1UwRWdPeVB5cVJjLVpLUGxGeGdvOWlhU2ZXRERvNXRBS0N1ZFBUMmZOTVh3S0hid250eTN3WFFhTmFCNVJBVkZ5YWdKNDd5eWVZ?oc=5",
+          "publishedOn": "2025-06-09T18:07:42.000Z",
+          "wordCount": 12656,
+          "title": "Linux Foundation unveils decentralized WordPress plugin manager - BleepingComputer",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFBVV95cUxPOC1XZzhYQXpkMEhpamROTTdzX1EzZTlyRy1MalQxbU14Nm5nMVhNV1NncnZmQ3pXeHd1T25Fb3hJajh6RjQ4SFNHWlQwdUhqVXlXNW1zYTFTR04xaTlxUy1JUnBhM1RjUXVtTGdTTkZHVDR1bDl2aDJ2TVZ4dkw2VdIBhgFBVV95cUxNY2dISlJDMDFCXzlUXzNERXozcElNd09JYy1nM3VTeXlNZXlXMHhWWjFZOHo2TjcyOTJLdWQzVHJETG9jbkRwYTdDODlzd3FyLWhldWtEQ3FmaEl3bkY2R2JYMzgtNXZaS1FRNnhPYlUwSGZ5TkNlMGhSTmE3OC1XT3JaWUtWdw",
+          "author": null,
+          "description": "AMD’s Next-Gen Zen 6 “EPYC Venice” CPUs Surface Up at Linux Kernel Patch, Revealing New CPU IDs  Wccftech",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOC1XZzhYQXpkMEhpamROTTdzX1EzZTlyRy1MalQxbU14Nm5nMVhNV1NncnZmQ3pXeHd1T25Fb3hJajh6RjQ4SFNHWlQwdUhqVXlXNW1zYTFTR04xaTlxUy1JUnBhM1RjUXVtTGdTTkZHVDR1bDl2aDJ2TVZ4dkw2VdIBhgFBVV95cUxNY2dISlJDMDFCXzlUXzNERXozcElNd09JYy1nM3VTeXlNZXlXMHhWWjFZOHo2TjcyOTJLdWQzVHJETG9jbkRwYTdDODlzd3FyLWhldWtEQ3FmaEl3bkY2R2JYMzgtNXZaS1FRNnhPYlUwSGZ5TkNlMGhSTmE3OC1XT3JaWUtWdw?oc=5",
+          "publishedOn": "2025-06-09T17:20:00.000Z",
+          "wordCount": 12656,
+          "title": "AMD’s Next-Gen Zen 6 “EPYC Venice” CPUs Surface Up at Linux Kernel Patch, Revealing New CPU IDs - Wccftech",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ0FVX3lxTE1YNnVXZ2dKUWx3cE1ZVHBrOWp5S2lsT25ISkRoX3pPaXNDLUpYajBzR1U1RVhUSGdRY0E3WlR6X3duajI5RkhPbW94bUs3eGpPcEl6QXUwek9wcmtrbFVGdGJ0emtjbnc",
+          "author": null,
+          "description": "AMD Linux Patches Aim To Improve S5 Power Consumption  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNnVXZ2dKUWx3cE1ZVHBrOWp5S2lsT25ISkRoX3pPaXNDLUpYajBzR1U1RVhUSGdRY0E3WlR6X3duajI5RkhPbW94bUs3eGpPcEl6QXUwek9wcmtrbFVGdGJ0emtjbnc?oc=5",
+          "publishedOn": "2025-06-09T16:40:41.000Z",
+          "wordCount": 12656,
+          "title": "AMD Linux Patches Aim To Improve S5 Power Consumption - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxOa2xNVDEtOGY4cnptd1lCamoyQmV0aWpBZUhxR28wZzdITHFrYUt5Nm1Jbmo2a2ZfSlljZlFuR2Nqa25Zakt2UmNIQjdxaG5zY09vU0JmNFZibzdFY040eVlRQm13a1hQZTBaU0tmbkhaSWNuZWFXMFFuNHdBakhRYXpaT1Q4b3M",
+          "author": null,
+          "description": "4 reasons PowerTop is the most powerful Linux tool you're not using  XDA",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2xNVDEtOGY4cnptd1lCamoyQmV0aWpBZUhxR28wZzdITHFrYUt5Nm1Jbmo2a2ZfSlljZlFuR2Nqa25Zakt2UmNIQjdxaG5zY09vU0JmNFZibzdFY040eVlRQm13a1hQZTBaU0tmbkhaSWNuZWFXMFFuNHdBakhRYXpaT1Q4b3M?oc=5",
+          "publishedOn": "2025-06-09T16:00:00.000Z",
+          "wordCount": 12656,
+          "title": "4 reasons PowerTop is the most powerful Linux tool you're not using - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMioAFBVV95cUxQVXR5SFdaYlYwWG9lNmFyMWJOQzFGNGYycFV0eUpEVThZSVBtZ3RXVGVTejk2bEkzUlZSd2hXZ2RnTVJ3U0FQZ0oxY21LdnhVQkExSVpXV3o1QVdjZnVJdVJJekxMT0ZfUzZVRXlGdDdzcHhfaVd5Q2FWRDV5VF94czhnTUxBME5wamtFTkc0Xy1GSFdKYWpUX0ZxQUlHeWZr",
+          "author": null,
+          "description": "How To Copy Files and Directories in the Linux terminal  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXR5SFdaYlYwWG9lNmFyMWJOQzFGNGYycFV0eUpEVThZSVBtZ3RXVGVTejk2bEkzUlZSd2hXZ2RnTVJ3U0FQZ0oxY21LdnhVQkExSVpXV3o1QVdjZnVJdVJJekxMT0ZfUzZVRXlGdDdzcHhfaVd5Q2FWRDV5VF94czhnTUxBME5wamtFTkc0Xy1GSFdKYWpUX0ZxQUlHeWZr?oc=5",
+          "publishedOn": "2025-06-09T15:36:33.000Z",
+          "wordCount": 12656,
+          "title": "How To Copy Files and Directories in the Linux terminal - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimwFBVV95cUxOVVM0a3NBSmlvNnNGRXNwdzVLczNUQnBSc1N4bkJBc3UwdXBxTV9XRW93ZXMyWUNfTVFYN3d1WjFZMC1UQWxuVEhOV1VXRm9LS05NajFLcjBPU0VvTlI3RFp3cFI1OXppSFZyTTdlbk5VT2Z6S1VwMldjdksxMkhSVjV0SlI4d0dqYUZuaXZzTFB5NGI1V3E1c1c0a9IBoAFBVV95cUxOUjM2ZmJ0Wk5OQkFqbVpaOUhnTmZrWDRrZTY4SEFHQWxmMmZSMHVscTY0WUZTbE5NcG40bENIVW9nM1Q0Rk9PTU14RWt0Y1RpOGs2RHRsWms1RmVUcE5ZMGIzeEhLQXBNeDk0cUVKUElPZWREWGJCZ0w3SFNELXVQZXhndVAxSjVuUnEwaHBWOUxCS0dPdHdvOVhUTUhlRGph",
+          "author": null,
+          "description": "How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVM0a3NBSmlvNnNGRXNwdzVLczNUQnBSc1N4bkJBc3UwdXBxTV9XRW93ZXMyWUNfTVFYN3d1WjFZMC1UQWxuVEhOV1VXRm9LS05NajFLcjBPU0VvTlI3RFp3cFI1OXppSFZyTTdlbk5VT2Z6S1VwMldjdksxMkhSVjV0SlI4d0dqYUZuaXZzTFB5NGI1V3E1c1c0a9IBoAFBVV95cUxOUjM2ZmJ0Wk5OQkFqbVpaOUhnTmZrWDRrZTY4SEFHQWxmMmZSMHVscTY0WUZTbE5NcG40bENIVW9nM1Q0Rk9PTU14RWt0Y1RpOGs2RHRsWms1RmVUcE5ZMGIzeEhLQXBNeDk0cUVKUElPZWREWGJCZ0w3SFNELXVQZXhndVAxSjVuUnEwaHBWOUxCS0dPdHdvOVhUTUhlRGph?oc=5",
+          "publishedOn": "2025-06-09T15:06:42.000Z",
+          "wordCount": 12656,
+          "title": "How to Fix Dummy Output/No Sound Issue on MacBook Computers Running Linux - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTFB1a1NzRmNwZmZLNU41YzJySk92SDZRRERBMl9kcWZsT3BoYlRyN0cwa2xha0pBNnE5SGtWV09rUjdIZnlPQ3dpNjZWUkQ5ZlduS0JmOXVNTEhNRU1E",
+          "author": null,
+          "description": "AMD EPYC 4345P 8-Core CPU Performance Review  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1a1NzRmNwZmZLNU41YzJySk92SDZRRERBMl9kcWZsT3BoYlRyN0cwa2xha0pBNnE5SGtWV09rUjdIZnlPQ3dpNjZWUkQ5ZlduS0JmOXVNTEhNRU1E?oc=5",
+          "publishedOn": "2025-06-09T15:00:00.000Z",
+          "wordCount": 12656,
+          "title": "AMD EPYC 4345P 8-Core CPU Performance Review - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMinwFBVV95cUxQYUVDUURidzlvMFREUXBRZEttaWR6R2JTRi1TTVczU01IU1l5V054NmpvV0E1OF9fNl9HQjNCdmlPR2I0elo4cTJUSnNQOGdJZVVGR3Fvb2NybUtRVDBGXzB1Yjl6RWVrQ0dPVnNCMzUxZEFMSTF2UDdpZjFkNkhWSFpzQXJBZDNObFVYbE5WZW9Mb19POHdsY0FUZThKZjQ",
+          "author": null,
+          "description": "Linux Foundation steps in with neutral solution to WordPress crisis  TechSpot",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUVDUURidzlvMFREUXBRZEttaWR6R2JTRi1TTVczU01IU1l5V054NmpvV0E1OF9fNl9HQjNCdmlPR2I0elo4cTJUSnNQOGdJZVVGR3Fvb2NybUtRVDBGXzB1Yjl6RWVrQ0dPVnNCMzUxZEFMSTF2UDdpZjFkNkhWSFpzQXJBZDNObFVYbE5WZW9Mb19POHdsY0FUZThKZjQ?oc=5",
+          "publishedOn": "2025-06-09T13:16:00.000Z",
+          "wordCount": 12656,
+          "title": "Linux Foundation steps in with neutral solution to WordPress crisis - TechSpot",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxNQzE2TmlaYmxUUEM2ZXBIQ1ZHa1QycS1iSmhtMnluMG9JV1N5QU1yN3B4OFloeTlORWxjTWROR0d4QXdjNC1xaEtiQ2l2Z1VjbUJldjBvc3l0MEszQ09aNHNJd25ISDZyalVjX0ZyYW9MSUdtb2xrNmluOFdnLV9qQ05iTmNGUlB6V3NlNXplR1l4eDZCcmRtSGhvTjVJdw",
+          "author": null,
+          "description": "Rhino Linux developers are moving away from XFCE - and I'm all for it  ZDNet",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzE2TmlaYmxUUEM2ZXBIQ1ZHa1QycS1iSmhtMnluMG9JV1N5QU1yN3B4OFloeTlORWxjTWROR0d4QXdjNC1xaEtiQ2l2Z1VjbUJldjBvc3l0MEszQ09aNHNJd25ISDZyalVjX0ZyYW9MSUdtb2xrNmluOFdnLV9qQ05iTmNGUlB6V3NlNXplR1l4eDZCcmRtSGhvTjVJdw?oc=5",
+          "publishedOn": "2025-06-09T13:07:00.000Z",
+          "wordCount": 12656,
+          "title": "Rhino Linux developers are moving away from XFCE - and I'm all for it - ZDNet",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVkFVX3lxTFA0SUdNT0NINzF0cmtkSkV5MXpWTFFzOS1IU2pPZkt2M0kxb2xPWUpCSEVUQmoyVHdCVEhRT0x2NHVKZENUWGxaMVBSck9NX1hJbllRVUNn",
+          "author": null,
+          "description": "Attention! Linux Mint 20 Has Reached Its End  It's FOSS News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0SUdNT0NINzF0cmtkSkV5MXpWTFFzOS1IU2pPZkt2M0kxb2xPWUpCSEVUQmoyVHdCVEhRT0x2NHVKZENUWGxaMVBSck9NX1hJbllRVUNn?oc=5",
+          "publishedOn": "2025-06-09T12:03:33.000Z",
+          "wordCount": 12656,
+          "title": "Attention! Linux Mint 20 Has Reached Its End - It's FOSS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifkFVX3lxTE5TcGJOejhfN3Bma2V3UXhjUnpiNkV3SDE0VzRkWUxsT2tWZ2NxdEllemZLYVVuNTFhOG1tMkhtMHB5akRNZlRnVnhGc0E5TDhRXzNfOWRuYlVaMFgxc01GVHhYaUdtQmlydWs5aFZBdzZPR3pxWVNyUzAza1ByQQ",
+          "author": null,
+          "description": "5 Reasons I Use Neovim for Text Editing on Linux  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcGJOejhfN3Bma2V3UXhjUnpiNkV3SDE0VzRkWUxsT2tWZ2NxdEllemZLYVVuNTFhOG1tMkhtMHB5akRNZlRnVnhGc0E5TDhRXzNfOWRuYlVaMFgxc01GVHhYaUdtQmlydWs5aFZBdzZPR3pxWVNyUzAza1ByQQ?oc=5",
+          "publishedOn": "2025-06-09T12:00:00.000Z",
+          "wordCount": 12656,
+          "title": "5 Reasons I Use Neovim for Text Editing on Linux - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYkFVX3lxTFBrc29YLTZpb3lmR2tZamc5MVJmS2tyMENZX21fWDdhYkpVZXJKTDJMUG9MdURhWWpsNmEyVnE5UVI1c3VCbkVzOEZBQS15SmdQXzQ0d1pPYk1nSlR0c3dESzJR",
+          "author": null,
+          "description": "Open-Source Linux Driver Preps For Qualcomm Adreno X1-45 GPU Support  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrc29YLTZpb3lmR2tZamc5MVJmS2tyMENZX21fWDdhYkpVZXJKTDJMUG9MdURhWWpsNmEyVnE5UVI1c3VCbkVzOEZBQS15SmdQXzQ0d1pPYk1nSlR0c3dESzJR?oc=5",
+          "publishedOn": "2025-06-09T10:37:00.000Z",
+          "wordCount": 12656,
+          "title": "Open-Source Linux Driver Preps For Qualcomm Adreno X1-45 GPU Support - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxPOE5USkY3aUxRelc1OU5QdDRNRkNYemo2Z3pfa3ZPNUxQSXFBWUgtLTJyeWFfWlo0c0E0NVEyXzdKM3dvT3lRTnEwQ2xfbFp6c0JYSU9Ob24yN3VSY0JTSzFNcWN1NW1fSy1UN1Y0eEUtNXNWR0hqZG5QbGRWTzJualNjOV9kd2ZOQnRtUWR4T0xmMHZJc3c4",
+          "author": null,
+          "description": "WordPress and Linux aim to boost open web security with FAIR project  Silicon Republic",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOE5USkY3aUxRelc1OU5QdDRNRkNYemo2Z3pfa3ZPNUxQSXFBWUgtLTJyeWFfWlo0c0E0NVEyXzdKM3dvT3lRTnEwQ2xfbFp6c0JYSU9Ob24yN3VSY0JTSzFNcWN1NW1fSy1UN1Y0eEUtNXNWR0hqZG5QbGRWTzJualNjOV9kd2ZOQnRtUWR4T0xmMHZJc3c4?oc=5",
+          "publishedOn": "2025-06-09T09:28:55.000Z",
+          "wordCount": 12656,
+          "title": "WordPress and Linux aim to boost open web security with FAIR project - Silicon Republic",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX0FVX3lxTE1HZ1Q1TjNEbkRWeWxYZEdkc1FNcTA2RkJPWFEwX3N1dnBZdHlINUlaSXZyMVl0VlhhOTcwRXAxYzRBcE9uNmxHZEtNaFhkNlZpODdGbVZiM2Y1R2FiUjlV",
+          "author": null,
+          "description": "Linux's Turbostat Updated For Intel Diamond Rapids & Bartlett Lake  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HZ1Q1TjNEbkRWeWxYZEdkc1FNcTA2RkJPWFEwX3N1dnBZdHlINUlaSXZyMVl0VlhhOTcwRXAxYzRBcE9uNmxHZEtNaFhkNlZpODdGbVZiM2Y1R2FiUjlV?oc=5",
+          "publishedOn": "2025-06-09T07:00:00.000Z",
+          "wordCount": 12656,
+          "title": "Linux's Turbostat Updated For Intel Diamond Rapids & Bartlett Lake - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW0FVX3lxTFBYWndQNEI5UFAwdHpPLTdCeV9URTFXWVJrcThLYmxNYmZubzg3SXozcEk5X2h3VDBXU1dCaldKWmRkSUp2OEZwMDFkQklXZkpWN3dCSEVyQ1dlbnPSAWBBVV95cUxOQTdGdjBfLVRKMUIyRHFpUHVXZXVUWm9sQ0FXY19lamJJc3lhclhTOU1BRXB6ZWRER2dSalVvVTFZRHB4eDZGZGNMV25VajQyV2hrRG9pOU01ZVVhMEtnTlk",
+          "author": null,
+          "description": "Kali GPT – Revolutionizing Penetration Testing with AI on Kali Linux  GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYWndQNEI5UFAwdHpPLTdCeV9URTFXWVJrcThLYmxNYmZubzg3SXozcEk5X2h3VDBXU1dCaldKWmRkSUp2OEZwMDFkQklXZkpWN3dCSEVyQ1dlbnPSAWBBVV95cUxOQTdGdjBfLVRKMUIyRHFpUHVXZXVUWm9sQ0FXY19lamJJc3lhclhTOU1BRXB6ZWRER2dSalVvVTFZRHB4eDZGZGNMV25VajQyV2hrRG9pOU01ZVVhMEtnTlk?oc=5",
+          "publishedOn": "2025-06-09T06:40:35.000Z",
+          "wordCount": 12656,
+          "title": "Kali GPT – Revolutionizing Penetration Testing with AI on Kali Linux - GBHackers News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMihgFBVV95cUxNa2lSdEpGeEJSVy1pTHNxQ1htMDU1WlE1c1lObWZNV2lDMklsYWpXc0JKblNHMndnVDItQm5WaVMzRzNBNlM1R1ZZN19ISEF5Q2hVRm1hajNEYUpWcnpjZU1ndFI5TG9zTmUyYUtaOHV1SldqVnZYNzJRTldEUlhvYllxSGtHUdIBiwFBVV95cUxNbEFJWGhrOF9PcUdPczhSMjY5Y0pISXBsN0pJLU9FNEM2S1lrQ0RxRUhPdUZYSlVHZDBCUDBhRDhQZjZOX01RX0dPUk02UlRQOGZqN0o5OHFUZ3RtVGZsV1g0WEltLW9Kb1ZybE12a2ZRNk5jdTZwLWl3X2hsSEJVZ1ZRYzZEdHhPajlB",
           "author": null,
           "description": "Gradia is a Slick New Screenshot Annotation Tool for Linux  OMG! Ubuntu",
@@ -2143,6 +2383,16 @@
           "publishedOn": "2025-06-08T23:41:12.000Z",
           "wordCount": 12655,
           "title": "Gradia is a Slick New Screenshot Annotation Tool for Linux - OMG! Ubuntu",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiggJBVV95cUxPa0dMa2o2elp4WGk1MDZmMXd4TmxaSkVYQ3hULXNzcnE4bUdfUERKQ3lUWTZyY0tJOWJJLVBtTGIzWXUwT0cxcUlRb0tHU2xxRG5MZ3N5N19rTkJpdW9kbWg2SHFMYjViNEswV0t4aDlxaHhISmQ5a3NLQXAzeU5xVUVEYlg4RFdtQlJlOTJ2dmd3VGFjN2VCTWJZcGt5WUNqWmRieVNReUlMZ1JLZGpwWW1XM1p1T3ZNaUtjajVZelhtS3pLdVhrWDMyRDhob2VaWXBrQUFoLWY0QU1nOEZTVDJoNFZWbXlxX0RRc0RPUUlja2NtcXZwRFNvQTF4cXJnRWc",
+          "author": null,
+          "description": "Python Developer- Linux Systems | Data Acquisition and Process Support | Experienced Hire  Technical.ly",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa0dMa2o2elp4WGk1MDZmMXd4TmxaSkVYQ3hULXNzcnE4bUdfUERKQ3lUWTZyY0tJOWJJLVBtTGIzWXUwT0cxcUlRb0tHU2xxRG5MZ3N5N19rTkJpdW9kbWg2SHFMYjViNEswV0t4aDlxaHhISmQ5a3NLQXAzeU5xVUVEYlg4RFdtQlJlOTJ2dmd3VGFjN2VCTWJZcGt5WUNqWmRieVNReUlMZ1JLZGpwWW1XM1p1T3ZNaUtjajVZelhtS3pLdVhrWDMyRDhob2VaWXBrQUFoLWY0QU1nOEZTVDJoNFZWbXlxX0RRc0RPUUlja2NtcXZwRFNvQTF4cXJnRWc?oc=5",
+          "publishedOn": "2025-06-08T22:40:44.000Z",
+          "wordCount": 12656,
+          "title": "Python Developer- Linux Systems | Data Acquisition and Process Support | Experienced Hire - Technical.ly",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7934,96 +8184,6 @@
           "wordCount": 13053,
           "title": "Why I Prefer GNOME for My Linux Desktop - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilwFBVV95cUxOT2xwWE1wRmNodzhwVjdkNlRvMkxDTTRFa1N0UE1LYmxJU1BzY2doZUIzZjhtdFdONnE0WGR0dF9iYVRtZVBTa29QTTBmd01mNmt3YWlCM0hWd1F6LXVTdGdfODF0WXBFT0dIT1B2MnJHcGlPOExlRTkzNDJHSmtQOE9SS25BNWlmZmZGN1FMdWZrWU9lVkVN0gGcAUFVX3lxTE9wZzFDR0NJcFgwa2o0Zmd5bzVxOXdsRG9EbGhObmV4clF4b2wzWUQ4ZDJOb1hRbHhYOVZnaXIxOUtFNFg1bW9HZHBXaGg0enkyaW9KZUNUR2ZvdW9ScXZucUpsZ0dBYmdkdVdDckZPZmhfNU5NV1JEUFo3aDl1MGdXUjVYVmFHNHJaSkRzaDlYc2wyN2pQd0ZMUzRyOQ",
-          "author": null,
-          "description": "Flatpak 1.16.1 Linux App Sandboxing Framework Brings More Enhancements  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2xwWE1wRmNodzhwVjdkNlRvMkxDTTRFa1N0UE1LYmxJU1BzY2doZUIzZjhtdFdONnE0WGR0dF9iYVRtZVBTa29QTTBmd01mNmt3YWlCM0hWd1F6LXVTdGdfODF0WXBFT0dIT1B2MnJHcGlPOExlRTkzNDJHSmtQOE9SS25BNWlmZmZGN1FMdWZrWU9lVkVN0gGcAUFVX3lxTE9wZzFDR0NJcFgwa2o0Zmd5bzVxOXdsRG9EbGhObmV4clF4b2wzWUQ4ZDJOb1hRbHhYOVZnaXIxOUtFNFg1bW9HZHBXaGg0enkyaW9KZUNUR2ZvdW9ScXZucUpsZ0dBYmdkdVdDckZPZmhfNU5NV1JEUFo3aDl1MGdXUjVYVmFHNHJaSkRzaDlYc2wyN2pQd0ZMUzRyOQ?oc=5",
-          "publishedOn": "2025-05-11T07:07:30.000Z",
-          "wordCount": 13053,
-          "title": "Flatpak 1.16.1 Linux App Sandboxing Framework Brings More Enhancements - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiZ0FVX3lxTE51V0RRdW9zdHFxdVVqUUtGWVZuTjh6ZlZkb2N5QmllR0VhX3dsbnpmOHpZUWdIMjk5cEZBZUdfbS01OEZwQnJwWkI4MlRyS294c25VaXd6WEstdktyaEN3cmgwelVGVEU",
-          "author": null,
-          "description": "The Linux Kernel Dropping Its Unused Built-In Software Echo Cancellation Code  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51V0RRdW9zdHFxdVVqUUtGWVZuTjh6ZlZkb2N5QmllR0VhX3dsbnpmOHpZUWdIMjk5cEZBZUdfbS01OEZwQnJwWkI4MlRyS294c25VaXd6WEstdktyaEN3cmgwelVGVEU?oc=5",
-          "publishedOn": "2025-05-11T05:00:00.000Z",
-          "wordCount": 13053,
-          "title": "The Linux Kernel Dropping Its Unused Built-In Software Echo Cancellation Code - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMivgFBVV95cUxQVmpaUkNHMDlOVTFjNUNaMW91OTJaSk9fa09udUIzNmpEa0E1cHE1Q2pZVXFrcWljbFlFRXptSmU2YlZVTVpTdkMzLTIzRjdMQjRNMjVnc1h4NGhNYS1uZ0N6Z2ktZDVhamxNZjc4VFBfTUNRRUlfckpKVHFLcDRkc3RIdTJrWE1fcF9hM3l0Ty03QWhubVNQclVtbnZWYjg1Y0hzc2pJYWdaU2N1V01BczAxRTVLNE4tby1NYVRn",
-          "author": null,
-          "description": "Can't upgrade to Windows 11? This is the Linux distro alternative I recommend to most people  ZDNET",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmpaUkNHMDlOVTFjNUNaMW91OTJaSk9fa09udUIzNmpEa0E1cHE1Q2pZVXFrcWljbFlFRXptSmU2YlZVTVpTdkMzLTIzRjdMQjRNMjVnc1h4NGhNYS1uZ0N6Z2ktZDVhamxNZjc4VFBfTUNRRUlfckpKVHFLcDRkc3RIdTJrWE1fcF9hM3l0Ty03QWhubVNQclVtbnZWYjg1Y0hzc2pJYWdaU2N1V01BczAxRTVLNE4tby1NYVRn?oc=5",
-          "publishedOn": "2025-05-11T01:31:33.000Z",
-          "wordCount": 13053,
-          "title": "Can't upgrade to Windows 11? This is the Linux distro alternative I recommend to most people - ZDNET",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMihAFBVV95cUxQRFdKenpYb1A4UFRYTzBDUkdqd3V0MHItUlJ1Zm10akk3MTlKZGN4M2lOOUxzRjlsR2FyTWEyQ2tXQkgyQjZaLXZsSEZhZy1KeHIwQkZBSVNQVUFEcXRyOXN4Z21YZTl4SENoQ2FHdFhFZmdDS0JHcjdfQjJRTlZJTExLYmQ",
-          "author": null,
-          "description": "These 5 Distros Show How Customizable Linux Really Is  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFdKenpYb1A4UFRYTzBDUkdqd3V0MHItUlJ1Zm10akk3MTlKZGN4M2lOOUxzRjlsR2FyTWEyQ2tXQkgyQjZaLXZsSEZhZy1KeHIwQkZBSVNQVUFEcXRyOXN4Z21YZTl4SENoQ2FHdFhFZmdDS0JHcjdfQjJRTlZJTExLYmQ?oc=5",
-          "publishedOn": "2025-05-10T21:30:00.000Z",
-          "wordCount": 13053,
-          "title": "These 5 Distros Show How Customizable Linux Really Is - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMioAFBVV95cUxPUTFxdHBsbkxMOS1xQjA1VS1rS0lSUjQ5ZHh1ZG9BNnV5S3RXLWRLem43TmJCWlB5UmVYazcwdjRVdzBrSTg0TWtRQ21HTmdNYkU5Ym00X2lmMmYySFVkNzQzRlZSb2EwUUpDOW9qRUVfSXlPdUhKbDhRTVBZNmI3WW5XdFR3ZEhLU0dfbGZpdGQtZmZ4bjFWLWJrMHhObEcw",
-          "author": null,
-          "description": "I started dual-booting NixOS alongside Windows, and I'm so glad I did  XDA",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUTFxdHBsbkxMOS1xQjA1VS1rS0lSUjQ5ZHh1ZG9BNnV5S3RXLWRLem43TmJCWlB5UmVYazcwdjRVdzBrSTg0TWtRQ21HTmdNYkU5Ym00X2lmMmYySFVkNzQzRlZSb2EwUUpDOW9qRUVfSXlPdUhKbDhRTVBZNmI3WW5XdFR3ZEhLU0dfbGZpdGQtZmZ4bjFWLWJrMHhObEcw?oc=5",
-          "publishedOn": "2025-05-10T20:00:00.000Z",
-          "wordCount": 13053,
-          "title": "I started dual-booting NixOS alongside Windows, and I'm so glad I did - XDA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiwgFBVV95cUxPVjdPdVluTFZkc3Ywc3Uxc01FWmFuZncwcGhGbzVEaC1GbXppN0taMVQ3eFMyZmFYWEhCX095Y2xpelJ5OEFLVDMyczhodG5nbVJwZEdUYnl2amJ6a09TcHdrYVNFRE1oR0xiQ3RFVjJUcXJ4RTJBZWlBNkdJZWlESWdnTEVFY1FaVWxaakpxMG14a3JQNklWdmk3WHdkdW9RUTJCVzdjdEdXNjJ2TU81NXVldjhqNV9xNDgxNkYtbDFtdw",
-          "author": null,
-          "description": "7 Reasons Fedora Might Be a Better Windows Replacement Than Linux Mint  MSN",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjdPdVluTFZkc3Ywc3Uxc01FWmFuZncwcGhGbzVEaC1GbXppN0taMVQ3eFMyZmFYWEhCX095Y2xpelJ5OEFLVDMyczhodG5nbVJwZEdUYnl2amJ6a09TcHdrYVNFRE1oR0xiQ3RFVjJUcXJ4RTJBZWlBNkdJZWlESWdnTEVFY1FaVWxaakpxMG14a3JQNklWdmk3WHdkdW9RUTJCVzdjdEdXNjJ2TU81NXVldjhqNV9xNDgxNkYtbDFtdw?oc=5",
-          "publishedOn": "2025-05-10T16:01:20.000Z",
-          "wordCount": 13053,
-          "title": "7 Reasons Fedora Might Be a Better Windows Replacement Than Linux Mint - MSN",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidkFVX3lxTE5pM1ZYS1hOc0t0dWxxcWdCQ1VaNG1McTUxOVlVWE5lQnZCektDRFFacFh2VHZmWW9iUUFFX21oOW1XV014RmFfZUN0SmFERDFiNkZ1Q1g3RXhoNnFUdVYyQVJlVUxaRm9uV0hJNXZGU2Z4TTg4RkE",
-          "author": null,
-          "description": "These Are My Top 6 Linux Distros for Running a Server  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pM1ZYS1hOc0t0dWxxcWdCQ1VaNG1McTUxOVlVWE5lQnZCektDRFFacFh2VHZmWW9iUUFFX21oOW1XV014RmFfZUN0SmFERDFiNkZ1Q1g3RXhoNnFUdVYyQVJlVUxaRm9uV0hJNXZGU2Z4TTg4RkE?oc=5",
-          "publishedOn": "2025-05-10T16:01:00.000Z",
-          "wordCount": 13053,
-          "title": "These Are My Top 6 Linux Distros for Running a Server - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiekFVX3lxTFAzbFg0ci1SOWpaZ09tZUZIWV9JWEpEUkZJQU4wZHNPNlJTbW12dXh2Sno5MDB4WGxZSWRtc0Q3d2x5bTE4WkI3aXg3c0RTRS1zUTE1T245QXZkTHhZdURFb1p6RWVqM2JXd2RLQXVTWkhmR0JOTF85UDJ3",
-          "author": null,
-          "description": "This Linux Tool Makes Terminal Recording Easy  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzbFg0ci1SOWpaZ09tZUZIWV9JWEpEUkZJQU4wZHNPNlJTbW12dXh2Sno5MDB4WGxZSWRtc0Q3d2x5bTE4WkI3aXg3c0RTRS1zUTE1T245QXZkTHhZdURFb1p6RWVqM2JXd2RLQXVTWkhmR0JOTF85UDJ3?oc=5",
-          "publishedOn": "2025-05-10T15:00:00.000Z",
-          "wordCount": 12609,
-          "title": "This Linux Tool Makes Terminal Recording Easy - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTE5aaDBTazVqQWtfb2FfSkRxQ2hVZWp3QlMxX2FHNTZXRkh2dFFjNHlVVEZ2QXd1dkhfbzZnMkxyZmZ2Tl85ZEhjbFFEZ2lNLW00NWNjUUJneFlOazA",
-          "author": null,
-          "description": "This Arch Linux Variant Takes a Unique Approach to Processes  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaDBTazVqQWtfb2FfSkRxQ2hVZWp3QlMxX2FHNTZXRkh2dFFjNHlVVEZ2QXd1dkhfbzZnMkxyZmZ2Tl85ZEhjbFFEZ2lNLW00NWNjUUJneFlOazA?oc=5",
-          "publishedOn": "2025-05-10T14:30:00.000Z",
-          "wordCount": 13053,
-          "title": "This Arch Linux Variant Takes a Unique Approach to Processes - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -8032,6 +8192,156 @@
       "feedUrl": "https://linux.softpedia.com/backend.xml",
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Brisk-Amin-Beheshti-104889.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and open-source, modern and sleek download manager that boasts integration",
+          "link": "https://linux.softpedia.com/get/Utilities/Brisk-Amin-Beheshti-104889.shtml",
+          "publishedOn": "2025-06-09T19:23:08.000Z",
+          "wordCount": null,
+          "title": "Brisk 2.3.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/KWeather-104847.shtml",
+          "author": "Softpedia Linux",
+          "description": "A simplistic but visually pleasing weather app for KDE Plasma and KDE Plasma Mobile desktops",
+          "link": "https://linux.softpedia.com/get/Utilities/KWeather-104847.shtml",
+          "publishedOn": "2025-06-09T17:10:12.000Z",
+          "wordCount": null,
+          "title": "Weather 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/KRecorder-104850.shtml",
+          "author": "Softpedia Linux",
+          "description": "Straightforward and modern-looking audio recording application for KDE Plasma and KDE Plasma Mobile (as well as other DEs)",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/KRecorder-104850.shtml",
+          "publishedOn": "2025-06-09T15:47:12.000Z",
+          "wordCount": null,
+          "title": "Recorder 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Networking/KRDC-104854.shtml",
+          "author": "Softpedia Linux",
+          "description": "KRDC is a desktop sharing client app, a tool used to connect to desktops of other computers for remote work or assistance",
+          "link": "https://linux.softpedia.com/get/System/Networking/KRDC-104854.shtml",
+          "publishedOn": "2025-06-09T14:14:27.000Z",
+          "wordCount": null,
+          "title": "KRDC 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/KDiskFree-104597.shtml",
+          "author": "Softpedia Linux",
+          "description": "Simple KDE app that displays available the free space on each device on your system",
+          "link": "https://linux.softpedia.com/get/System/KDiskFree-104597.shtml",
+          "publishedOn": "2025-06-09T14:06:48.000Z",
+          "wordCount": null,
+          "title": "KDiskFree 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/Tools/KGet-18357.shtml",
+          "author": "Softpedia Linux",
+          "description": "A fairly old, but still very much relevant download manager designed specifically for Plasma",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/Tools/KGet-18357.shtml",
+          "publishedOn": "2025-06-09T13:52:34.000Z",
+          "wordCount": null,
+          "title": "KGet 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Science/KCalc-104837.shtml",
+          "author": "Softpedia Linux",
+          "description": "Just an easy-to-use but remarkably powerful scientific calculator built for the KDE ecosystem",
+          "link": "https://linux.softpedia.com/get/Science/KCalc-104837.shtml",
+          "publishedOn": "2025-06-09T13:51:45.000Z",
+          "wordCount": null,
+          "title": "KCalc 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/JuK-2213.shtml",
+          "author": "Softpedia Linux",
+          "description": "An audio jukebox application for the KDE Plasma desktop that is mainly focused on music file management",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/JuK-2213.shtml",
+          "publishedOn": "2025-06-09T13:41:31.000Z",
+          "wordCount": null,
+          "title": "JuK 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/jdTextEdit-104303.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free, open-source, highly configurable, and powerful text editor for the masses",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Editor/jdTextEdit-104303.shtml",
+          "publishedOn": "2025-06-09T13:40:39.000Z",
+          "wordCount": null,
+          "title": "jdTextEdit 11.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/freac-104682.shtml",
+          "author": "Softpedia Linux",
+          "description": "One of the best free, open-source, and cross-platform apps for audio conversion and CD ripping",
+          "link": "https://linux.softpedia.com/get/Utilities/freac-104682.shtml",
+          "publishedOn": "2025-06-09T13:35:43.000Z",
+          "wordCount": null,
+          "title": "fre:ac 1.1.7 / 7411efa Pre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Counters-104821.shtml",
+          "author": "Softpedia Linux",
+          "description": "Keep track of daily, weekly, and monthly tasks with the help of this nifty free and open-source Linux app",
+          "link": "https://linux.softpedia.com/get/Utilities/Counters-104821.shtml",
+          "publishedOn": "2025-06-09T13:29:34.000Z",
+          "wordCount": null,
+          "title": "Counters 1.1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/CatLight-103977.shtml",
+          "author": "Softpedia Linux",
+          "description": "The easiest way to monitor the build status, tasks, and pull requests for your projects",
+          "link": "https://linux.softpedia.com/get/Utilities/CatLight-103977.shtml",
+          "publishedOn": "2025-06-09T13:20:45.000Z",
+          "wordCount": null,
+          "title": "CatLight 3.8.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Arianna-104489.shtml",
+          "author": "Softpedia Linux",
+          "description": "Organize and read all your favorite ebooks with the help of Arianna, a nice ebook reader and library management app for KDE environments",
+          "link": "https://linux.softpedia.com/get/Utilities/Arianna-104489.shtml",
+          "publishedOn": "2025-06-09T13:12:46.000Z",
+          "wordCount": null,
+          "title": "Arianna 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Alligator-KDE-104866.shtml",
+          "author": "Softpedia Linux",
+          "description": "A Kirigami-based RSS reader mostly designed for both Plasma and Plasma Mobile desktops",
+          "link": "https://linux.softpedia.com/get/Utilities/Alligator-KDE-104866.shtml",
+          "publishedOn": "2025-06-09T13:11:54.000Z",
+          "wordCount": null,
+          "title": "Alligator 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Akregator-2023.shtml",
+          "author": "Softpedia Linux",
+          "description": "Feature-packed, customizable, yet very easy to use news feed reader/news aggregator",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Akregator-2023.shtml",
+          "publishedOn": "2025-06-09T13:10:38.000Z",
+          "wordCount": null,
+          "title": "Akregator 6.4.2",
+          "imageUrl": null
+        },
         {
           "id": "https://linux.softpedia.com/get/Utilities/Keep-Me-Awake-104888.shtml",
           "author": "Softpedia Linux",
@@ -8063,6 +8373,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux.softpedia.com/get/Utilities/Komikku-104309.shtml",
+          "author": "Softpedia Linux",
+          "description": "Enjoy your favorite comic books and manga with the help of this nifty app built specifically for Linux",
+          "link": "https://linux.softpedia.com/get/Utilities/Komikku-104309.shtml",
+          "publishedOn": "2025-06-07T14:13:57.000Z",
+          "wordCount": null,
+          "title": "Komikku 1.79.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Francis-104867.shtml",
+          "author": "Softpedia Linux",
+          "description": "Stop wasting time and become more productive with the help of the Pomodoro technique brought to you on your KDE desktop by this small app",
+          "link": "https://linux.softpedia.com/get/Utilities/Francis-104867.shtml",
+          "publishedOn": "2025-06-07T13:42:46.000Z",
+          "wordCount": null,
+          "title": "Francis 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
+          "author": "Softpedia Linux",
+          "description": "A lightweight yet very capable compression/decompression application for Linux distributions",
+          "link": "https://linux.softpedia.com/get/System/Archiving/Ark-103973.shtml",
+          "publishedOn": "2025-06-07T13:27:01.000Z",
+          "wordCount": null,
+          "title": "Ark 25.04.2",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/Wallpaper-Slideshow-Andrew-Z-104887.shtml",
           "author": "Softpedia Linux",
           "description": "Just a very efficient wallpaper changer/slideshow utility that comes in a very convenient form as a GNOME Shell extension",
@@ -8070,6 +8410,16 @@
           "publishedOn": "2025-06-06T19:58:25.000Z",
           "wordCount": null,
           "title": "Wallpaper Slideshow 13",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Terminals/YaKuake-5195.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very practical and decently powerful drop-down terminal designed for the KDE Plasma and Plasma Mobile desktops",
+          "link": "https://linux.softpedia.com/get/Terminals/YaKuake-5195.shtml",
+          "publishedOn": "2025-06-06T17:57:32.000Z",
+          "wordCount": null,
+          "title": "Yakuake 25.04.2",
           "imageUrl": null
         },
         {
@@ -8100,6 +8450,16 @@
           "publishedOn": "2025-06-06T16:58:44.000Z",
           "wordCount": null,
           "title": "WebStorm 2025.1.2 Build 251.26094.131 / 2025.2 Build 252.19874.19 EAP 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
+          "author": "Softpedia Linux",
+          "description": "The best-in-class IDE for Ruby, Rails, JavaScript, CoffeScript, ERB and HAML, CSS, Sass and Less, and many more",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/RubyMine-103935.shtml",
+          "publishedOn": "2025-06-06T16:54:04.000Z",
+          "wordCount": null,
+          "title": "RubyMine 2025.1.2 Build 251.26094.122 / 2025.2 Build 252.19874.1 EAP 4",
           "imageUrl": null
         },
         {
@@ -8173,6 +8533,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/Photos-Koko-104869.shtml",
+          "author": "Softpedia Linux",
+          "description": "A cool and simple image gallery app mainly built for the KDE Plasma desktop environment",
+          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/Photos-Koko-104869.shtml",
+          "publishedOn": "2025-06-06T14:30:15.000Z",
+          "wordCount": null,
+          "title": "Photos 25.04.2",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/System/System-Administration/OpenPanel-38204.shtml",
           "author": "Softpedia Linux",
           "description": "A super powerful and flexible web hosting control panel that supports a wide range of Linux systems and is available in two editions: a Community Edition (forever free) and a Enterprise Edition (paid product with tons of extra features)",
@@ -8180,6 +8550,16 @@
           "publishedOn": "2025-06-06T14:29:21.000Z",
           "wordCount": null,
           "title": "OpenPanel 1.3.7",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Lokalize-104857.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and open-source CAT (computer-aided translation) system for both Linux and Windows",
+          "link": "https://linux.softpedia.com/get/Utilities/Lokalize-104857.shtml",
+          "publishedOn": "2025-06-06T14:04:03.000Z",
+          "wordCount": null,
+          "title": "Lokalize 25.04.2",
           "imageUrl": null
         },
         {
@@ -8203,6 +8583,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux.softpedia.com/get/Education/KTouch-11560.shtml",
+          "author": "Softpedia Linux",
+          "description": "Learn all the basics of typewriting or improve your actual skills by relying on this interesting KDE utility",
+          "link": "https://linux.softpedia.com/get/Education/KTouch-11560.shtml",
+          "publishedOn": "2025-06-06T13:42:31.000Z",
+          "wordCount": null,
+          "title": "KTouch 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Filesharing/KTorrent-3191.shtml",
+          "author": "Softpedia Linux",
+          "description": "A super powerful BitTorrent app that's perfectly suited for the KDE Plasma desktop environment",
+          "link": "https://linux.softpedia.com/get/Communications/Filesharing/KTorrent-3191.shtml",
+          "publishedOn": "2025-06-06T13:41:49.000Z",
+          "wordCount": null,
+          "title": "KTorrent 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/KRuler-104868.shtml",
+          "author": "Softpedia Linux",
+          "description": "Perform pinpoint accurate measurements (in pixels) on your computer's screen with the help of this on-screen ruler app",
+          "link": "https://linux.softpedia.com/get/Utilities/KRuler-104868.shtml",
+          "publishedOn": "2025-06-06T13:41:27.000Z",
+          "wordCount": null,
+          "title": "KRuler 25.04.2",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/Education/Kolibri-Learning-Equality-104741.shtml",
           "author": "Softpedia Linux",
           "description": "A free, open-source, and cross-platform offline-first learning/education application for the masses",
@@ -8210,6 +8620,36 @@
           "publishedOn": "2025-06-06T13:40:19.000Z",
           "wordCount": null,
           "title": "Kolibri 0.18.0 / 0.18.1 Beta 0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/KCharSelect-104843.shtml",
+          "author": "Softpedia Linux",
+          "description": "Discover and use special characters directly from the comforts of your Plasma desktop with the help of this nifty application",
+          "link": "https://linux.softpedia.com/get/Utilities/KCharSelect-104843.shtml",
+          "publishedOn": "2025-06-06T13:31:40.000Z",
+          "wordCount": null,
+          "title": "KCharSelect 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Kasts-104846.shtml",
+          "author": "Softpedia Linux",
+          "description": "A sleek and decently feature-packed podcast player for KDE based on the Kirigami UI Framework",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Kasts-104846.shtml",
+          "publishedOn": "2025-06-06T13:31:03.000Z",
+          "wordCount": null,
+          "title": "Kasts 25.04.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Science-and-Engineering/Chemistry/Kalzium-2404.shtml",
+          "author": "Softpedia Linux",
+          "description": "An open-source periodic table of the elements on KDE and any Linux operating system",
+          "link": "https://linux.softpedia.com/get/Science-and-Engineering/Chemistry/Kalzium-2404.shtml",
+          "publishedOn": "2025-06-06T13:28:31.000Z",
+          "wordCount": null,
+          "title": "Kalzium 25.04.2",
           "imageUrl": null
         },
         {
@@ -8233,6 +8673,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/ghostwriter-104000.shtml",
+          "author": "Softpedia Linux",
+          "description": "A user-friendly, open-source, and very stylish Markdown editor for the modern web writer",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/ghostwriter-104000.shtml",
+          "publishedOn": "2025-06-06T13:02:53.000Z",
+          "wordCount": null,
+          "title": "ghostwriter 2.2.0 / 24.12.3 / 25.04.2 Pre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/File-managers/Filelight-2419.shtml",
+          "author": "Softpedia Linux",
+          "description": "Visualize disk usage on your Linux computer with the help of this nice app that displays information via modern pie charts",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/File-managers/Filelight-2419.shtml",
+          "publishedOn": "2025-06-06T12:58:44.000Z",
+          "wordCount": null,
+          "title": "Filelight 25.04.2",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/Science-and-Engineering/Artificial-Intelligence/FET-29444.shtml",
           "author": "Softpedia Linux",
           "description": "A free and very useful little app designed to help you schedule timetables for schools, high-schools, and universities",
@@ -8250,6 +8710,16 @@
           "publishedOn": "2025-06-06T12:57:03.000Z",
           "wordCount": null,
           "title": "Fastfetch 2.45.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Office/Office-Suites/Calligra-84002.shtml",
+          "author": "Softpedia Linux",
+          "description": "A modern and very reliable office and graphics suite that contains apps for word pressing, presentations, vector graphic creation and editing, as well as spreadsheet management",
+          "link": "https://linux.softpedia.com/get/Office/Office-Suites/Calligra-84002.shtml",
+          "publishedOn": "2025-06-06T12:47:57.000Z",
+          "wordCount": null,
+          "title": "Calligra 25.04.2",
           "imageUrl": null
         },
         {
@@ -8300,6 +8770,26 @@
           "publishedOn": "2025-06-04T18:44:28.000Z",
           "wordCount": null,
           "title": "PHP 8.4.8 / 8.3.32 / 8.2.28 / 8.1.32",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/Mullvad-VPN-104472.shtml",
+          "author": "Softpedia Linux",
+          "description": "Protect your online privacy with the help of this well established VPN service that has bespoke clients for all major OSes out there",
+          "link": "https://linux.softpedia.com/get/Security/Mullvad-VPN-104472.shtml",
+          "publishedOn": "2025-06-04T18:27:23.000Z",
+          "wordCount": null,
+          "title": "Mullvad VPN 2025.6 / 2025.7 Beta 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and powerful IDE (Integrated Development Environment) built by Microsoft for numerous platforms, including Linux.",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/IDEs/Microsoft-Visual-Studio-Code-103756.shtml",
+          "publishedOn": "2025-06-04T18:07:53.000Z",
+          "wordCount": null,
+          "title": "Microsoft Visual Studio Code 1.100.3",
           "imageUrl": null
         },
         {
@@ -9720,6 +10210,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386694",
+          "author": "Preethi",
+          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
+          "publishedOn": "2025-06-09T12:58:37.000Z",
+          "wordCount": 2580,
+          "title": "Creating an Auto-Closing Notification With an HTML Popover",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386876",
           "author": "Temani Afif",
           "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -9871,6 +10371,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
+          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "publishedOn": "2025-06-09T08:00:00.000Z",
+          "wordCount": 4868,
+          "title": "Decoding The SVG <code>path</code> Element: Line Commands",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
