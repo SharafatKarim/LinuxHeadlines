@@ -12,6 +12,16 @@
       "siteUrl": "https://linuxhint.com",
       "articles": [
         {
+          "id": "https://linuxhint.com/?p=417074",
+          "author": "Adnan Shabbir",
+          "description": "Daily tasks to automate for a SysAdmin are: package, network, firewall, service, etc. Read this article for practical demonstrations of these scripts.",
+          "link": "https://linuxhint.com/bash-scripts-automate-linux-sys-admin/",
+          "publishedOn": "2025-06-23T13:40:56.000Z",
+          "wordCount": 6348,
+          "title": "10 Bash Scripts to Automate Daily Linux SysAdmin Tasks",
+          "imageUrl": null
+        },
+        {
           "id": "https://linuxhint.com/?p=417039",
           "author": "Adnan Shabbir",
           "description": "Yes, WSL is now open source. Microsoft officially announced it at the Microsoft Build 2025 conference in Seattle, Washington.",
@@ -48,6 +58,106 @@
       "feedUrl": "http://www.linuxtoday.com/backend/biglt.rss",
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201321",
+          "author": "Content Operations",
+          "description": "Want a high quality screen with 4K+ resolution that’s extremely lightweight. I’ve been evaluating the Intehill 13.4″ 4K+ Touchscreen Portable Monitor U13ZT. Here are my findings.\nThe post Intehill 13.4″ 4K+ Touchscreen Portable Monitor U13ZT Review appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/intehill-13-4%e2%80%b3-4k-touchscreen-portable-monitor-u13zt-review/",
+          "publishedOn": "2025-06-23T13:22:24.000Z",
+          "wordCount": 10576,
+          "title": "Intehill 13.4″ 4K+ Touchscreen Portable Monitor U13ZT Review",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201314",
+          "author": "Content Operations",
+          "description": "Arch Linux transitions wine & wine-staging to pure WoW64 builds, removing multilib dependency.\nThe post Arch Linux Shifts to Pure WoW64 Builds for Wine and Wine-Staging appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/arch-linux-shifts-to-pure-wow64-builds-for-wine-and-wine-staging/",
+          "publishedOn": "2025-06-23T13:20:28.000Z",
+          "wordCount": 10591,
+          "title": "Arch Linux Shifts to Pure WoW64 Builds for Wine and Wine-Staging",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201403",
+          "author": "Content Operations",
+          "description": "Explore Directories Faster in Linux with lstr, a Minimalist and Feature-Rich Tree Command Alternative!\nThe post lstr: The Blazing-Fast Directory Tree Viewer in Rust appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/lstr-the-blazing-fast-directory-tree-viewer-in-rust/",
+          "publishedOn": "2025-06-23T13:17:05.000Z",
+          "wordCount": 10573,
+          "title": "lstr: The Blazing-Fast Directory Tree Viewer in Rust",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201402",
+          "author": "Content Operations",
+          "description": "Fwupd 2.0.12 brings Thunderbolt host emulation, SBOM parsing, and important fixes for Dell, HP, and Logitech devices.\nThe post Fwupd 2.0.12 Released with Thunderbolt Emulation appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-12-released-with-thunderbolt-emulation/",
+          "publishedOn": "2025-06-23T13:14:39.000Z",
+          "wordCount": 10554,
+          "title": "Fwupd 2.0.12 Released with Thunderbolt Emulation",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201349",
+          "author": "Content Operations",
+          "description": "This is a new series of articles focusing on RISC-V single board computers running Linux. One set of articles will focus on the Banana Pi BPI-F3, an industrial-grade RISC-V development board with SpacemiT K1 8-core RISC-V AI CPU, providing 2TOPs CPU fusion of general-purpose computing power to support rapid deployment of AI model algorithms.\nThe post Banana Pi BPI-F3 Single Board Computer Running Linux: Introduction appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/banana-pi-bpi-f3-single-board-computer-running-linux-introduction/",
+          "publishedOn": "2025-06-23T13:12:01.000Z",
+          "wordCount": 10605,
+          "title": "Banana Pi BPI-F3 Single Board Computer Running Linux: Introduction",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201317",
+          "author": "Content Operations",
+          "description": "This guide will walk you through how to run GUI apps inside Docker containers with minimal setup.\nThe post How to Run GUI-Based Applications in Docker appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-run-gui-based-applications-in-docker/",
+          "publishedOn": "2025-06-23T12:26:57.000Z",
+          "wordCount": 10561,
+          "title": "How to Run GUI-Based Applications in Docker",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201293",
+          "author": "Content Operations",
+          "description": "Rspamd 3.12 open-source spam filtering system lands with major security fixes, Ollama support, HEIC file recognition, and more.\nThe post Rspamd 3.12: Faster, Smarter, and More Secure Spam Filtering appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/rspamd-3-12-faster-smarter-and-more-secure-spam-filtering/",
+          "publishedOn": "2025-06-23T12:25:08.000Z",
+          "wordCount": 10570,
+          "title": "Rspamd 3.12: Faster, Smarter, and More Secure Spam Filtering",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201287",
+          "author": "Content Operations",
+          "description": "In a significant move, Nitrux Linux bids farewell to NX Desktop and Plasma, shifting to Hyprland, greetd, and Cachy kernel.\nThe post Nitrux Linux Drops NX Desktop and Plasma, Embraces Hyprland appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/nitrux-linux-drops-nx-desktop-and-plasma-embraces-hyprland/",
+          "publishedOn": "2025-06-23T12:23:42.000Z",
+          "wordCount": 10574,
+          "title": "Nitrux Linux Drops NX Desktop and Plasma, Embraces Hyprland",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201283",
+          "author": "Content Operations",
+          "description": "This tutorial will show you how to install Docker on AlmaLinux 10.\nThe post How to Install Docker on AlmaLinux 10 appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-install-docker-on-almalinux-10/",
+          "publishedOn": "2025-06-23T12:20:43.000Z",
+          "wordCount": 10608,
+          "title": "How to Install Docker on AlmaLinux 10",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201280",
+          "author": "Content Operations",
+          "description": "The ps command is used to display information about the currently active processes in your system. It provides various information, such as running process names, process IDs, memory usage, and much more.\nThe post Fixing the ‘ps: command not found’ Error in Linux appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/fixing-the-ps-command-not-found-error-in-linux/",
+          "publishedOn": "2025-06-23T12:17:10.000Z",
+          "wordCount": 10587,
+          "title": "Fixing the ‘ps: command not found’ Error in Linux",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
         {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=201290",
           "author": "Content Operations",
@@ -2157,16 +2267,6 @@
           "wordCount": 10602,
           "title": "How to Make Your Linux Terminal Talk Using espeak-ng",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200350",
-          "author": "Content Operations",
-          "description": "A quarter-century ago when SUSE was the cream of the crop, most Linux distros were envious of the YaST configuration tool.\nThe post SUSE Is Giving YaST the Dodo Bird Treatment appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/suse-is-giving-yast-the-dodo-bird-treatment/",
-          "publishedOn": "2025-05-25T13:33:38.000Z",
-          "wordCount": 10523,
-          "title": "SUSE Is Giving YaST the Dodo Bird Treatment",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2175,6 +2275,336 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMisgFBVV95cUxObVpUX3luQ014SkpFM1ltdnJZRXRRUllhdzlqMUEzT3Z2M08yZ2pIS2JLNV9qTkIyUm90YlhtMGp3SVJKQk1mNEpaMXpGQ19BNDk3cVhteTRrczRISDFLUW9WcUNLTFRHOG9VdnZqbldJNFhDYTRXUjEzV080X2QzejBfdFVaVFNPVC1wbG5XRUcyN2FCT2Y4UXpUdVd2WmFId3VYcnlrazhsMnphWEhrQ2lB",
+          "author": null,
+          "description": "Bill Gates meets longtime rival Linux creator Linus Torvalds  The American Bazaar",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVpUX3luQ014SkpFM1ltdnJZRXRRUllhdzlqMUEzT3Z2M08yZ2pIS2JLNV9qTkIyUm90YlhtMGp3SVJKQk1mNEpaMXpGQ19BNDk3cVhteTRrczRISDFLUW9WcUNLTFRHOG9VdnZqbldJNFhDYTRXUjEzV080X2QzejBfdFVaVFNPVC1wbG5XRUcyN2FCT2Y4UXpUdVd2WmFId3VYcnlrazhsMnphWEhrQ2lB?oc=5",
+          "publishedOn": "2025-06-23T21:07:36.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates meets longtime rival Linux creator Linus Torvalds - The American Bazaar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMikAFBVV95cUxNdF81amMwLUJUSGNCRktOeWFhdWhiYnczWFQya0ZaWk4tQ0U3RWtlYUd2R1JZa1MxY2RPU0ZCdldrQUJUbFY1YXpRMG5TQm00Rjd2UnBmWmRmTVNRRlpjcVZzY0FPXzlFVWFaQlpkN1JFOWhZbmFjZ0FLOTBWbl8zWFBUeHh2ZHZrNXZRSVV5dTM",
+          "author": null,
+          "description": "Google Donates the Agent2Agent Protocol to the Linux Foundation  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdF81amMwLUJUSGNCRktOeWFhdWhiYnczWFQya0ZaWk4tQ0U3RWtlYUd2R1JZa1MxY2RPU0ZCdldrQUJUbFY1YXpRMG5TQm00Rjd2UnBmWmRmTVNRRlpjcVZzY0FPXzlFVWFaQlpkN1JFOWhZbmFjZ0FLOTBWbl8zWFBUeHh2ZHZrNXZRSVV5dTM?oc=5",
+          "publishedOn": "2025-06-23T21:01:22.000Z",
+          "wordCount": 12648,
+          "title": "Google Donates the Agent2Agent Protocol to the Linux Foundation - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilgFBVV95cUxQZmJJQmFQVjR2X3FYeUUtdFRzVjBncWdCemNBYjVlbGZ5eGNHbktYTlJaR0xERnJ2ZGd4RElyVFVqNTdBODNZT0d3SVgtR3EwQjViX2cyWHlzZzQwendoTDdYWS12MXdWNFYzQ3N6V3VqMS1DemJ1UkZoTGJhY1pBX2tOR2thbHdPS3B2c1FoaDZhU1B5Zmc",
+          "author": null,
+          "description": "Google’s Agent2Agent protocol finds new home at the Linux Foundation  SD Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmJJQmFQVjR2X3FYeUUtdFRzVjBncWdCemNBYjVlbGZ5eGNHbktYTlJaR0xERnJ2ZGd4RElyVFVqNTdBODNZT0d3SVgtR3EwQjViX2cyWHlzZzQwendoTDdYWS12MXdWNFYzQ3N6V3VqMS1DemJ1UkZoTGJhY1pBX2tOR2thbHdPS3B2c1FoaDZhU1B5Zmc?oc=5",
+          "publishedOn": "2025-06-23T20:08:28.000Z",
+          "wordCount": 12648,
+          "title": "Google’s Agent2Agent protocol finds new home at the Linux Foundation - SD Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxNUjRZbHloMXR0RklZbjhyMk1zWXdscXNrYmh1S2tLWmkwSVJ3NlFGcFdXSEh0WHRvNFNwVlB0QWxHUkUtTlBsQnZhSHFTVEs0NzV2RUE0ZHFpOE42aUN0NnNrTXZNaTFObTdjaVgzMF9qZDdPTkRWbWNodjNsZW5fUFB6Um40UlczM3ZaS2ViSmc4Y3o1OHN1c3Nhd2h0eUdTcjRsWA",
+          "author": null,
+          "description": "Nidec chooses Wind River Linux for AI data center cooling system  Digital Infra Network",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjRZbHloMXR0RklZbjhyMk1zWXdscXNrYmh1S2tLWmkwSVJ3NlFGcFdXSEh0WHRvNFNwVlB0QWxHUkUtTlBsQnZhSHFTVEs0NzV2RUE0ZHFpOE42aUN0NnNrTXZNaTFObTdjaVgzMF9qZDdPTkRWbWNodjNsZW5fUFB6Um40UlczM3ZaS2ViSmc4Y3o1OHN1c3Nhd2h0eUdTcjRsWA?oc=5",
+          "publishedOn": "2025-06-23T20:01:42.000Z",
+          "wordCount": 12648,
+          "title": "Nidec chooses Wind River Linux for AI data center cooling system - Digital Infra Network",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxOMkQxaTZjR3JQNDMxbG5aNnljQnR5Ukxodnh2cFBqa3ktb1FfbExtdDZFVzg5NnJTcGVha1MxWEJXNjktbzM3MWlQYkZlZW5LMUhxbHotMFlUVXFMQTdkWmVuSU1qS1d1SWN3ODVBemtBS0RvMWJZdmpOdHI0eWUtRzh6eXJCZU5JenJrMzdCMFBaTXEt",
+          "author": null,
+          "description": "Linux Foundation to host Google's Agent2Agent protocol  Fierce Network",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkQxaTZjR3JQNDMxbG5aNnljQnR5Ukxodnh2cFBqa3ktb1FfbExtdDZFVzg5NnJTcGVha1MxWEJXNjktbzM3MWlQYkZlZW5LMUhxbHotMFlUVXFMQTdkWmVuSU1qS1d1SWN3ODVBemtBS0RvMWJZdmpOdHI0eWUtRzh6eXJCZU5JenJrMzdCMFBaTXEt?oc=5",
+          "publishedOn": "2025-06-23T20:00:00.000Z",
+          "wordCount": 12648,
+          "title": "Linux Foundation to host Google's Agent2Agent protocol - Fierce Network",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipgFBVV95cUxQM21jeFlUSHZhUllPSTRseVF1TnRQSHBMLU9VMWhsU1dNcGNXaWVnS09nNDNoMmZYZXRBTnFaWmw1VnprTUtBYW5DeUFyMGVVZVFodXVucmJRUjktY2VhcGptb3ZpQVFCcHY5clI1VExjRVRDeUJNOWE3WGNpaWEtMm5ZOUxrc2h2Y3RXUzMyeGlrdlFEQWVmQVRhMGR0U3BTM1BfaHdn",
+          "author": null,
+          "description": "Why Linux VPS Hosting Is the Top Choice for Developers in 2025  Fingerlakes1.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM21jeFlUSHZhUllPSTRseVF1TnRQSHBMLU9VMWhsU1dNcGNXaWVnS09nNDNoMmZYZXRBTnFaWmw1VnprTUtBYW5DeUFyMGVVZVFodXVucmJRUjktY2VhcGptb3ZpQVFCcHY5clI1VExjRVRDeUJNOWE3WGNpaWEtMm5ZOUxrc2h2Y3RXUzMyeGlrdlFEQWVmQVRhMGR0U3BTM1BfaHdn?oc=5",
+          "publishedOn": "2025-06-23T18:28:21.000Z",
+          "wordCount": 12648,
+          "title": "Why Linux VPS Hosting Is the Top Choice for Developers in 2025 - Fingerlakes1.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixgFBVV95cUxNbDFzZmdYaGVTZ1BhSF9sbEZFQ1dXSGNxMDJyS3FPZW9IbWhaVTRLWGxFaEthYW9FV1hjS2E3Q1pqMnlhM2hUTDJqQk96OGxhaF9zNF9CTFZ5Q0RYWWNWOXh6cC16M0dsWGJLU2J6R2xCbzFSb0x0Sm9LWFdVMldXcVgzR2xkUm9RODlxNkVyQjRRUUlTOHg4QnhCZ0NFNUFVdnZDN2VyR2hjcXNqMHNxWGRWSjc5TU9xS3lFclpJWGU4WnhLX0E",
+          "author": null,
+          "description": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux  Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDFzZmdYaGVTZ1BhSF9sbEZFQ1dXSGNxMDJyS3FPZW9IbWhaVTRLWGxFaEthYW9FV1hjS2E3Q1pqMnlhM2hUTDJqQk96OGxhaF9zNF9CTFZ5Q0RYWWNWOXh6cC16M0dsWGJLU2J6R2xCbzFSb0x0Sm9LWFdVMldXcVgzR2xkUm9RODlxNkVyQjRRUUlTOHg4QnhCZ0NFNUFVdnZDN2VyR2hjcXNqMHNxWGRWSjc5TU9xS3lFclpJWGU4WnhLX0E?oc=5",
+          "publishedOn": "2025-06-23T17:23:35.000Z",
+          "wordCount": 12648,
+          "title": "Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilgFBVV95cUxQb1d0QlBxUzNIQVhpQWJlMl9sV2pwbjdFRmJUcHFlUkxfNkFoa0RoNlBrbjRlYlltaWMwbVl4X05abE9zTlpzbEpKUEhlT0tWSDYyajRIQlVEVnB4cnZTdk00Qzd4U0Z2VGhiT1pBYkVNSXlYRVhEaHQ4ZFNsRHlsT3ByTW5wT1NBV1ZqNDh3N0t5R3BLUGc",
+          "author": null,
+          "description": "How I use VirtualBox to run any OS on my Mac - including Linux  ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1d0QlBxUzNIQVhpQWJlMl9sV2pwbjdFRmJUcHFlUkxfNkFoa0RoNlBrbjRlYlltaWMwbVl4X05abE9zTlpzbEpKUEhlT0tWSDYyajRIQlVEVnB4cnZTdk00Qzd4U0Z2VGhiT1pBYkVNSXlYRVhEaHQ4ZFNsRHlsT3ByTW5wT1NBV1ZqNDh3N0t5R3BLUGc?oc=5",
+          "publishedOn": "2025-06-23T16:07:00.000Z",
+          "wordCount": 12648,
+          "title": "How I use VirtualBox to run any OS on my Mac - including Linux - ZDNET",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimgFBVV95cUxNdHNTcGw5UDhXOTJhcVNmN1JOWDFzeEM1Rl9TNmhvTnFzTU9uRlZIZW4yWUZrcnhMajRHc2ctQXRwdVVBQjdTSjNra01CVmtZMFAzSjJGSjk0SWtHSmkyeXUxQU95bG9NYnBjVGJZQ0haVkpiYVN1eXBQaFVnRE5JQ2IzZG5mY055U08yRFVscEFaTkgzOGs4bWtB",
+          "author": null,
+          "description": "I tried Linux Mint as a lifelong Windows user, and the customization blew me away  XDA",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHNTcGw5UDhXOTJhcVNmN1JOWDFzeEM1Rl9TNmhvTnFzTU9uRlZIZW4yWUZrcnhMajRHc2ctQXRwdVVBQjdTSjNra01CVmtZMFAzSjJGSjk0SWtHSmkyeXUxQU95bG9NYnBjVGJZQ0haVkpiYVN1eXBQaFVnRE5JQ2IzZG5mY055U08yRFVscEFaTkgzOGs4bWtB?oc=5",
+          "publishedOn": "2025-06-23T16:00:00.000Z",
+          "wordCount": 12648,
+          "title": "I tried Linux Mint as a lifelong Windows user, and the customization blew me away - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaEFVX3lxTE5SamQ2cEQ3Vlh2T0VHVmdrUkkzcmpBd1hlSWt1ZVczY3VCak5DNHBraFZFSUJ1RllURzZLV0VHRmlOcU9sT252aHh6Zk5pOEtwaU9VaGJNbll6YzRkRkQ5ZTNUc3FjVm5O",
+          "author": null,
+          "description": "Linux on Phones Gets a Big Upgrade With postmarketOS 25.06  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SamQ2cEQ3Vlh2T0VHVmdrUkkzcmpBd1hlSWt1ZVczY3VCak5DNHBraFZFSUJ1RllURzZLV0VHRmlOcU9sT252aHh6Zk5pOEtwaU9VaGJNbll6YzRkRkQ5ZTNUc3FjVm5O?oc=5",
+          "publishedOn": "2025-06-23T15:42:00.000Z",
+          "wordCount": 12648,
+          "title": "Linux on Phones Gets a Big Upgrade With postmarketOS 25.06 - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicEFVX3lxTE9XUHkwbkZ5T2x6ajNYUHVYQnQ1YTluYmlxNzNPMmFPLXR1bHpjZ2NCTVVlaEdyZUJWX20tQ2VQU1JxNDhzeHFBQ0lfeFA3LWZRUDVSNlgyX1NKZEFJLUdvazkyRGRqTmtLeVdrUGFyTzjSAXZBVV95cUxQTnhFTmdaZFZZbi1DWGVKNGxGZ0RRemNxY2o5VXpqV0t5MG9wazFsVTFiUDF6VVVrdGZGR0N3bjNJam9qX29xclRZbFlHR0E3elQxcnpHZ3dwY3MtOS1FbEVGLUVpMExIaFp6elFTTHBCbEhIYkhB",
+          "author": null,
+          "description": "Driver’s Ed for Linux  Hackster.io",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XUHkwbkZ5T2x6ajNYUHVYQnQ1YTluYmlxNzNPMmFPLXR1bHpjZ2NCTVVlaEdyZUJWX20tQ2VQU1JxNDhzeHFBQ0lfeFA3LWZRUDVSNlgyX1NKZEFJLUdvazkyRGRqTmtLeVdrUGFyTzjSAXZBVV95cUxQTnhFTmdaZFZZbi1DWGVKNGxGZ0RRemNxY2o5VXpqV0t5MG9wazFsVTFiUDF6VVVrdGZGR0N3bjNJam9qX29xclRZbFlHR0E3elQxcnpHZ3dwY3MtOS1FbEVGLUVpMExIaFp6elFTTHBCbEhIYkhB?oc=5",
+          "publishedOn": "2025-06-23T15:17:54.000Z",
+          "wordCount": 12648,
+          "title": "Driver’s Ed for Linux - Hackster.io",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuAFBVV95cUxOQ0praWszU1ZNRFFtRFZTTkE4dHN6TTNEVzctN0tlTnZKa2FVY21mYS1DbTk4SWtITldRbFlUOUtsbGU5SGR5TzNpeTVmemNHQWhyUHhpR0VmRTJxb2NDTXYxTWk2Tk1EdzB4UGVTMUtVLTRhdlVqUDR1bllhRzh5WXZMUEwzZGwyQ0hxaFlPT2hJYWVYYzNOOHUzSXo3bjNEVVhTaXl2WmR0M19obDFsM2pNX1dHZ2RN",
+          "author": null,
+          "description": "Master Linux Math with the bc Command | Easy CLI Calculations Explained!  Network World",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0praWszU1ZNRFFtRFZTTkE4dHN6TTNEVzctN0tlTnZKa2FVY21mYS1DbTk4SWtITldRbFlUOUtsbGU5SGR5TzNpeTVmemNHQWhyUHhpR0VmRTJxb2NDTXYxTWk2Tk1EdzB4UGVTMUtVLTRhdlVqUDR1bllhRzh5WXZMUEwzZGwyQ0hxaFlPT2hJYWVYYzNOOHUzSXo3bjNEVVhTaXl2WmR0M19obDFsM2pNX1dHZ2RN?oc=5",
+          "publishedOn": "2025-06-23T15:13:26.000Z",
+          "wordCount": 12648,
+          "title": "Master Linux Math with the bc Command | Easy CLI Calculations Explained! - Network World",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi9wFBVV95cUxNbktVekxiWVplblA2Si1tdkdJSW14YzAwNWkxTVBMZEd5SVdpYlR3VzVrOTVkTlo3ODF1MWNmSUd5cjVMclJhRzBHbk9zSGNKZm5Wc0FFZmEyVDhTQVR1WTJNV2h1UFJlOTZVWEtWR1NUbXpubnhBVXdaNU1sMkVJN040cS1xUllyeDM1dFF4NnRWY0M5b09CeXhkYkFNbTVZZm01YVFXZ09nS2Y3cUQ1UlNFajJHY1o0UmJXcE41aVltekZNTmpQQlE1QTREb3JkTldIaVNBQXRGMVRTNktrbmJHQUd3QlRmVTVUY3JJOGJpZTdRanFj",
+          "author": null,
+          "description": "Linux Foundation Report Finds Organizations Embrace Upskilling and Open Source to Meet AI-driven Job Demands  PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbktVekxiWVplblA2Si1tdkdJSW14YzAwNWkxTVBMZEd5SVdpYlR3VzVrOTVkTlo3ODF1MWNmSUd5cjVMclJhRzBHbk9zSGNKZm5Wc0FFZmEyVDhTQVR1WTJNV2h1UFJlOTZVWEtWR1NUbXpubnhBVXdaNU1sMkVJN040cS1xUllyeDM1dFF4NnRWY0M5b09CeXhkYkFNbTVZZm01YVFXZ09nS2Y3cUQ1UlNFajJHY1o0UmJXcE41aVltekZNTmpQQlE1QTREb3JkTldIaVNBQXRGMVRTNktrbmJHQUd3QlRmVTVUY3JJOGJpZTdRanFj?oc=5",
+          "publishedOn": "2025-06-23T15:00:00.000Z",
+          "wordCount": 12648,
+          "title": "Linux Foundation Report Finds Organizations Embrace Upskilling and Open Source to Meet AI-driven Job Demands - PR Newswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihgJBVV95cUxNR1RjZVFzYmZObVZ5U3YtS2RVajVzT2UzczRsMXpYb0dRYTNWSUh0RXlHSGtnaUpKNW12X1ZkY1FySXQ4US1KTnVvVGhxYXBjdTBoWHFodXJHUlIzWFV1SUNrczA5WU12SVpWVGVyc1lvVGZTTHNTNkN6dnI3X3NuenZZV25BWFZOaWNBT0VEYnV3OHl4a2JMNmZheFdwUVhlY0g5MER1eXZ6OFVZUUxWX0hBZFlQUC1DUGxiZE9KVDBUTHBFRWlGVVpYZGNCWUVicklkamhyTUdzYzRJWlBYejFFUEdNWlRBY1E1dFVDMTZ2aXc2Z212d2hub3hGWXVLempYcWln",
+          "author": null,
+          "description": "Linux Foundation Launches the Agent2Agent Protocol Project to Enable Secure, Intelligent Communication Between AI Agents  PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR1RjZVFzYmZObVZ5U3YtS2RVajVzT2UzczRsMXpYb0dRYTNWSUh0RXlHSGtnaUpKNW12X1ZkY1FySXQ4US1KTnVvVGhxYXBjdTBoWHFodXJHUlIzWFV1SUNrczA5WU12SVpWVGVyc1lvVGZTTHNTNkN6dnI3X3NuenZZV25BWFZOaWNBT0VEYnV3OHl4a2JMNmZheFdwUVhlY0g5MER1eXZ6OFVZUUxWX0hBZFlQUC1DUGxiZE9KVDBUTHBFRWlGVVpYZGNCWUVicklkamhyTUdzYzRJWlBYejFFUEdNWlRBY1E1dFVDMTZ2aXc2Z212d2hub3hGWXVLempYcWln?oc=5",
+          "publishedOn": "2025-06-23T15:00:00.000Z",
+          "wordCount": 12648,
+          "title": "Linux Foundation Launches the Agent2Agent Protocol Project to Enable Secure, Intelligent Communication Between AI Agents - PR Newswire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqAJBVV95cUxPYzl1WDFYWEJVdnplMVA5Z2ZhZU16NE1XS2VDeHVSLXhTeGhmNmdaWmdhelgtSWlmUng1eWNsM1pwR0h0dEhlNXhMOWctUkVEbFdSd0ZWbHE1SV9xUVNsOHhyeVFYeFZxWDI4UDl2WFFZU3V4Tlc4amt2WjY2di1HU0VncEo5N3VLOFhmbE80VmtpTWZOV3hLY2xUYXZvNFRTaEVDOS1YdUh2SVU4MkZlaGhHbjVIMkVlMlFMenJZZ003NHdIcVhtZS0tUERuUk9TeklsQkhwNnhGT2ZrMjRwOExzYVR5aHljSlk5ZmotTnNMbW41bWJWeVNHNDNic0hydXJFcjVGYm52ZGx3XzZCLWNabmp3R1Rwa3JYMGlGTWpYdlNYbnRDaQ",
+          "author": null,
+          "description": "Yocto Project Welcomes RISC-V International as New Platinum Member, Expands Global Ecosystem and Leads with Cyber Resilience Act Preparedness  Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYzl1WDFYWEJVdnplMVA5Z2ZhZU16NE1XS2VDeHVSLXhTeGhmNmdaWmdhelgtSWlmUng1eWNsM1pwR0h0dEhlNXhMOWctUkVEbFdSd0ZWbHE1SV9xUVNsOHhyeVFYeFZxWDI4UDl2WFFZU3V4Tlc4amt2WjY2di1HU0VncEo5N3VLOFhmbE80VmtpTWZOV3hLY2xUYXZvNFRTaEVDOS1YdUh2SVU4MkZlaGhHbjVIMkVlMlFMenJZZ003NHdIcVhtZS0tUERuUk9TeklsQkhwNnhGT2ZrMjRwOExzYVR5aHljSlk5ZmotTnNMbW41bWJWeVNHNDNic0hydXJFcjVGYm52ZGx3XzZCLWNabmp3R1Rwa3JYMGlGTWpYdlNYbnRDaQ?oc=5",
+          "publishedOn": "2025-06-23T15:00:00.000Z",
+          "wordCount": 12648,
+          "title": "Yocto Project Welcomes RISC-V International as New Platinum Member, Expands Global Ecosystem and Leads with Cyber Resilience Act Preparedness - Morningstar",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxNMXlhZFNmSTcwbnJpTkRzNndkdkxScS14Q3I4SGtPYmltX1RuZVRaS0hlMWkzaFZZNDVMQjhIWVQ3TTI0bWJST2p6WFR3TGVySGEyRnJONENvempJWHl0a3RTUWtuNWFqWEdSRU5Gd05nQW5GRU55WS1IaUZuWFItU1owWEVVd0ZRaWdOWmpnSFl5enF6NVRTU1JiLXRPZGxVTFdqYtIBqgFBVV95cUxPdldMeGIwVnN1bmtjZjFTdnlnR0ZCR3QwcHJWXzJWU1RwOE1PUnhLRjZlMUFXNkg1LUJfdzUzaTFzTTl6Q3NIc3VpLXU2RTdWQ0c0aENFR0VuNW1wRXI0MU1XS2owY3Bka0x4QThDTkxVd0hyN0I1dW8yYUZTdnYwQlM0M1VmV2Y0TTk4UGRTbnJzS1NVWkhmUnF6ODRDWXMtOUlFVWhRai1OUQ",
+          "author": null,
+          "description": "Clonezilla Live 3.2.2-15 Disk Cloning/Imaging Tool Released with Various Changes  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXlhZFNmSTcwbnJpTkRzNndkdkxScS14Q3I4SGtPYmltX1RuZVRaS0hlMWkzaFZZNDVMQjhIWVQ3TTI0bWJST2p6WFR3TGVySGEyRnJONENvempJWHl0a3RTUWtuNWFqWEdSRU5Gd05nQW5GRU55WS1IaUZuWFItU1owWEVVd0ZRaWdOWmpnSFl5enF6NVRTU1JiLXRPZGxVTFdqYtIBqgFBVV95cUxPdldMeGIwVnN1bmtjZjFTdnlnR0ZCR3QwcHJWXzJWU1RwOE1PUnhLRjZlMUFXNkg1LUJfdzUzaTFzTTl6Q3NIc3VpLXU2RTdWQ0c0aENFR0VuNW1wRXI0MU1XS2owY3Bka0x4QThDTkxVd0hyN0I1dW8yYUZTdnYwQlM0M1VmV2Y0TTk4UGRTbnJzS1NVWkhmUnF6ODRDWXMtOUlFVWhRai1OUQ?oc=5",
+          "publishedOn": "2025-06-23T14:49:25.000Z",
+          "wordCount": 12648,
+          "title": "Clonezilla Live 3.2.2-15 Disk Cloning/Imaging Tool Released with Various Changes - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid0FVX3lxTFBhZFFiWDl3Vk55Q19rMHk2aEZnQzVZYllRRkxOYmE2S0RtZ2VwV0lBb0J3aGpKZ09PNHVTRndHdms0N1B6SjdVaDFybWRoVmJsUkFLVUZtNWxYNkc5cFJpSHk5SDJGYnFFX0JtQUE0dlZpTklfRXZn0gF8QVVfeXFMTnRMTEduMVB4SEFNekpzT2Y4MGJyWklLdk5DTFAtd3VsQWNPdU9FMGtHLW5wYnNvU1RPUXZFQnNpbVN1UU80WWpqNUVVaFhfTnppUndvZmxNWTVSYTV4X1VDTnFLMFlJWWVkeW8zSWdURE1xQnR4aHY5Y2FiUA",
+          "author": null,
+          "description": "Linux Firewall IPFire 2.29 Core Update 195 Released With VPN Protocol Support  CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZFFiWDl3Vk55Q19rMHk2aEZnQzVZYllRRkxOYmE2S0RtZ2VwV0lBb0J3aGpKZ09PNHVTRndHdms0N1B6SjdVaDFybWRoVmJsUkFLVUZtNWxYNkc5cFJpSHk5SDJGYnFFX0JtQUE0dlZpTklfRXZn0gF8QVVfeXFMTnRMTEduMVB4SEFNekpzT2Y4MGJyWklLdk5DTFAtd3VsQWNPdU9FMGtHLW5wYnNvU1RPUXZFQnNpbVN1UU80WWpqNUVVaFhfTnppUndvZmxNWTVSYTV4X1VDTnFLMFlJWWVkeW8zSWdURE1xQnR4aHY5Y2FiUA?oc=5",
+          "publishedOn": "2025-06-23T14:23:17.000Z",
+          "wordCount": 12648,
+          "title": "Linux Firewall IPFire 2.29 Core Update 195 Released With VPN Protocol Support - CyberSecurityNews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMitwFBVV95cUxPdDRWR0N2Y042bjhiSThnellDMjRrUlN2eFEwUHdQTW16eVhIeTZWYzJqd05mbTlNTEtpUU5XR3FSZ1lQVnFSMUhsNElQU2VyN0hpZzdUQTFOdE1qZFZpWDBUV1hwNjRJbHF2RkU1OElfZ3BTR2hfVUVxRFdwUHdpZE5uc2Y1SEI1X0hiQ1puVk12dkE5U2NROVhIeWpMTGF4YXVZOWFxcG5ZR1JCOFhsN3N1bTVRSmM",
+          "author": null,
+          "description": "Bill Gates and Linux creator Linus Torvalds just met for the first time  PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDRWR0N2Y042bjhiSThnellDMjRrUlN2eFEwUHdQTW16eVhIeTZWYzJqd05mbTlNTEtpUU5XR3FSZ1lQVnFSMUhsNElQU2VyN0hpZzdUQTFOdE1qZFZpWDBUV1hwNjRJbHF2RkU1OElfZ3BTR2hfVUVxRFdwUHdpZE5uc2Y1SEI1X0hiQ1puVk12dkE5U2NROVhIeWpMTGF4YXVZOWFxcG5ZR1JCOFhsN3N1bTVRSmM?oc=5",
+          "publishedOn": "2025-06-23T14:18:00.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates and Linux creator Linus Torvalds just met for the first time - PCWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqgFBVV95cUxQeG1XazBxcFdXTWRndHZLcjh0ajVGblhGbkpQdExNc3dJbjdGb3pZOFFYazVCMDVRQjZ0WEIzWW1TYmxYQ0hkU1l1Q04tZFByY1ZmNDNTZ0dkeUdtbVBLZDZmZHE4bDVrbHFVV01hdUFUM29lS25yeGVScjU1QVdSOU52cy1mWWJGMGhmR0lXdTRYVlA3Y0c5cUhvTlVsdWJoT0M0dDFhUnkxQQ",
+          "author": null,
+          "description": "Update Kali Linux to the latest software repository key  TechTarget",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG1XazBxcFdXTWRndHZLcjh0ajVGblhGbkpQdExNc3dJbjdGb3pZOFFYazVCMDVRQjZ0WEIzWW1TYmxYQ0hkU1l1Q04tZFByY1ZmNDNTZ0dkeUdtbVBLZDZmZHE4bDVrbHFVV01hdUFUM29lS25yeGVScjU1QVdSOU52cy1mWWJGMGhmR0lXdTRYVlA3Y0c5cUhvTlVsdWJoT0M0dDFhUnkxQQ?oc=5",
+          "publishedOn": "2025-06-23T14:12:08.000Z",
+          "wordCount": 12648,
+          "title": "Update Kali Linux to the latest software repository key - TechTarget",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiyAFBVV95cUxPQ280ek5Fa3BkdlEyRmR4RktQNWxHdlBXZnBnM3pucGJyaUNXbWEtZU55YjJVMGxnWDVRdDRBUTE5bk0zOGtDUWhQcFV4QTNTcUNjTk9pWFF0YURYRTZiZDFuVGNTWkdZOE5WS2dPM0s0U1pDcTJoRGRqQmxGTHpORVlYNlZhTWxZcTR6Z1M2aXJVRVhFU2FuSFFzUGp0MjRrcHAzdlNoZnh1UjVVQ1dUQzdOTDUtcHRUdkNyUFp5d0Y0b3FqRnRTUtIBzgFBVV95cUxNQW1BSEpFUHh6aVEtSEFLTkptZjJvN25Qa1RDNXZWWFA4ZnUtLWpRWk9JeTRQWUk0empGQ1kzVUlCNUY2MmYzd0E4dXd2T2hHOXpndVNKMjRRT2VfS0Rma1Y5RHk0aUR3M0luVEZOSXZzYW1VdFNZNk1TVHNHNGlQWnJ0d0w0V00xS1N0UGh1QWwta19DNk9QNWZxcS1QdVk2ZldtaWJIM0FyVjY5cW90UHZLT09yT0VtcnZqcENWQmcxV0hxcXJfRG1hajluZw",
+          "author": null,
+          "description": "Bill Gates meets Linus Torvalds, the man who created Windows-rival Linux, for 1st time | Russinovich said the dinner was social in nature | Inshorts  Inshorts",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ280ek5Fa3BkdlEyRmR4RktQNWxHdlBXZnBnM3pucGJyaUNXbWEtZU55YjJVMGxnWDVRdDRBUTE5bk0zOGtDUWhQcFV4QTNTcUNjTk9pWFF0YURYRTZiZDFuVGNTWkdZOE5WS2dPM0s0U1pDcTJoRGRqQmxGTHpORVlYNlZhTWxZcTR6Z1M2aXJVRVhFU2FuSFFzUGp0MjRrcHAzdlNoZnh1UjVVQ1dUQzdOTDUtcHRUdkNyUFp5d0Y0b3FqRnRTUtIBzgFBVV95cUxNQW1BSEpFUHh6aVEtSEFLTkptZjJvN25Qa1RDNXZWWFA4ZnUtLWpRWk9JeTRQWUk0empGQ1kzVUlCNUY2MmYzd0E4dXd2T2hHOXpndVNKMjRRT2VfS0Rma1Y5RHk0aUR3M0luVEZOSXZzYW1VdFNZNk1TVHNHNGlQWnJ0d0w0V00xS1N0UGh1QWwta19DNk9QNWZxcS1QdVk2ZldtaWJIM0FyVjY5cW90UHZLT09yT0VtcnZqcENWQmcxV0hxcXJfRG1hajluZw?oc=5",
+          "publishedOn": "2025-06-23T14:03:45.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates meets Linus Torvalds, the man who created Windows-rival Linux, for 1st time | Russinovich said the dinner was social in nature | Inshorts - Inshorts",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFBVV95cUxPbTctRF9DSVhJVDFIQ0ozSlNYbE9pOWhmOHlhbXZjb0FQc08wYWllVUVSWFBRbFlDVWYxTU5mSWlNb1AtaVVGTVlkQ1JtWFdpYjRoZXM0bE9VaXR6R01BVHNzYUVXd0s2WEozb3dUdXdIRmluTzdTSjZuTEZEVWRJT0lweDB2b0dlS3RwZFAxc3pabThpS05lWA",
+          "author": null,
+          "description": "Linux servers subjected to resurgent Prometei botnet intrusions  SC Media",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTctRF9DSVhJVDFIQ0ozSlNYbE9pOWhmOHlhbXZjb0FQc08wYWllVUVSWFBRbFlDVWYxTU5mSWlNb1AtaVVGTVlkQ1JtWFdpYjRoZXM0bE9VaXR6R01BVHNzYUVXd0s2WEozb3dUdXdIRmluTzdTSjZuTEZEVWRJT0lweDB2b0dlS3RwZFAxc3pabThpS05lWA?oc=5",
+          "publishedOn": "2025-06-23T14:03:18.000Z",
+          "wordCount": 12648,
+          "title": "Linux servers subjected to resurgent Prometei botnet intrusions - SC Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxPRmVsZEpHUGRJWVNHOFJMcHdENVltLWlCR3N5RHVkZy1RUWlBUEdSdDlmdkNodmlEOVQxbnY0d0JWTUJUUFl0YkFEUUN6c2MwaUdKU0Fyak9rT0MybFFJRTVBMFJ3NVJ2b3hMSjJEUFE1RFdGZk5od3QzX28tV2hjUXpRN2RIOGc",
+          "author": null,
+          "description": "How AlmaLinux and Rocky Linux Have Diverged Since CentOS  The New Stack",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmVsZEpHUGRJWVNHOFJMcHdENVltLWlCR3N5RHVkZy1RUWlBUEdSdDlmdkNodmlEOVQxbnY0d0JWTUJUUFl0YkFEUUN6c2MwaUdKU0Fyak9rT0MybFFJRTVBMFJ3NVJ2b3hMSjJEUFE1RFdGZk5od3QzX28tV2hjUXpRN2RIOGc?oc=5",
+          "publishedOn": "2025-06-23T14:01:22.000Z",
+          "wordCount": 12648,
+          "title": "How AlmaLinux and Rocky Linux Have Diverged Since CentOS - The New Stack",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxPOWZNb3pwa181WlhtUFptWnpjNVlIVWNBeDAwdDFUdk9URTZYNWNVSjVVOVhtS0lSMmRySFY0ZjFyT21NMHBoaVF4LTRLcEJxZFByMTA0LXN1clBhblJCOHFfamRsT2ZoazhDYUI1ODJZR3hWZmRlek10Z2gtc1JEWUJLRFNqdVdJNlJtT0hHREExS281ekFtWmFMTENqdw",
+          "author": null,
+          "description": "Your jump from Windows 10 to Linux gets easier with KDE Plasma 6.4  ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWZNb3pwa181WlhtUFptWnpjNVlIVWNBeDAwdDFUdk9URTZYNWNVSjVVOVhtS0lSMmRySFY0ZjFyT21NMHBoaVF4LTRLcEJxZFByMTA0LXN1clBhblJCOHFfamRsT2ZoazhDYUI1ODJZR3hWZmRlek10Z2gtc1JEWUJLRFNqdVdJNlJtT0hHREExS281ekFtWmFMTENqdw?oc=5",
+          "publishedOn": "2025-06-23T14:01:00.000Z",
+          "wordCount": 12648,
+          "title": "Your jump from Windows 10 to Linux gets easier with KDE Plasma 6.4 - ZDNET",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMizAFBVV95cUxQQWRBZnRwaEsyc1d6QmIydDlzOFJsQmlPTHZVblBhWG5SdTRNUUZ3eS1DUWZRZ0x1Q3U4a3JoVm5nU25Ecm5yQjNqSTNpTmZOdDk1a2RmdHEzRzdha2FCaUZiVEhKMUVaVEJ0TEZSQkgyMXQxbGt3OGxmb3A0b2tUYUN5STgxZEd3dTl0NC1hbUdSY1NfTkZqM0txcUpleWVNNVVES3dFbFBjUlQ3cW9jcVRZTWNuTzJXMEtoTWx4aF9hdXktTml3UXBmUEw",
+          "author": null,
+          "description": "This Linux distro routes all your traffic through the Tor network - and it's my new favorite for privacy  ZDNET",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWRBZnRwaEsyc1d6QmIydDlzOFJsQmlPTHZVblBhWG5SdTRNUUZ3eS1DUWZRZ0x1Q3U4a3JoVm5nU25Ecm5yQjNqSTNpTmZOdDk1a2RmdHEzRzdha2FCaUZiVEhKMUVaVEJ0TEZSQkgyMXQxbGt3OGxmb3A0b2tUYUN5STgxZEd3dTl0NC1hbUdSY1NfTkZqM0txcUpleWVNNVVES3dFbFBjUlQ3cW9jcVRZTWNuTzJXMEtoTWx4aF9hdXktTml3UXBmUEw?oc=5",
+          "publishedOn": "2025-06-23T13:03:00.000Z",
+          "wordCount": 12648,
+          "title": "This Linux distro routes all your traffic through the Tor network - and it's my new favorite for privacy - ZDNET",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiowFBVV95cUxNZjlpZHZHRm5SWnIwdWdjblpXMlVMUkJQWXJ0R0g5UUxQeU9sWjRieGYwRTZ4T0l6SnZoTW80TGtjVWhKa3hTcnVPVG5IaEUzZWhXNnYwdUg5MWZrdXVxdVk1NUVzVlFDQnlPTVlwVXlTREFtQm81amJlUkdtWWRBSk5Id2prcVJQN0Judm53MmdkeUZpZ2tzZ3NBelBmdjFUYklz",
+          "author": null,
+          "description": "How to switch from Windows 10 to Linux: A technical guide  PCWorld",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlpZHZHRm5SWnIwdWdjblpXMlVMUkJQWXJ0R0g5UUxQeU9sWjRieGYwRTZ4T0l6SnZoTW80TGtjVWhKa3hTcnVPVG5IaEUzZWhXNnYwdUg5MWZrdXVxdVk1NUVzVlFDQnlPTVlwVXlTREFtQm81amJlUkdtWWRBSk5Id2prcVJQN0Judm53MmdkeUZpZ2tzZ3NBelBmdjFUYklz?oc=5",
+          "publishedOn": "2025-06-23T13:00:00.000Z",
+          "wordCount": 12648,
+          "title": "How to switch from Windows 10 to Linux: A technical guide - PCWorld",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAJBVV95cUxNQWZqdjZTamQ0dmxibTlWS3dLSGRCZlVfNF9OU3AzMmFFVDAyQlY4aXdSTHM0b19IR1BBdFpjeDlYWllfZHpHTVlPb2pTTm5wSjFlanhiR0didHhtVlM2UVJVOXNpZmJadmV0U1p2WHZoV3FxQ0hVS3NfdVROUjg2NndmdXZsT1RsbnotcC15dE9oMEV2akFMU0xsSGRXUVZ4dm94czgydjI1dVNTalpWSlJBZlBYYmtJeWZ0NVJNZFJoVkZiTi1kOHlTN0M0eUV6UG9jNGNHMm03emZiZDQ5WkxBVWZ6TURDVWtCNnZpa3hqVzBwSlpVZ3ZHQkxYVWJl",
+          "author": null,
+          "description": "Leading Manufacturer Nidec Selects Wind River Linux for Secure Development of AI-Driven Data Center Cooling System  Business Wire",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQWZqdjZTamQ0dmxibTlWS3dLSGRCZlVfNF9OU3AzMmFFVDAyQlY4aXdSTHM0b19IR1BBdFpjeDlYWllfZHpHTVlPb2pTTm5wSjFlanhiR0didHhtVlM2UVJVOXNpZmJadmV0U1p2WHZoV3FxQ0hVS3NfdVROUjg2NndmdXZsT1RsbnotcC15dE9oMEV2akFMU0xsSGRXUVZ4dm94czgydjI1dVNTalpWSlJBZlBYYmtJeWZ0NVJNZFJoVkZiTi1kOHlTN0M0eUV6UG9jNGNHMm03emZiZDQ5WkxBVWZ6TURDVWtCNnZpa3hqVzBwSlpVZ3ZHQkxYVWJl?oc=5",
+          "publishedOn": "2025-06-23T13:00:00.000Z",
+          "wordCount": 12648,
+          "title": "Leading Manufacturer Nidec Selects Wind River Linux for Secure Development of AI-Driven Data Center Cooling System - Business Wire",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMijwFBVV95cUxNYm41OXdaVlYwdmhNSEVXbjlFWHhTcjBmdXd1bEdRdTRnSVVsSjFGUU1pQnlNWDU1d3lOUU00aVBVRWVnekstV291aGJyUHprUWlNbTg2Vk8xMV9JdDE1bmhmenlyVjRBXzQ4Zk4yd1JUOFJ3cjhoMjlBSUlFdUk3a0lTZ0V6TnpTdjZxSkZlMNIBlAFBVV95cUxNUUlyODFZWlBvVlc0RkprdGVfSVQ3UUVQRlk0b0RmblNTaWZVNUpBQ2tvWEc0TmRyUG1SNmV5NHBJNHIzczZxSHIwSFIwSjlRamFjdXBGQUxudUFnNlJfdW1DdTI2N2Z5UTRlLUtrQTBuQjVDWVBJdll2Vlh4bXg0TkdsUWdGLXo4RDFxUlVKSEdHOFU1",
+          "author": null,
+          "description": "Linux-Based Firewall IPFire 2.29 Rolls Out Update 194 with Improved VPN Features  GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYm41OXdaVlYwdmhNSEVXbjlFWHhTcjBmdXd1bEdRdTRnSVVsSjFGUU1pQnlNWDU1d3lOUU00aVBVRWVnekstV291aGJyUHprUWlNbTg2Vk8xMV9JdDE1bmhmenlyVjRBXzQ4Zk4yd1JUOFJ3cjhoMjlBSUlFdUk3a0lTZ0V6TnpTdjZxSkZlMNIBlAFBVV95cUxNUUlyODFZWlBvVlc0RkprdGVfSVQ3UUVQRlk0b0RmblNTaWZVNUpBQ2tvWEc0TmRyUG1SNmV5NHBJNHIzczZxSHIwSFIwSjlRamFjdXBGQUxudUFnNlJfdW1DdTI2N2Z5UTRlLUtrQTBuQjVDWVBJdll2Vlh4bXg0TkdsUWdGLXo4RDFxUlVKSEdHOFU1?oc=5",
+          "publishedOn": "2025-06-23T12:07:50.000Z",
+          "wordCount": 12648,
+          "title": "Linux-Based Firewall IPFire 2.29 Rolls Out Update 194 with Improved VPN Features - GBHackers News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMi9AFBVV95cUxNMDFLSXIwS1ZmbGN1VU13cGM1aDNMU09lb01BYWRFVDA4dllZcUllRDRoMFhQZy1tMXp1STAtMjFqeTlDU0pFLUFlTy1JRTBRRjItZXM0SDhiX3EwbkxTNGpzcm5yUGl0R2p6VkhmdXYzNC1VSkZtWGNkUHd4TzhZV0xEMGZ3bEpqT3A4WjZhR3ZIZUkyVnhJVlB6OHV4ZnFjVVhud0VZQTRGczM4S3RDTWlDM2ZaUmRSVUNCR1QxMEVMdmpvWi1FR2N2OS1UX3cyTUUtcC1OazYtWmNJTElLYWVGWVZTUEtWU2swSXNpZ25fcHBB0gH6AUFVX3lxTE04OVBCbVRqQU9xTzlTWDFwZ2JNMGZMR091T3llMEFNNlVwWFJndkZkeVM5WW43UlY5TkQyVWZfVVdWd2V5YnJnNEZ4dzBGc2dWQ19jc2pDYWdQdnQ1OUFoZW5ydDR3aDlSZURMZlU0b0pCZmpHNzFYdmkxY1BWN2treEFqX1FHUVJRenVCZ0JCYzhIUkh0eldfbU5VSXphamdySmpSdW9CX3lfZzVWUjEyNEliOVZjUmJmTHQ4WF9LTHhnRkFub2hjUGZHOWlUWEp0NFVPMGFxR0hrTDFaajJHSXZ2bVFRSXhPM0I5ejJJeXNhYWlPU3ZTNGc",
+          "author": null,
+          "description": "Bill Gates meets Linus Torvalds, the man who created Microsoft Windows' biggest rival and kept it free  Moneycontrol",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMDFLSXIwS1ZmbGN1VU13cGM1aDNMU09lb01BYWRFVDA4dllZcUllRDRoMFhQZy1tMXp1STAtMjFqeTlDU0pFLUFlTy1JRTBRRjItZXM0SDhiX3EwbkxTNGpzcm5yUGl0R2p6VkhmdXYzNC1VSkZtWGNkUHd4TzhZV0xEMGZ3bEpqT3A4WjZhR3ZIZUkyVnhJVlB6OHV4ZnFjVVhud0VZQTRGczM4S3RDTWlDM2ZaUmRSVUNCR1QxMEVMdmpvWi1FR2N2OS1UX3cyTUUtcC1OazYtWmNJTElLYWVGWVZTUEtWU2swSXNpZ25fcHBB0gH6AUFVX3lxTE04OVBCbVRqQU9xTzlTWDFwZ2JNMGZMR091T3llMEFNNlVwWFJndkZkeVM5WW43UlY5TkQyVWZfVVdWd2V5YnJnNEZ4dzBGc2dWQ19jc2pDYWdQdnQ1OUFoZW5ydDR3aDlSZURMZlU0b0pCZmpHNzFYdmkxY1BWN2treEFqX1FHUVJRenVCZ0JCYzhIUkh0eldfbU5VSXphamdySmpSdW9CX3lfZzVWUjEyNEliOVZjUmJmTHQ4WF9LTHhnRkFub2hjUGZHOWlUWEp0NFVPMGFxR0hrTDFaajJHSXZ2bVFRSXhPM0I5ejJJeXNhYWlPU3ZTNGc?oc=5",
+          "publishedOn": "2025-06-23T11:39:36.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates meets Linus Torvalds, the man who created Microsoft Windows' biggest rival and kept it free - Moneycontrol",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxONVhNcWJ0ekZndm9USlhjVzE4Ums1UjBFWGd5YmREYlFOWWZaRWJZQjNZYVJPVHV2YzBaYV9fdk9xbk5FcUlITEJ3ZDhGcnB0MEJ0eUtFT1dhZ2xfdGdaSlo2NW9rZE1PTTBtUjZ1OWhaMUhvTmZGN01QSWJYNDVCOGFnZFJWTVlkOGQ2eGtrcDlPTFNEMm5v0gGcAUFVX3lxTE1Vb1RXOWdQTkpONmtQZGw1dTBEUHExbUppQ3ByWkRVb1MtN21ndm9mbTMtMTNtRDd2SGhUdURKc2V6cnZ2OU1HMnpmZmphYmNXRjE1TlF1c3A1VzVmNzdOM3JMcXRiTWZvOUR3cFBsVDJ4NjMxRTJjYjVpMVkyVnd6Zm9JUFMwN0tsRVRUUXFKOVVhd0djUjZ2UTNDOA",
+          "author": null,
+          "description": "Bill Gates met Linux kernel creator Linus Torvalds for the first time  Mezha.Media",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVhNcWJ0ekZndm9USlhjVzE4Ums1UjBFWGd5YmREYlFOWWZaRWJZQjNZYVJPVHV2YzBaYV9fdk9xbk5FcUlITEJ3ZDhGcnB0MEJ0eUtFT1dhZ2xfdGdaSlo2NW9rZE1PTTBtUjZ1OWhaMUhvTmZGN01QSWJYNDVCOGFnZFJWTVlkOGQ2eGtrcDlPTFNEMm5v0gGcAUFVX3lxTE1Vb1RXOWdQTkpONmtQZGw1dTBEUHExbUppQ3ByWkRVb1MtN21ndm9mbTMtMTNtRDd2SGhUdURKc2V6cnZ2OU1HMnpmZmphYmNXRjE1TlF1c3A1VzVmNzdOM3JMcXRiTWZvOUR3cFBsVDJ4NjMxRTJjYjVpMVkyVnd6Zm9JUFMwN0tsRVRUUXFKOVVhd0djUjZ2UTNDOA?oc=5",
+          "publishedOn": "2025-06-23T11:37:30.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates met Linux kernel creator Linus Torvalds for the first time - Mezha.Media",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMingFBVV95cUxQMTFCZEVIUmdjNTd6Zlk5MjNxdnZhWEZsdlZjZWtDckIxS0dOV1JWNUJQMjUtWng2SzBVaXd1em5oRGpSLVlKcW13bUNMS2hteHZPelk0UnRaT1ZBYWVrdVZjRnVCMU10Q05oODF0dmpnTWZGakxZb1FJRk0tTl9haVR5bU5wNGl1SmZKMWFKQ25IUlIwWWVNalMxUEZpZ9IBowFBVV95cUxQN0JFZ1hjNjRmZG1zazRPc1lzb1NSY0xzb245WTBoWHJxS0tFRXdmbThFejl1V0gyTjNTbGk5R1BQaTFCUlYwLXk0OTJrQzdlSEZKZE5OTFFlWG1vYTVBMEFGUU8xOFFHc2xQVVNuYUhiNWhKNGwydE0xdEtSTTlHR01NUXR2UlY4Xzl5Q2tmaDV0amVHeWxnazRJZzJYclBBVERJ",
+          "author": null,
+          "description": "IPFire Linux Firewall Now Ships with Support for the WireGuard VPN Protocol  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTFCZEVIUmdjNTd6Zlk5MjNxdnZhWEZsdlZjZWtDckIxS0dOV1JWNUJQMjUtWng2SzBVaXd1em5oRGpSLVlKcW13bUNMS2hteHZPelk0UnRaT1ZBYWVrdVZjRnVCMU10Q05oODF0dmpnTWZGakxZb1FJRk0tTl9haVR5bU5wNGl1SmZKMWFKQ25IUlIwWWVNalMxUEZpZ9IBowFBVV95cUxQN0JFZ1hjNjRmZG1zazRPc1lzb1NSY0xzb245WTBoWHJxS0tFRXdmbThFejl1V0gyTjNTbGk5R1BQaTFCUlYwLXk0OTJrQzdlSEZKZE5OTFFlWG1vYTVBMEFGUU8xOFFHc2xQVVNuYUhiNWhKNGwydE0xdEtSTTlHR01NUXR2UlY4Xzl5Q2tmaDV0amVHeWxnazRJZzJYclBBVERJ?oc=5",
+          "publishedOn": "2025-06-23T09:57:20.000Z",
+          "wordCount": 12648,
+          "title": "IPFire Linux Firewall Now Ships with Support for the WireGuard VPN Protocol - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifEFVX3lxTE8xZzRJbjhlam1YbGpYb0VaRXZRWmJkYXhXajBDS3k1dEEydjVINWNqQTFvdzFxNDEtRkhJS2FGVjk1aTlWWUM1OG1adE5ybUJlbUdJMWZUbWExQlB4Vmd3M2ZHd2hjM285RUhadlJobWg5QWY1Tnl1NEhsMlo",
+          "author": null,
+          "description": "Europe is switching to Linux and open-source tech to take control of its digital future  Cybernews",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xZzRJbjhlam1YbGpYb0VaRXZRWmJkYXhXajBDS3k1dEEydjVINWNqQTFvdzFxNDEtRkhJS2FGVjk1aTlWWUM1OG1adE5ybUJlbUdJMWZUbWExQlB4Vmd3M2ZHd2hjM285RUhadlJobWg5QWY1Tnl1NEhsMlo?oc=5",
+          "publishedOn": "2025-06-23T09:44:05.000Z",
+          "wordCount": 12648,
+          "title": "Europe is switching to Linux and open-source tech to take control of its digital future - Cybernews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiiwJBVV95cUxOM1IxR0xkUW1SUWFrS242WUtYOGFOOWhvT255eThEX0s3aUxJbk5RZHBDYXlCRnB3ODV4VlM0am51a0lfbmdOcjgtSkdwc055MXY2VjR1RGRVaF9mZElnTDBMWHVnc2ExdE9RZ1NVaGFkU1RCMjdlSXFGRVZpc2lpUTlpeTBDU0c5aE1WUHlCYzBBUURkSTl3QVBFM3JSYlFOSm1Ld0FjUUpUV1NzN3hpRFZVRE95QlAyYVlkNVNYemtnUGFtckh3UnF2UVBaYnVxRjFYTnF0T0tKZGZDcmNKdVVsdFRUc1ZPMFFXVUdFQXRUdzJXVk5wUnlYUy13cVh3R1dTS0VOa3Nrdkk",
+          "author": null,
+          "description": "Bill Gates Finally Meets Linux Creator Linus Torvalds At Microsoft Exec's Dinner, Decades After Powering Rival Operating Systems - Microsoft (NASDAQ:MSFT)  Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM1IxR0xkUW1SUWFrS242WUtYOGFOOWhvT255eThEX0s3aUxJbk5RZHBDYXlCRnB3ODV4VlM0am51a0lfbmdOcjgtSkdwc055MXY2VjR1RGRVaF9mZElnTDBMWHVnc2ExdE9RZ1NVaGFkU1RCMjdlSXFGRVZpc2lpUTlpeTBDU0c5aE1WUHlCYzBBUURkSTl3QVBFM3JSYlFOSm1Ld0FjUUpUV1NzN3hpRFZVRE95QlAyYVlkNVNYemtnUGFtckh3UnF2UVBaYnVxRjFYTnF0T0tKZGZDcmNKdVVsdFRUc1ZPMFFXVUdFQXRUdzJXVk5wUnlYUy13cVh3R1dTS0VOa3Nrdkk?oc=5",
+          "publishedOn": "2025-06-23T08:11:12.000Z",
+          "wordCount": 12648,
+          "title": "Bill Gates Finally Meets Linux Creator Linus Torvalds At Microsoft Exec's Dinner, Decades After Powering Rival Operating Systems - Microsoft (NASDAQ:MSFT) - Benzinga",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilAFBVV95cUxQLVRoWnNsdVFDb2lYdGtYOGtNbGdPY3F0a1J0cWI2TEl5Mkh0T3hnUEY4OGgzODFvaVlLTlZoX1ZJUWl5YkpLQXhKa3gyZGticXBhZGJ0amQ5TVhKSnBMYnpHaFpKTlpMSmJxYkx6N29xRXFuWklObGNoejViaDVWV0Zhd3RZZUltWERIbk04eVZSVTI2",
+          "author": null,
+          "description": "Stealthy backdoor found hiding in SOHO devices running Linux  Help Net Security",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVRoWnNsdVFDb2lYdGtYOGtNbGdPY3F0a1J0cWI2TEl5Mkh0T3hnUEY4OGgzODFvaVlLTlZoX1ZJUWl5YkpLQXhKa3gyZGticXBhZGJ0amQ5TVhKSnBMYnpHaFpKTlpMSmJxYkx6N29xRXFuWklObGNoejViaDVWV0Zhd3RZZUltWERIbk04eVZSVTI2?oc=5",
+          "publishedOn": "2025-06-23T08:01:35.000Z",
+          "wordCount": 12648,
+          "title": "Stealthy backdoor found hiding in SOHO devices running Linux - Help Net Security",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMibkFVX3lxTE1sZ2ZLUVNZWXRidmdBbVpsbEJUTHFwb242ZWFsaC1XVHl0dmlNZVVsdlhZTHpoTllEem9hZkU3YzAtYjFyNEtiSk5ZakEtWVV5T0hjam5HTGFTRUZRbTFPNEg1Yy1DaElER0lvRlpn0gFzQVVfeXFMTVFic3ByRGtIakFMZ0pfV0xnWTRYUlNxOFhLbWV0cjdxYkp5NkM3dUZhNDBfRGxNWmxUVDZNLUZ2ZGJseFRDYlFKU2hLWmRZdUw2LVVkSDlpOGFCaVVrbFlRel9CRWJGYldrSEU0Z3RJeXhqbw",
           "author": null,
@@ -2286,6 +2716,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiogJBVV95cUxObXh1bEk1WEJVb09acE1TbGtDYWZlTGU5MWdXRjkwVnFDVDlhbUZDb3BKdmxnQkhfSkZVTXRaVHJwYXdTUWk0RmxFcHpLV1hBdmhIT3ZvY0lQNV9xaDN1Y2FZZTBnNUFhRDlOUUs2THFaUUNJcENnTUtFTUFNbFJzVlNsS29QeXQyTDhya2xCRmRFVFVaMzNnRHVLR0QwbFc2cm1BUFpzanpTQmluZTlJZTBKUExTSXlvX1FESXNOUEs2ODUtY1hYS2p3RWZ3bFZkUVB6MTh2UFVIcU41SDFKM3VqWDRUSUJSUVVLVmMwMy1yeHpZTjhtTzlpM3lKaDlqRGczelUtQ1BHYklWalJZdnJPYXpJaTBqMnZHSjJnVWlNdw",
+          "author": null,
+          "description": "Long-time rivals Bill Gates and Linus Torvalds meet for the first time, have dinner — 'No major kernel decisions were made, but maybe next dinner'  Tom's Hardware",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObXh1bEk1WEJVb09acE1TbGtDYWZlTGU5MWdXRjkwVnFDVDlhbUZDb3BKdmxnQkhfSkZVTXRaVHJwYXdTUWk0RmxFcHpLV1hBdmhIT3ZvY0lQNV9xaDN1Y2FZZTBnNUFhRDlOUUs2THFaUUNJcENnTUtFTUFNbFJzVlNsS29QeXQyTDhya2xCRmRFVFVaMzNnRHVLR0QwbFc2cm1BUFpzanpTQmluZTlJZTBKUExTSXlvX1FESXNOUEs2ODUtY1hYS2p3RWZ3bFZkUVB6MTh2UFVIcU41SDFKM3VqWDRUSUJSUVVLVmMwMy1yeHpZTjhtTzlpM3lKaDlqRGczelUtQ1BHYklWalJZdnJPYXpJaTBqMnZHSjJnVWlNdw?oc=5",
+          "publishedOn": "2025-06-22T13:10:00.000Z",
+          "wordCount": 12648,
+          "title": "Long-time rivals Bill Gates and Linus Torvalds meet for the first time, have dinner — 'No major kernel decisions were made, but maybe next dinner' - Tom's Hardware",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMickFVX3lxTE5BalhtZVM0ZHBkRExmNXNTc0taZGRueTRXdGZFT0VMcFhlSmtCbWV0emFyTzdsOVZDTS1sZ19xZ0NvTEJyMjlrNFp3bmFJVGNnZkVNNU5mQlVGVmx3TnVMMlhHNm5ZcXk5VE5Gc09BM3RvZw",
           "author": null,
           "description": "4 Obscure Linux Apps I Use All the Time  How-To Geek",
@@ -2326,6 +2766,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiS0FVX3lxTE1od3FWRG1RTmhtUlVnMEc4Z2JjNVR1cXdVTVhDSktSb0xiUWxRRnhweVl4WXREZDdaR3BGSGFxN3lkU2xuVGhZXzltUQ",
+          "author": null,
+          "description": "Btop++: Linux System Monitoring Tool That is Definitely Better than Top  It's FOSS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1od3FWRG1RTmhtUlVnMEc4Z2JjNVR1cXdVTVhDSktSb0xiUWxRRnhweVl4WXREZDdaR3BGSGFxN3lkU2xuVGhZXzltUQ?oc=5",
+          "publishedOn": "2025-06-22T05:11:23.000Z",
+          "wordCount": 12648,
+          "title": "Btop++: Linux System Monitoring Tool That is Definitely Better than Top - It's FOSS",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMigAFBVV95cUxQN3pwdHVjc19HMVpPUHUyNmpDYW1kTlRMc01IeVR4cEZyRkZLa1owMG1JZFdNd3VvYktoS1NYZnlHTGw3WUxpcURybjlqaG1GSllQa1NScVJYSmRHLUd1Y085U2NwN2NvWl9YbGQzNWZwVENEaE95X09DenQxWDNkUQ",
           "author": null,
           "description": "7 Reasons Why Qubes Is Better Than Your Linux Distro  How-To Geek",
@@ -2353,6 +2803,16 @@
           "publishedOn": "2025-06-21T16:00:00.000Z",
           "wordCount": 12651,
           "title": "I used North Korea's leaked Linux distribution, and it still has secrets a decade later - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihwFBVV95cUxPVmFwb3lZSmhJTXhTTkFCNkt3MU0zRWhJcXgwMll6dC1XVDRldEJCWUJ4WmUwMHF4MjQ4ZGJOaVI0dE9IY1RmODh4R1dxMWYzRWdDVW4zRzV1TlU3UXhWdmNvdkltQ1lxbFNSd0ZMOExVa0k4VnY3Sk5veUtldEZ5eE5HWjY3Wjg",
+          "author": null,
+          "description": "Denmark is switching to Linux  Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFwb3lZSmhJTXhTTkFCNkt3MU0zRWhJcXgwMll6dC1XVDRldEJCWUJ4WmUwMHF4MjQ4ZGJOaVI0dE9IY1RmODh4R1dxMWYzRWdDVW4zRzV1TlU3UXhWdmNvdkltQ1lxbFNSd0ZMOExVa0k4VnY3Sk5veUtldEZ5eE5HWjY3Wjg?oc=5",
+          "publishedOn": "2025-06-21T15:30:00.000Z",
+          "wordCount": 12648,
+          "title": "Denmark is switching to Linux - Yahoo",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -7854,56 +8314,6 @@
           "wordCount": 12634,
           "title": "Why I'm Sticking With systemd-based Linux Distros - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMif0FVX3lxTE1sVnJlSVRpbVdBenZnUzVBRTloc04tT0dIUWRPd0hRMDl1ekx3eG8za0l3NmxTNTl0UWhPWE9OU0NrdkUwaWlmMFBXUGpPYTFFZ2tLaUJOdEJtbVg3SDZyUW1fb0dSX2ZWbkpUeTUwVUpXYUk0Z0FONmpKSTdvV00",
-          "author": null,
-          "description": "9 Linux Distros I've Used Over 9 Years—Ranked  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVnJlSVRpbVdBenZnUzVBRTloc04tT0dIUWRPd0hRMDl1ekx3eG8za0l3NmxTNTl0UWhPWE9OU0NrdkUwaWlmMFBXUGpPYTFFZ2tLaUJOdEJtbVg3SDZyUW1fb0dSX2ZWbkpUeTUwVUpXYUk0Z0FONmpKSTdvV00?oc=5",
-          "publishedOn": "2025-05-25T11:00:00.000Z",
-          "wordCount": 12634,
-          "title": "9 Linux Distros I've Used Over 9 Years—Ranked - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiakFVX3lxTE1VNk1XdEZDRUdlbTlGU3RTRXNMVGxzUVZxbkVsQVJSM1JlLVFHeVRHTXdZU3MxenFjXzlqWkZNaF92TmJlUUVLTW1SS3Jnc0MtbXN6OVdYOUNXVjZxSkF5N2lsV2FrakE2dXc",
-          "author": null,
-          "description": "Dell Latitude 7455 Is The Newest Qualcomm Snapdragon X Elite Laptop Seeing Linux Patches  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VNk1XdEZDRUdlbTlGU3RTRXNMVGxzUVZxbkVsQVJSM1JlLVFHeVRHTXdZU3MxenFjXzlqWkZNaF92TmJlUUVLTW1SS3Jnc0MtbXN6OVdYOUNXVjZxSkF5N2lsV2FrakE2dXc?oc=5",
-          "publishedOn": "2025-05-25T10:41:00.000Z",
-          "wordCount": 12634,
-          "title": "Dell Latitude 7455 Is The Newest Qualcomm Snapdragon X Elite Laptop Seeing Linux Patches - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTFBuRndDTVZrWjRqdVJjb0o1T2lrYi1Ud1M0djRUTjY1WmJLNF8wQkFVYnV3R2p4MEFFN1dXZEhkTG1CaFREaTctZWZTaWplUm9jdG8ybVNzcmZ6T2g5X2ZzMWZPTlN5cTdJQWJ5Vw",
-          "author": null,
-          "description": "More Gaming Controllers From Turtle Beach & PowerA Supported By Linux 6.15  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuRndDTVZrWjRqdVJjb0o1T2lrYi1Ud1M0djRUTjY1WmJLNF8wQkFVYnV3R2p4MEFFN1dXZEhkTG1CaFREaTctZWZTaWplUm9jdG8ybVNzcmZ6T2g5X2ZzMWZPTlN5cTdJQWJ5Vw?oc=5",
-          "publishedOn": "2025-05-25T09:57:00.000Z",
-          "wordCount": 12634,
-          "title": "More Gaming Controllers From Turtle Beach & PowerA Supported By Linux 6.15 - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMikAFBVV95cUxPUWRGM2p0OUxoOXJSYWdnaG11QnJpRkdKT3FfWmRYSGNTTTBpMlhFUVRfaG9mUjA0SV96alNqM2wwWGVHY0U5UVhVS0tRMWdlZi1peXROMV91TEZubS02cEs0RnBUTm5Tb2hyTkdPZXhoUWlreDI3WV9PYXk5NFdVek40UDVVdzFLMG5vRG1iWW0",
-          "author": null,
-          "description": "I've used Windows all my life, so I dove in the deep end and tried Arch Linux  XDA",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWRGM2p0OUxoOXJSYWdnaG11QnJpRkdKT3FfWmRYSGNTTTBpMlhFUVRfaG9mUjA0SV96alNqM2wwWGVHY0U5UVhVS0tRMWdlZi1peXROMV91TEZubS02cEs0RnBUTm5Tb2hyTkdPZXhoUWlreDI3WV9PYXk5NFdVek40UDVVdzFLMG5vRG1iWW0?oc=5",
-          "publishedOn": "2025-05-24T16:00:00.000Z",
-          "wordCount": 12634,
-          "title": "I've used Windows all my life, so I dove in the deep end and tried Arch Linux - XDA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMidEFVX3lxTE9RLW5MYXlpejI4SkxpLXhfaW8xczVDOWJKb0RDU1ZBNlg1em00LWtmcmRiaFRQRGhQLTdmU0hUbmJGc2tiNlJrS0p3SXlRY1hXY214YjhJazBoT0FCZmdWM3NoM01UbmgxTUVQZXB3MmFqQVIt",
-          "author": null,
-          "description": "Virtual Machine Beginners Should Try These 9 Operating Systems First  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RLW5MYXlpejI4SkxpLXhfaW8xczVDOWJKb0RDU1ZBNlg1em00LWtmcmRiaFRQRGhQLTdmU0hUbmJGc2tiNlJrS0p3SXlRY1hXY214YjhJazBoT0FCZmdWM3NoM01UbmgxTUVQZXB3MmFqQVIt?oc=5",
-          "publishedOn": "2025-05-24T15:01:00.000Z",
-          "wordCount": 12634,
-          "title": "Virtual Machine Beginners Should Try These 9 Operating Systems First - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7913,6 +8323,106 @@
       "siteUrl": "https://linux.softpedia.com/",
       "articles": [
         {
+          "id": "https://linux.softpedia.com/get/Utilities/PDF-Mix-Tool-104329.shtml",
+          "author": "Softpedia Linux",
+          "description": "Perform basic editing operations on your PDF files with the help of this nice app",
+          "link": "https://linux.softpedia.com/get/Utilities/PDF-Mix-Tool-104329.shtml",
+          "publishedOn": "2025-06-23T19:54:43.000Z",
+          "wordCount": null,
+          "title": "PDF Mix Tool 1.2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Communications/Filesharing/qBittorrent-12765.shtml",
+          "author": "Softpedia Linux",
+          "description": "A torrent client that provides a real alternative to the popular µTorrent BitTorrent client",
+          "link": "https://linux.softpedia.com/get/Communications/Filesharing/qBittorrent-12765.shtml",
+          "publishedOn": "2025-06-23T19:47:00.000Z",
+          "wordCount": null,
+          "title": "qBittorrent 5.1.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Graphics/qView-104655.shtml",
+          "author": "Softpedia Linux",
+          "description": "The perfect blend of ease of use, clean looks, and flexibility - qView is one of the best free and cross-platform image viewers out there",
+          "link": "https://linux.softpedia.com/get/Multimedia/Graphics/qView-104655.shtml",
+          "publishedOn": "2025-06-23T19:45:11.000Z",
+          "wordCount": null,
+          "title": "qView 6.1 / 7.0 RC 1 / ea94c18 Nightly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Multimedia/Audio/Recordbox-104788.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very sleek free and open-source music player designed mainly for playing and browsing albums that also boasts sublime integration with the GNOME Shell",
+          "link": "https://linux.softpedia.com/get/Multimedia/Audio/Recordbox-104788.shtml",
+          "publishedOn": "2025-06-23T19:42:49.000Z",
+          "wordCount": null,
+          "title": "Recordbox 0.10.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/SaveDesktop-104471.shtml",
+          "author": "Softpedia Linux",
+          "description": "Save and load your current desktop environment configurations in mere seconds with the help of this useful app",
+          "link": "https://linux.softpedia.com/get/Utilities/SaveDesktop-104471.shtml",
+          "publishedOn": "2025-06-23T19:41:53.000Z",
+          "wordCount": null,
+          "title": "SaveDesktop 3.6 Hotfix 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/TopHat-104529.shtml",
+          "author": "Softpedia Linux",
+          "description": "A stylish and very functional system resource monitor that comes in the form of a GNOME Shell extension",
+          "link": "https://linux.softpedia.com/get/Desktop-Environment/GNOME-Shell-Extensions/TopHat-104529.shtml",
+          "publishedOn": "2025-06-23T19:33:47.000Z",
+          "wordCount": null,
+          "title": "TopHat 22",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/NAVER-Whale-103983.shtml",
+          "author": "Softpedia Linux",
+          "description": "Browse the Internet with the help of this modern browser that boasts various interesting interactions and useful tools",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/NAVER-Whale-103983.shtml",
+          "publishedOn": "2025-06-23T18:34:02.000Z",
+          "wordCount": null,
+          "title": "NAVER Whale 4.32.315.22",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Boxy-SVG-104352.shtml",
+          "author": "Softpedia Linux",
+          "description": "One of the best free scalable vector graphics editors for macOS and Linux systems",
+          "link": "https://linux.softpedia.com/get/Utilities/Boxy-SVG-104352.shtml",
+          "publishedOn": "2025-06-23T17:32:23.000Z",
+          "wordCount": null,
+          "title": "Boxy SVG 4.72.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Bella-104900.shtml",
+          "author": "Softpedia Linux",
+          "description": "A free and open-source color picker for Linux (mostly for GNOME environments) that comes with support for a wide range of color formats",
+          "link": "https://linux.softpedia.com/get/Utilities/Bella-104900.shtml",
+          "publishedOn": "2025-06-23T16:33:55.000Z",
+          "wordCount": null,
+          "title": "Bella 0.1.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Compare-Joseph-Mawa-104899.shtml",
+          "author": "Softpedia Linux",
+          "description": "A tiny but efficient, free and open-source text comparison tool for GNOME desktops",
+          "link": "https://linux.softpedia.com/get/Text-Editing-Processing/Others/Text-Compare-Joseph-Mawa-104899.shtml",
+          "publishedOn": "2025-06-23T14:50:12.000Z",
+          "wordCount": null,
+          "title": "Text Compare 0.1.3",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/GAMES-ENTERTAINMENT/xemu-104720.shtml",
           "author": "Softpedia Linux",
           "description": "A modern, free, community-built Microsoft Xbox emulation app that packs a lot of useful features and comes with a hefty list of compatible gaming titles",
@@ -7920,6 +8430,26 @@
           "publishedOn": "2025-06-21T20:13:35.000Z",
           "wordCount": null,
           "title": "xemu 0.8.79",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
+          "author": "Softpedia Linux",
+          "description": "Explore unlimited customization options and a new to go about your daily work on the Internet with the help of Vivaldi, the next-generation web browser for power users",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Vivaldi-103720.shtml",
+          "publishedOn": "2025-06-21T19:56:11.000Z",
+          "wordCount": null,
+          "title": "Vivaldi 7.4.3684.55 / 7.5.3731.3 Snapshot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Papers-GNOME-104738.shtml",
+          "author": "Softpedia Linux",
+          "description": "An all new document viewer/manager for GNOME, Papers is a Evince port with modern GTK4 GUI elements",
+          "link": "https://linux.softpedia.com/get/Utilities/Papers-GNOME-104738.shtml",
+          "publishedOn": "2025-06-21T19:31:17.000Z",
+          "wordCount": null,
+          "title": "Papers 48.4",
           "imageUrl": null
         },
         {
@@ -7960,6 +8490,16 @@
           "publishedOn": "2025-06-20T20:56:58.000Z",
           "wordCount": null,
           "title": "QOwnNotes 25.6.2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Postman-PostmanLabs-104408.shtml",
+          "author": "Softpedia Linux",
+          "description": "One of the best API testing tools out there, Postman boasts a plethora of automated tools, and various specialized features for routing API traffic, endpoint stressing, as well as creating and managing developer communities",
+          "link": "https://linux.softpedia.com/get/Utilities/Postman-PostmanLabs-104408.shtml",
+          "publishedOn": "2025-06-20T20:53:19.000Z",
+          "wordCount": null,
+          "title": "Postman 11.50.5",
           "imageUrl": null
         },
         {
@@ -8010,6 +8550,16 @@
           "publishedOn": "2025-06-20T19:39:13.000Z",
           "wordCount": null,
           "title": "Fedora Media Writer 5.2.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Elephicon-104378.shtml",
+          "author": "Softpedia Linux",
+          "description": "Quickly and effortlessly generate Apple ICNS and Microsoft ICO files from your PNGs with the help of this tiny app",
+          "link": "https://linux.softpedia.com/get/Utilities/Elephicon-104378.shtml",
+          "publishedOn": "2025-06-20T19:32:58.000Z",
+          "wordCount": null,
+          "title": "Elephicon 3.5.5",
           "imageUrl": null
         },
         {
@@ -9910,6 +10460,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386344",
+          "author": "Zell Liew",
+          "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/",
+          "publishedOn": "2025-06-23T13:41:34.000Z",
+          "wordCount": 3006,
+          "title": "A Better API for the Intersection and Mutation Observers",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386925",
           "author": "Juan Diego Rodríguez",
           "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -10036,6 +10596,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
+          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
+          "publishedOn": "2025-06-23T10:00:00.000Z",
+          "wordCount": 5355,
+          "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
+          "enclosure": {
+            "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
@@ -10223,6 +10798,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6859c55cad0bcef0be044476",
+          "author": "Soham Banerjee",
+          "description": "Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...",
+          "link": "https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/",
+          "publishedOn": "2025-06-23T21:21:32.000Z",
+          "wordCount": 7220,
+          "title": "Learn Embedded Systems Firmware Basics – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750701027343/86918e8c-4348-4845-b048-6203ae0fcb38.png"
+        },
+        {
+          "id": "68598f7c91eb0b11714a7c62",
+          "author": "Destiny Erhabor",
+          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...",
+          "link": "https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/",
+          "publishedOn": "2025-06-23T17:31:40.000Z",
+          "wordCount": 5336,
+          "title": "Kubernetes Networking Tutorial: A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750697209688/e55bb451-1278-4004-ae3d-fd8bdbae47da.png"
+        },
+        {
+          "id": "68595d64f486735784954566",
+          "author": "Damilola Oniyide",
+          "description": "Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...",
+          "link": "https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/",
+          "publishedOn": "2025-06-23T13:57:56.000Z",
+          "wordCount": 6393,
+          "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
+        },
         {
           "id": "685595d957b6666dfb68743f",
           "author": "Manish Shivanandhan",
