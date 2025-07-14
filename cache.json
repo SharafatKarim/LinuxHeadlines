@@ -49,6 +49,26 @@
       "siteUrl": "https://www.linuxtoday.com/",
       "articles": [
         {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201832",
+          "author": "Content Operations",
+          "description": "In this step-by-step guide, we’ll walk through the process of creating a real-life Python script and running it inside a Docker container.\nThe post How to Run a Python Script Using Docker appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/how-to-run-a-python-script-using-docker/",
+          "publishedOn": "2025-07-13T14:05:09.000Z",
+          "wordCount": 10581,
+          "title": "How to Run a Python Script Using Docker",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
+          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201829",
+          "author": "Content Operations",
+          "description": "AI is changing how we find information, but is the web keeping up?\nThe post Search Engine or AI Chat? More People Are Going Hybrid appeared first on Linux Today.",
+          "link": "https://www.linuxtoday.com/blog/search-engine-or-ai-chat-more-people-are-going-hybrid/",
+          "publishedOn": "2025-07-13T13:02:53.000Z",
+          "wordCount": 10570,
+          "title": "Search Engine or AI Chat? More People Are Going Hybrid",
+          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
+        },
+        {
           "id": "https://www.linuxtoday.com/?post_type=user_post&p=201722",
           "author": "Content Operations",
           "description": "For this article in this series, I’ll focus on the power consumption of the Banana Pi BPI-F3. I’ll see how this board compares to a few other single board computers.\nThe post Banana Pi BPI-F3 Single Board Computer Running Linux: Power Consumption appeared first on Linux Today.",
@@ -2147,106 +2167,6 @@
           "wordCount": 10533,
           "title": "Fwupd 2.0.11 Released with New SELinux Metadata Support",
           "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201040",
-          "author": "Web Webster",
-          "description": "Coming two weeks after fwupd 2.0.10, the fwupd 2.0.11 release adds support for the Lenovo Thunderbolt 5 Smart dock, a new check-reboot-needed command for scripts to use, support for reading the SELinux state in the report failure metadata, and support for the Dell dock ownership command.\nThe post Fwupd 2.0.11 Linux Firmware Updater Supports Lenovo Thunderbolt 5 Smart Docks appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/fwupd-2-0-11-linux-firmware-updater-supports-lenovo-thunderbolt-5-smart-docks/",
-          "publishedOn": "2025-06-14T11:08:38.000Z",
-          "wordCount": 10559,
-          "title": "Fwupd 2.0.11 Linux Firmware Updater Supports Lenovo Thunderbolt 5 Smart Docks",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201015",
-          "author": "Web Webster",
-          "description": "In today’s connected world, IoT devices are becoming increasingly common, powering everything from home automation to industrial systems. However, this rapid growth has also expanded the attack surface for cybercriminals. A recent discovery of the Pumabot botnet demonstrates how attackers are exploiting weak security, particularly poor SSH credential management, to breach and control vulnerable devices. […]\nThe post New Pumabot Botnet Brute-Forces SSH Credentials to Hijack IoT Devices appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/new-pumabot-botnet-brute-forces-ssh-credentials-to-hijack-iot-devices/",
-          "publishedOn": "2025-06-14T03:28:53.000Z",
-          "wordCount": 10644,
-          "title": "New Pumabot Botnet Brute-Forces SSH Credentials to Hijack IoT Devices",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200990",
-          "author": "Web Webster",
-          "description": "Ubuntu Touch OTA-9 is here three months after Ubuntu Touch OTA-8 to update VoLTE support so that it works out-of-box with more carriers on several Volla devices, update Waydroid with initial support for upcoming official Android 13 images, and introduce a new Noto Color Emoji font to improve support for some newer emojis.\nThe post Ubuntu Touch OTA-9 Released with VoLTE and Waydroid Improvements appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/ubuntu-touch-ota-9-released-with-volte-and-waydroid-improvements/",
-          "publishedOn": "2025-06-14T01:26:50.000Z",
-          "wordCount": 10559,
-          "title": "Ubuntu Touch OTA-9 Released with VoLTE and Waydroid Improvements",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201041",
-          "author": "Web Webster",
-          "description": "This blog post teaches you how to install WordPress on Debian 13. WordPress is an open-source web content management system written in PHP that stores data in the MySQL database system. It is among the most popular content management systems used by nearly a quarter of the top one million websites. WordPress was created as […]\nThe post How to Install WordPress on Debian 13 appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-install-wordpress-on-debian-13/",
-          "publishedOn": "2025-06-13T23:43:34.000Z",
-          "wordCount": 10604,
-          "title": "How to Install WordPress on Debian 13",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200987",
-          "author": "Web Webster",
-          "description": "Everybody knows that Alpine Linux is a great base OS for containers and IoT devices, and it works great for running servers in data centers. We decided to test its performance on a desktop.\nThe post Alpine Linux 3.22.0: Not Just for Servers, Containers, and IoT appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/alpine-linux-3-22-0-not-just-for-servers-containers-and-iot/",
-          "publishedOn": "2025-06-13T23:24:22.000Z",
-          "wordCount": 10556,
-          "title": "Alpine Linux 3.22.0: Not Just for Servers, Containers, and IoT",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200985",
-          "author": "Web Webster",
-          "description": "Ubuntu Touch OTA-9 is out with VoLTE improvements, Waydroid 1.5.1 support, emoji font upgrade, and bug fixes.\nThe post Ubuntu Touch OTA-9 Rolls Out With VoLTE and Waydroid Upgrades appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/ubuntu-touch-ota-9-rolls-out-with-volte-and-waydroid-upgrades/",
-          "publishedOn": "2025-06-13T21:22:03.000Z",
-          "wordCount": 10525,
-          "title": "Ubuntu Touch OTA-9 Rolls Out With VoLTE and Waydroid Upgrades",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=201036",
-          "author": "Web Webster",
-          "description": "There are situations when you want to allow a user to access a system solely through FTP, while blocking all other forms of access like SSH or shell logins. This approach is particularly useful in managed hosting environments or shared systems where limiting user capabilities can improve both performance and security. For a deeper understanding […]\nThe post How to Restrict Users to FTP Access Only on Linux appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-restrict-users-to-ftp-access-only-on-linux/",
-          "publishedOn": "2025-06-13T19:35:19.000Z",
-          "wordCount": 10671,
-          "title": "How to Restrict Users to FTP Access Only on Linux",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200978",
-          "author": "Web Webster",
-          "description": "Learn how to check disk health in Linux using smartctl, badblocks, and fsck utilities. Identify failing HDDs/SSDs early and prevent data loss.\nThe post How To Check Disk Health In Linux: A Beginners Guide appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/how-to-check-disk-health-in-linux-a-beginners-guide-2/",
-          "publishedOn": "2025-06-13T19:20:51.000Z",
-          "wordCount": 10539,
-          "title": "How To Check Disk Health In Linux: A Beginners Guide",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200934",
-          "author": "Web Webster",
-          "description": "RawTherapee 5.12, a raw image processing program, introduces powerful new color tools, tone mappers, and better support for Canon, Sony, and Fujifilm RAW formats.\nThe post RawTherapee 5.12 Enhances Color Tools and Camera Compatibility appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/blog/rawtherapee-5-12-enhances-color-tools-and-camera-compatibility/",
-          "publishedOn": "2025-06-13T17:19:09.000Z",
-          "wordCount": 10534,
-          "title": "RawTherapee 5.12 Enhances Color Tools and Camera Compatibility",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
-        },
-        {
-          "id": "https://www.linuxtoday.com/?post_type=user_post&p=200933",
-          "author": "Web Webster",
-          "description": "A text expander can be extremely powerful as it detects when you type a keyword and replaces it while you are typing. People often use them to write quick text snippets.\nThe post 5 Best Free and Open Source Text Expander Tools appeared first on Linux Today.",
-          "link": "https://www.linuxtoday.com/developer/5-best-free-and-open-source-text-expander-tools/",
-          "publishedOn": "2025-06-13T15:15:35.000Z",
-          "wordCount": 10551,
-          "title": "5 Best Free and Open Source Text Expander Tools",
-          "imageUrl": "https://assets.linuxtoday.com/uploads/2021/07/Linux_opengraph_square2-01.png"
         }
       ]
     },
@@ -2255,6 +2175,116 @@
       "feedUrl": "https://news.google.com/news?hl=en&gl=us&q=linux&um=1&ie=UTF-8&output=rss",
       "siteUrl": "https://news.google.com/search?hl=en-US&gl=US&q=linux&um=1&ie=UTF-8&ceid=US:en",
       "articles": [
+        {
+          "id": "CBMibkFVX3lxTE9VOE81MHpiTW9pVzVpaXktV09HS3BIMk93ZkQyU2tENW5FSktUcmE2UzIwUldQT1p0VUdaNmFYT0JCU0V1TmJIVXhacU5GNjBVUE1MN2c0OE1HOVRYeFFpc01uaGVvaDFIeG9IQmRR0gFzQVVfeXFMTUhxV0swak9fZ1BXZ3p3RFk3X3g3T2wwZkQwM3BhS29Ic2pwRU1VaEdONWR5OE5faUYteWdhYy1Hcmwtank3MV85aDFCaXlLc1lmcnN2TGh5dEtLd3B0R2xSLUxKaGkyUWdhLWxWVktOU1E2WQ",
+          "author": null,
+          "description": "9to5Linux Weekly Roundup: July 13th, 2025  9to5Linux",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VOE81MHpiTW9pVzVpaXktV09HS3BIMk93ZkQyU2tENW5FSktUcmE2UzIwUldQT1p0VUdaNmFYT0JCU0V1TmJIVXhacU5GNjBVUE1MN2c0OE1HOVRYeFFpc01uaGVvaDFIeG9IQmRR0gFzQVVfeXFMTUhxV0swak9fZ1BXZ3p3RFk3X3g3T2wwZkQwM3BhS29Ic2pwRU1VaEdONWR5OE5faUYteWdhYy1Hcmwtank3MV85aDFCaXlLc1lmcnN2TGh5dEtLd3B0R2xSLUxKaGkyUWdhLWxWVktOU1E2WQ?oc=5",
+          "publishedOn": "2025-07-14T00:05:49.000Z",
+          "wordCount": 12639,
+          "title": "9to5Linux Weekly Roundup: July 13th, 2025 - 9to5Linux",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY0FVX3lxTFBxd0xiQkxSMDFWWHZRTnNxV1c0SUZ0d21FWGJnamxGUFM2ME1KYVZVRGo3SmdPX1B2YTF6SWxBZWhoa1lvakdacXZrZURjV2RiNWY0Vjg1aUIyNXBObGNzZE9sMA",
+          "author": null,
+          "description": "Linux 6.16-rc6 Released With Transient Scheduler Attacks Mitigations, AMD Zen 2 Fixes  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxd0xiQkxSMDFWWHZRTnNxV1c0SUZ0d21FWGJnamxGUFM2ME1KYVZVRGo3SmdPX1B2YTF6SWxBZWhoa1lvakdacXZrZURjV2RiNWY0Vjg1aUIyNXBObGNzZE9sMA?oc=5",
+          "publishedOn": "2025-07-13T21:37:00.000Z",
+          "wordCount": 12639,
+          "title": "Linux 6.16-rc6 Released With Transient Scheduler Attacks Mitigations, AMD Zen 2 Fixes - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMipAFBVV95cUxPV1ItbmJjajVGMDhCX2k2NVJ4ME9QaEpKUkdIWHJ3ZVZzQjNVcWN4SXQzZm9yQ1JkUkpmLW9FNWtxSFh0Vk5JQmZlN1Nzc0Y4N3NqRUdDdGFKV2ZrV2Q1dUVydVc0ZE1TVlFka1lNeU1ld2EweE9kZHl4X1ZmbEV3dW5iY09Ibm93TnMtYTQyYVQxckNWQlRodGs5UDYxMy11MG92Yw",
+          "author": null,
+          "description": "I dual-booted Linux to try it out, and I forgot I had Windows installed  XDA",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1ItbmJjajVGMDhCX2k2NVJ4ME9QaEpKUkdIWHJ3ZVZzQjNVcWN4SXQzZm9yQ1JkUkpmLW9FNWtxSFh0Vk5JQmZlN1Nzc0Y4N3NqRUdDdGFKV2ZrV2Q1dUVydVc0ZE1TVlFka1lNeU1ld2EweE9kZHl4X1ZmbEV3dW5iY09Ibm93TnMtYTQyYVQxckNWQlRodGs5UDYxMy11MG92Yw?oc=5",
+          "publishedOn": "2025-07-13T20:00:00.000Z",
+          "wordCount": 12639,
+          "title": "I dual-booted Linux to try it out, and I forgot I had Windows installed - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW0FVX3lxTFBvOUt4MGpwbUptT29pOWJBdVNTOGhEcENrb1NBaE9Ed2lxQV91blVpTVlJa1NlYXRERjIxel9jUHZNSjktNjZWLTBqcVcwVng0U1B5Rmt6MjMzaGs",
+          "author": null,
+          "description": "CachyOS July 2025 Ships With Mesa Patched For Anti-Lag, Plasma Defaulting To Wayland  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvOUt4MGpwbUptT29pOWJBdVNTOGhEcENrb1NBaE9Ed2lxQV91blVpTVlJa1NlYXRERjIxel9jUHZNSjktNjZWLTBqcVcwVng0U1B5Rmt6MjMzaGs?oc=5",
+          "publishedOn": "2025-07-13T16:33:00.000Z",
+          "wordCount": 12639,
+          "title": "CachyOS July 2025 Ships With Mesa Patched For Anti-Lag, Plasma Defaulting To Wayland - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXEFVX3lxTE5NLTgyZ3VVTnkzQ0hJSUxPWE91SHdjUEpjQ1lnUGhqaVljaWE4VGtjTm5lZXlLcDFqRzhYNVFUVWlkUHhlcHV4bWxROXZpUnNIZVJvWS1PQUhqTFJU",
+          "author": null,
+          "description": "What Is Bazzite? Hands-On With the SteamOS Alternative  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NLTgyZ3VVTnkzQ0hJSUxPWE91SHdjUEpjQ1lnUGhqaVljaWE4VGtjTm5lZXlLcDFqRzhYNVFUVWlkUHhlcHV4bWxROXZpUnNIZVJvWS1PQUhqTFJU?oc=5",
+          "publishedOn": "2025-07-13T16:30:00.000Z",
+          "wordCount": 12639,
+          "title": "What Is Bazzite? Hands-On With the SteamOS Alternative - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiwAFBVV95cUxOZmFZQXhzcjluYmdVa2o1YV9oRFI3NExNSWo5cXdtdkN1N1RKbk1VUXdNMk0zSkdZYXFmWEhTeko0Q1V4b3N5THI1c0RaRUJGR2tPdUxqcjdISnlfVU5tOGZzNmtqTlJ0VVlfN2Qzd1RDTzBTRlhsNnIxSXBwUUEtNjFuV0p6LWl4V3dpcDc2VzFDZFhiYUZLQ0oxMVRzempPT3luXzRyS0dESTBRNGEydnF4MzlBRnlNUTNLOXNHbEs",
+          "author": null,
+          "description": "I tried this Linux distro that looks like Windows, is made by a Microsoft engineer, and is based on Ubuntu  XDA",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmFZQXhzcjluYmdVa2o1YV9oRFI3NExNSWo5cXdtdkN1N1RKbk1VUXdNMk0zSkdZYXFmWEhTeko0Q1V4b3N5THI1c0RaRUJGR2tPdUxqcjdISnlfVU5tOGZzNmtqTlJ0VVlfN2Qzd1RDTzBTRlhsNnIxSXBwUUEtNjFuV0p6LWl4V3dpcDc2VzFDZFhiYUZLQ0oxMVRzempPT3luXzRyS0dESTBRNGEydnF4MzlBRnlNUTNLOXNHbEs?oc=5",
+          "publishedOn": "2025-07-13T16:00:00.000Z",
+          "wordCount": 12639,
+          "title": "I tried this Linux distro that looks like Windows, is made by a Microsoft engineer, and is based on Ubuntu - XDA",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMilwFBVV95cUxNLWU3QkItZU54MmZSYmlHcnVyZl9hajN2d2d2Ykc1V2pvN3lranNUUW1lTWN6RXhLTkZHeXFKVEFSSGYtSnMyc3NmQ2dkSXZCYnZPVlBxYTVsQXFLb1pRQWJIUzV5N2loN2p4SlZKWEt3eDVwQ2JFUmlQVlQ5X1J2Q2FWSXA4RWZVdXZpelFibFNTby1iaFBZ",
+          "author": null,
+          "description": "I Tested 10 Popular Linux Desktop Environments, Here's How I Rank Them  How-To Geek",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWU3QkItZU54MmZSYmlHcnVyZl9hajN2d2d2Ykc1V2pvN3lranNUUW1lTWN6RXhLTkZHeXFKVEFSSGYtSnMyc3NmQ2dkSXZCYnZPVlBxYTVsQXFLb1pRQWJIUzV5N2loN2p4SlZKWEt3eDVwQ2JFUmlQVlQ5X1J2Q2FWSXA4RWZVdXZpelFibFNTby1iaFBZ?oc=5",
+          "publishedOn": "2025-07-13T15:15:00.000Z",
+          "wordCount": 12639,
+          "title": "I Tested 10 Popular Linux Desktop Environments, Here's How I Rank Them - How-To Geek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZkFVX3lxTE1PTUNrLWNra05LVnBRbzRqejVjLTdFbndPNWpMZV90RmJwTGMybTEwZld4SzF0SjhyNjZMTGI3RVlTU01fTVA5NDZBTThmTlhCV3IxZTBRZGVfMzVzTDRaY0FsZDBpdw",
+          "author": null,
+          "description": "Linux 6.16 Ready With Fixes For Old AMD Hardware \"Which Wasn't Even Supposed To Run Linux\"  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PTUNrLWNra05LVnBRbzRqejVjLTdFbndPNWpMZV90RmJwTGMybTEwZld4SzF0SjhyNjZMTGI3RVlTU01fTVA5NDZBTThmTlhCV3IxZTBRZGVfMzVzTDRaY0FsZDBpdw?oc=5",
+          "publishedOn": "2025-07-13T13:52:00.000Z",
+          "wordCount": 12639,
+          "title": "Linux 6.16 Ready With Fixes For Old AMD Hardware \"Which Wasn't Even Supposed To Run Linux\" - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZEFVX3lxTE5WUmllNWV1RHJad2pZUEdLUXVZWUtrMDBub2h0cTRYZ1l1R2stVDlIVGRKSlV3blhtem43dk5Sblk4MXkySE1icm9WRUVGeE1UdlEwenVScS1QRGx5OG1JT3ZyZy0",
+          "author": null,
+          "description": "AMD NGG Improvements Make It Into Mesa 25.2 Ahead Of Next Week's Code Branching  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUmllNWV1RHJad2pZUEdLUXVZWUtrMDBub2h0cTRYZ1l1R2stVDlIVGRKSlV3blhtem43dk5Sblk4MXkySE1icm9WRUVGeE1UdlEwenVScS1QRGx5OG1JT3ZyZy0?oc=5",
+          "publishedOn": "2025-07-13T11:19:00.000Z",
+          "wordCount": 12639,
+          "title": "AMD NGG Improvements Make It Into Mesa 25.2 Ahead Of Next Week's Code Branching - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiakFVX3lxTE1uSkZLMDJZNHV2RXpOM1R1VkxpRUh1ellJbFdzRmJYMkprT28zYkZJSHoyQjBkemRvMnZfR0xidUVrNzFXRnJxM1J5bmVYUkhCOXYwN0xybHFkRFZZSTV3UDRWdlE5ckEtc0E",
+          "author": null,
+          "description": "Another Longtime Intel Linux Engineer Leaves The Company  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSkZLMDJZNHV2RXpOM1R1VkxpRUh1ellJbFdzRmJYMkprT28zYkZJSHoyQjBkemRvMnZfR0xidUVrNzFXRnJxM1J5bmVYUkhCOXYwN0xybHFkRFZZSTV3UDRWdlE5ckEtc0E?oc=5",
+          "publishedOn": "2025-07-13T11:07:00.000Z",
+          "wordCount": 12639,
+          "title": "Another Longtime Intel Linux Engineer Leaves The Company - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX0FVX3lxTE9jN0Z0a21VcWJkendpWGozbjNkTFFLemRaYjlsNUJiT2w3TWgycjQ3VFFwNllkMElZcTRnTklEMFFCWWFnS0dValJ4WkZYb0MyOWZkR1JoLTlrREFCNWRj",
+          "author": null,
+          "description": "Linux Patches Updated For The New Fairphone 6 Smartphone  Phoronix",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jN0Z0a21VcWJkendpWGozbjNkTFFLemRaYjlsNUJiT2w3TWgycjQ3VFFwNllkMElZcTRnTklEMFFCWWFnS0dValJ4WkZYb0MyOWZkR1JoLTlrREFCNWRj?oc=5",
+          "publishedOn": "2025-07-13T11:00:00.000Z",
+          "wordCount": 12639,
+          "title": "Linux Patches Updated For The New Fairphone 6 Smartphone - Phoronix",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
         {
           "id": "CBMipwFBVV95cUxORWp1NDM5X0dEdHpnUk5YSEJrMUdNaVhpRnhIbXMtRmJGREI3ejAwYW8wQ0QzZU82T3JYZ3poVGNZUWRSbHRYUzRJNlFsOU1UZk1sakx3NlJ3dzctMVBBYmR2bHdBLTdibTc0RzU0N1R5T2Z4a3U3b25SZGRReGdFMVJtWWRIakNDNWdRaTVldjQxN1JIZTR1a1YybVNjbElJdFl2b0RhQdIBrAFBVV95cUxOS0xGS3lsbnVVTGF0am5Ka3E0MEp3cW5JdUp0akZsc05NRmRjQTVzaGd5cFBfc09ETmdLbXdWV1BVeXVLeF9Oa1ktNTZkR3FoVTVMYTBfMm5zbzlmRVZmWVFlVjdLU1E2bS1RZXBpRHo0VkdUa2FYRlZtcW9qVVQtRl9CWmpqVk1CeGhRQ2Q0M2tUUUFfM3RudnZfNGZBS2d3dDRWbEYxbUR2ck9M",
           "author": null,
@@ -7594,166 +7624,6 @@
           "wordCount": 12656,
           "title": "Why I Love My New Linux Window Manager - How-To Geek",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMi-gFBVV95cUxQYkd4VUhOXzA4dGxLLU5aQVZkMWRHNG1PNGQ5TE5WUTdnTVJ4endteGpjNGg3SUotTVJsRVpOUmdLdGtEaHBpNW1rblVpSkVKM0lfRmFHemJqcW95Y0tCMktHdHRQenZzb25HT0JmMVRPRlZMMDdjbURORkkzLTZ6ZTBxTmg5N3JYWV9SejNodU1zTmRnLW1xMHVXcnl2ejctMmpabTA5OWI0SVJzRTlGM2s3YkNhOGVVejlfZG51ZUFGQ2VyMzg0Z2VLRm5PNElEd2ZzVmZNODFJREVRazV0Yk4wVjAyTGdfZUZuUFN3eE9EcEZfM19CcC1n",
-          "author": null,
-          "description": "Denmark ministry says goodbye to Windows & Office 365!  Windows Central",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYkd4VUhOXzA4dGxLLU5aQVZkMWRHNG1PNGQ5TE5WUTdnTVJ4endteGpjNGg3SUotTVJsRVpOUmdLdGtEaHBpNW1rblVpSkVKM0lfRmFHemJqcW95Y0tCMktHdHRQenZzb25HT0JmMVRPRlZMMDdjbURORkkzLTZ6ZTBxTmg5N3JYWV9SejNodU1zTmRnLW1xMHVXcnl2ejctMmpabTA5OWI0SVJzRTlGM2s3YkNhOGVVejlfZG51ZUFGQ2VyMzg0Z2VLRm5PNElEd2ZzVmZNODFJREVRazV0Yk4wVjAyTGdfZUZuUFN3eE9EcEZfM19CcC1n?oc=5",
-          "publishedOn": "2025-06-14T13:56:03.000Z",
-          "wordCount": 12656,
-          "title": "Denmark ministry says goodbye to Windows & Office 365! - Windows Central",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMirwFBVV95cUxNXzh0RE96Rmp5UWtHUUdvRTNVb0t4T3VqVUQ5MHo4aWFHZVRyMS15Z3BYekl6RDNSR3ZURUxKTEJMdE5nUFRfZXF4WUo4eXlvSXdNOG9ya0diVTY0WHZCUlYwLWxjakd3bE1XNjBPTUpRYXUwanBNMTJmamNmbERUYnRyNno5Z1hBc1JRVkp4TTZ4YTFfRFNSalA5cmwyQUI5bnJPUTdHUVNzYkl1SkZB",
-          "author": null,
-          "description": "How to manage Linux network connections via nmcli and the terminal  Tom's Hardware",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzh0RE96Rmp5UWtHUUdvRTNVb0t4T3VqVUQ5MHo4aWFHZVRyMS15Z3BYekl6RDNSR3ZURUxKTEJMdE5nUFRfZXF4WUo4eXlvSXdNOG9ya0diVTY0WHZCUlYwLWxjakd3bE1XNjBPTUpRYXUwanBNMTJmamNmbERUYnRyNno5Z1hBc1JRVkp4TTZ4YTFfRFNSalA5cmwyQUI5bnJPUTdHUVNzYkl1SkZB?oc=5",
-          "publishedOn": "2025-06-14T13:00:00.000Z",
-          "wordCount": 12656,
-          "title": "How to manage Linux network connections via nmcli and the terminal - Tom's Hardware",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiW0FVX3lxTFBILWtEOEhBSHBSempQa0xqTFlwZUh4eVU0cmJPMk83WW1zUDJwbC01WEZNVVBrMzlwcGFYd3pCcDM5ZDNKa3RTei01QXA2d2tSRVJJYTg4cmlnc1k",
-          "author": null,
-          "description": "Haiku OS Restores EXT4 Compatibility, RISC-V Once Again Booting  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBILWtEOEhBSHBSempQa0xqTFlwZUh4eVU0cmJPMk83WW1zUDJwbC01WEZNVVBrMzlwcGFYd3pCcDM5ZDNKa3RTei01QXA2d2tSRVJJYTg4cmlnc1k?oc=5",
-          "publishedOn": "2025-06-14T12:55:00.000Z",
-          "wordCount": 12656,
-          "title": "Haiku OS Restores EXT4 Compatibility, RISC-V Once Again Booting - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMifkFVX3lxTE0yVmVMWVdhMmRoRUNnTHFEeE9FdWwxYzlFcW1xOVFqV0x0Vnc4R0czZl9abGpBTGRDSnlBQ3E2SmRWaTE2SFRybDdxYjRkZmtsRnJ0VURCMGppWnZPcE1DNWJQRVRldVNidHZqUXRoTVRCQ0FRb2JjNkMtM2pzdw",
-          "author": null,
-          "description": "The 5 Easiest Arch Linux Distros to Get Started With  How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yVmVMWVdhMmRoRUNnTHFEeE9FdWwxYzlFcW1xOVFqV0x0Vnc4R0czZl9abGpBTGRDSnlBQ3E2SmRWaTE2SFRybDdxYjRkZmtsRnJ0VURCMGppWnZPcE1DNWJQRVRldVNidHZqUXRoTVRCQ0FRb2JjNkMtM2pzdw?oc=5",
-          "publishedOn": "2025-06-14T11:00:00.000Z",
-          "wordCount": 12656,
-          "title": "The 5 Easiest Arch Linux Distros to Get Started With - How-To Geek",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMimAFBVV95cUxOWEc2UXQwRGxka0lQOGhMaDNCVFN0MVNjZ2M0d256QkVTaHllY3FnZDlJcVlCUzlSVndxY2d5TVVtSEhMTmtlR3JoMjAtU2lPV1JWM3ZGV0xUVVB6b3E4R3N2QnNfMWQ2S09EOG54a0h6VUM5TUtBS1RwQ2lNamxvSUo0ME9NSEZrdkd3Q05XWGpKZG8xZ2l2eQ",
-          "author": null,
-          "description": "Kali Linux 2025.2 delivers Bloodhound CE, CARsenal, 13 new tools  Help Net Security",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEc2UXQwRGxka0lQOGhMaDNCVFN0MVNjZ2M0d256QkVTaHllY3FnZDlJcVlCUzlSVndxY2d5TVVtSEhMTmtlR3JoMjAtU2lPV1JWM3ZGV0xUVVB6b3E4R3N2QnNfMWQ2S09EOG54a0h6VUM5TUtBS1RwQ2lNamxvSUo0ME9NSEZrdkd3Q05XWGpKZG8xZ2l2eQ?oc=5",
-          "publishedOn": "2025-06-14T09:11:48.000Z",
-          "wordCount": 12656,
-          "title": "Kali Linux 2025.2 delivers Bloodhound CE, CARsenal, 13 new tools - Help Net Security",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMib0FVX3lxTE94V1dfUGstWUk2N1lHQldzMUg4bDc4VFdra1VoZXh1Z1V3bVIxM0RKS0NlSUxiNzMtME9jTHlMS3ZFWk55TlhEbTlSWU9tV25DVjhmSTYzWDVEQldKTURaaS1qbFR1cWJCNzBvWDZ6QdIBdEFVX3lxTFBWNHFjMnZmVFFOUnJpQ0U3LUFPOFRpZ0RmQkxqN18tLVZuaUE0eWVGZjRMcGR2Mk5WaGh6N3JGZ2p5ODRGSUJOUlZjMjY3aEFaTDJQQVZiMWxQR1hhakpqNS1odTJaRmZINWh6RThjWGxoMjB5",
-          "author": null,
-          "description": "As RHEL clones hit version 10, Rocky and Alma chart diverging paths  theregister.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94V1dfUGstWUk2N1lHQldzMUg4bDc4VFdra1VoZXh1Z1V3bVIxM0RKS0NlSUxiNzMtME9jTHlMS3ZFWk55TlhEbTlSWU9tV25DVjhmSTYzWDVEQldKTURaaS1qbFR1cWJCNzBvWDZ6QdIBdEFVX3lxTFBWNHFjMnZmVFFOUnJpQ0U3LUFPOFRpZ0RmQkxqN18tLVZuaUE0eWVGZjRMcGR2Mk5WaGh6N3JGZ2p5ODRGSUJOUlZjMjY3aEFaTDJQQVZiMWxQR1hhakpqNS1odTJaRmZINWh6RThjWGxoMjB5?oc=5",
-          "publishedOn": "2025-06-14T08:08:00.000Z",
-          "wordCount": 12656,
-          "title": "As RHEL clones hit version 10, Rocky and Alma chart diverging paths - theregister.com",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibkFVX3lxTFBSdlQ0R1o3Wk5sejU1WHBpQVdQemxISjRhOTZra0EwaC1Rem5IRjFrTmJnQjdzSktrcWFWMnBrYXlkZUh0TkUtVk5kRWpqZEZMNDB2aFluaEg5MXVxR3hMcXRFVWpwUGk2eDNTM2V3",
-          "author": null,
-          "description": "Bcachefs Is Now Able To Auto-Fix A Few More Fsck Errors  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdlQ0R1o3Wk5sejU1WHBpQVdQemxISjRhOTZra0EwaC1Rem5IRjFrTmJnQjdzSktrcWFWMnBrYXlkZUh0TkUtVk5kRWpqZEZMNDB2aFluaEg5MXVxR3hMcXRFVWpwUGk2eDNTM2V3?oc=5",
-          "publishedOn": "2025-06-13T21:00:00.000Z",
-          "wordCount": 12656,
-          "title": "Bcachefs Is Now Able To Auto-Fix A Few More Fsck Errors - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMie0FVX3lxTE45UnJCZk1naVdEX1ZmdUZXZUJCV19zU0gxVWtDS2FKaGM0YUhkWWFPYnpuUjZQVjM2a2RabzBGYldWQkt1QmkzTm1JYWMyN0M2VF8ta1ZRNWxZVHpMaUhaYmhjOXZpc3lUUFJtQ0lTb3VRcjVjcmlBWU13UQ",
-          "author": null,
-          "description": "6 free software tools I love on my Raspberry Pi  XDA",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45UnJCZk1naVdEX1ZmdUZXZUJCV19zU0gxVWtDS2FKaGM0YUhkWWFPYnpuUjZQVjM2a2RabzBGYldWQkt1QmkzTm1JYWMyN0M2VF8ta1ZRNWxZVHpMaUhaYmhjOXZpc3lUUFJtQ0lTb3VRcjVjcmlBWU13UQ?oc=5",
-          "publishedOn": "2025-06-13T21:00:00.000Z",
-          "wordCount": 12656,
-          "title": "6 free software tools I love on my Raspberry Pi - XDA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiiAFBVV95cUxNeUZ3N1VSRktrd1UyTGh5VkRhd2tyd2lWdm8wLUFGQlAxNWlHWllfa213QnFhb1BuT3NkQjIteWZpT1dUWUJ5WXZGVnRuWXVhUXBXUDczb3pzNmQtQXRpYjM2Z3FQSDRVblFFSEc0bUpWd21vbnoxRkxHaWtnY0o1RDJWS3N6bDdq",
-          "author": null,
-          "description": "Linux is slowly taking over my life as a PC gamer  XDA",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUZ3N1VSRktrd1UyTGh5VkRhd2tyd2lWdm8wLUFGQlAxNWlHWllfa213QnFhb1BuT3NkQjIteWZpT1dUWUJ5WXZGVnRuWXVhUXBXUDczb3pzNmQtQXRpYjM2Z3FQSDRVblFFSEc0bUpWd21vbnoxRkxHaWtnY0o1RDJWS3N6bDdq?oc=5",
-          "publishedOn": "2025-06-13T20:00:00.000Z",
-          "wordCount": 12656,
-          "title": "Linux is slowly taking over my life as a PC gamer - XDA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMijgFBVV95cUxOZVpWOU95Q0kySWFDdUFxck12RzlkTi1JeEFiQl93Z1Jsc29vb3l6c05nUGRoa3oyOVNXb0VSN2RMbVgtazh5b19vSlV1NmZuenIweklEd0ROeXgtRDNNVEplRGFRV3V6a29sdmVnYkNMeFh0aVNFZFVsMlk5U2tXbVpySk1KVUpONk52QmR30gGTAUFVX3lxTE1BOVRrMHBsS01sY05VMGNuRzhWQ2pHaUFoR1hKajJFQXZkelBvc3ZuTVliNWpidzFHX3dnUEx5VUpyYm1IbzItSW1hZElQeUkxZGpLRUVHRHZmVlJPSExlQk1ZTGN1TkljQnlSa3pZVzFIWG96Y2xqQlZxLTc4eGVqenIwMVlqZ0JCYWtEQnBzUmRTaw",
-          "author": null,
-          "description": "Nitrux Linux Drops Its KDE Plasma-Based NX Desktop for Hyprland  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVpWOU95Q0kySWFDdUFxck12RzlkTi1JeEFiQl93Z1Jsc29vb3l6c05nUGRoa3oyOVNXb0VSN2RMbVgtazh5b19vSlV1NmZuenIweklEd0ROeXgtRDNNVEplRGFRV3V6a29sdmVnYkNMeFh0aVNFZFVsMlk5U2tXbVpySk1KVUpONk52QmR30gGTAUFVX3lxTE1BOVRrMHBsS01sY05VMGNuRzhWQ2pHaUFoR1hKajJFQXZkelBvc3ZuTVliNWpidzFHX3dnUEx5VUpyYm1IbzItSW1hZElQeUkxZGpLRUVHRHZmVlJPSExlQk1ZTGN1TkljQnlSa3pZVzFIWG96Y2xqQlZxLTc4eGVqenIwMVlqZ0JCYWtEQnBzUmRTaw?oc=5",
-          "publishedOn": "2025-06-13T19:36:42.000Z",
-          "wordCount": 12656,
-          "title": "Nitrux Linux Drops Its KDE Plasma-Based NX Desktop for Hyprland - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMilAFBVV95cUxPWUJqSEJ2UV9HMklucmMxNjhkSmM2cXBobUMzajZ1bFBrbUNQcF9zYjFTeUtPYWktN1BwMkNLU0FMVkVCQkFMREQ2UzVLVkJTWEE1NnFxNXlZNzNhYTlxYVl3TEtwd2I5ei0zZDMzTVBxVElERllvQkQ0bWtsYkpoZV9BZUxmd0psQndlNXdvQW56Y0Fl",
-          "author": null,
-          "description": "It's time we got over the whole \"Linux is hard to use\" misconception  XDA",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUJqSEJ2UV9HMklucmMxNjhkSmM2cXBobUMzajZ1bFBrbUNQcF9zYjFTeUtPYWktN1BwMkNLU0FMVkVCQkFMREQ2UzVLVkJTWEE1NnFxNXlZNzNhYTlxYVl3TEtwd2I5ei0zZDMzTVBxVElERllvQkQ0bWtsYkpoZV9BZUxmd0psQndlNXdvQW56Y0Fl?oc=5",
-          "publishedOn": "2025-06-13T19:15:19.000Z",
-          "wordCount": 12656,
-          "title": "It's time we got over the whole \"Linux is hard to use\" misconception - XDA",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMibEFVX3lxTE05NHl2RGV6UE0zMzJwVExxUWZEeUhsWElzOHZ5U1ZJa2xaWXM4UkZWd2R6M3FLT3ZFZlc1eWdCSVNFcmFmeG1NSTc4SWdMeUV5Qklpa2VHR0dGb0F3TGQ2S3BYNGE5SF9uU1V1Tw",
-          "author": null,
-          "description": "Intel Begins Preparing Linux For Next-Gen DSA 3.0 Accelerators  Phoronix",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05NHl2RGV6UE0zMzJwVExxUWZEeUhsWElzOHZ5U1ZJa2xaWXM4UkZWd2R6M3FLT3ZFZlc1eWdCSVNFcmFmeG1NSTc4SWdMeUV5Qklpa2VHR0dGb0F3TGQ2S3BYNGE5SF9uU1V1Tw?oc=5",
-          "publishedOn": "2025-06-13T18:08:00.000Z",
-          "wordCount": 12656,
-          "title": "Intel Begins Preparing Linux For Next-Gen DSA 3.0 Accelerators - Phoronix",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinAFBVV95cUxPVEZYWV9QalZscmVjU2RjS0xxZnhoSlJ5RXlzbV8zODVlVmNYZmRjak1iWENKbGdsVS04aC14bGZVa0xXdzhDLUZqeGtsRGd5eXpSMmpDdHBRR21ONEpEeF95Z0pEOURFNXBpNmFBdzhXSWZVUzlWQkJXUFdseGJBVFF2OFExNjBuNUFTN2djd0dvVHVmdmFUMngwSGPSAaIBQVVfeXFMTTFHZ3FXWHlEMHdfMHVpWHVaY21BSjVKZUxKTmx4bUM0bG9OZTJhNlIxLWdQSnBWQ3l2cVNJa2Fld0gyQTFPb25wM1RuZExsckM0WGFMa21BSFAyRFNScWVHR21NQWFHWURpTGFtVzVMeU1JeWprbnZtSG1jbmx6dEkzcGJ5Q1VUUDM2RlVPOUdqQUFqX1I3cnZQdkZsd3R1SUNn",
-          "author": null,
-          "description": "Denmark’s Government Ditches Microsoft for Open Source  OMG! Ubuntu",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEZYWV9QalZscmVjU2RjS0xxZnhoSlJ5RXlzbV8zODVlVmNYZmRjak1iWENKbGdsVS04aC14bGZVa0xXdzhDLUZqeGtsRGd5eXpSMmpDdHBRR21ONEpEeF95Z0pEOURFNXBpNmFBdzhXSWZVUzlWQkJXUFdseGJBVFF2OFExNjBuNUFTN2djd0dvVHVmdmFUMngwSGPSAaIBQVVfeXFMTTFHZ3FXWHlEMHdfMHVpWHVaY21BSjVKZUxKTmx4bUM0bG9OZTJhNlIxLWdQSnBWQ3l2cVNJa2Fld0gyQTFPb25wM1RuZExsckM0WGFMa21BSFAyRFNScWVHR21NQWFHWURpTGFtVzVMeU1JeWprbnZtSG1jbmx6dEkzcGJ5Q1VUUDM2RlVPOUdqQUFqX1I3cnZQdkZsd3R1SUNn?oc=5",
-          "publishedOn": "2025-06-13T17:04:41.000Z",
-          "wordCount": 12656,
-          "title": "Denmark’s Government Ditches Microsoft for Open Source - OMG! Ubuntu",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiUkFVX3lxTE1jQXBkZXpJaGVkSUtVUXBnNWY2YlY3cWlIaE5sWXhTTU10enA3T0Exd2c2ZW11bzRwVVFDZnJyWW9ERXhIY0hpazJfMV9pVmZyVUHSAVdBVV95cUxPaHFkNzktV1FiX2xmeXFjeV8xOFVubndDaFBNTkNKWVhJS2o5R1NncjltSXdWT0xSREo1Y0hXd1g4ajVxVlBuVF8wZmU1V2hYbC1lX010Tm8",
-          "author": null,
-          "description": "Kali Linux 2025.2 Released: New Tools, Smartwatch and Car Hacking Added  GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQXBkZXpJaGVkSUtVUXBnNWY2YlY3cWlIaE5sWXhTTU10enA3T0Exd2c2ZW11bzRwVVFDZnJyWW9ERXhIY0hpazJfMV9pVmZyVUHSAVdBVV95cUxPaHFkNzktV1FiX2xmeXFjeV8xOFVubndDaFBNTkNKWVhJS2o5R1NncjltSXdWT0xSREo1Y0hXd1g4ajVxVlBuVF8wZmU1V2hYbC1lX010Tm8?oc=5",
-          "publishedOn": "2025-06-13T15:21:20.000Z",
-          "wordCount": 12656,
-          "title": "Kali Linux 2025.2 Released: New Tools, Smartwatch and Car Hacking Added - GBHackers News",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMiXEFVX3lxTFBHT0tMdkYwUjY3enBmVWhMdUs0RVBEREhNY1hTb29xQWZKMWJBUjFaVjUyS1pkd2Frb3FNY1loVHNIOGNlMWw5VkplbXFYYVM5c1FfVUFJNEJrLUlR0gFiQVVfeXFMTkp6LTVST3VmN2x1TWQzbWtZOFMwbzJwcjlGWS1Ya3RkOHBiUXFXVWpUM0tjakEtdVd2ZXRVTWFkYm5DbVRodXlPbndzYUZ4OUF0RW1WRzhOZHY0d1JGUmxqMEE",
-          "author": null,
-          "description": "Kali Linux 2025.2 Released: Smartwatch Wi-Fi Injection, Android Radio, and Hacking Tools  CybersecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHT0tMdkYwUjY3enBmVWhMdUs0RVBEREhNY1hTb29xQWZKMWJBUjFaVjUyS1pkd2Frb3FNY1loVHNIOGNlMWw5VkplbXFYYVM5c1FfVUFJNEJrLUlR0gFiQVVfeXFMTkp6LTVST3VmN2x1TWQzbWtZOFMwbzJwcjlGWS1Ya3RkOHBiUXFXVWpUM0tjakEtdVd2ZXRVTWFkYm5DbVRodXlPbndzYUZ4OUF0RW1WRzhOZHY0d1JGUmxqMEE?oc=5",
-          "publishedOn": "2025-06-13T15:01:55.000Z",
-          "wordCount": 12656,
-          "title": "Kali Linux 2025.2 Released: Smartwatch Wi-Fi Injection, Android Radio, and Hacking Tools - CybersecurityNews",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-        },
-        {
-          "id": "CBMinwFBVV95cUxNV05KV2d5U0s3ZUZKenRjd1l0cFhCbFllQnllTnZMY294U2lvaUc3bDdwR0V1N1ZvM0p3Q3dHWGlFSG9KQ0phVGRLQXFsN2VaQ2NaZ051azRoOFVpYjk5UG90RkNodG1qWkQzMXhPMW9ydlV2aGJEYnNwWDFzMkpvZ3N0Z2liU2l4S0dYcGppX1NJM0RkV1JqWGtEQ0Z6cW_SAaQBQVVfeXFMT2Jhb2MxM0Yyaktyd3B2UUc0aE9rOFVZRFhuVEdHUy12bW5PNkY1a1JGMlBxUVUxSVJ3elFEM3RlVmZHYlFUZ09KN2VjQUtjd192U1VnOWJkTlpzY2s4SkJKcjRidzdidDNzdlBxSlQxSjE4alJLSTB5ZlZ5SlZ3R0tyclJfV3RPM3hvQnJRM2hnYjhIZE5tZmh2RTA5MVBfMEhWdzI",
-          "author": null,
-          "description": "TUXEDO InfinityBook Pro 14 Gen10 Linux Laptop Unveiled with AMD Ryzen AI 300  9to5Linux",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05KV2d5U0s3ZUZKenRjd1l0cFhCbFllQnllTnZMY294U2lvaUc3bDdwR0V1N1ZvM0p3Q3dHWGlFSG9KQ0phVGRLQXFsN2VaQ2NaZ051azRoOFVpYjk5UG90RkNodG1qWkQzMXhPMW9ydlV2aGJEYnNwWDFzMkpvZ3N0Z2liU2l4S0dYcGppX1NJM0RkV1JqWGtEQ0Z6cW_SAaQBQVVfeXFMT2Jhb2MxM0Yyaktyd3B2UUc0aE9rOFVZRFhuVEdHUy12bW5PNkY1a1JGMlBxUVUxSVJ3elFEM3RlVmZHYlFUZ09KN2VjQUtjd192U1VnOWJkTlpzY2s4SkJKcjRidzdidDNzdlBxSlQxSjE4alJLSTB5ZlZ5SlZ3R0tyclJfV3RPM3hvQnJRM2hnYjhIZE5tZmh2RTA5MVBfMEhWdzI?oc=5",
-          "publishedOn": "2025-06-13T14:29:47.000Z",
-          "wordCount": 12656,
-          "title": "TUXEDO InfinityBook Pro 14 Gen10 Linux Laptop Unveiled with AMD Ryzen AI 300 - 9to5Linux",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         }
       ]
     },
@@ -7810,6 +7680,16 @@
           "publishedOn": "2025-07-11T07:02:04.000Z",
           "wordCount": null,
           "title": "Gitify 6.5.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/ungoogled-chromium-104736.shtml",
+          "author": "Softpedia Linux",
+          "description": "Enjoy a Chrome/Chromium-like web browsing experience, but with a lot fewer privacy concerns",
+          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/ungoogled-chromium-104736.shtml",
+          "publishedOn": "2025-07-10T14:16:13.000Z",
+          "wordCount": null,
+          "title": "ungoogled-chromium 138.0.7204.100-1",
           "imageUrl": null
         },
         {
@@ -8033,6 +7913,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://linux.softpedia.com/get/Utilities/Kontrast-104856.shtml",
+          "author": "Softpedia Linux",
+          "description": "A simplistic yet very efficient color contrast checker developed by KDE that can help make your projects a lot more accessible for users with color vision deficiencies",
+          "link": "https://linux.softpedia.com/get/Utilities/Kontrast-104856.shtml",
+          "publishedOn": "2025-07-09T08:22:40.000Z",
+          "wordCount": null,
+          "title": "Kontrast 25.04.3",
+          "imageUrl": null
+        },
+        {
           "id": "https://linux.softpedia.com/get/System/KDiskFree-104597.shtml",
           "author": "Softpedia Linux",
           "description": "Simple KDE app that displays available the free space on each device on your system",
@@ -8080,6 +7970,16 @@
           "publishedOn": "2025-07-09T07:56:12.000Z",
           "wordCount": null,
           "title": "encrypt0r 3.12.58",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Security/Cryptomator-103936.shtml",
+          "author": "Softpedia Linux",
+          "description": "Effortless encrypt files and store them safely on your local machine or your favorite cloud server by relying on this easy-to-use app",
+          "link": "https://linux.softpedia.com/get/Security/Cryptomator-103936.shtml",
+          "publishedOn": "2025-07-09T07:48:03.000Z",
+          "wordCount": null,
+          "title": "Cryptomator 1.17.1",
           "imageUrl": null
         },
         {
@@ -8290,6 +8190,16 @@
           "publishedOn": "2025-07-06T10:15:10.000Z",
           "wordCount": null,
           "title": "Lilypad v14 (1.2.1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://linux.softpedia.com/get/Utilities/Tube-Converter-104358.shtml",
+          "author": "Softpedia Linux",
+          "description": "A very well designed, modern-looking, free and open-source YouTube converter for Linux machines",
+          "link": "https://linux.softpedia.com/get/Utilities/Tube-Converter-104358.shtml",
+          "publishedOn": "2025-07-06T09:56:46.000Z",
+          "wordCount": null,
+          "title": "Parabolic 2025.6.0 / 2025.7.0 Beta 1",
           "imageUrl": null
         },
         {
@@ -9951,46 +9861,6 @@
           "wordCount": null,
           "title": "GSConnect 66",
           "imageUrl": null
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml",
-          "author": "Softpedia Linux",
-          "description": "The Linux version of one of the most popular and powerful web browser products on the entire Internet, Firefox",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Mozilla-Firefox-Stable-20864.shtml",
-          "publishedOn": "2025-06-14T14:01:43.000Z",
-          "wordCount": null,
-          "title": "Firefox 139.0.4 / 140.0b9 Beta",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Database/DbGate-104772.shtml",
-          "author": "Softpedia Linux",
-          "description": "Handle a wide range of databases simultaneously with the help of this powerful free, open-source and cross-platform database manager app",
-          "link": "https://linux.softpedia.com/get/Database/DbGate-104772.shtml",
-          "publishedOn": "2025-06-14T13:43:05.000Z",
-          "wordCount": null,
-          "title": "DbGate 6.4.2 / 6.4.3 Beta 8",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Programming/Compilers/CMake-7924.shtml",
-          "author": "Softpedia Linux",
-          "description": "A cross-platform and Open Source build system for Linux and UNIX-like operating systems",
-          "link": "https://linux.softpedia.com/get/Programming/Compilers/CMake-7924.shtml",
-          "publishedOn": "2025-06-14T13:24:42.000Z",
-          "wordCount": null,
-          "title": "CMake 4.0.3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Basilisk-104403.shtml",
-          "author": "Softpedia Linux",
-          "description": "A free and open-source, Firefox fork that comes with a series of unique features as well as legacy extension support",
-          "link": "https://linux.softpedia.com/get/Internet/HTTP-WWW-/Basilisk-104403.shtml",
-          "publishedOn": "2025-06-14T13:14:04.000Z",
-          "wordCount": null,
-          "title": "Basilisk 2025.06.12",
-          "imageUrl": null
         }
       ]
     },
@@ -10917,46 +10787,6 @@
           "wordCount": 1236,
           "title": "freeCodeCamp Full Stack Curriculum Mid-2025 Update",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
-        },
-        {
-          "id": "684c867db87f779c97f2e509",
-          "author": "German Cocca",
-          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Combining the best ideas from OOP (Object-Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)...",
-          "link": "https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/",
-          "publishedOn": "2025-06-13T20:13:49.000Z",
-          "wordCount": 11691,
-          "title": "The NestJS Handbook – Learn to Use Nest with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830137752/799b050a-f884-4043-9db1-fe2bb860d297.png"
-        },
-        {
-          "id": "684c61db3b494a20ba49fddb",
-          "author": "Atuoha Anthony",
-          "description": "In today's digital age, the demand for accessible and accurate health information is higher than ever. Leveraging the power of artificial intelligence, we can create intelligent chatbots that provide reliable health-related guidance. This beginner's ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-medical-chatbot-with-flutter-and-gemini/",
-          "publishedOn": "2025-06-13T17:37:31.000Z",
-          "wordCount": 3561,
-          "title": "How to Build a Medical Chatbot with Flutter and Gemini: A Beginner’s Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830721631/4675d1f6-ad64-46a3-86e1-ce8a2c84323f.png"
-        },
-        {
-          "id": "684c58453ee20021234073af",
-          "author": "Brian Barrow",
-          "description": "Vue composables are a very helpful tool when developing Vue applications. They give developers an easy way to reuse logic across our applications. In addition to allowing for “stateless” logic (things like formatting or routine calculations), composa...",
-          "link": "https://www.freecodecamp.org/news/how-vue-composables-work/",
-          "publishedOn": "2025-06-13T16:56:37.000Z",
-          "wordCount": 2579,
-          "title": "How Vue Composables Work – Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830866913/e732db46-638b-42cd-aabf-ad51a54a3409.png"
-        },
-        {
-          "id": "684c50b9c6ec6bf605276b54",
-          "author": "Manish Shivanandhan",
-          "description": "We use our phones for everything  –  texting, banking, browsing, tracking our health, even unlocking our homes. But with all that convenience comes a lot of risk. Apps are hungry for your data. Hackers are always looking for cracks in your security. ...",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/",
-          "publishedOn": "2025-06-13T16:24:25.000Z",
-          "wordCount": 2039,
-          "title": "How to Improve Your Phone’s Privacy",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749831817564/98cdcb42-6e7f-49c3-9a7c-49e8db78fc3f.png"
         }
       ]
     }
