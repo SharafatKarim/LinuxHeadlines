@@ -10503,6 +10503,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6ae4a260781c67f55b49b87b",
+          "author": "Kamal Kishore",
+          "description": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
+          "publishedOn": "2026-10-30T13:57:52.000Z",
+          "wordCount": 5725,
+          "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/223107d3-1947-4c50-aabe-a590e72a2fa9.png"
+        },
+        {
           "id": "6ae3c06f0e706875cd980c58",
           "author": "Reetain Raina",
           "description": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
@@ -11041,86 +11051,6 @@
           "wordCount": 3116,
           "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a6e5c1d7-5d61-4cc0-94d8-3a3e068d97e4.png"
-        },
-        {
-          "id": "6abe78a1cc111926f9c7fc82",
-          "author": "Beau Carnes",
-          "description": "Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept",
-          "link": "https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/",
-          "publishedOn": "2026-10-01T15:13:37.000Z",
-          "wordCount": 1437,
-          "title": "Build and Publish a Full-Stack Mobile App with AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e3b03940-c761-4da1-9fe0-7ca07ec88550.png"
-        },
-        {
-          "id": "6abe6aefe2bfb6c3545bb583",
-          "author": "Nikheel Vishwas Savant",
-          "description": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t",
-          "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
-          "publishedOn": "2026-10-01T14:15:11.000Z",
-          "wordCount": 5521,
-          "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f08ae713-8957-4954-b29f-0efc696b0de8.png"
-        },
-        {
-          "id": "6abe3dc913d662f7af15bf03",
-          "author": "Praneeth Kodumagulla",
-          "description": "You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/",
-          "publishedOn": "2026-10-01T11:02:33.000Z",
-          "wordCount": 3989,
-          "title": "How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3864c1c8-994c-4f98-9833-47a9bb34e15d.png"
-        },
-        {
-          "id": "6abe3d817fd604967ed16903",
-          "author": "Otobong Peter",
-          "description": "Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/",
-          "publishedOn": "2026-10-01T11:01:21.000Z",
-          "wordCount": 5574,
-          "title": "How to Build a Code Graph in TypeScript Using VS Code's Language APIs",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2101c28a-d568-4841-95e6-ab066d2cf27f.png"
-        },
-        {
-          "id": "6abe2c47229f69b03c107a96",
-          "author": "Oluwatobi Sofela",
-          "description": "Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc",
-          "link": "https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/",
-          "publishedOn": "2026-10-01T09:47:51.000Z",
-          "wordCount": 12269,
-          "title": "The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/da9c2a49-21e8-4b9a-8dc3-adac2dcf82d0.png"
-        },
-        {
-          "id": "6abdfdcf1585eb815aed0e73",
-          "author": "Manish Shivanandhan",
-          "description": "Building AI for clinical settings is harder than it looks. It takes more than picking a good model or tuning the right parameters. When engineers enter a hospital ecosystem, they quickly discover that",
-          "link": "https://www.freecodecamp.org/news/healthcare-ai-won-t-work-until-you-fix-your-data/",
-          "publishedOn": "2026-10-01T06:29:35.000Z",
-          "wordCount": 3285,
-          "title": "Healthcare AI Won't Work Until You Fix Your Data",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3306532c-8aae-4b82-8529-77387b8dba04.png"
-        },
-        {
-          "id": "6abdfb67cd92a8a7d5eb9c7c",
-          "author": "Reetain Raina",
-          "description": "Smartwatches have made health data easier to access. A quick glance at your wrist can reveal your heart rate, step count, sleep duration and even estimated recovery. But displaying all this informatio",
-          "link": "https://www.freecodecamp.org/news/are-screenless-wearables-better-for-health-tracking/",
-          "publishedOn": "2026-10-01T06:19:19.000Z",
-          "wordCount": 3308,
-          "title": "Does No Screen Mean Better Data? The 101 on Screenless Wearables",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/12cd1799-8baf-4272-a5b9-a2dcaf669b07.png"
-        },
-        {
-          "id": "6abdfcd2e3ca1b6f34c584aa",
-          "author": "Ayman Eldawy",
-          "description": "What happens when a page has 150 content-heavy cards, but the user can only see the first few? You might expect the browser to only worry about what's currently visible. But this isn't exactly what ha",
-          "link": "https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/",
-          "publishedOn": "2026-10-01T06:00:00.000Z",
-          "wordCount": 3791,
-          "title": "How CSS content-visibility Works and How It Can Improve Rendering Performance",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f11711dc-ac4a-43f0-b312-4d89c6f7f989.png"
         }
       ]
     }
